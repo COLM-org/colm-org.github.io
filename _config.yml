@@ -1,0 +1,3 @@
+# Site title and subtitle. This is used in _includes/header.html
+title: 'CoLM'
+subtitle: 'Computation and Language Modeling'
