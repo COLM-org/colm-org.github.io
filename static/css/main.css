@@ -13,6 +13,7 @@ body a:hover {
 h2,
 h3 {
   font-family: "Lato";
+  font-size: 3em;
 }
 
 label:text-muted,
