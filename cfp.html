@@ -12,25 +12,7 @@
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
 
-    <!-- External Javascript libs_ext  -->
-    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
-            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
-            crossorigin="anonymous"></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
-            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-            crossorigin="anonymous"></script>
-
-    <script
-            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-            crossorigin="anonymous"
-    ></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
-            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script> <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
             integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
@@ -72,7 +54,7 @@
     <link rel="stylesheet" href="static/css/lazy_load.css"/>
     <link rel="stylesheet" href="static/css/typeahead.css"/>
     <link rel="icon" href="/favicon.svg"/>
-    <title>COLM 2024: Call For Papers</title>
+    <title>COLM 2024: Call for Papers</title>
     
 </head>
 
@@ -108,37 +90,78 @@
                 id="navbarNav"
         >
             <ul class="navbar-nav ml-auto">
-                
-                <li class="nav-item ">
-                    <a class="nav-link" href="index.html">Home</a>
+              
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="index.html" 
+                      
+                      >Home</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="dates.html">Key Dates</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="dates.html" 
+                      
+                      >Dates</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="cfp.html">Call for Papers</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="cfp.html" 
+                      
+                      >Call for Papers</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="AreaChairs.html">Area Chairs</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="AreaChairs.html" 
+                      
+                      >Area Chairs</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="CoC.html">Code of Conduct</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link dropdown-toggle" href="#" 
+                      
+                      id="navbarDropdown5" role="button" data-toggle="dropdown"
+                      
+                      >Guides</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown5">
+                      
+                      <a class="dropdown-item" href="CoC.html">Code of Conduct</a>
+                      
+                      <a class="dropdown-item" href="CoE.html">Code of Ethics</a>
+                      
+                      <a class="dropdown-item" href="ReviewGuide.html">Review Guidelines</a>
+                      
+                      <a class="dropdown-item" href="AuthorGuide.html">Author Guide</a>
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="CoE.html">Code of Ethics</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="sponsors.html" 
+                      
+                      >Sponsors</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown6">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="AuthorGuide.html">Author Guide</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link" href="faq.html">FAQ</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="faq.html" 
+                      
+                      >FAQ</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown7">
+                      
+                    </div>
                 </li>
                 
             </ul>
@@ -161,13 +184,17 @@
         
 
 <h2>
-    Call For Papers
+    Call for Papers
 </h2>
 <div class="h5" style="line-height: 1.5;">
 <p>We invite submissions to the 1st Conference on Language Modeling (COLM).</p>
-<p>All <strong>key dates</strong> are listed in the <a href="/dates.html">dates page</a>.</p>
-<p><strong>The OpenReview submission link is</strong>: <a href="https://openreview.net/group?id=colmweb.org/COLM/2024/Conference">https://openreview.net/group?id=colmweb.org/COLM/2024/Conference</a>.</p>
-<p><strong>Call for Papers:</strong></p>
+<hr />
+
+<p><strong>Key dates</strong> are listed in the <a href="/dates.html">dates page</a>.</p>
+<p><strong>Submission link</strong>: <a href="https://openreview.net/group?id=colmweb.org/COLM/2024/Conference">https://openreview.net/group?id=colmweb.org/COLM/2024/Conference</a>.</p>
+<p><strong>Questions can be directed to:</strong> <a href="mailto:colm-pcs@googlegroups.com">colm-pcs@googlegroups.com</a></p>
+<hr />
+
 <p>We consider a broad range of subject areas focused on language modeling
 for the first iteration of COLM. We consider the term "language model"
 in the broadest way. A non-exhaustive list of topics of interests
@@ -241,12 +268,7 @@ for ensuring that conflicts of interest are handled properly.</p>
 <p>The program will include oral presentations and posters of accepted
 papers. Authors can revise their paper as many times as needed up to the
 paper submission deadline. Changes to the paper will not be allowed
-while the paper is being reviewed. During the discussion phase (between
-area chairs, reviewers and authors), edits will again be allowed; a
-<a href="https://github.com/cascremers/pdfdiff">pdfdiff</a> will be
-done against the submission at the paper submission deadline. Area
-chairs and reviewers reserve the right to ignore changes that are
-significant from the original scope of the paper.</p>
+while the paper is being reviewed. </p>
 <p>Accepted papers and their reviews will be made public after decisions
 are made. Discussions between reviewers and program committee members
 and with the authors of accepted papers will be made public. Rejected
@@ -261,13 +283,7 @@ reviewers do not have the authority to reject papers, but in extreme
 cases papers may be rejected by the program chairs on ethical grounds,
 regardless of scientific quality or contribution.</p>
 <p><strong>Submission Instructions</strong></p>
-<p>Authors are asked to submit paper abstracts by the abstract submission
-deadline of <strong>March 22, 2024</strong>. Please note that no changes on the
-authors and their orders can be made after the abstract submission
-deadline. Also please make sure that all authors have an OpenReview
-profile with the latest information. Abstracts submitted by the abstract
-submission deadline must be genuine, placeholder or duplicate abstracts
-will be removed.</p>
+<p>Authors are asked to submit paper abstracts by the abstract submission deadline of <strong>March 22, 2024</strong>. Please make sure that all authors have an OpenReview profile with the latest information. Authors will not be able to add/remove authors after the abstract deadline. Abstracts submitted by the abstract submission deadline must be genuine, placeholder or duplicate abstracts will be removed. Please do not meaningfully change your abstract and title after the abstract deadline. Such changes will likely lead to sub-optimal assignment of AC and reviewers to your paper, hurting the quality of reviewing your paper will receive.</p>
 <p>The full paper submission deadline is <strong>March 29, 2024</strong>. Abstracts and
 papers must be submitted using the OpenReview conference submission
 system. </p>
@@ -292,7 +308,7 @@ limit applies to both the initial and final camera ready version.</strong></p>
 <p><strong>Style Files and Templates</strong></p>
 <p>To prepare your submission to COLM 2024, please use the LaTeX style
 files provided at:</p>
-<p><a href="https://github.com/COLM-org/Template/archive/refs/tags/2024.v3.zip">https://github.com/COLM-org/Template/archive/refs/tags/2024.v3.zip</a></p>
+<p><a href="https://github.com/COLM-org/Template/archive/refs/tags/2024.zip">https://github.com/COLM-org/Template/archive/refs/tags/2024.zip</a></p>
 <p>Authors are strongly encouraged to participate in the public discussion
 of their paper, as well as of any other paper submitted to the
 conference. Submissions and reviews are both anonymous.</p>

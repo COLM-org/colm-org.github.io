@@ -12,25 +12,7 @@
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
 
-    <!-- External Javascript libs_ext  -->
-    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
-            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
-            crossorigin="anonymous"></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
-            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-            crossorigin="anonymous"></script>
-
-    <script
-            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-            crossorigin="anonymous"
-    ></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
-            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script> <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
             integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
@@ -108,37 +90,78 @@
                 id="navbarNav"
         >
             <ul class="navbar-nav ml-auto">
-                
-                <li class="nav-item ">
-                    <a class="nav-link" href="index.html">Home</a>
+              
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="index.html" 
+                      
+                      >Home</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="dates.html">Key Dates</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="dates.html" 
+                      
+                      >Dates</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="cfp.html">Call for Papers</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="cfp.html" 
+                      
+                      >Call for Papers</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item active">
-                    <a class="nav-link" href="AreaChairs.html">Area Chairs</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="AreaChairs.html" 
+                      
+                      >Area Chairs</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="CoC.html">Code of Conduct</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link dropdown-toggle" href="#" 
+                      
+                      id="navbarDropdown5" role="button" data-toggle="dropdown"
+                      
+                      >Guides</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown5">
+                      
+                      <a class="dropdown-item" href="CoC.html">Code of Conduct</a>
+                      
+                      <a class="dropdown-item" href="CoE.html">Code of Ethics</a>
+                      
+                      <a class="dropdown-item" href="ReviewGuide.html">Review Guidelines</a>
+                      
+                      <a class="dropdown-item" href="AuthorGuide.html">Author Guide</a>
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="CoE.html">Code of Ethics</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="sponsors.html" 
+                      
+                      >Sponsors</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown6">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="AuthorGuide.html">Author Guide</a>
-                </li>
-                
-                <li class="nav-item ">
-                    <a class="nav-link" href="faq.html">FAQ</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="faq.html" 
+                      
+                      >FAQ</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown7">
+                      
+                    </div>
                 </li>
                 
             </ul>
@@ -170,42 +193,53 @@
   }
 </style>
 
+<p><br /></p>
+<h4>Ethics Area Chairs</h4>
+
 <table>
-<tr><td>Adam Tauman Kalai</td>  <td></td>  <td>Luke Zettlemoyer</td>  <td>Ellie Pavlick</td>  <td></td>  <td>Sebastian Gehrmann</td></tr>
-<tr><td>Adina Williams</td>  <td></td>  <td>Manuel Mager</td>  <td>Emily Pitler</td>  <td></td>  <td>Seraphina Goldfarb-Tarrant</td></tr>
-<tr><td>Aditi Raghunathan</td>  <td></td>  <td>Marjan Ghazvininejad</td>  <td>Emma Strubell</td>  <td></td>  <td>Seth Lazar</td></tr>
-<tr><td>Ahmad Beirami</td>  <td></td>  <td>Marten Van Schijndel</td>  <td>Eunsol Choi</td>  <td></td>  <td>Sewon Min</td></tr>
-<tr><td>Aida Nematzadeh</td>  <td></td>  <td>Matthias Gallé</td>  <td>Fei Xia</td>  <td></td>  <td>Sharan Narang</td></tr>
-<tr><td>Alane Suhr</td>  <td></td>  <td>Michael Hahn</td>  <td>Freda Shi</td>  <td></td>  <td>Shay B Cohen</td></tr>
-<tr><td>Alham Fikri Aji</td>  <td></td>  <td>Mike Lewis</td>  <td>Greg Durrett</td>  <td></td>  <td>Somak Aditya</td></tr>
-<tr><td>Allyson Ettinger</td>  <td></td>  <td>Minjoon Seo</td>  <td>Hanie Sedghi</td>  <td></td>  <td>Song Mei</td></tr>
-<tr><td>Amir Globerson</td>  <td></td>  <td>Mohamed Ahmed</td>  <td>Hannah Rashkin</td>  <td></td>  <td>Sunayana Sitaram</td></tr>
-<tr><td>Andreas Vlachos</td>  <td></td>  <td>Mor Geva</td>  <td>Hannaneh Hajishirzi</td>  <td></td>  <td>Sunipa Dev</td></tr>
-<tr><td>Andrew M. Dai</td>  <td></td>  <td>Nanyun Peng</td>  <td>Huan Sun</td>  <td></td>  <td>Sunita Sarawagi</td></tr>
-<tr><td>Angel X Chang</td>  <td></td>  <td>Naomi Saphra</td>  <td>Hwaran Lee</td>  <td></td>  <td>Swabha Swayamdipta</td></tr>
-<tr><td>Anh Tuan Luu</td>  <td></td>  <td>Navin Goyal</td>  <td>Ivan Titov</td>  <td></td>  <td>Tal Linzen</td></tr>
-<tr><td>Annie Louis</td>  <td></td>  <td>Niranjan Balasubramanian</td>  <td>Jack Hessel</td>  <td></td>  <td>Tanya Goyal</td></tr>
-<tr><td>Antoine Bosselut</td>  <td></td>  <td>Nouha Dziri</td>  <td>Jacob Andreas</td>  <td></td>  <td>Tao Yu</td></tr>
-<tr><td>Ari Holtzman</td>  <td></td>  <td>Omer Levy</td>  <td>Jacob Eisenstein</td>  <td></td>  <td>Tatsunori Hashimoto</td></tr>
-<tr><td>Asma Ghandeharioun</td>  <td></td>  <td>Pang Wei Koh</td>  <td>James Thorne</td>  <td></td>  <td>Tim Dettmers</td></tr>
-<tr><td>Azalia Mirhoseini</td>  <td></td>  <td>Pasquale Minervini</td>  <td>Jan Buys</td>  <td></td>  <td>Timothy P Lillicrap</td></tr>
-<tr><td>Byron C Wallace</td>  <td></td>  <td>Pavel Izmailov</td>  <td>Jasmijn Bastings</td>  <td></td>  <td>Tongshuang Wu</td></tr>
-<tr><td>Chris Dyer</td>  <td></td>  <td>Peter Henderson</td>  <td>Jesse Thomason</td>  <td></td>  <td>Trevor Cohn</td></tr>
-<tr><td>Christian Szegedy</td>  <td></td>  <td>Preethi Jyothi</td>  <td>Jie Tang</td>  <td></td>  <td>Tri Dao</td></tr>
-<tr><td>Christopher Potts</td>  <td></td>  <td>Prithviraj Ammanabrolu</td>  <td>Jing Jiang</td>  <td></td>  <td>Verena Rieser</td></tr>
-<tr><td>Dale Schuurmans</td>  <td></td>  <td>Quanquan Gu</td>  <td>Jonathan Berant</td>  <td></td>  <td>Wei Xu</td></tr>
-<tr><td>Daphne Ippolito</td>  <td></td>  <td>R. Thomas McCoy</td>  <td>Jung-Woo Ha</td>  <td></td>  <td>Wen-tau Yih</td></tr>
-<tr><td>David Bamman</td>  <td></td>  <td>Raquel Fernández</td>  <td>Kangwook Lee</td>  <td></td>  <td>Xin Eric Wang</td></tr>
-<tr><td>David Bau</td>  <td></td>  <td>Rishabh Agarwal</td>  <td>Karthik R Narasimhan</td>  <td></td>  <td>Xinyun Chen</td></tr>
-<tr><td>David Ifeoluwa Adelani</td>  <td></td>  <td>Robert D. Hawkins</td>  <td>Katja Filippova</td>  <td></td>  <td>Xuezhi Wang</td></tr>
-<tr><td>Debora Nozza</td>  <td></td>  <td>Roger Baker Grosse</td>  <td>Keisuke Sakaguchi</td>  <td></td>  <td>Yi Tay</td></tr>
-<tr><td>Di He</td>  <td></td>  <td>Roger P. Levy</td>  <td>Khyathi Chandu</td>  <td></td>  <td>Yonatan Belinkov</td></tr>
-<tr><td>Dimitris Papailiopoulos</td>  <td></td>  <td>Roy Schwartz</td>  <td>Kristina Toutanova</td>  <td></td>  <td>Yu Meng</td></tr>
-<tr><td>Diyi Yang</td>  <td></td>  <td>Ruoxi Jia</td>  <td>Lei Li</td>  <td></td>  <td>Yu Su</td></tr>
-<tr><td>Douwe Kiela</td>  <td></td>  <td>Ryan Cotterell</td>  <td>Li Dong</td>  <td></td>  <td>Yue Zhang</td></tr>
-<tr><td>Edward Choi</td>  <td></td>  <td>Saku Sugawara</td>  <td>Lidong Bing</td>  <td></td>  <td>Yun-Nung Chen</td></tr>
-<tr><td>Elad Hazan</td>  <td></td>  <td>Sasha Luccioni</td>  <td>Lingpeng Kong</td>  <td></td>  <td>Zhe Gan</td></tr>
-<tr><td>Elizabeth Clark</td>  <td></td>  <td>Sean Welleck</td>  <td>Lu Wang</td>  <td></td>  <td>Zhiyuan Liu</td></tr>
+<tr><td>Mohit Iyyer</td>  <td></td>  <td>Siva Reddy</td></tr>
+</table>
+
+<p><br /></p>
+<h4>Program Area Chairs</h4>
+
+<table>
+<tr><td>Adam Tauman Kalai</td> <td></td> <td>Adina Williams</td> <td>Aditi Raghunathan</td> <td></td> <td>Ahmad Beirami</td></tr>
+<tr><td>Aida Nematzadeh</td> <td></td> <td>Alane Suhr</td> <td>Alham Fikri Aji</td> <td></td> <td>Allyson Ettinger</td></tr>
+<tr><td>Amir Globerson</td> <td></td> <td>Andreas Vlachos</td> <td>Andrew M. Dai</td> <td></td> <td>Angel X Chang</td></tr>
+<tr><td>Anh Tuan Luu</td> <td></td> <td>Annie Louis</td> <td>Antoine Bosselut</td> <td></td> <td>Ari Holtzman</td></tr>
+<tr><td>Asma Ghandeharioun</td> <td></td> <td>Azalia Mirhoseini</td> <td>Byron C Wallace</td> <td></td> <td>Chris Dyer</td></tr>
+<tr><td>Christopher D. Manning</td> <td></td> <td>Christopher Potts</td> <td>Dale Schuurmans</td> <td></td> <td>Daphne Ippolito</td></tr>
+<tr><td>David Bamman</td> <td></td> <td>David Bau</td> <td>David Ifeoluwa Adelani</td> <td></td> <td>Debora Nozza</td></tr>
+<tr><td>Di He</td> <td></td> <td>Dimitris Papailiopoulos</td> <td>Diyi Yang</td> <td></td> <td>Douwe Kiela</td></tr>
+<tr><td>Edward Choi</td> <td></td> <td>Elad Hazan</td> <td>Elizabeth Clark</td> <td></td> <td>Ellie Pavlick</td></tr>
+<tr><td>Emily Pitler</td> <td></td> <td>Emma Strubell</td> <td>Eunsol Choi</td> <td></td> <td>Fei Xia</td></tr>
+<tr><td>Freda Shi</td> <td></td> <td>Greg Durrett</td> <td>Hanie Sedghi</td> <td></td> <td>Hannah Rashkin</td></tr>
+<tr><td>Hannaneh Hajishirzi</td> <td></td> <td>Huan Sun</td> <td>Hwaran Lee</td> <td></td> <td>Ivan Titov</td></tr>
+<tr><td>Jack Hessel</td> <td></td> <td>Jacob Andreas</td> <td>Jacob Eisenstein</td> <td></td> <td>James Thorne</td></tr>
+<tr><td>Jan Buys</td> <td></td> <td>Jasmijn Bastings</td> <td>Jesse Thomason</td> <td></td> <td>Jie Tang</td></tr>
+<tr><td>Jing Jiang</td> <td></td> <td>Jonathan Berant</td> <td>Jung-Woo Ha</td> <td></td> <td>Kai-Wei Chang</td></tr>
+<tr><td>Kangwook Lee</td> <td></td> <td>Karthik R Narasimhan</td> <td>Katja Filippova</td> <td></td> <td>Keisuke Sakaguchi</td></tr>
+<tr><td>Khyathi Chandu</td> <td></td> <td>Kristina Toutanova</td> <td>Lei Li</td> <td></td> <td>Li Dong</td></tr>
+<tr><td>Lidong Bing</td> <td></td> <td>Lingpeng Kong</td> <td>Lu Wang</td> <td></td> <td>Luke Zettlemoyer</td></tr>
+<tr><td>Manuel Mager</td> <td></td> <td>Marjan Ghazvininejad</td> <td>Marten Van Schijndel</td> <td></td> <td>Matthias Gallé</td></tr>
+<tr><td>Michael Hahn</td> <td></td> <td>Mike Lewis</td> <td>Minjoon Seo</td> <td></td> <td>Mohamed Ahmed</td></tr>
+<tr><td>Mor Geva</td> <td></td> <td>Nanyun Peng</td> <td>Naomi Saphra</td> <td></td> <td>Navin Goyal</td></tr>
+<tr><td>Niranjan Balasubramanian</td> <td></td> <td>Nouha Dziri</td> <td>Omer Levy</td> <td></td> <td>Pang Wei Koh</td></tr>
+<tr><td>Pasquale Minervini</td> <td></td> <td>Pavel Izmailov</td> <td>Peter Henderson</td> <td></td> <td>Preethi Jyothi</td></tr>
+<tr><td>Prithviraj Ammanabrolu</td> <td></td> <td>Quanquan Gu</td> <td>R. Thomas McCoy</td> <td></td> <td>Raquel Fernández</td></tr>
+<tr><td>Rishabh Agarwal</td> <td></td> <td>Robert D. Hawkins</td> <td>Roger Baker Grosse</td> <td></td> <td>Roger P. Levy</td></tr>
+<tr><td>Roy Schwartz</td> <td></td> <td>Ruoxi Jia</td> <td>Ryan Cotterell</td> <td></td> <td>Saku Sugawara</td></tr>
+<tr><td>Sasha Luccioni</td> <td></td> <td>Sean Welleck</td> <td>Sebastian Gehrmann</td> <td></td> <td>Seraphina Goldfarb-Tarrant</td></tr>
+<tr><td>Seth Lazar</td> <td></td> <td>Sewon Min</td> <td>Sharan Narang</td> <td></td> <td>Shay B Cohen</td></tr>
+<tr><td>Somak Aditya</td> <td></td> <td>Song Mei</td> <td>Sunayana Sitaram</td> <td></td> <td>Sunipa Dev</td></tr>
+<tr><td>Sunita Sarawagi</td> <td></td> <td>Swabha Swayamdipta</td> <td>Tal Linzen</td> <td></td> <td>Tanya Goyal</td></tr>
+<tr><td>Tao Yu</td> <td></td> <td>Tatsunori Hashimoto</td> <td>Tim Dettmers</td> <td></td> <td>Timothy P Lillicrap</td></tr>
+<tr><td>Tongshuang Wu</td> <td></td> <td>Trevor Cohn</td> <td>Tri Dao</td> <td></td> <td>Verena Rieser</td></tr>
+<tr><td>Wei Xu</td> <td></td> <td>Wen-tau Yih</td> <td>Xin Eric Wang</td> <td></td> <td>Xinyun Chen</td></tr>
+<tr><td>Xuezhi Wang</td> <td></td> <td>Yi Tay</td> <td>Yonatan Belinkov</td> <td></td> <td>Yu Meng</td></tr>
+<tr><td>Yu Su</td> <td></td> <td>Yue Zhang</td> <td>Yun-Nung Chen</td> <td></td> <td>Zaid Harchaoui</td></tr>
+<tr><td>Zhe Gan</td> <td></td> <td>Zhiyuan Liu</td> </tr>
 </table>
 </div>
 
