@@ -1,0 +1,451 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+    <link rel="icon" href="/favicon.svg"/>
+    <title>COLM 2024</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/logo.jpg"
+                    height="auto"
+            width="180px"
+            />
+        </a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+                
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="cfp.html">Call for Papers</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="CoC.html">Code of Conduct</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="faq.html">FAQ</a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+
+<style>
+  .back {
+    background: url("static/images/upenn.png") no-repeat center;
+    background-size: 1000px;
+  }
+  .back h2 {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+  }
+</style>
+
+<div class="container back" style="padding-bottom: 100px; padding-top: 150px;">
+  <div class="row header">
+    <div style="-webkit-text-stroke: 1px black;" class="p-1 text-center text-white col-md-12 col-sm-12">
+      <h2>
+        CONFERENCE ON <br> LANGUAGE MODELING
+      </h2>
+      <h2 class="p-5" style="-webkit-text-stroke: 1px black;">
+        University of Pennsylvania<br>
+        Philadelphia, PA <br>
+        October 7-9, 2024
+      </h2>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+         
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">COLM</h2>
+  </div>
+</div>
+
+<div class="h5" style="line-height: 1.5; padding-bottom: 50px;">
+The leap in general-purpose capabilities from language models is a landmark in the development of artificial intelligence. The nature of this technology has led to a different set of research questions than are the typical focus of related venues. COLM is an academic venue focused on the study of language modeling, broadly defined, with the goal of creating a community of researchers with expertise in different disciplines, focused on understanding, improving, and critiquing the development of LM technology. 
+If you are interested in this goal, see our <a href="cfp.html">Call for Papers</a>.
+</div>
+
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Venue</h2>
+  </div>
+</div>
+
+<div class="h5" style="line-height: 1.5; padding-bottom: 50px;">
+COLM will take place at the Zellerbach theater in the Annenberg Center for the Performing Arts at the University of Pennsylvania. 
+The conference will be a  three-day single-track event with a mix of invited talks, orals paper presentations, and poster sessions.
+Details for hotels and registration will be available soon.
+</div>
+
+
+<div class="row justify-content-md-center">
+
+<div class="col-md-6 col-sm-12">
+<img width="100%" src="static/images/venue.png">
+</div>
+</div>
+<!-- Organizers -->
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Organizers</h2>
+  </div>
+</div>
+<div class="row">
+  
+  <div class="col-md-4 col-xs-6">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <a href=""><h5 class="card-title" align="center">Yejin Choi</h5></a>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            General Chair
+          </h6>
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            University of Washington, AI2 /
+            <a class="text-muted" href="http://twitter.com/YejinChoinka"
+              >@YejinChoinka</a
+            >
+          </h6>
+        </div>
+        <center>
+          <a href=""></a>
+          <img src="static/images/Yejin.jpg" class="rounded" style="height: 150px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-4 col-xs-6">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://dennyzhou.github.io/"><h5 class="card-title" align="center">Denny Zhou</h5></a>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            General Chair
+          </h6>
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Google DeepMind
+          </h6>
+        </div>
+        <center>
+          <a href="https://dennyzhou.github.io/"></a>
+          <img src="static/images/Denny.jpg" class="rounded" style="height: 150px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-4 col-xs-6">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://www.dipanjandas.com/"><h5 class="card-title" align="center">Dipanjan Das</h5></a>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Program Chair
+          </h6>
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Google DeepMind
+          </h6>
+        </div>
+        <center>
+          <a href="https://www.dipanjandas.com/"></a>
+          <img src="static/images/Dipanjan.jpeg" class="rounded" style="height: 150px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-4 col-xs-6">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://www.cs.princeton.edu/~danqic/"><h5 class="card-title" align="center">Danqi Chen</h5></a>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Program Chair
+          </h6>
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Princeton /
+            <a class="text-muted" href="http://twitter.com/danqi_chen"
+              >@danqi_chen</a
+            >
+          </h6>
+        </div>
+        <center>
+          <a href="https://www.cs.princeton.edu/~danqic/"></a>
+          <img src="static/images/danqi.jpg" class="rounded" style="height: 150px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-4 col-xs-6">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://yoavartzi.com/"><h5 class="card-title" align="center">Yoav Artzi</h5></a>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Program Chair
+          </h6>
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Cornell Tech, ASAPP /
+            <a class="text-muted" href="http://twitter.com/yoavartzi"
+              >@yoavartzi</a
+            >
+          </h6>
+        </div>
+        <center>
+          <a href="https://yoavartzi.com/"></a>
+          <img src="static/images/Yoav.jpg" class="rounded" style="height: 150px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-4 col-xs-6">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://ai.meta.com/people/angela-fan/"><h5 class="card-title" align="center">Angela Fan</h5></a>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Program Chair
+          </h6>
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Meta
+          </h6>
+        </div>
+        <center>
+          <a href="https://ai.meta.com/people/angela-fan/"></a>
+          <img src="static/images/angela.jpg" class="rounded" style="height: 150px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-md-4 col-xs-6">
+    <div class="pp-card">
+      <div class="pp-card-header" class="text-muted">
+        <a href="https://rush-nlp.com/"><h5 class="card-title" align="center">Alexander Rush</h5></a>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Organizational Chair
+          </h6>
+        </div>
+        <div>
+          <h6 class="card-subtitle text-muted m-1" align="center">
+            Cornell Tech, Hugging Face /
+            <a class="text-muted" href="http://twitter.com/srush_nlp"
+              >@srush_nlp</a
+            >
+          </h6>
+        </div>
+        <center>
+          <a href="https://rush-nlp.com/"></a>
+          <img src="https://avatars0.githubusercontent.com/u/35882?s=400&amp;u=8f382f638b31f13a4754656140256241121c5916&amp;v=4" class="rounded" style="height: 150px;" />
+        </a>
+        </center>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Sponsorship</h2>
+  </div>
+</div>
+
+<div class="h5" style="line-height: 1.5; padding-bottom: 50px;">
+  If you are interested in sponsoring COLM, please reach out to 
+  the <a href="mailto:srush.research@gmail.com">COLM Organizational Chair</a>.
+</div>
+  
+
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2024 COLM Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>

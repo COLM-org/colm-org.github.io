@@ -1,0 +1,352 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+    <link rel="icon" href="/favicon.svg"/>
+    <title>COLM 2024: Call For Papers</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/logo.jpg"
+                    height="auto"
+            width="180px"
+            />
+        </a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="cfp.html">Call for Papers</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="CoC.html">Code of Conduct</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="faq.html">FAQ</a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+ 
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+         
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+
+<h2>
+    Call For Papers
+</h2>
+<div class="h5" style="line-height: 1.5;">
+<p>We invite submissions to the 1st Conference on Language Modeling (COLM).</p>
+<p><strong>Key Dates</strong></p>
+<p>The planned dates are as follow:</p>
+<ul>
+<li>
+<p>Abstract submission: March 22, 2024 (Anywhere on Earth)</p>
+</li>
+<li>
+<p>Submission date: March 29, 2024 (Anywhere on Earth)</p>
+</li>
+<li>
+<p>Conference date: October 7-9, 2024</p>
+</li>
+</ul>
+<p><strong>Call for Papers:</strong></p>
+<p>We consider a broad range of subject areas focused on language modeling
+for the first iteration of COLM. We consider the term "language model"
+in the broadest way. A non-exhaustive list of topics of interests
+includes:</p>
+<ol>
+<li>
+<p>All about <strong>alignment</strong>: fine-tuning, instruction-tuning, reinforcement learning (with human feedback), prompt tuning, and in-context alignment</p>
+</li>
+<li>
+<p>All about <strong>data</strong>: pre-training data, alignment data, and synthetic data --- via manual or algorithmic analysis, curation, and generation</p>
+</li>
+<li>
+<p>All about <strong>evaluation</strong>: benchmarks, simulation environments, scalable oversight, evaluation protocols and metrics, human and/or machine evaluation</p>
+</li>
+<li>
+<p>All about <strong>societal implications</strong>: bias, equity, misuse, jobs, climate change, and beyond</p>
+</li>
+<li>
+<p>All about <strong>safety</strong>: security, privacy, misinformation, adversarial attacks and defenses</p>
+</li>
+<li>
+<p><strong>Science of LMs</strong>: scaling laws, fundamental limitations, emergent capabilities, demystification, interpretability, complexity, training dynamics, grokking, learning theory for LMs</p>
+</li>
+<li>
+<p><strong>Compute efficient LMs</strong>: distillation, compression, quantization, sample efficient methods, memory efficient methods</p>
+</li>
+<li>
+<p><strong>Engineering for large LMs</strong>: distributed training and inference on different hardware setups, training dynamics, optimization instability</p>
+</li>
+<li>
+<p><strong>Learning algorithms</strong> for LMs: learning, <em>un</em>learning, meta learning, model mixing methods, continual learning</p>
+</li>
+<li>
+<p><strong>Inference algorithms</strong> for LMs: decoding algorithms, reasoning algorithms, search algorithms, planning algorithms</p>
+</li>
+<li>
+<p><strong>Human mind, brain, philosophy, laws and LMs:</strong> cognitive science, neuroscience, linguistics, psycholinguistics, philosophical, or legal perspectives on LMs</p>
+</li>
+<li>
+<p>LMs for <strong>everyone</strong>: multi-linguality, low-resource languages, vernacular languages, multiculturalism, value pluralism</p>
+</li>
+<li>
+<p>LMs and <strong>the world</strong>: factuality, retrieval-augmented LMs, knowledge models, commonsense reasoning, theory of mind, social norms, pragmatics, and world models</p>
+</li>
+<li>
+<p>LMs and <strong>embodiment</strong>: perception, action, robotics, and multimodality</p>
+</li>
+<li>
+<p>LMs and <strong>interactions</strong>: conversation, interactive learning, and multi-agents learning</p>
+</li>
+<li>
+<p>LMs with <strong>tools and code</strong>: integration with tools and APIs, LM-driven software engineering</p>
+</li>
+<li>
+<p>LMs on <strong>diverse modalities and novel applications</strong>: visual LMs, code LMs, math LMs, and so forth, with extra encouragements for less studied modalities or applications such as chemistry, medicine, education, database and beyond</p>
+</li>
+</ol>
+<p><strong>Review Process</strong></p>
+<p>Submissions will be double blind: reviewers cannot see author names when
+conducting reviews, and authors cannot see reviewer names. This means
+that the submission must not contain acknowledgements or any link (e.g.,
+github) that would reveal authors' identity.</p>
+<p>We will use OpenReview to manage submissions. The reviews and author
+responses will not be public initially. Submissions under review will be
+visible only to their assigned program committee. We will not be
+soliciting comments from the general public during the reviewing
+process. Anyone who plans to submit a paper as an author or a co-author
+will need to create (or update) their OpenReview profile by the abstract
+submission deadline. The information entered in the profile is critical
+for ensuring that conflicts of interest are handled properly.</p>
+<p>The program will include oral presentations and posters of accepted
+papers. Authors can revise their paper as many times as needed up to the
+paper submission deadline. Changes to the paper will not be allowed
+while the paper is being reviewed. During the discussion phase (between
+area chairs, reviewers and authors), edits will again be allowed; a
+<a href="https://github.com/cascremers/pdfdiff">pdfdiff</a> will be
+done against the submission at the paper submission deadline. Area
+chairs and reviewers reserve the right to ignore changes that are
+significant from the original scope of the paper.</p>
+<p>Accepted papers and their reviews will be made public after decisions
+are made. Discussions between reviewers and program committee members
+and with the authors of accepted papers will be made public. Rejected
+papers, their discussions and meta data will not be published.</p>
+<p><strong>Ethics Review</strong></p>
+<p>Reviewers and ACs may flag submissions for ethics review. Flagged
+submissions will be sent to an ethics review committee for comments.
+Comments from ethics reviewers will be considered by the primary
+reviewers and AC as part of their deliberation. They will also be
+visible to authors, who will have an opportunity to respond. Ethics
+reviewers do not have the authority to reject papers, but in extreme
+cases papers may be rejected by the program chairs on ethical grounds,
+regardless of scientific quality or contribution.</p>
+<p><strong>Submission Instructions</strong></p>
+<p>Authors are asked to submit paper abstracts by the abstract submission
+deadline of <strong>March 22, 2024</strong>. Please note that no changes on the
+authors and their orders can be made after the abstract submission
+deadline. Also please make sure that all authors have an OpenReview
+profile with the latest information. Abstracts submitted by the abstract
+submission deadline must be genuine, placeholder or duplicate abstracts
+will be removed.</p>
+<p>The full paper submission deadline is <strong>March 29, 2024</strong>. Abstracts and
+papers must be submitted using the OpenReview conference submission
+system. </p>
+<p><strong>Paper Length</strong></p>
+<p>There will be a strict upper limit of 9 pages for the main text of the
+submission, with unlimited additional pages for citations. <strong>This page
+limit applies to both the initial and final camera ready version.</strong></p>
+<ul>
+<li>
+<p>Authors may use as many pages of appendices (after the bibliography) as they wish, but reviewers are not required to read the appendix.</p>
+</li>
+<li>
+<p><em>Authors can add an optional ethics statement to the paper; it will not count toward the page limit, but should not be more than 1 page.</em></p>
+</li>
+<li>
+<p><em>Authors can add an optional reproducibility statement as well, which will not count toward the page limit, but should not be more than 1 page.</em></p>
+</li>
+<li>
+<p><em>The optional acknowledgment will not count toward the page limit, but should not be more than 1 page.</em></p>
+</li>
+</ul>
+<p><strong>Style Files and Templates</strong></p>
+<p>To prepare your submission to COLM 2024, please use the LaTeX style
+files provided at:</p>
+<p><a href="https://github.com/COLM-org/Template/archive/refs/tags/2024.zip">https://github.com/COLM-org/Template/archive/refs/tags/2024.zip</a></p>
+<p>Authors are strongly encouraged to participate in the public discussion
+of their paper, as well as of any other paper submitted to the
+conference. Submissions and reviews are both anonymous.</p>
+<p><strong>Code of Conduct</strong></p>
+<p>All COLM participants, including authors, are required to adhere to the
+COLM code of conduct
+(<a href="https://colmweb.org/CoC.html">https://colmweb.org/CoC.html</a>).
+More detailed guidance for authors, reviewers, and all other
+participants will be made available in due course, and participation
+will require acknowledging and adhering to the provided guidelines.</p>
+</div>
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2024 COLM Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>
