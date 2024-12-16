@@ -10,11 +10,11 @@ body a:hover {
 .nav-bar {
 }
 
-h2,
+/* h2,
 h3 {
   font-family: "Lato";
   font-size: 2.3em;
-}
+} */
 
 label:text-muted,
 .nav-link {
