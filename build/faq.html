@@ -12,25 +12,7 @@
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
 
-    <!-- External Javascript libs_ext  -->
-    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
-            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
-            crossorigin="anonymous"></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
-            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-            crossorigin="anonymous"></script>
-
-    <script
-            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-            crossorigin="anonymous"
-    ></script>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
-            crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script> <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
             integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
@@ -72,7 +54,7 @@
     <link rel="stylesheet" href="static/css/lazy_load.css"/>
     <link rel="stylesheet" href="static/css/typeahead.css"/>
     <link rel="icon" href="/favicon.svg"/>
-    <title>COLM 2024: FAQ</title>
+    <title>COLM 2025: FAQ</title>
     
 </head>
 
@@ -86,7 +68,7 @@
     <div class="container">
         <a class="navbar-brand" href="index.html">
             <img
-                    class="logo" src="static/images/logo.jpg"
+                    class="logo" src="static/images/logo.png"
                     height="auto"
             width="180px"
             />
@@ -108,21 +90,79 @@
                 id="navbarNav"
         >
             <ul class="navbar-nav ml-auto">
-                
-                <li class="nav-item ">
-                    <a class="nav-link" href="index.html">Home</a>
+              
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="index.html"
+                      
+                      >Home</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="cfp.html">Call for Papers</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="dates.html"
+                      
+                      >Dates</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item ">
-                    <a class="nav-link" href="CoC.html">Code of Conduct</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="faq.html"
+                      
+                      >FAQ</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
+                      
+                    </div>
                 </li>
                 
-                <li class="nav-item active">
-                    <a class="nav-link" href="faq.html">FAQ</a>
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link dropdown-toggle" href="#"
+                      
+                      id="navbarDropdown4" role="button" data-toggle="dropdown"
+                      
+                      >Calls</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
+                      
+                      <a class="dropdown-item" href="cfp.html">Call for Papers</a>
+                      
+                      <a class="dropdown-item" href="cfw.html">Call for Workshops</a>
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link dropdown-toggle" href="#"
+                      
+                      id="navbarDropdown5" role="button" data-toggle="dropdown"
+                      
+                      >Guides</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown5">
+                      
+                      <a class="dropdown-item" href="CoC.html">Code of Conduct</a>
+                      
+                      <a class="dropdown-item" href="CoE.html">Code of Ethics</a>
+                      
+                      <a class="dropdown-item" href="ReviewGuide.html">Review Guidelines</a>
+                      
+                      <a class="dropdown-item" href="ac-guidelines.html">AC Guidelines</a>
+                      
+                      <a class="dropdown-item" href="AuthorGuide.html">Author Guide</a>
+                      
+                      <a class="dropdown-item" href="coi-policy.html">COI Policy</a>
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  ">
+                    <a class="nav-link " href="board.html"
+                      
+                      >Board</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown6">
+                      
+                    </div>
                 </li>
                 
             </ul>
@@ -153,7 +193,7 @@
     
 <div class="row p-3">
   <div class="col-12 bd-content">
-    <h3>Submission Structure</h3>
+    <h3>Presentation</h3>
   </div>
 </div>
 
@@ -171,7 +211,7 @@
           aria-expanded="true"
           aria-controls="collapse1-1"
         >
-          When is the COLM submission open?
+          Are papers presented as posters or oral presentations?
         </a>
       </div>
       <div
@@ -181,7 +221,45 @@
         data-parent="#accordionExample"
       >
         <div class="card-body">
-          COLM will be run on OpenReview. Submissions will open in the beginning of next year.
+          All papers will be presented as posters. A small number of papers will be selected for oral presentations. We will notify the authors of papers selected for oral presentations around mid September.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="row p-3">
+  <div class="col-12 bd-content">
+    <h3>Reviewing</h3>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-12" id="accordionExample">
+    <div class="card m-2">
+      <div class="card-header">
+        <a
+          class=""
+          href="#"
+          data-toggle="collapse"
+          data-target="#collapse2-1"
+          aria-expanded="true"
+          aria-controls="collapse2-1"
+        >
+          What is the reciprocal reviewing requirement?
+        </a>
+      </div>
+      <div
+        id="collapse2-1"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          There are two reciprocal reviewing requirements: a 'per-submission' requirement, and a 'per-reviewer' requirement. The submission form will allow submitters to designate an author to fulfill the per-submission requirement, or to indicate that the submission is exempt from the requirement. Multiple submissions cannot have the same reciprocal reviewer, unless all other authors do not qualify or are serving in other roles. Any author with 4 or more submissions will automatically be added to the reviewer pool, unless they are already part of the program committee or the COLM organization. Why are we doing this? COLM is fairly new, so we do not have reliable estimates of reviewing need. We are preparing a large and high quality program committee. In the event that our estimates are too low, we are also preparing to scale the committee with the number of submissions by requiring reciprocal reviewing. 
         </div>
       </div>
     </div>
@@ -196,21 +274,291 @@
           class=""
           href="#"
           data-toggle="collapse"
-          data-target="#collapse1-2"
+          data-target="#collapse2-2"
           aria-expanded="true"
-          aria-controls="collapse1-2"
+          aria-controls="collapse2-2"
         >
-          What is the COLM preprint policy?
+          What are the requirements to exempt a paper from reciprocal reviewing?
         </a>
       </div>
       <div
-        id="collapse1-2"
+        id="collapse2-2"
         class="collapse"
         aria-labelledby="headingOne"
         data-parent="#accordionExample"
       >
         <div class="card-body">
-          COLM will use the following policy, adapted from NeurIPS: &#39;Non-anonymous preprints (on arXiv, social media, websites, etc.) are permitted, though preprints in the style must use the new “preprint” option, rather than the “final” option. Reviewers will be instructed not to actively look for such preprints, but encountering them will not constitute a conflict of interest. Authors may submit work to COLM that is already available as a preprint (e.g., on arXiv) without citing it; however, previously published papers by the authors on related topics must be cited (with adequate anonymization to preserve double-blind reviewing; see below).
+          To be exempt from reciprocal reviewing, a paper must have at least one author who is a member of the COLM program committee with <strong>no</strong> reduced quota (i.e., as a reviewer, AC, or PC) at the time of submission. Alternatively, the paper may be exempt if all authors are unqualified to review for COLM.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12" id="accordionExample">
+    <div class="card m-2">
+      <div class="card-header">
+        <a
+          class=""
+          href="#"
+          data-toggle="collapse"
+          data-target="#collapse2-3"
+          aria-expanded="true"
+          aria-controls="collapse2-3"
+        >
+          What are the qualifications required to review for COLM?
+        </a>
+      </div>
+      <div
+        id="collapse2-3"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          Reviewers must have research experience equivalent to a second-year graduate student in machine learning or a related field. They must have been a primary author* on at least two peer-reviewed conference or journal papers published in a related venue (e.g.,  ACL, NAACL, EMNLP, ICML, NeurIPS, ICLR, JMLR, TMLR, CVPR, ICCV – this is not an exhaustive list). We strongly encourage each first-time reviewer to identify a ‘mentor’ (such as a research advisor or manager) who has both the necessary qualifications for and prior experience with reviewing, and who has agreed to oversee and assist the reviewer in their reviewing tasks. The research experience ensures the reviewer is to be able to competently evaluate a submission's methodology, interpret findings and results, and to evaluate contributions in the context of prior works. Prior authorship ensures that the reviewer understands the peer review process (at least from the side of the authors) and the standards and conventions of composing reviews and corresponding with authors. This text is adapted from ICML. *We leave it to your own discretion to interpret what is meant by 'primary author', as this may vary between sub-areas of machine learning.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12" id="accordionExample">
+    <div class="card m-2">
+      <div class="card-header">
+        <a
+          class=""
+          href="#"
+          data-toggle="collapse"
+          data-target="#collapse2-4"
+          aria-expanded="true"
+          aria-controls="collapse2-4"
+        >
+          What is the expected reviewing load?
+        </a>
+      </div>
+      <div
+        id="collapse2-4"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          We expect a reviewing load of up to 5 papers per reviewer.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="row p-3">
+  <div class="col-12 bd-content">
+    <h3>Submission</h3>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-12" id="accordionExample">
+    <div class="card m-2">
+      <div class="card-header">
+        <a
+          class=""
+          href="#"
+          data-toggle="collapse"
+          data-target="#collapse3-1"
+          aria-expanded="true"
+          aria-controls="collapse3-1"
+        >
+          Will COLM allow for an extra page for the camera ready?
+        </a>
+      </div>
+      <div
+        id="collapse3-1"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          Yes, COLM will allow authors of accepted papers to add an extra page to the camera ready to add content following the reviewers and AC feedback.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12" id="accordionExample">
+    <div class="card m-2">
+      <div class="card-header">
+        <a
+          class=""
+          href="#"
+          data-toggle="collapse"
+          data-target="#collapse3-2"
+          aria-expanded="true"
+          aria-controls="collapse3-2"
+        >
+          Can I submit my paper to COLM when it is under review for ARR/ICML/NeurIPS/etc?
+        </a>
+      </div>
+      <div
+        id="collapse3-2"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          We are sorry, but COLM does not allow double submissions. All papers under the ARR process, regardless of stage, are considered as under submission to ARR, and cannot be submitted to COLM. COLM will conduct double submission checks following the full paper submission deadline. Only papers then under review will be checked. COLM cannot provide guarantees of compatiblity with regard to the policis and processes of other venues regarding double submissions.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12" id="accordionExample">
+    <div class="card m-2">
+      <div class="card-header">
+        <a
+          class=""
+          href="#"
+          data-toggle="collapse"
+          data-target="#collapse3-3"
+          aria-expanded="true"
+          aria-controls="collapse3-3"
+        >
+          When is the COLM submission open?
+        </a>
+      </div>
+      <div
+        id="collapse3-3"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          See the <a href='/dates'>dates page</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12" id="accordionExample">
+    <div class="card m-2">
+      <div class="card-header">
+        <a
+          class=""
+          href="#"
+          data-toggle="collapse"
+          data-target="#collapse3-4"
+          aria-expanded="true"
+          aria-controls="collapse3-4"
+        >
+          What is the COLM preprint policy?
+        </a>
+      </div>
+      <div
+        id="collapse3-4"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          COLM will use the following policy, adapted from NeurIPS: 'Non-anonymous preprints (on arXiv, social media, websites, etc.) are permitted. We recommend you indicate “preprint”, rather than the “final” option int he template. Reviewers will be instructed not to actively look for such preprints, but encountering them will not constitute a conflict of interest. Authors may submit work to COLM that is already available as a preprint (e.g., on arXiv) without citing it; however, previously published papers by the authors on related topics must be cited (with adequate anonymization to preserve double-blind reviewing; see below).
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12" id="accordionExample">
+    <div class="card m-2">
+      <div class="card-header">
+        <a
+          class=""
+          href="#"
+          data-toggle="collapse"
+          data-target="#collapse3-5"
+          aria-expanded="true"
+          aria-controls="collapse3-5"
+        >
+          Will COLM have a short paper track?
+        </a>
+      </div>
+      <div
+        id="collapse3-5"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          COLM 2025 will not have a separate track for short papers. We appreciate the value of short papers, but for time being we are not supporting this submission track.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12" id="accordionExample">
+    <div class="card m-2">
+      <div class="card-header">
+        <a
+          class=""
+          href="#"
+          data-toggle="collapse"
+          data-target="#collapse3-6"
+          aria-expanded="true"
+          aria-controls="collapse3-6"
+        >
+          Will COLM solicit or accept position papers?
+        </a>
+      </div>
+      <div
+        id="collapse3-6"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          COLM does not have a separate track, reviewing, or call for position papers for the 2025 call. We are opting for simplicity, so will not solicit for position papers, because to be treated properly, they require a different reviewing process. 
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12" id="accordionExample">
+    <div class="card m-2">
+      <div class="card-header">
+        <a
+          class=""
+          href="#"
+          data-toggle="collapse"
+          data-target="#collapse3-7"
+          aria-expanded="true"
+          aria-controls="collapse3-7"
+        >
+          Will COLM solicit or accept survey papers?
+        </a>
+      </div>
+      <div
+        id="collapse3-7"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          We don't have a special track for survey papers.  If you wish, you can submit a survey paper and we will route it to the appropriate area chairs and reviewers and based on their judgment, you will get a decision.
         </div>
       </div>
     </div>
@@ -234,15 +582,15 @@
           class=""
           href="#"
           data-toggle="collapse"
-          data-target="#collapse2-1"
+          data-target="#collapse4-1"
           aria-expanded="true"
-          aria-controls="collapse2-1"
+          aria-controls="collapse4-1"
         >
           How can I help sponsor the conference?
         </a>
       </div>
       <div
-        id="collapse2-1"
+        id="collapse4-1"
         class="collapse"
         aria-labelledby="headingOne"
         data-parent="#accordionExample"
@@ -272,15 +620,15 @@
           class=""
           href="#"
           data-toggle="collapse"
-          data-target="#collapse3-1"
+          data-target="#collapse5-1"
           aria-expanded="true"
-          aria-controls="collapse3-1"
+          aria-controls="collapse5-1"
         >
           Is COLM an archival conference?
         </a>
       </div>
       <div
-        id="collapse3-1"
+        id="collapse5-1"
         class="collapse"
         aria-labelledby="headingOne"
         data-parent="#accordionExample"
@@ -301,21 +649,88 @@
           class=""
           href="#"
           data-toggle="collapse"
-          data-target="#collapse3-2"
+          data-target="#collapse5-2"
           aria-expanded="true"
-          aria-controls="collapse3-2"
+          aria-controls="collapse5-2"
         >
           What will the conference structure be like?
         </a>
       </div>
       <div
-        id="collapse3-2"
+        id="collapse5-2"
         class="collapse"
         aria-labelledby="headingOne"
         data-parent="#accordionExample"
       >
         <div class="card-body">
-          The conference will be single-track with invited speakers and oral presentations, mixed with poster sessions.
+          The conference will be single-track with invited speakers, oral presentations, and poster sessions. COLM 2025 will also include one day for workshops.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="row p-3">
+  <div class="col-12 bd-content">
+    <h3>Attending COLM</h3>
+  </div>
+</div>
+
+
+
+<div class="row">
+  <div class="col-12" id="accordionExample">
+    <div class="card m-2">
+      <div class="card-header">
+        <a
+          class=""
+          href="#"
+          data-toggle="collapse"
+          data-target="#collapse6-1"
+          aria-expanded="true"
+          aria-controls="collapse6-1"
+        >
+          Will COLM have a virtual option?
+        </a>
+      </div>
+      <div
+        id="collapse6-1"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          COLM is an in-person conference only, and is unable to provide a virtual attance option.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-12" id="accordionExample">
+    <div class="card m-2">
+      <div class="card-header">
+        <a
+          class=""
+          href="#"
+          data-toggle="collapse"
+          data-target="#collapse6-2"
+          aria-expanded="true"
+          aria-controls="collapse6-2"
+        >
+          How can I get an invitation letter for a visa?
+        </a>
+      </div>
+      <div
+        id="collapse6-2"
+        class="collapse"
+        aria-labelledby="headingOne"
+        data-parent="#accordionExample"
+      >
+        <div class="card-body">
+          We are working on the process, and will provide more information to submitting authors after the submission deadline. If you are not a submitting author, please contact COLM a few week after the submission deadline.
         </div>
       </div>
     </div>
@@ -339,50 +754,21 @@
           class=""
           href="#"
           data-toggle="collapse"
-          data-target="#collapse4-1"
+          data-target="#collapse7-1"
           aria-expanded="true"
-          aria-controls="collapse4-1"
+          aria-controls="collapse7-1"
         >
           How do you pronounce COLM?
         </a>
       </div>
       <div
-        id="collapse4-1"
+        id="collapse7-1"
         class="collapse"
         aria-labelledby="headingOne"
         data-parent="#accordionExample"
       >
         <div class="card-body">
-          It is pronounced like &#39;Collum&#39; based on the Irish name Colm (https://en.wikipedia.org/wiki/Colm). It means dove 🕊️.
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-12" id="accordionExample">
-    <div class="card m-2">
-      <div class="card-header">
-        <a
-          class=""
-          href="#"
-          data-toggle="collapse"
-          data-target="#collapse4-2"
-          aria-expanded="true"
-          aria-controls="collapse4-2"
-        >
-          Why the Llama?
-        </a>
-      </div>
-      <div
-        id="collapse4-2"
-        class="collapse"
-        aria-labelledby="headingOne"
-        data-parent="#accordionExample"
-      >
-        <div class="card-body">
-          It&#39;s kind of cute... in an ugly way.
+          It is pronounced like 'Collum' based on the Irish name Colm (<a href='https://en.wikipedia.org/wiki/Colm'>https://en.wikipedia.org/wiki/Colm</a>). It means dove 🕊️.
         </div>
       </div>
     </div>
@@ -417,7 +803,7 @@
 <footer class="footer bg-light p-4">
     <div class="container">
         <p class="float-right"><a href="#">Back to Top</a></p>
-        <p class="text-center">© 2024 COLM Organization Committee</p>
+        <p class="text-center">© 2025 COLM Organization Committee</p>
     </div>
 </footer>
 
