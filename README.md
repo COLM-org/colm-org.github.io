@@ -17,13 +17,6 @@ To build and update the website run:
 ```bash
 # make freeze will build the website into the build/ directory
 make freeze
-
-# To deploy the website, first clone the main repo and then copy:
-cp -fr build/ ../colm-org.github.io
-
-# Then commit and push the changes to the main repo
-cd ../colm-org.github.io
-git add .
-git commit -m "Update website"
-git push
 ```
+
+By pushing to the `main` branch, the website will be automatically updated via GitHub actions (see `.github/workflows/deploy.yml`). So there is no need to run `make freeze` before pushing or to upload the website manually.
