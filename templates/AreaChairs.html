@@ -1,0 +1,14 @@
+{% set active_page = "Area Chairs" %}
+{% set page_title = "Area Chairs" %}
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<h2>
+    Area Chairs
+</h2>
+<div class="h5" style="line-height: 1.5;">
+{{ AreaChairs | markdown }}
+</div>
+{% endblock %}

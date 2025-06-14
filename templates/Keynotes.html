@@ -1,0 +1,54 @@
+{% set active_page = "Keynotes" %}
+{% set page_title = "Keynotes Speakers" %}
+{% extends "base.html" %}
+
+{% block content %}
+
+
+
+<h2>
+    Keynote Speakers
+</h2>
+
+<div class="speakers">
+
+    {% for speaker in Keynotes %}
+
+    <div class="row p-4">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <div class="row">
+              <div class="col-md-2 col-sm-5">
+                <img src="{{speaker.image}}" width="100%" class="img-thumbnail lazy-load-img">
+              </div>
+              <div class="col-md-10 col-sm-6">
+                <div class="m-3 text-muted ">
+                  <h4>
+                    {{speaker.speaker}} ({{speaker.institution}})
+                  </h4>
+                </div>
+                <div class="m-3 text-muted ">
+                  <span class="card-title h3">
+                    {{ speaker.title }}
+                  </span>
+                </div>
+                <div class="m-3 ">
+                  <p><small></small><strong>ABSTRACT: </strong>{{speaker.abstract}}</small></p>
+                </div>
+                <div class="m-3 ">
+                  <p><small></small><strong>BIO: </strong>{{speaker.bio}}</small></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {% endfor %}
+
+</div> <!-- speakers -->
+
+{% endblock %}
+

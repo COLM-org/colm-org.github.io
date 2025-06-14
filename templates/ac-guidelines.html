@@ -1,0 +1,14 @@
+{% set active_page = "AC Guidelines" %}
+{% set page_title = "AC Guidelines" %}
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<h2>
+    Area Chair Guidelines
+</h2>
+<div class="h5" style="line-height: 1.5;">
+{{ acGuidelines | markdown }}
+</div>
+{% endblock %}

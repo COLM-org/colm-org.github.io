@@ -1,0 +1,25 @@
+plenary:
+  - name: Nicholas Carlini
+    aff: Anthropic
+    im: static/images/plenary/nicholas_carlini.jpg
+    ws: https://nicholas.carlini.com/
+  - name: Tom Griffiths
+    aff: Princeton University
+    im: static/images/plenary/tom_griffiths.jpg
+    ws: https://cocosci.princeton.edu/tom/index.php
+  - name: Shirley Ho
+    aff: Flatiron Institute
+    im: static/images/plenary/Shirley_Ho.jpg
+    ws: https://www.shirleyho.space/
+  - name: Marietje Schaake
+    aff: Stanford University
+    im: static/images/plenary/Marietje_Schaake.jpg
+    ws: https://cyber.fsi.stanford.edu/people/marietje-schaake
+  - name: Alexander Rush
+    aff: Cornell University / Anysphere
+    im: static/images/plenary/sasha_rush.jpg
+    ws: https://rush-nlp.com/
+  - name: Luke Zettlemoyer
+    aff: University of Washington / Meta
+    im: static/images/plenary/luke_zettlemoyer.png
+    ws: https://www.cs.washington.edu/people/faculty/luke-zettlemoyer 

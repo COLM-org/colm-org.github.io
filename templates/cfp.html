@@ -1,0 +1,15 @@
+{% set active_page = "Call for Papers" %}
+{% set page_title = "Call for Papers" %}
+{% extends "base.html" %}
+
+
+{% block content %}
+
+
+<h2>
+    Call for Papers
+</h2>
+<div class="h5" style="line-height: 1.5;">
+{{ cfp | markdown }}
+</div>
+{% endblock %}

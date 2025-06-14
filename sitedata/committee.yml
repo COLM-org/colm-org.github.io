@@ -1,0 +1,150 @@
+committee:
+  - role: General Chair
+    name: Dipanjan Das
+    aff: Google DeepMind
+    im: static/images/Dipanjan.jpeg
+    tw: dipanjand
+    ws: https://www.dipanjandas.com/
+  - role: Senior Program Chair
+    name: Yoav Artzi
+    aff: Cornell Tech, ASAPP
+    im: static/images/Yoav.jpg
+    tw: yoavartzi
+    ws: https://yoavartzi.com/
+  - role: Program Chair
+    name: Aditi Raghunathan
+    aff: CMU
+    im: static/images/aditi.jpeg
+    tw:
+    ws: https://www.cs.cmu.edu/~aditirag/
+  - role: Program Chair
+    name: Ranjay Krishna
+    aff: UW
+    im: static/images/Ranjay.jpeg
+    tw:
+    ws: https://ranjaykrishna.com/
+  - role: Program Chair
+    name: Eunsol Choi
+    aff: NYU
+    im: static/images/Eunsol.jpeg
+    tw: eunsolc
+    ws: https://eunsol.github.io/
+  - role: Workshop Chair
+    name: Colin Raffel
+    aff: University of Toronto
+    im: static/images/Colin.jpg
+    tw:
+    ws: https://colinraffel.com/
+  - role: Workshop Chair
+    name: Adina Williams
+    aff: META FAIR
+    im: static/images/Adina.jpg
+    tw:
+    ws: https://ai.meta.com/people/1396973444287406/adina-williams/
+  
+  - role: DEI Chair
+    name: Julia Kreutzer
+    aff: Cohere for AI
+    im: static/images/julia_kreutzer.jpeg
+    tw: 
+    ws: https://juliakreutzer.github.io/
+
+  - role: DEI Chair
+    name: Antoine Bosselut
+    aff: EPFL
+    im: static/images/antoine_bosselut.jpg
+    tw: 
+    ws: https://atcbosselut.github.io/
+
+  - role: Ethics Chair
+    name: Mor Geva
+    aff: Tel Aviv University / Google Research
+    im: static/images/mor_geva.jpg
+    tw: 
+    ws: https://mega002.github.io/
+
+
+  - role: Ethics Chair
+    name: Raquel Fernández
+    aff: University of Amsterdam / ILLC
+    im: static/images/raquel_fernandez.png
+    tw: 
+    ws: https://staff.fnwi.uva.nl/r.fernandezrovira/
+
+
+  - role: Local Chair
+    name: Siva Reddy
+    aff: McGill-MILA / ServiceNow
+    im: static/images/siva.jpg
+    tw: sivareddyg
+    ws: https://sivareddy.in/
+
+  - role: Organizational Chair
+    name: Alexander Rush
+    aff: Cornell University / Anysphere
+    im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
+    tw: srush_nlp
+    ws: https://rush-nlp.com/
+
+board:
+  - role: Board Member
+    name: Yejin Choi
+    aff: University of Washington, NVIDIA
+    im: static/images/Yejin.jpg
+    tw: YejinChoinka
+    ws: https://homes.cs.washington.edu/~yejin/
+  - role: Board Member
+    name: Denny Zhou
+    aff: Google DeepMind
+    im: static/images/Denny.jpg
+    tw: denny_zhou
+    ws: https://dennyzhou.github.io/
+  - role: Board Member
+    name: Danqi Chen
+    aff: Princeton
+    im: static/images/danqi.jpg
+    tw: danqi_chen
+    ws: https://www.cs.princeton.edu/~danqic/
+  - role: Board Member
+    name: Angela Fan
+    aff: Meta
+    im: static/images/angela.jpg
+    tw:
+    ws: https://ai.meta.com/people/angela-fan/
+  - role: Board Member
+    name: Alice Oh
+    aff: KAIST
+    im: static/images/alice.jpg
+    tw: aliceoh
+    ws: https://aliceoh9.github.io/
+  - role: Board Member
+    name: Yoav Artzi
+    aff: Cornell Tech, ASAPP
+    im: static/images/Yoav.jpg
+    tw: yoavartzi
+    ws: https://yoavartzi.com/
+  - role: Board Member
+    name: Alexander Rush
+    aff: Cornell University / Anysphere
+    im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
+    tw: srush_nlp
+    ws: https://rush-nlp.com/
+  - role: Board Member
+    name: Dipanjan Das
+    aff: Google DeepMind
+    im: static/images/Dipanjan.jpeg
+    tw: dipanjand
+    ws: https://www.dipanjandas.com/
+
+  # - role: DEI Chair
+  #   name: Alice Oh
+  #   aff: KAIST
+  #   im: static/images/alice.jpg
+  #   tw: aliceoh
+  #   ws: https://aliceoh9.github.io/
+  # - role: DEI Chair
+  #   name: Monojit Choudhury
+  #   aff: Microsoft Turing
+  #   im: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/avatar_user_32996_1505190495-180x180.jpg
+  #   tw: monojitchou
+  #   ws: https://www.microsoft.com/en-us/research/people/monojitc/

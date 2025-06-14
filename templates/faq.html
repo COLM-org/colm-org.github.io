@@ -1,0 +1,11 @@
+{% set active_page = "FAQ" %}
+{% set page_title = "FAQ" %}
+{% extends "base.html" %}
+
+
+{% block content %}
+  <!-- FAQ -->
+    {{ components.section("Frequently Asked Questions") }}
+    {{ components.faqgroup(FAQ) }}
+
+{% endblock %}

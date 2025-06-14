@@ -1,0 +1,14 @@
+{% set active_page = "Code of Ethics" %}
+{% set page_title = "Code of Ethics" %}
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<h2>
+    Code of Ethics
+</h2>
+<div class="h5" style="line-height: 1.5;">
+{{ CoE | markdown }}
+</div>
+{% endblock %}

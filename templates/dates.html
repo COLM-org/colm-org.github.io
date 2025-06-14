@@ -1,0 +1,14 @@
+{% set active_page = "Key Dates" %}
+{% set page_title = "Key Dates" %}
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<h2>
+    Key Dates
+</h2>
+<div class="h5" style="line-height: 1.5;">
+{{ dates | markdown }}
+</div>
+{% endblock %}

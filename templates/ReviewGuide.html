@@ -1,0 +1,14 @@
+{% set active_page = "Review Guidelines" %}
+{% set page_title = "Review Guidelines" %}
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<h2>
+    Review Guidelines
+</h2>
+<div class="h5" style="line-height: 1.5;">
+{{ ReviewGuide | markdown }}
+</div>
+{% endblock %}

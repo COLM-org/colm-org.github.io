@@ -1,0 +1,139 @@
+sponsors:
+- tier: Platinum
+  size: 4
+  height: 250
+  vals:
+    - name: Google DeepMind
+      img_url:
+      url: https://deepmind.google/
+      img_src: static/images/googledeepmind.svg
+    - name: Amazon
+      img_url:
+      url: https://www.amazon.science/
+      img_src: static/images/sponsors/amazon.svg
+    - name: Turing
+      img_url:
+      url: https://www.turing.com/
+      img_src: static/images/sponsors/Turing.svg
+    - name: University of Washington
+      img_url:
+      url: https://www.cs.washington.edu/
+      img_src: static/images/sponsors/UW.svg
+      size: 200px
+    - name: University of Pennsylvania
+      img_url:
+      url: https://www.seas.upenn.edu/
+      img_src: static/images/sponsors/upenn.svg
+      size: 200px
+    - name: AI2
+      img_url:
+      url: https://allenai.org/
+      img_src: static/images/sponsors/ai2.svg
+      size: 150px
+- tier: Gold
+  size: 3
+  height: 150
+  vals:
+    - name: Cisco
+      img_url:
+      url: https://www.cisco.com/site/us/en/solutions/artificial-intelligence/index.html
+      img_src: static/images/sponsors/cisco.svg
+      size: 200px
+    - name: Bloomberg
+      img_url:
+      url: https://www.bloomberg.com/company/
+      img_src: static/images/sponsors/bloomberg.svg
+      size: 250px
+    - name: Megagon Labs
+      img_url:
+      url: https://megagon.ai/
+      img_src: static/images/sponsors/Megagon.svg
+      size: 250px
+    - name: Emergence
+      img_url:
+      url: https://www.emergence.ai/
+      img_src: static/images/sponsors/emergence.svg
+      size: 300px
+    - name: Kensho
+      img_url:
+      url: https://kensho.com/
+      img_src: static/images/sponsors/Kensho-logo_black.svg
+      size: 250px
+    - name: DE Shaw
+      img_url:
+      url: https://www.deshaw.com/
+      img_src: static/images/sponsors/DESCO.svg
+      size: 250px
+    - name: MBZUAI
+      img_url:
+      url: https://mbzuai.ac.ae/
+      img_src: static/images/sponsors/mbzuai2.svg
+      size: 250px
+      style: "padding: 0.1cm; background-color: #333333"
+    - name: ByteDance
+      img_url:
+      url: https://www.bytedance.com/en/
+      img_src: static/images/sponsors/ByteDance.svg
+      size: 250px
+      style:
+    - name: Futurewei
+      img_url:
+      url: https://www.futurewei.com/
+      img_src: static/images/sponsors/Futurewei.svg
+      size: 250px
+      style:
+    - name: Exa
+      img_url:
+      img_src: static/images/sponsors/exa.svg
+      url: https://exa.ai/
+      size: 250px
+      style: "padding: 0.2cm; background-color: #1f40ed"
+
+- tier: Silver
+  size: 3
+  height: 150
+  vals:
+    - name: Samaya AI
+      img_url:
+      img_src: static/images/sponsors/samaya.svg
+      url: https://samaya.ai/
+      size: 250px
+    - name: Cerebras
+      img_url:
+      img_src: static/images/sponsors/cerebras.svg
+      url: https://www.cerebras.net/
+      size: 250px
+- tier: Bronze
+  size: 3
+  height: 150
+  vals:
+    - name: General Catalyst
+      url: https://www.generalcatalyst.com/
+      img_src: static/images/sponsors/gc.svg
+      size: 100%
+    - name: Tola Capital
+      size:
+      url: https://tolacapital.com/
+      img_src: static/images/sponsors/tola.svg
+    - name: Cohere
+      size:
+      url: https://cohere.com/
+      img_src: static/images/sponsors/cohere.svg
+    - name: Amplify
+      size:
+      url: https://www.amplifypartners.com/
+      img_src: static/images/sponsors/amplify.svg
+      size: 80%
+    - name: Citadel
+      size:
+      url: https://www.citadel.com/
+      img_src: static/images/sponsors/Citadel.svg
+      size: 80%
+    - name: Qualcomm
+      size:
+      url: https://www.qualcomm.com/
+      img_src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qualcomm-Logo.svg/512px-Qualcomm-Logo.svg.png
+      size: 80%
+    - name: Gretel
+      url: https://www.gretel.ai/
+      img_src: https://cdn.prod.website-files.com/5ea8b9202fac2ea6211667a4/66ec636bf895360354026d7b_gretel_logo.svg

@@ -1,0 +1,14 @@
+{% set active_page = "Code of Conduct" %}
+{% set page_title = "Code of Conduct" %}
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<h2>
+    Code of Conduct
+</h2>
+<div class="h5" style="line-height: 1.5;">
+{{ CoC | markdown }}
+</div>
+{% endblock %}

@@ -1,0 +1,7 @@
+flask==2.3.3
+frozen-flask
+Flask-Markdown
+tqdm
+PyYAML
+isort
+black

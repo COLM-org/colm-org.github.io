@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+
+{% block content %}
+{{ plenary_content | markdown }}
+{{ components.organizergroup(plenary) }}
+{% endblock %}

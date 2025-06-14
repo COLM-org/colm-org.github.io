@@ -1,0 +1,14 @@
+{% set active_page = "Author Guide" %}
+{% set page_title = "Author Guide" %}
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<h2>
+    Author Guide
+</h2>
+<div class="h5" style="line-height: 1.5;">
+{{ AuthorGuide | markdown }}
+</div>
+{% endblock %}

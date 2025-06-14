@@ -1,0 +1,33 @@
+name: CoLM
+tagline: CONFERENCE ON <br> LANGUAGE <br> MODELING
+date: October 7-10, 2025
+citation_date: May 2025
+proceedings_title: Proceedings of the Second COLM Conference
+analytics: UA-
+logo:
+  image: static/images/logo.svg
+  width: 180px
+  height: auto
+# uncomment the following line to show the site title next to the logo image
+# site_title: MiniConf
+page_title:
+  prefix: "COLM 2025"
+  separator: ": "
+background_image: static/images/montreal.jpg
+organization: COLM Organization Committee
+
+# Configuration for auth
+#Test user
+#user: miniconf@miniconf.com
+#pass: mIniconf1_
+
+use_auth0:
+auth0_client_id: JIdr6wi0z27LyLgwkJF0fpk700aj7MNH
+auth0_domain: miniconf.auth0.com
+
+calendar:
+  colors: #  Colors for the different event hashtags:
+    ---: "#bed972"
+    qa: "#4FCAEB"
+    talk: "#ccc"
+  sunday_saturday: false #  Include Sunday and Saturday
