@@ -4,7 +4,7 @@ name: Deploy COLM Website
 on:
   # Trigger on pushes to the master branch
   push:
-    branches: ["master"]
+    branches: ["master", "main"]
 
   # Manual trigger
   workflow_dispatch:
