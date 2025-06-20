@@ -340,11 +340,11 @@ def plenary():
     return render_template("plenary.html", **data)
 
 
-# @app.route("/hotels.html")
-# def plenary():
-#     data = _data()
-#     data["hotels"] = open("hotels.md").read()
-#     return render_template("hotels.html", **data)
+@app.route("/hotels.html")
+def hotels():
+    data = _data()
+    data["hotels"] = open("hotels.md").read()
+    return render_template("hotels.html", **data)
 
 
 # FRONT END SERVING
