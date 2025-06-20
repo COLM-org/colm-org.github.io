@@ -9,4 +9,4 @@ Please book your hotel at [https://HotelMap.com/ME29D](https://HotelMap.com/ME29
 COLM has contracted Hotel guest rooms for the conference at group pricing, requiring reservations only through this page. Please do not make room reservations through any other channel, as it only impedes us from putting on the best conference for you.
 
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
