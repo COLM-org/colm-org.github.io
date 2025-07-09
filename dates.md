@@ -9,6 +9,7 @@
 - **Full paper submission deadline:** March 28, 2025
 - **Rebuttal period:** May 27 to June 10, 2025
 - **Decision notifications:** July 7, 2025
+- **Camera-ready deadline:** August 7, 2025
 - **Conference dates:** October 7-10, 2025
 
 ### Workshop Submission Timeline
