@@ -1,0 +1,30 @@
+{% set active_page = "AcceptedPapers" %}
+{% set page_title = "Accepted Papers" %}
+{% extends "base.html" %}
+
+{% block content %}
+
+
+
+<h2>
+    Accepted Papers
+</h2>
+
+<br />
+
+<strong>All accepted papers are hosted on OpenReview, and listed <a href="https://openreview.net/group?id=colmweb.org/COLM/2024/Conference#tab-accept">here</a>. OpenReview also provides bibtex entries for each paper.</strong>
+
+<br />
+<br />
+
+{% for paper in AcceptedPapers %}
+{% if paper.outstanding_award == true %}<p><span class="badge bg-warning">🏆 Outstanding Paper Award</span> <a href="{{paper.url}}">{{paper.title}}</a> <br/> <em>{{paper.authors}}</em></p>{% endif %}
+{% endfor %}
+
+{% for paper in AcceptedPapers %}
+{% if paper.outstanding_award is not defined or paper.outstanding_award == false %}<p>{% if paper.oral_spotlight == true %}<span class="badge bg-success">🔦 Spotlight</span>{% endif %} <a href="{{paper.url}}">{{paper.title}}</a> <br/> <em>{{paper.authors}}</em></p>{% endif %}
+ 
+{% endfor %}
+
+
+{% endblock %}
