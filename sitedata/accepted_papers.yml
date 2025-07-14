@@ -1,1498 +1,1682 @@
-- authors: Zhaoyu Li, Jialiang Sun, Logan Murphy, Qidong Su, Zenan Li, Xian Zhang,
-    Kaiyu Yang, Xujie Si
-  oral_spotlight: false
-  title: A Survey on Deep Learning for Theorem Proving
-  url: https://openreview.net/forum?id=zlw6AHwukB
-- authors: Esin DURMUS, Karina Nguyen, Thomas Liao, Nicholas Schiefer, Amanda Askell,
-    Anton Bakhtin, Carol Chen, Zac Hatfield-Dodds, Danny Hernandez, Nicholas Joseph,
-    Liane Lovitt, Sam McCandlish, Orowa Sikder, Alex Tamkin, Janel Thamkul, Jared
-    Kaplan, Jack Clark, Deep Ganguli
-  oral_spotlight: false
-  title: Towards Measuring the Representation of Subjective Global Opinions in Language
-    Models
-  url: https://openreview.net/forum?id=zl16jLb91v
-- authors: Chunqiu Steven Xia, Yinlin Deng, LINGMING ZHANG
-  oral_spotlight: true
-  title: 'Top Leaderboard Ranking = Top Coding Proficiency, Always? EvoEval: Evolving
-    Coding Benchmarks via LLM'
-  url: https://openreview.net/forum?id=zZa7Ke7WAJ
-- authors: Joseph Miller, Bilal Chughtai, William Saunders
-  oral_spotlight: true
-  title: Transformer Circuit Evaluation Metrics Are Not Robust
-  url: https://openreview.net/forum?id=zSf8PJyQb2
-- authors: Mina Huh, Fangyuan Xu, Yi-Hao Peng, Chongyan Chen, Hansika Murugu, Danna
-    Gurari, Eunsol Choi, Amy Pavel
-  oral_spotlight: true
-  title: Long-Form Answers to Visual Questions from Blind and Low Vision People
-  url: https://openreview.net/forum?id=z7FvXbyyrM
-- authors: Arnab Sen Sharma, David Atkinson, David Bau
-  oral_spotlight: false
-  title: Locating and Editing Factual Associations in Mamba
-  url: https://openreview.net/forum?id=yoVRyrEgix
-- authors: Jong Myoung Kim, Young-Jun Lee, Yong-Jin Han, Ho-Jin Choi, Sangkeun Jung
-  oral_spotlight: false
-  title: Does Incomplete Syntax Influence Korean Language Model? Focusing on Word
-    Order and Case Markers
-  url: https://openreview.net/forum?id=yfyHxvVzZT
-- authors: Li-Chun Lu, Shou-Jen Chen, Tsung-Min Pai, Chan-Hung Yu, Hung-yi Lee, Shao-Hua
+- title: 'Register Always Matters: Analysis of LLM Pretraining Data Through the Lens
+    of Language Variation'
+  authors: Amanda Myntti, Erik Henriksson, Veronika Laippala, Sampo Pyysalo
+  url: https://openreview.net/forum?id=FqXXtSZWEZ
+- title: 'Extragradient Preference Optimization (EGPO): Beyond Last-Iterate Convergence
+    for Nash Learning from Human Feedback'
+  authors: Runlong Zhou, Maryam Fazel, Simon Shaolei Du
+  url: https://openreview.net/forum?id=EP7mAqx2BO
+- title: 'Understanding R1-Zero-Like Training: A Critical Perspective'
+  authors: Zichen Liu, Changyu Chen, Wenjun Li, Penghui Qi, Tianyu Pang, Chao Du,
+    Wee Sun Lee, Min Lin
+  url: https://openreview.net/forum?id=5PAF7PAY2Y
+- title: Why do LLMs attend to the first token?
+  authors: Federico Barbero, Alvaro Arroyo, Xiangming Gu, Christos Perivolaropoulos,
+    Petar Veličković, Razvan Pascanu, Michael M. Bronstein
+  url: https://openreview.net/forum?id=tu4dFUsW5z
+- title: 'Inside-Out: Hidden Factual Knowledge in LLMs'
+  authors: Zorik Gekhman, Eyal Ben-David, Hadas Orgad, Eran Ofek, Yonatan Belinkov,
+    Idan Szpektor, Jonathan Herzig, Roi Reichart
+  url: https://openreview.net/forum?id=f7GG1MbsSM
+- title: Elucidating the Design Space of Decay in Linear Attention
+  authors: Zhen Qin, Xuyang Shen, Yiran Zhong
+  url: https://openreview.net/forum?id=whXh2YxMbt
+- title: 'ScholarCopilot: Training Large Language Models for Academic Writing with
+    Accurate Citations'
+  authors: Yubo Wang, Xueguang Ma, Ping Nie, Huaye Zeng, Zhiheng Lyu, Yuxuan Zhang,
+    Benjamin Schneider, Yi Lu, Xiang Yue, Wenhu Chen
+  url: https://openreview.net/forum?id=r8nloXtluk
+- title: 'Finding Flawed Fictions: Evaluating Complex Reasoning in Language Models
+    via Plot Hole Detection'
+  authors: Kabir Ahuja, Melanie Sclar, Yulia Tsvetkov
+  url: https://openreview.net/forum?id=ptmgWRCWmu
+- title: Do Language Models Agree with Human Perceptions of Suspense in Stories?
+  authors: Glenn Matlin, Devin Zhang, Rodrigo Barroso Loza, Diana M. Popescu, Joni
+    Isbell, Chandreyi Chakraborty, Mark Riedl
+  url: https://openreview.net/forum?id=Qu0znWWckM
+- title: Learning Effective Language Representations for Sequential Recommendation
+    via Joint Embedding Predictive Architecture
+  authors: Nguyen Anh Minh, Dung D. Le
+  url: https://openreview.net/forum?id=0Qbwjd0fxB
+- title: 'QUDsim: Quantifying Discourse Similarities in LLM-Generated Text'
+  authors: Ramya Namuduri, Yating Wu, Anshun Asher Zheng, Manya Wadhwa, Greg Durrett,
+    Junyi Jessy Li
+  url: https://openreview.net/forum?id=zFz1BJu211
+- title: 'L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning'
+  authors: Pranjal Aggarwal, Sean Welleck
+  url: https://openreview.net/forum?id=4jdIxXBNve
+- title: Breaking the Unimodal Trap to Fully Unlock Multimodal In-Context Learning
+  authors: Shuo Chen, Jianzhe Liu, Zhen Han, Yan Xia, Daniel Cremers, Philip Torr,
+    Volker Tresp, Jindong Gu
+  url: https://openreview.net/forum?id=n4JdyBGu6T
+- title: 'MAC: A Live Benchmark for Multimodal Large Language Models in Scientific
+    Understanding'
+  authors: Mohan Jiang, Jin Gao, Jiahao Zhan, Dequan Wang
+  url: https://openreview.net/forum?id=0aHOVhkuOB
+- title: Off-Policy Corrected Reward Modeling for Reinforcement Learning from Human
+    Feedback
+  authors: Johannes Ackermann, Takashi Ishida, Masashi Sugiyama
+  url: https://openreview.net/forum?id=0zxugBcgF5
+- title: How Relative Input Length affects Positional Biases in LLMs
+  authors: Blerta Veseli, Mariya Toneva, Julian Chibane, Alexander Koller
+  url: https://openreview.net/forum?id=vlUk8z8LaM
+- title: 'ALFA: Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning'
+  authors: Shuyue Stella Li, Jimin Mun, Faeze Brahman, Pedram Hosseini, Bryceton G.
+    Thomas, Jessica M. Sin, Bing Ren, Jonathan S. Ilgen, Yulia Tsvetkov, Maarten Sap
+  url: https://openreview.net/forum?id=12u7diwku0
+- title: Building Instruction-Tuning Datasets from Human-Written Instructions with
+    Open-Weight Large Language Models
+  authors: Youmi Ma, Sakae Mizuki, Kazuki Fujii, Taishi Nakamura, Masanari Ohi, Hinari
+    Shimada, Taihei Shiotani, Koshiro Saito, Koki Maeda, Kakeru Hattori, Takumi Okamoto,
+    Shigeki Ishida, Rio Yokota, Hiroya Takamura, Naoaki Okazaki
+  url: https://openreview.net/forum?id=6vTv9M9ZAA
+- title: 'SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware
+    Prompt Compression'
+  authors: Yucheng Li, Surin Ahn, Huiqiang Jiang, Amir H. Abdi, Yuqing Yang, Lili
+    Qiu
+  url: https://openreview.net/forum?id=tybbSo6wba
+- title: 'Truth-value judgment in language models: ‘truth directions’ are context
+    sensitive'
+  authors: Stefan F. Schouten, Peter Bloem, Ilia Markov, Piek Vossen
+  url: https://openreview.net/forum?id=2H85485yAb
+- title: When Does Metadata Conditioning (NOT) Work for Language Model Pre-Training?
+    A Study with Context-Free Grammars
+  authors: Rei Higuchi, Ryotaro Kawata, Naoki Nishikawa, Kazusato Oko, Shoichiro Yamaguchi,
+    Sosuke Kobayashi, Seiya Tokui, Kohei Hayashi, Daisuke Okanohara, Taiji Suzuki
+  url: https://openreview.net/forum?id=5UkUsRsWYx
+- title: 'Assessing Judging Bias in Large Reasoning Models: An Empirical Study'
+  authors: Qian Wang, Zhanzhi Lou, Zhenheng Tang, Nuo Chen, Xuandong Zhao, Wenxuan
+    Zhang, Dawn Song, Bingsheng He
+  url: https://openreview.net/forum?id=SlRtFwBdzP
+- title: Modifying Large Language Model Post-Training for Diverse Creative Writing
+  authors: John Joon Young Chung, Vishakh Padmakumar, Melissa Roemmele, Yuqian Sun,
+    Max Kreminski
+  url: https://openreview.net/forum?id=1Pmuw08LoM
+- title: 'Yourbench: Dynamic Evaluation Set Generation with LLMs'
+  authors: Sumuk Shashidhar, Clémentine Fourrier, Alina Lozovskaya, Thomas Wolf, Gokhan
+    Tur, Dilek Hakkani-Tür
+  url: https://openreview.net/forum?id=bkWERVKzuP
+- title: Sample Efficient Preference Alignment in LLMs via Active Exploration
+  authors: Viraj Mehta, Syrine Belakaria, Vikramjeet Das, Ojash Neopane, Yijia Dai,
+    Ilija Bogunovic, Barbara Engelhardt, Stefano Ermon, Jeff Schneider, Willie Neiswanger
+  url: https://openreview.net/forum?id=Vi5cIfIslX
+- title: 'DynaSaur: Large Language Agents Beyond Predefined Actions'
+  authors: Dang Nguyen, Viet Dac Lai, Seunghyun Yoon, Ryan A. Rossi, Handong Zhao,
+    Ruiyi Zhang, Puneet Mathur, Nedim Lipka, Yu Wang, Trung Bui, Franck Dernoncourt,
+    Tianyi Zhou
+  url: https://openreview.net/forum?id=lv0cJ2pWVd
+- title: 'CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation'
+  authors: Anirudh Khatry, Robert Zhang, Jia Pan, Ziteng Wang, Qiaochu Chen, Greg
+    Durrett, Isil Dillig
+  url: https://openreview.net/forum?id=8xofWL61S9
+- title: 'SQuat: Subspace-orthogonal KV Cache Quantization'
+  authors: Hao Wang, Ligong Han, Kai Xu, Akash Srivastava
+  url: https://openreview.net/forum?id=gKdhzBiHay
+- title: 'X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme
+    KV Compression'
+  authors: Guihong Li, Mehdi Rezagholizadeh, Mingyu Yang, Vikram Appia, Emad Barsoum
+  url: https://openreview.net/forum?id=CPJ9EAeYfd
+- title: 'Hidden in plain sight: VLMs overlook their visual representations'
+  authors: Stephanie Fu, tyler bonnen, Devin Guillory, Trevor Darrell
+  url: https://openreview.net/forum?id=qQb1JLrwol
+- title: Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality
+  authors: Sewoong Lee, Adam Davies, Marc E. Canby, Julia Hockenmaier
+  url: https://openreview.net/forum?id=XhdNFeMclS
+- title: 'JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model'
+  authors: Yi Nian, Shenzhe Zhu, Yuehan Qin, Li Li, Ziyi Wang, Chaowei Xiao, Yue Zhao
+  url: https://openreview.net/forum?id=8Pxdzsqvx9
+- title: 'The World According to LLMs: How Geographic Origin Influences LLMs'' Entity
+    Deduction Capabilities'
+  authors: Harsh Nishant Lalai, Raj Sanjay Shah, Jiaxin Pei, Sashank Varma, Yi-Chia
+    Wang, Ali Emami
+  url: https://openreview.net/forum?id=hJtvCfDfs1
+- title: Synthetic Data Generation and Multi-Step Reinforcement Learning for Reasoning
+    and Tool Use
+  authors: Anna Goldie, Azalia Mirhoseini, Hao Zhou, Irene Cai, Christopher D Manning
+  url: https://openreview.net/forum?id=oN9STRYQVa
+- title: On Mechanistic Circuits for Extractive Question-Answering
+  authors: Samyadeep Basu, Vlad I Morariu, Ryan A. Rossi, Nanxuan Zhao, Zichao Wang,
+    Soheil Feizi, Varun Manjunatha
+  url: https://openreview.net/forum?id=VvSWiNIuPL
+- title: Multi-Token Attention
+  authors: Olga Golovneva, Tianlu Wang, Jason E Weston, Sainbayar Sukhbaatar
+  url: https://openreview.net/forum?id=Z3L35tQTEg
+- title: Interpreting the linear structure of vision-language model embedding spaces
+  authors: Huangyuan Su, Thomas Fel, Isabel Papadimitriou, Sham M. Kakade, Stephanie
+    Gil
+  url: https://openreview.net/forum?id=qPsmGjpq1j
+- title: Towards Compute-Optimal Many-Shot In-Context Learning
+  authors: Shahriar Golchin, Yanfei Chen, Rujun Han, Manan Gandhi, Tianli Yu, Swaroop
+    Mishra, Mihai Surdeanu, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister
+  url: https://openreview.net/forum?id=K7kwRv5mj1
+- title: Weight ensembling improves reasoning in language models
+  authors: Xingyu Dang, Christina Baek, Kaiyue Wen, J Zico Kolter, Aditi Raghunathan
+  url: https://openreview.net/forum?id=S2IKxulLT1
+- title: Texture or Semantics? Vision-Language Models Get Lost in Font Recognition
+  authors: Zhecheng Li, Guoxian Song, Yujun Cai, Zhen Xiong, Junsong Yuan, Yiwei Wang
+  url: https://openreview.net/forum?id=qiLJVU4I8P
+- title: 'Contextualize-then-Aggregate: Circuits for In-Context Learning in Gemma-2
+    2B'
+  authors: Aleksandra Bakalova, Yana Veitsman, Xinting Huang, Michael Hahn
+  url: https://openreview.net/forum?id=rGNAyHReSg
+- title: 'Sherkala-Chat: Building a State-of-the-Art LLM for Kazakh in a Moderately
+    Resourced Setting'
+  authors: Fajri Koto, Rituraj Joshi, Nurdaulet Mukhituly, Yuxia Wang, Zhuohan Xie,
+    Rahul Pal, Daniil Orel, Parvez Mullah, Diana Turmakhan, Maiya Goloburda, Mohammed
+    Kamran, Samujjwal Ghosh, Bokang Jia, Jonibek Mansurov, Mukhammed Togmanov, Debopriyo
+    Banerjee, Nurkhan Laiyk, Akhmed Sakip, Xudong Han, Ekaterina Kochmar, Alham Fikri
+    Aji, Aaryamonvikram Singh, Alok Anil Jadhav, Satheesh Katipomu, Samta Kamboj,
+    Monojit Choudhury, Gurpreet Gosal, Gokulakrishnan Ramakrishnan, Biswajit Mishra,
+    Sarath Chandran, Avraham Sheinin, Natalia Vassilieva, Neha Sengupta, Preslav Nakov
+  url: https://openreview.net/forum?id=wRcTCcb0H5
+- title: 'ICQuant: Index Coding enables Low-bit LLM Quantization'
+  authors: Xinlin Li, Osama Hanna, Christina Fragouli, Suhas Diggavi
+  url: https://openreview.net/forum?id=m6nBgFSMTL
+- title: Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample
+    Creation
+  authors: Shiven Sinha, Shashwat Goel, Ponnurangam Kumaraguru, Jonas Geiping, Matthias
+    Bethge, Ameya Prabhu
+  url: https://openreview.net/forum?id=M7cl4Ldw61
+- title: 'TRELLIS: Learning to Compress Key-Value Memory in Attention Models'
+  authors: Mahdi Karami, Ali Behrouz, Praneeth Kacham, Vahab Mirrokni
+  url: https://openreview.net/forum?id=r61s1FNYlj
+- title: Language Model Uncertainty Quantification with Attention Chain
+  authors: Yinghao Li, Rushi Qiang, Lama Moukheiber, Chao Zhang
+  url: https://openreview.net/forum?id=QTrW2HWNXe
+- title: Pretrained Hybrids with MAD Skills
+  authors: Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi GNVV,
+    Sonia Cromp, Chengjun Wu, Chengyu Duan, Frederic Sala
+  url: https://openreview.net/forum?id=8xSbwT3763
+- title: 'Prompt-Reverse Inconsistency: LLM Self-Inconsistency Beyond Generative Randomness
+    and Prompt Paraphrasing'
+  authors: Jihyun Janice Ahn, Wenpeng Yin
+  url: https://openreview.net/forum?id=yfRkNRFLzl
+- title: 'ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using
+    Large Language Models'
+  authors: Archchana Sindhujan, Shenbin Qian, Chan Chi Chun Matthew, Diptesh Kanojia,
+    Constantin Orasan
+  url: https://openreview.net/forum?id=qSFr5wJPGc
+- title: Phased Training for LLM-powered Text Retrieval Models Beyond Data Scaling
+  authors: Xin Zhang, Yanzhao Zhang, Wen Xie, Dingkun Long, Mingxin Li, Pengjun Xie,
+    Meishan Zhang, Wenjie Li, Min Zhang
+  url: https://openreview.net/forum?id=NC6G1KCxlt
+- title: 'Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language
+    Models in Multi-turn Interactions'
+  authors: Hao Yang, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
+  url: https://openreview.net/forum?id=zuNM3eoPVi
+- title: Multilingual and  Multi-Accent Jailbreaking of Audio LLMs
+  authors: Jaechul Roh, Virat Shejwalkar, Amir Houmansadr
+  url: https://openreview.net/forum?id=yGa8CYT8kS
+- title: 'CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive
+    Program Synthesis'
+  authors: Anjiang Wei, Tarun Suresh, Jiannan Cao, Naveen Kannan, Yuheng Wu, Kai Yan,
+    Thiago S. F. X. Teixeira, Ke Wang, Alex Aiken
+  url: https://openreview.net/forum?id=Q5pVZCrrKr
+- title: 'Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance
+    at Inference Time'
+  authors: Van Yang, Xiang Yue, Vipin Chaudhary, Xiaotian Han
+  url: https://openreview.net/forum?id=4Ns18bSoHo
+- title: Rethinking Associative Memory Mechanism in Induction Head
+  authors: Shuo Wang, Issei Sato
+  url: https://openreview.net/forum?id=8N5H8DgfPw
+- title: 'Epistemic Alignment: A Mediating Framework for User-LLM Knowledge Delivery'
+  authors: Nicholas Clark, Hua Shen, Bill Howe, Tanu Mitra
+  url: https://openreview.net/forum?id=Orvjm9UqH2
+- title: 'REM: Evaluating LLM Embodied Spatial Reasoning through Multi-Frame Trajectories'
+  authors: Jacob Thompson, Emiliano Garcia-Lopez, Yonatan Bisk
+  url: https://openreview.net/forum?id=qbWpEufkqk
+- title: Post-training for Efficient Communication via Convention Formation
+  authors: Yilun Hua, Evan Wang, Yoav Artzi
+  url: https://openreview.net/forum?id=jRGGmbhX2s
+- title: 'Readability ≠ Learnability: Rethinking the Role of Simplicity in Training
+    Small Language Models'
+  authors: Ivan Lee, Taylor Berg-Kirkpatrick
+  url: https://openreview.net/forum?id=AFMGbq39bQ
+- title: 'Verifying the Verifiers: Unveiling Pitfalls and Potentials in Fact Verifiers'
+  authors: Wooseok Seo, Seungju Han, Jaehun Jung, Benjamin Newman, Seungwon Lim, Seungbeen
+    Lee, Ximing Lu, Yejin Choi, Youngjae Yu
+  url: https://openreview.net/forum?id=3NjnRo6apU
+- title: Adaptive Computation Pruning for the Forgetting Transformer
+  authors: Zhixuan Lin, Johan Obando-Ceron, Xu Owen He, Aaron Courville
+  url: https://openreview.net/forum?id=xNj14CY5S1
+- title: What is the Visual Cognition Gap between Humans and Multimodal LLMs?
+  authors: Xu Cao, Yifan Shen, Bolin Lai, Wenqian Ye, Yunsheng Ma, Joerg Heintz, Jintai
+    Chen, Meihuan Huang, Jianguo Cao, Aidong Zhang, James Matthew Rehg
+  url: https://openreview.net/forum?id=78lTuD6wiO
+- title: 'Cutting the Root of Hallucination: Structural Trimming for Vulnerability
+    Mitigation in Code LLMs'
+  authors: Yage Zhang
+  url: https://openreview.net/forum?id=dU4Y2sNfJ2
+- title: LM Agents May Fail to Act on Their Own Risk Knowledge
+  authors: Yuzhi Tang, Tianxiao Li, Elizabeth Li, Chris J. Maddison, Honghua Dong,
+    Yangjun Ruan
+  url: https://openreview.net/forum?id=OeYdS51k8F
+- title: 'Self-Rewarding PPO: Aligning Large Language Models with Demonstrations Only'
+  authors: Qingru Zhang, Liang Qiu, Ilgee Hong, Zhenghao Xu, Tianyi Liu, Shiyang Li,
+    Rongzhi Zhang, Zheng Li, Lihong Li, Bing Yin, Chao Zhang, Jianshu Chen, Haoming
+    Jiang, Tuo Zhao
+  url: https://openreview.net/forum?id=cOlHP5E3qF
+- title: Multilingual Contextualization of Large Language Models for Document-Level
+    Machine Translation
+  authors: Miguel Moura Ramos, Patrick Fernandes, Sweta Agrawal, Andre Martins
+  url: https://openreview.net/forum?id=Ah0U1r5Ldq
+- title: 'SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open
+    Base Models in the Wild'
+  authors: Weihao Zeng, Yuzhen Huang, Qian Liu, Wei Liu, Keqing He, Zejun MA, Junxian
+    He
+  url: https://openreview.net/forum?id=vSMCBUgrQj
+- title: 'EvalAgents: Discovering Implicit Evaluation Criteria from the Web'
+  authors: Manya Wadhwa, Zayne Rea Sprague, Chaitanya Malaviya, Philippe Laban, Junyi
+    Jessy Li, Greg Durrett
+  url: https://openreview.net/forum?id=erGpkHCybv
+- title: 'SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models'
+  authors: Arijit Ray, Jiafei Duan, Ellis L Brown II, Reuben Tan, Dina Bashkirova,
+    Rose Hendrix, Kiana Ehsani, Aniruddha Kembhavi, Bryan A. Plummer, Ranjay Krishna,
+    Kuo-Hao Zeng, Kate Saenko
+  url: https://openreview.net/forum?id=DW8U8ZWa1U
+- title: 'PredGen: Accelerated Inference of Large Language Models through Input-Time
+    Speculation for Real-Time Speech Interaction'
+  authors: Shufan Li, Aditya Grover
+  url: https://openreview.net/forum?id=2Kl8Ztw6wk
+- title: Adversarial Training of Reward Models
+  authors: Alexander Bukharin, Haifeng Qian, Shengyang Sun, Adithya Renduchintala,
+    Soumye Singhal, Zhilin Wang, Oleksii Kuchaiev, Olivier Delalleau, Tuo Zhao
+  url: https://openreview.net/forum?id=H6Ae8Po6fS
+- title: Limitations of refinement methods for weak to strong generalization
+  authors: Seamus Somerstep, Yaacov Ritov, Mikhail Yurochkin, Subha Maity, Yuekai
     Sun
-  oral_spotlight: false
-  title: 'LLM Discussion: Enhancing the Creativity of Large Language Models via Discussion
-    Framework and Role-Play'
-  url: https://openreview.net/forum?id=ybaK4asBT2
-- authors: Hongli Zhan, Allen Zheng, Yoon Kyung Lee, Jina Suh, Junyi Jessy Li, Desmond
-    Ong
-  oral_spotlight: false
-  title: Large Language Models are Capable of Offering Cognitive Reappraisal, if Guided
-  url: https://openreview.net/forum?id=yK8MT91dQY
-- authors: Gerald Shen, Zhilin Wang, Olivier Delalleau, Jiaqi Zeng, Yi Dong, Daniel
-    Egert, Shengyang Sun, Jimmy J. Zhang, Sahil Jain, Ali Taghibakhshi, Markel Sanz
-    Ausin, Ashwath Aithal, Oleksii Kuchaiev
-  oral_spotlight: false
-  title: 'NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment'
-  url: https://openreview.net/forum?id=yK2eGE8QVW
-- authors: Omid Ghahroodi, Marzia Nouri, Mohammad Vali Sanian, Alireza Sahebi, Doratossadat
-    Dastgheib, Ehsaneddin Asgari, Mahdieh Soleymani Baghshah, Mohammad Hossein Rohban
-  oral_spotlight: false
-  title: 'Khayyam Challenge (PersianMMLU): Is Your LLM Truly Wise to The Persian Language?'
-  url: https://openreview.net/forum?id=yIEyHP7AvH
-- authors: Sotiris Anagnostidis, Jannis Bulian
-  oral_spotlight: false
-  title: How Susceptible are LLMs to Influence in Prompts?
-  url: https://openreview.net/forum?id=y7JnjDcIQa
-- authors: ChaeHun Park, Minseok Choi, Dohyun Lee, Jaegul Choo
-  oral_spotlight: false
-  title: 'PairEval: Open-domain Dialogue Evaluation Metric with Pairwise Comparisons'
-  url: https://openreview.net/forum?id=y6aGT625Lk
-- authors: Zhen Qin, Songlin Yang, Weixuan Sun, Xuyang Shen, Dong Li, Weigao Sun,
-    Yiran Zhong
-  oral_spotlight: false
-  title: 'HGRN2: Gated Linear RNNs with State Expansion'
-  url: https://openreview.net/forum?id=y6SqbJfCSk
-- authors: Evgenii Kortukov, Alexander Rubinstein, Elisa Nguyen, Seong Joon Oh
-  oral_spotlight: false
-  title: Studying Large Language Model Behaviors Under Context-Memory Conflicts With
-    Real Documents
-  url: https://openreview.net/forum?id=xm8zYRfrqE
-- authors: Kerui Zhu, Bo-Wei Huang, Bowen Jin, Yizhu Jiao, Ming Zhong, Kevin Chen-Chuan
-    Chang, Shou-De Lin, Jiawei Han
-  oral_spotlight: false
-  title: Investigating Instruction Tuning Large Language Models on Graphs
-  url: https://openreview.net/forum?id=xdg4CS5mkl
-- authors: Joshua Nathaniel Williams, J Zico Kolter
-  oral_spotlight: false
-  title: 'FUSE-ing Language Models: Zero-Shot Adapter Discovery for Prompt Optimization
-    Across Tokenizers'
-  url: https://openreview.net/forum?id=xWYRL1eR74
-- authors: Bodhisattwa Prasad Majumder, Bhavana Dalvi Mishra, Peter Jansen, Oyvind
-    Tafjord, Niket Tandon, Li Zhang, Chris Callison-Burch, Peter Clark
-  oral_spotlight: false
-  title: 'CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and
-    Generalization'
-  url: https://openreview.net/forum?id=xS6zx1aBI9
-- authors: Silin Du, Xiaowei Zhang
-  oral_spotlight: false
-  title: Helmsman of the Masses? Evaluate the Opinion Leadership of Large Language
-    Models in the Werewolf Game
-  url: https://openreview.net/forum?id=xMt9kCv5YR
-- authors: Jihwan Jeong, Yinlam Chow, Guy Tennenholtz, ChihWei Hsu, Mohammad Ghavamzadeh,
-    Craig Boutilier
-  oral_spotlight: false
-  title: Factual and Tailored Recommendation Endorsements using Language Models and
-    Reinforcement Learning
-  url: https://openreview.net/forum?id=xI8C7sfN1H
-- authors: Jialin Li, Junli Wang, Junjie Hu, Ming Jiang
-  oral_spotlight: false
-  title: How Well Do LLMs Identify Cultural Unity in Diversity?
-  url: https://openreview.net/forum?id=wps3p2cqrA
-- authors: Xinyi Wang, Lucas Caccia, Oleksiy Ostapenko, Xingdi Yuan, William Yang
-    Wang, Alessandro Sordoni
-  oral_spotlight: false
-  title: Guiding Language Model Reasoning with Planning Tokens
-  url: https://openreview.net/forum?id=wi9IffRhVM
-- authors: Jeffrey Cheng, Marc Marone, Orion Weller, Dawn Lawrie, Daniel Khashabi,
-    Benjamin Van Durme
-  oral_spotlight: true
-  title: 'Dated Data: Tracing Knowledge Cutoffs in Large Language Models'
-  url: https://openreview.net/forum?id=wS7PxDjy6m
-  outstanding_award: true
-- authors: Jinman Zhao, Xueyan Zhang
-  oral_spotlight: false
-  title: Large Language Model is not a (Multilingual) Compositional Relation Reasoner
-  url: https://openreview.net/forum?id=wLQ3I0F1oj
-- authors: Yihan Cao, Yanbin Kang, Chi Wang, Lichao Sun
-  oral_spotlight: false
-  title: 'Instruction Mining: Instruction Data Selection for Tuning Large Language
-    Models'
-  url: https://openreview.net/forum?id=wF6k0aWjAu
-- authors: Cody Blakeney, Mansheej Paul, Brett W. Larsen, Sean Owen, Jonathan Frankle
-  oral_spotlight: false
-  title: Does your data spark joy? Performance gains from domain upsampling at the
-    end of training
-  url: https://openreview.net/forum?id=vwIIAot0ff
-- authors: Charlie Victor Snell, Eric Wallace, Dan Klein, Sergey Levine
-  oral_spotlight: false
-  title: Predicting Emergent Capabilities by Finetuning
-  url: https://openreview.net/forum?id=vL8BIGuFTF
-- authors: "Tim Baumg\xE4rtner, Yang Gao, Dana Alon, Donald Metzler"
-  oral_spotlight: false
-  title: 'Best-of-Venom: Attacking RLHF by Injecting Poisoned Preference Data'
-  url: https://openreview.net/forum?id=v74mJURD1L
-- authors: Donghyun Lee, Jaeyong Lee, Genghan Zhang, Mo Tiwari, Azalia Mirhoseini
-  oral_spotlight: false
-  title: 'CATS: Context-Aware Thresholding for Sparsity in Large Language Models'
-  url: https://openreview.net/forum?id=v3w2a7EInO
-- authors: Simiao Zuo, Xiaodong Liu, Jian Jiao, Denis X Charles, Eren Manavoglu, Tuo
-    Zhao, Jianfeng Gao
-  oral_spotlight: false
-  title: Efficient Hybrid Long Sequence Modeling with State Space Augmented Transformers
-  url: https://openreview.net/forum?id=uUIFTjBREk
-- authors: Bo-Ru Lu, Nikita Haduong, Chia-Hsuan Lee, Zeqiu Wu, Hao Cheng, Paul Koester,
-    Jean Utke, Tao Yu, Noah A. Smith, Mari Ostendorf
-  oral_spotlight: false
-  title: "Does Collaborative Human\u2013LM Dialogue Generation Help Information Extraction\
-    \ from Human\u2013Human Dialogues?"
-  url: https://openreview.net/forum?id=uILyEJGKWw
-- authors: Jiacheng Liu, Sewon Min, Luke Zettlemoyer, Yejin Choi, Hannaneh Hajishirzi
-  oral_spotlight: true
-  title: 'Infini-gram: Scaling Unbounded n-gram Language Models to a Trillion Tokens'
-  url: https://openreview.net/forum?id=u2vAyMeLMm
-- authors: Chi-Min Chan, Chunpu Xu, Ruibin Yuan, Hongyin Luo, Wei Xue, Yike Guo, Jie
-    Fu
-  oral_spotlight: false
-  title: 'RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation'
-  url: https://openreview.net/forum?id=tzE7VqsaJ4
-- authors: Xinzhe Ni, Yeyun Gong, Zhibin Gou, yelong shen, Yujiu Yang, Nan Duan, Weizhu
-    Chen
-  oral_spotlight: false
-  title: Exploring the Mystery of Influential Data for Mathematical Reasoning
-  url: https://openreview.net/forum?id=taThoOlDNQ
-- authors: Chongyan Sun, Ken Lin, Shiwei Wang, Hulong Wu, Chengfei Fu, Zhen Wang
-  oral_spotlight: false
-  title: 'LalaEval: A Holistic Human Evaluation Framework for Domain-Specific Large
-    Language Models'
-  url: https://openreview.net/forum?id=tRxIB7y3wF
-- authors: Niloofar Mireshghallah, Maria Antoniak, Yash More, Yejin Choi, Golnoosh
-    Farnadi
-  oral_spotlight: false
-  title: 'Trust No Bot: Discovering Personal  Disclosures in Human-LLM Conversations
-    in the Wild'
-  url: https://openreview.net/forum?id=tIpWtMYkzU
-- authors: Albert Gu, Tri Dao
-  oral_spotlight: true
-  title: 'Mamba: Linear-Time Sequence Modeling with Selective State Spaces'
-  url: https://openreview.net/forum?id=tEYskw1VY2
-  outstanding_award: true
-- authors: Yixuan Tang, Yi Yang
-  oral_spotlight: false
-  title: 'MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop
-    Queries'
-  url: https://openreview.net/forum?id=t4eB3zYWBK
-- authors: Mohamed El Amine Seddik, Suei-Wen Chen, Soufiane Hayou, Pierre Youssef,
-    Merouane Abdelkader DEBBAH
-  oral_spotlight: false
-  title: How bad is training on synthetic data? A statistical analysis of language
-    model collapse
-  url: https://openreview.net/forum?id=t3z6UlV09o
-- authors: Arian Hosseini, Xingdi Yuan, Nikolay Malkin, Aaron Courville, Alessandro
-    Sordoni, Rishabh Agarwal
-  oral_spotlight: false
-  title: 'V-STaR: Training Verifiers for Self-Taught Reasoners'
-  url: https://openreview.net/forum?id=stmqBSW2dV
-- authors: Bo Peng, Daniel Goldstein, Quentin Gregory Anthony, Alon Albalak, Eric
-    Alcaide, Stella Biderman, Eugene Cheah, Teddy Ferdinan, Kranthi Kiran GV, Haowen
-    Hou, Satyapriya Krishna, Ronald McClelland Jr., Niklas Muennighoff, Fares Obeid,
-    Atsushi Saito, Guangyu Song, Haoqin Tu, Ruichong Zhang, Bingchen Zhao, Qihang
-    Zhao, Jian Zhu, Rui-Jie Zhu
-  oral_spotlight: false
-  title: 'Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence'
-  url: https://openreview.net/forum?id=soz1SEiPeq
-- authors: Jean Mercat, Igor Vasiljevic, Sedrick Keh, Kushal Arora, Achal Dave, Adrien
-    Gaidon, Thomas Kollar
-  oral_spotlight: false
-  title: Linearizing Large Language Models
-  url: https://openreview.net/forum?id=soGxskHGox
-- authors: Han Lin, Abhay Zala, Jaemin Cho, Mohit Bansal
-  oral_spotlight: false
-  title: 'VideoDirectorGPT: Consistent Multi-Scene Video Generation via LLM-Guided
-    Planning'
-  url: https://openreview.net/forum?id=sKNIjS2brr
-- authors: Tianbao Xie, Fan Zhou, Zhoujun Cheng, Peng Shi, Luoxuan Weng, Yitao Liu,
-    Toh Jing Hua, Junning Zhao, Qian Liu, Che Liu, Zeyu Leo Liu, Yiheng Xu, Hongjin
-    SU, Dongchan Shin, Caiming Xiong, Tao Yu
-  oral_spotlight: false
-  title: 'OpenAgents: An Open Platform for Language Agents in the Wild'
-  url: https://openreview.net/forum?id=sKATR2O1Y0
-- authors: Haorui Wang, Rongzhi Zhang, Yinghao Li, Lingkai Kong, Yuchen Zhuang, Xiusi
-    Chen, Chao Zhang
-  oral_spotlight: false
-  title: 'TPD: Enhancing Student Language Model Reasoning via Principle Discovery
-    and Guidance'
-  url: https://openreview.net/forum?id=sJvhwDtFhQ
-- authors: "Fran\xE7ois Remy, Pieter Delobelle, Hayastan Avetisyan, Alfiya Khabibullina,\
-    \ Miryam de Lhoneux, Thomas Demeester"
-  oral_spotlight: false
-  title: 'Trans-Tokenization and Cross-lingual Vocabulary Transfers: Language Adaptation
-    of LLMs for Low-Resource NLP'
-  url: https://openreview.net/forum?id=sBxvoDhvao
-- authors: Tianjun Zhang, Shishir G Patil, Naman Jain, Sheng Shen, Matei Zaharia,
-    Ion Stoica, Joseph E. Gonzalez
-  oral_spotlight: false
-  title: 'RAFT: Adapting Language Model to Domain Specific RAG'
-  url: https://openreview.net/forum?id=rzQGHXNReU
-- authors: Nicholas Deas, Jessica A Grieser, Xinmeng Hou, Shana Kleiner, Tajh Martin,
-    Sreya Nandanampati, Desmond U. Patton, Kathleen McKeown
-  oral_spotlight: false
-  title: 'PhonATe: Impact of Type-Written Phonological Features of African American
-    Language on Generative Language Modeling Tasks'
-  url: https://openreview.net/forum?id=rXEwxmnGQs
-- authors: Yize Zhao, Tina Behnia, Vala Vakilian, Christos Thrampoulidis
-  oral_spotlight: false
-  title: 'Implicit Geometry of Next-token Prediction: From Language Sparsity Patterns
-    to Model Representations'
-  url: https://openreview.net/forum?id=qyilOnIRHI
-- authors: "Xinpeng Wang, Chengzhi Hu, Bolei Ma, Paul R\xF6ttger, Barbara Plank"
-  oral_spotlight: false
-  title: 'Look at the Text: Instruction-Tuned Language Models are More Robust Multiple
-    Choice Selectors than You Think'
-  url: https://openreview.net/forum?id=qHdSA85GyZ
-- authors: Pengrui Han, Rafal Dariusz Kocielnik, Adhithya Prakash Saravanan, Roy Luoyao
-    Jiang, Or Sharir, Anima Anandkumar
-  oral_spotlight: false
-  title: ChatGPT Based Data Augmentation for Improved Parameter-Efficient Debiasing
-    of LLMs
-  url: https://openreview.net/forum?id=q5Ft9ZJtHm
-- authors: Biqing Qi, Kaiyan Zhang, Kai Tian, Haoxiang Li, Zhang-Ren Chen, Sihang
-    Zeng, Ermo Hua, Hu Jinfang, Bowen Zhou
-  oral_spotlight: false
-  title: 'Large Language Models as Biomedical Hypothesis Generators: A Comprehensive
-    Evaluation'
-  url: https://openreview.net/forum?id=q36rpGlG9X
-- authors: Yike Wang, Shangbin Feng, Heng Wang, Weijia Shi, Vidhisha Balachandran,
-    Tianxing He, Yulia Tsvetkov
-  oral_spotlight: false
-  title: Resolving Knowledge Conflicts in Large Language Models
-  url: https://openreview.net/forum?id=ptvV5HGTNN
-- authors: Yizhe Zhang, Richard He Bai, Ruixiang ZHANG, Jiatao Gu, Shuangfei Zhai,
-    Joshua M. Susskind, Navdeep Jaitly
-  oral_spotlight: false
-  title: How Far Are We from Intelligent Visual Deductive Reasoning?
-  url: https://openreview.net/forum?id=pYEnhZ6NAv
-- authors: Dacheng Li, Rulin Shao, Anze Xie, Eric Xing, Xuezhe Ma, Ion Stoica, Joseph
-    E. Gonzalez, Hao Zhang
-  oral_spotlight: false
-  title: 'DISTFLASHATTN: Distributed Memory-efficient Attention for Long-context LLMs
-    Training'
-  url: https://openreview.net/forum?id=pUEDkZyPDl
-- authors: "Jacob-Junqi Tian, Hao Yu, Yury Orlovskiy, Tyler Vergho, Mauricio Rivera,\
-    \ Mayank Goel, Zachary Yang, Jean-Fran\xE7ois Godbout, Reihaneh Rabbany, Kellin\
-    \ Pelrine"
-  oral_spotlight: false
-  title: Web Retrieval Agents for Evidence-Based Misinformation Detection
-  url: https://openreview.net/forum?id=pKMxO0wBYZ
-- authors: Lin Guan, Yifan Zhou, Denis Liu, Yantian Zha, Heni Ben Amor, Subbarao Kambhampati
-  oral_spotlight: false
-  title: 'Task Success is not Enough: Investigating the Use of Video-Language Models
-    as Behavior Critics for Catching Undesirable Agent Behaviors'
-  url: https://openreview.net/forum?id=otKo4zFKmH
-- authors: Zefeng Wang, Zhen Han, Shuo Chen, Fan Xue, Zifeng Ding, Xun Xiao, Volker
-    Tresp, Philip Torr, Jindong Gu
-  oral_spotlight: false
-  title: Stop Reasoning! When Multimodal LLM with Chain-of-Thought Reasoning Meets
-    Adversarial Image
-  url: https://openreview.net/forum?id=oqYiYG8PtY
-- authors: Devansh Jain, Priyanshu Kumar, Samuel Gehman, Xuhui Zhou, Thomas Hartvigsen,
-    Maarten Sap
-  oral_spotlight: false
-  title: 'PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration
-    in Large Language Models'
-  url: https://openreview.net/forum?id=ootI3ZO6TJ
-- authors: Rosario Uceda Sosa, Karthikeyan Natesan Ramamurthy, Maria Chang, Moninder
-    Singh
-  oral_spotlight: false
-  title: 'Reasoning about concepts with LLMs: Inconsistencies abound'
-  url: https://openreview.net/forum?id=oSG6qGkt1I
-- authors: Matthew Finlayson, Xiang Ren, Swabha Swayamdipta
-  oral_spotlight: false
-  title: Logits of API-Protected LLMs Leak Proprietary Information
-  url: https://openreview.net/forum?id=oRcYFm8vyB
-- authors: Eric Zelikman, Georges Raif Harik, Yijia Shao, Varuna Jayasiri, Nick Haber,
-    Noah Goodman
-  oral_spotlight: false
-  title: 'Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking'
-  url: https://openreview.net/forum?id=oRXPiSOGH9
-- authors: Sainbayar Sukhbaatar, Olga Golovneva, Vasu Sharma, Hu Xu, Xi Victoria Lin,
-    Baptiste Roziere, Jacob Kahn, Shang-Wen Li, Wen-tau Yih, Jason E Weston, Xian
-    Li
-  oral_spotlight: false
-  title: 'Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM'
-  url: https://openreview.net/forum?id=nqLAuMOF6n
-- authors: Zefang Liu, Jiahua Luo
-  oral_spotlight: false
-  title: 'AdaMoLE: Fine-Tuning Large Language Models with Adaptive Mixture of Low-Rank
-    Adaptation Experts'
-  url: https://openreview.net/forum?id=ndY9qFf9Sa
-- authors: Khai Loong Aw, Syrielle Montariol, Badr AlKhamissi, Martin Schrimpf, Antoine
-    Bosselut
-  oral_spotlight: false
-  title: Instruction-tuning Aligns LLMs to the Human Brain
-  url: https://openreview.net/forum?id=nXNN0x4wbl
-- authors: Emmy Liu, Graham Neubig, Jacob Andreas
-  oral_spotlight: false
-  title: 'An Incomplete Loop: Instruction Inference, Instruction Following, and In-Context
-    Learning in Language Models'
-  url: https://openreview.net/forum?id=nUNbjMDBWC
-- authors: Nathan Cornille, Marie-Francine Moens, Florian Mai
-  oral_spotlight: false
-  title: Learning to Plan for Language Modeling from Unlabeled Data
-  url: https://openreview.net/forum?id=nT6fQIidrQ
-- authors: Yang Gao, Dana Alon, Donald Metzler
-  oral_spotlight: false
-  title: Impact of Preference Noise on the Alignment Performance of Generative Language
+  url: https://openreview.net/forum?id=OKvSnV5Ar7
+- title: 'CRABS: A syntactic-semantic pincer strategy for bounding LLM interpretation
+    of Python notebooks'
+  authors: Meng Li, Timothy M. McPhillips, Dingmin Wang, Shin-Rong Tsai, Bertram Ludäscher
+  url: https://openreview.net/forum?id=CB3CeOWo0J
+- title: 'Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in
+    Measuring Personality Design in LLM-based Chatbots'
+  authors: Huiqi Zou, Pengda Wang, Zihan Yan, Tianjun Sun, Ziang Xiao
+  url: https://openreview.net/forum?id=xqIwK9mNkj
+- title: 'News is More than a Collection of Facts: Moral Frame Preserving News Summarization'
+  authors: Enrico Liscio, Michela Lorandi, Pradeep K. Murukannaiah
+  url: https://openreview.net/forum?id=uzauWUW9u3
+- title: 'VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding
+    Manipulation'
+  authors: Ziang Ye, Yang Zhang, Wentao Shi, Xiaoyu You, Fuli Feng, Tat-Seng Chua
+  url: https://openreview.net/forum?id=7HPuAkgdVm
+- title: Transformers are Efficient Compilers, Provably
+  authors: Xiyu Zhai, Runlong Zhou, Liao Zhang, Simon Shaolei Du
+  url: https://openreview.net/forum?id=CaWkEqUjxs
+- title: 'The Devil is in the EOS: Sequence Training for Detailed Image Captioning'
+  authors: Abdelrahman Mohamed, Yova Kementchedjhieva
+  url: https://openreview.net/forum?id=oSub7DiyjL
+- title: Evaluating LLMs on Chinese Idiom Translation
+  authors: Cai Yang, Yao Dou, David Heineman, Xiaofeng Wu, Wei Xu
+  url: https://openreview.net/forum?id=dkE5rveDuh
+- title: Towards User-level Private Reinforcement Learning with Human Feedback
+  authors: Jiaming Zhang, Mingxi Lei, Meng Ding, Mengdi Li, Zihang Xiang, Difei Xu,
+    Jinhui Xu, Di Wang
+  url: https://openreview.net/forum?id=tfriX0r2Sg
+- title: 'How Multimodal LLMs Solve Image Tasks: A Lens on Visual Grounding, Task
+    Reasoning, and Answer Decoding'
+  authors: Zhuoran Yu, Yong Jae Lee
+  url: https://openreview.net/forum?id=kjNJYWvfPA
+- title: 'CALLME: Call Graph Augmentation with Large Language Models for Javascript'
+  authors: Michael Wang, Kexin Pei, Armando Solar-Lezama
+  url: https://openreview.net/forum?id=xZi2rMUcAO
+- title: 'VideoSAVi: Self-Aligned Video Language Models without Human Supervision'
+  authors: Yogesh Kulkarni, Pooyan Fazli
+  url: https://openreview.net/forum?id=ybcZEWaM7U
+- title: 'AutoScale: Scale-Aware Data Mixing for Pre-Training LLMs'
+  authors: Feiyang Kang, Yifan Sun, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood,
+    Ruoxi Jia
+  url: https://openreview.net/forum?id=rujwIvjooA
+- title: Correctness-Guaranteed Code Generation via Constrained Decoding
+  authors: Lingxiao Li, salar rahili, Yiwei Zhao
+  url: https://openreview.net/forum?id=CYiXNIQegF
+- title: 'PolyGuard: A Multilingual Safety Moderation Tool for 17 Languages'
+  authors: Priyanshu Kumar, Devansh Jain, Akhila Yerukola, Liwei Jiang, Himanshu Beniwal,
+    Thomas Hartvigsen, Maarten Sap
+  url: https://openreview.net/forum?id=wbAWKXNeQ4
+- title: 'Traceable and Explainable Multimodal Large Language Models: An Information-Theoretic
+    View'
+  authors: Zihan Huang, Junda Wu, Rohan Surana, Raghav Jain, Tong Yu, Raghavendra
+    Addanki, David Arbour, Sungchul Kim, Julian McAuley
+  url: https://openreview.net/forum?id=pQm66IPmeE
+- title: 'LawFlow : Collecting and Simulating Lawyers'' Thought Processes'
+  authors: Debarati Das, Khanh Chi Le, Ritik Sachin Parkar, Karin De Langis, Brendan
+    Madson, Chad M. Berryman, Robin M Willis, Daniel H Moses, Brett McDonnell, Daniel
+    Schwarcz, Dongyeop Kang
+  url: https://openreview.net/forum?id=MsgdEkcLRz
+- title: Adaptive Layer-skipping in Pre-trained LLMs
+  authors: Xuan Luo, Weizhi Wang, Xifeng Yan
+  url: https://openreview.net/forum?id=Gu0XSax2YS
+- title: 'NoveltyBench: Evaluating Creativity and Diversity in Language Models'
+  authors: Yiming Zhang, Harshita Diddee, Susan Holm, Hanchen Liu, Xinyue Liu, Vinay
+    Samuel, Barry Wang, Daphne Ippolito
+  url: https://openreview.net/forum?id=XZm1ekzERf
+- title: 'Rhapsody: A Dataset for Highlight Detection in Podcasts'
+  authors: Younghan Park, Anuj Diwan, David Harwath, Eunsol Choi
+  url: https://openreview.net/forum?id=oKdVFxngy1
+- title: 'Spike No More: Stabilizing the Pre-training of Large Language Models'
+  authors: Sho Takase, Shun Kiyono, Sosuke Kobayashi, Jun Suzuki
+  url: https://openreview.net/forum?id=52YBEzcI0l
+- title: LLM-based Multi-Agents System Attack via Continuous Optimization with Discrete
+    Efficient Search
+  authors: Weichen Yu, Kai Hu, Tianyu Pang, Chao Du, Min Lin, Matt Fredrikson
+  url: https://openreview.net/forum?id=ED5diyzc1C
+- title: Investigating Intersectional Bias in Large Language Models using Confidence
+    Disparities in Coreference Resolution
+  authors: Falaah Arif Khan, Nivedha Sivakumar, Yinong Oliver Wang, Katherine Metcalf,
+    Cezanne Camacho, Barry-John Theobald, Luca Zappella, Nicholas Apostoloff
+  url: https://openreview.net/forum?id=zOw2it5Ni6
+- title: How do language models learn facts? Dynamics, curricula and hallucinations
+  authors: Nicolas Zucchet, Jörg Bornschein, Stephanie C.Y. Chan, Andrew Kyle Lampinen,
+    Razvan Pascanu, Soham De
+  url: https://openreview.net/forum?id=vBcGnragkr
+- title: Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning
+  authors: Chengqi Lyu, Songyang Gao, Yuzhe Gu, Wenwei Zhang, Jianfei Gao, Kuikun
+    Liu, Ziyi Wang, Shuaibin Li, Qian Zhao, Haian Huang, Weihan Cao, Jiangning Liu,
+    Hongwei Liu, Junnan Liu, Songyang Zhang, Dahua Lin, Kai Chen
+  url: https://openreview.net/forum?id=hLg2rzBJR2
+- title: Training Plug-and-Play Knowledge Modules with Deep Context Distillation
+  authors: Lucas Caccia, Alan Ansell, Edoardo Ponti, Ivan Vulić, Alessandro Sordoni
+  url: https://openreview.net/forum?id=ghyyHZYORi
+- title: 'SUV: Scalable Large Language Model Copyright Compliance with Regularized
+    Selective Unlearning'
+  authors: Tianyang Xu, Xiaoze Liu, Feijie Wu, Xiaoqian Wang, Jing Gao
+  url: https://openreview.net/forum?id=2YdSsi0bxK
+- title: 'M²IV: Towards Efficient and Fine-grained Multimodal In-Context Learning
+    in Large Vision-Language Models'
+  authors: Yanshu Li, Hongyang He, Yi Cao, Qisen Cheng, Xiang Fu, Xi Xiao, Tianyang
+    Wang, Ruixiang Tang
+  url: https://openreview.net/forum?id=9ffYcEiNw9
+- title: Learning to Generate Unit Tests for Automated Debugging
+  authors: Archiki Prasad, Elias Stengel-Eskin, Justin Chen, Zaid Khan, Mohit Bansal
+  url: https://openreview.net/forum?id=yeVBHPLXxi
+- title: 'MixAssist: An Audio-Language Dataset for Co-Creative AI Assistance in Music
+    Mixing'
+  authors: Michael Paul Clemens, Ana Marasovic
+  url: https://openreview.net/forum?id=5mICyyD4OF
+- title: 'SEAL: Steerable Reasoning Calibration of Large Language Models for Free'
+  authors: Runjin Chen, Zhenyu Zhang, Junyuan Hong, Souvik Kundu, Zhangyang Wang
+  url: https://openreview.net/forum?id=klPszYDIRT
+- title: CASCADE Your Datasets for Cross-Mode Knowledge Retrieval of Language Models
+  authors: Runlong Zhou, Yi Zhang
+  url: https://openreview.net/forum?id=EJGlOybbDB
+- title: Can A Society of Generative Agents Simulate Human Behavior and Inform Public
+    Health Policy? A Case Study on Vaccine Hesitancy
+  authors: Abe Bohan Hou, Hongru Du, Yichen Wang, Jingyu Zhang, Zixiao Wang, Paul
+    Pu Liang, Daniel Khashabi, Lauren M Gardner, Tianxing He
+  url: https://openreview.net/forum?id=zSbecER9il
+- title: Streaming DiLoCo with overlapping communication
+  authors: Arthur Douillard, Yani Donchev, J Keith Rush, Satyen Kale, Zachary Charles,
+    Gabriel Teston, Zachary Garrett, Jiajun Shen, Ross McIlroy, David Lacey, Alexandre
+    Rame, Arthur Szlam, MarcAurelio Ranzato, Paul R Barham
+  url: https://openreview.net/forum?id=yYk3zK0X6Q
+- title: AI-Slop to AI-Polish? Aligning Language Models through Edit-Based Writing
+    Rewards and Test-time computation
+  authors: Tuhin Chakrabarty, Philippe Laban, Chien-Sheng Wu
+  url: https://openreview.net/forum?id=jeDYcjuZIV
+- title: Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts
+  authors: Samin Yeasar Arnob, Zhan Su, Minseon Kim, Oleksiy Ostapenko, Riyasat Ohib,
+    Esra'a Saleh, Doina Precup, Lucas Caccia, Alessandro Sordoni
+  url: https://openreview.net/forum?id=te7UC87Zbw
+- title: 'Hell or High Water: Can Language Model Agents Formulate Backup Plans?'
+  authors: Andrew Wang, Sophia Hager, Adi Asija, Daniel Khashabi, Nicholas Andrews
+  url: https://openreview.net/forum?id=Zk224WPT42
+- title: On the Effectiveness and Generalization of Race Representations for Debiasing
+    High-Stakes Decisions
+  authors: Dang Nguyen, Chenhao Tan
+  url: https://openreview.net/forum?id=DDtwtoAMjA
+- title: Supposedly Equivalent Facts That Aren’t? Entity Frequency in Pre-training
+    Induces Asymmetry in LLMs
+  authors: Yuan He, Bailan He, Zifeng Ding, Alisia Maria Lupidi, Yuqicheng Zhu, Shuo
+    Chen, Caiqi Zhang, Jiaoyan Chen, Yunpu Ma, Volker Tresp, Ian Horrocks
+  url: https://openreview.net/forum?id=sX4OoLKSW2
+- title: 'HyperINF: Unleashing the HyperPower of Schulz''s Method for Data Influence
+    Estimation'
+  authors: Xinyu Zhou, Simin Fan, Martin Jaggi
+  url: https://openreview.net/forum?id=QByEdZMJdx
+- title: Shared Global and Local Geometry of Language Model Embeddings
+  authors: Andrew Lee, Melanie Weber, Fernanda Viégas, Martin Wattenberg
+  url: https://openreview.net/forum?id=aJDykpJAYF
+- title: 'EvalTree: Profiling Language Model Weaknesses via Hierarchical Capability
+    Trees'
+  authors: Zhiyuan Zeng, Yizhong Wang, Hannaneh Hajishirzi, Pang Wei Koh
+  url: https://openreview.net/forum?id=aV2hQN9vkp
+- title: Cascade Reward Sampling for Efficient Decoding-Time Alignment
+  authors: Bolian Li, Yifan Wang, Anamika Lochab, Ananth Grama, Ruqi Zhang
+  url: https://openreview.net/forum?id=QBmxLlmRYG
+- title: 'Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability
+    for Compression'
+  authors: Hanqi Xiao, Yi-Lin Sung, Elias Stengel-Eskin, Mohit Bansal
+  url: https://openreview.net/forum?id=a201nfn3xX
+- title: 'Recycling the Web: A Method to Enhance Pre-training Data Quality and Quantity
+    for Language Models'
+  authors: Thao Nguyen, Yang Li, Olga Golovneva, Luke Zettlemoyer, Sewoong Oh, Ludwig
+    Schmidt, Xian Li
+  url: https://openreview.net/forum?id=lkjhBdz3rn
+- title: Energy-Based Reward Models for Robust Language Model Alignment
+  authors: Anamika Lochab, Ruqi Zhang
+  url: https://openreview.net/forum?id=x6evCULIOQ
+- title: 'Values in the Wild: Discovering and Mapping Values in Real-World Language
+    Model Interactions'
+  authors: Saffron Huang, Esin DURMUS, Kunal Handa, Miles McCain, Alex Tamkin, Michael
+    Stern, Jerry Hong, Deep Ganguli
+  url: https://openreview.net/forum?id=zJHZJClG1Z
+- title: Backdoor Attacks on Dense Passage Retrievers for Disseminating Misinformation
+  authors: Quanyu Long, Yue Deng, Leilei Gan, Wenya Wang, Sinno Jialin Pan
+  url: https://openreview.net/forum?id=RsnxggqW4l
+- title: 'MegaMath: Pushing the Limits of Open Math Corpora'
+  authors: Fan Zhou, Zengzhi Wang, Nikhil Ranjan, Zhoujun Cheng, Liping Tang, Guowei
+    He, Zhengzhong Liu, Eric Xing
+  url: https://openreview.net/forum?id=SHB0sLrZrh
+- title: 'SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?'
+  authors: Jianzhu Yao, Kevin Wang, Ryan Hsieh, Haisu Zhou, Tianqing Zou, Zerui Cheng,
+    Zhangyang Wang, Pramod Viswanath
+  url: https://openreview.net/forum?id=mgsS73kvOA
+- title: 'Plancraft: an evaluation dataset for planning with LLM agents'
+  authors: Gautier Dagan, Frank Keller, Alex Lascarides
+  url: https://openreview.net/forum?id=nSV8Depcpx
+- title: Exploring Large Language Model Agents for Piloting Social Experiments
+  authors: Jinghua Piao, Yuwei Yan, Nian Li, Jun Zhang, Yong Li
+  url: https://openreview.net/forum?id=I95XCwHdSE
+- title: 'EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline'
+  authors: Peter Baile Chen, Tomer Wolfson, Mike Cafarella, Dan Roth
+  url: https://openreview.net/forum?id=wyYL5Jov6e
+- title: Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs
+  authors: Dongyang Fan, Vinko Sabolčec, Ayush Kumar Tarun, Matin Ansaripour, Imanol
+    Schlag, Antoine Bosselut, Martin Jaggi
+  url: https://openreview.net/forum?id=a6QsOjr3wo
+- title: 'Resona: Improving Context Copying in Linear Recurrence Models with Retrieval'
+  authors: Xinyu Wang, Linrui Ma, Jerry Huang, Peng Lu, Prasanna Parthasarathi, Xiao-Wen
+    Chang, Boxing Chen, Yufei Cui
+  url: https://openreview.net/forum?id=4mxQmpnawk
+- title: A Survey on Personalized and Pluralistic Preference Alignment in Large Language
     Models
-  url: https://openreview.net/forum?id=nMAaCsCTCI
-- authors: Haojie Duanmu, Zhihang Yuan, Xiuhong Li, Jiangfei Duan, Xingcheng ZHANG,
-    Dahua Lin
-  oral_spotlight: true
-  title: 'SKVQ: Sliding-window Key and Value Cache Quantization for Large Language
+  authors: Zhouhang Xie, Junda Wu, Yiran Jenny Shen, Raghav Jain, Yu Xia, Xintong
+    Li, Aaron Chang, Ryan A. Rossi, Tong Yu, Sachin Kumar, Bodhisattwa Prasad Majumder,
+    Jingbo Shang, Prithviraj Ammanabrolu, Julian McAuley
+  url: https://openreview.net/forum?id=lSWOMjonL7
+- title: 'Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven Approach
+    to QA Benchmarks'
+  authors: Linbo Cao, Jinman Zhao
+  url: https://openreview.net/forum?id=Pdyh3USc2A
+- title: Inducing Programmatic Skills for Agentic Tasks
+  authors: Zora Zhiruo Wang, Apurva Gandhi, Graham Neubig, Daniel Fried
+  url: https://openreview.net/forum?id=lsAY6fWsog
+- title: 'SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching'
+  authors: Yuxuan Zhu, Ali Falahati, David H. Yang, Mohammad Mohammadi Amiri
+  url: https://openreview.net/forum?id=HyPeYU9JR6
+- title: 'FineWeb2: One Pipeline to Scale Them All — Adapting Pre-Training Data Processing
+    to Every Language'
+  authors: Guilherme Penedo, Hynek Kydlíček, Vinko Sabolčec, Bettina Messmer, Negar
+    Foroutan, Amir Hossein Kargaran, Colin Raffel, Martin Jaggi, Leandro Von Werra,
+    Thomas Wolf
+  url: https://openreview.net/forum?id=jnRBe6zatP
+- title: 'MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media
+    Videos'
+  authors: Laura De Grazia, Pol Pastells, Mauro Vázquez Chas, Desmond Elliott, Danae
+    Sanchez Villegas, Mireia Farrús, Mariona Taulé Delor
+  url: https://openreview.net/forum?id=eSAv7GKVFt
+- title: 'AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories'
+  authors: Xing Han Lù, Amirhossein Kazemnejad, Nicholas Meade, Arkil Patel, Dongchan
+    Shin, Alejandra Zambrano, Karolina Stanczak, Peter Shaw, Christopher Pal, Siva
+    Reddy
+  url: https://openreview.net/forum?id=fQcUZMPIvu
+- title: 'UTF-8 Plumbing: Resolving Leaky Abstractions in Unicode for Subword Tokenization'
+  authors: Preston Firestone, Shubham Ugare, Gagandeep Singh, Sasa Misailovic
+  url: https://openreview.net/forum?id=8ExXncFpf6
+- title: 'RADLADS: Rapid Attention Distillation to Linear Attention Decoders at Scale'
+  authors: Daniel Goldstein, Eric Alcaide, Janna Lu, Eugene Cheah
+  url: https://openreview.net/forum?id=38GehGepDd
+- title: 'Refusal Tokens: A Simple Way to Calibrate Refusals in Large Language Models'
+  authors: Neel Jain, Aditya Shrivastava, Chenyang Zhu, Daben Liu, Alfy Samuel, Ashwinee
+    Panda, Anoop Kumar, Micah Goldblum, Tom Goldstein
+  url: https://openreview.net/forum?id=Pbs4i3FgbD
+- title: 'Don’t lie to your friends: Learning what you know from collaborative self-play'
+  authors: Jacob Eisenstein, Reza Aghajani, Adam Fisch, Dheeru Dua, Fantine Huot,
+    Mirella Lapata, Vicky Zayats, Jonathan Berant
+  url: https://openreview.net/forum?id=2vDJiGUfhV
+- title: 'Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and
+    Personalized Responses at Scale'
+  authors: Bowen Jiang, Zhuoqun Hao, Young Min Cho, Bryan Li, Yuan Yuan, Sihao Chen,
+    Lyle Ungar, Camillo Jose Taylor, Dan Roth
+  url: https://openreview.net/forum?id=6ox8XZGOqP
+- title: A Comprehensive Overhaul of Parameter-Efficient Knowledge Unlearning for
+    LLMs
+  authors: Yejin Kim, Eunwon Kim, Buru Chang, Junsuk Choe
+  url: https://openreview.net/forum?id=mTJW8Y1nd8
+- title: 'MS-SSM: A Multi-Scale State Space Model for Efficient Sequence Modeling'
+  authors: Mahdi Karami, Ali Behrouz, Peilin Zhong, Razvan Pascanu, Vahab Mirrokni
+  url: https://openreview.net/forum?id=cCYWeCzAv0
+- title: Layers at Similar Depths Generate Similar Activations Across LLM Architectures
+  authors: Christopher Wolfram, Aaron Schein
+  url: https://openreview.net/forum?id=8wKec6faAT
+- title: Context-Adaptive Multi-Prompt Embedding with Large Language Models for Vision-Language
+    Alignment
+  authors: Dahun Kim, Anelia Angelova
+  url: https://openreview.net/forum?id=29jP6OsrIQ
+- title: Evaluating the Diversity and Quality of LLM Generated Content
+  authors: Alexander Shypula, Shuo Li, Botong Zhang, Vishakh Padmakumar, Kayo Yin,
+    Osbert Bastani
+  url: https://openreview.net/forum?id=O7bF6nlSOD
+- title: CoLa - Learning to Interactively $\underline{Co}$llaborate with $\underline{L}$arge
+    L$\underline{a}$nguage Models
+  authors: Abhishek Sharma, Dan Goldwasser
+  url: https://openreview.net/forum?id=pm9ykfhknK
+- title: Detecting and Pruning Prominent but Detrimental Neurons in Large Language
+    Models
+  authors: Ameen Ali Ali, Shahar Katz, Lior Wolf, Ivan Titov
+  url: https://openreview.net/forum?id=cRE1XrHf1h
+- title: Visual Representations inside the Language Model
+  authors: Benlin Liu, Amita Kamath, Madeleine Grunde-McLaughlin, Winson Han, Ranjay
+    Krishna
+  url: https://openreview.net/forum?id=99e72TkWTi
+- title: 'LV-Eval: A Balanced Long-Context Benchmark with 5 Length Levels Up to 256K'
+  authors: Tao Yuan, Xuefei Ning, Dong Zhou, Zhijie Yang, Shiyao Li, Minghui Zhuang,
+    Zheyue Tan, Zhuyu Yao, Dahua Lin, Boxun Li, Guohao Dai, Shengen Yan, Yu Wang
+  url: https://openreview.net/forum?id=r0AXK5Cnhr
+- title: 'SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths'
+  authors: Kaixuan Huang, Xudong Guo, Mengdi Wang
+  url: https://openreview.net/forum?id=Y131N9fUbU
+- title: 'Task Vectors in In-Context Learning: Emergence, Formation, and Benefits'
+  authors: Liu Yang, Ziqian Lin, Kangwook Lee, Dimitris Papailiopoulos, Robert D Nowak
+  url: https://openreview.net/forum?id=lODGn1Rp5t
+- title: 'SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models
+    for Long-Form Video Understanding'
+  authors: Mingze Xu, Mingfei Gao, Shiyu Li, Jiasen Lu, Zhe Gan, Zhengfeng Lai, Meng
+    Cao, Kai Kang, Yinfei Yang, Afshin Dehghan
+  url: https://openreview.net/forum?id=L7jS3peM3w
+- title: 'One Equals Many: Model Collaboration for Efficient Reasoning'
+  authors: Jianshu She, Zhuohao Li, Zhemin Huang, Qi Li, Peiran Xu, Haonan Li, Qirong
+    Ho
+  url: https://openreview.net/forum?id=bdCWK4NkK7
+- title: 'MapIQ: Evaluating Multimodal Large Language Models for Map Question Answering'
+  authors: Varun Srivastava, Fan Lei, Srija Mukhopadhyay, Vivek Gupta, Ross Maciejewski
+  url: https://openreview.net/forum?id=VSwRuGtB5n
+- title: 'SmolLM2: When Smol Goes Big — Data-Centric Training of a Fully Open Small
+    Language Model'
+  authors: Loubna Ben allal, Anton Lozhkov, Elie Bakouch, Gabriel Martin Blazquez,
+    Guilherme Penedo, Lewis Tunstall, Andrés Marafioti, Agustín Piqueres Lajarín,
+    Hynek Kydlíček, Vaibhav Srivastav, Joshua Lochner, Caleb Fahlgren, Xuan Son NGUYEN,
+    Ben Burtenshaw, Clémentine Fourrier, Haojun Zhao, Hugo Larcher, Mathieu Morlon,
+    Cyril Zakka, Colin Raffel, Leandro Von Werra, Thomas Wolf
+  url: https://openreview.net/forum?id=3JiCl2A14H
+- title: 'Partial Perspectives: How LLMs Handle Logically Inconsistent Knowledge in
+    Reasoning Tasks'
+  authors: Zichao Li, Ines Arous, Jackie CK Cheung
+  url: https://openreview.net/forum?id=9pzNFfgtyk
+- title: 'DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding'
+  authors: Hossein Entezari Zarch, Lei Gao, Chaoyi Jiang, Murali Annavaram
+  url: https://openreview.net/forum?id=cAFxSuXQvT
+- title: 'NoWag: A Unified Framework for Shape Preserving Com- pression of Large Language
     Models'
-  url: https://openreview.net/forum?id=nI6JyFSnyV
-- authors: Alex Troy Mallen, Madeline Brumley, Julia Kharchenko, Nora Belrose
-  oral_spotlight: false
-  title: Eliciting Latent Knowledge from "Quirky" Language Models
-  url: https://openreview.net/forum?id=nGCMLATBit
-- authors: Yoonsang Lee, Xi Ye, Eunsol Choi
-  oral_spotlight: false
-  title: 'AmbigDocs: Reasoning across Documents on Different Entities under the Same
-    Name'
-  url: https://openreview.net/forum?id=mkYCfO822n
-- authors: Zengzhi Wang, Qiming Xie, Yi Feng, Zixiang Ding, Zinong Yang, Rui Xia
-  oral_spotlight: false
-  title: Is ChatGPT a Good Sentiment Analyzer?
-  url: https://openreview.net/forum?id=mUlLf50Y6H
-- authors: Sheikh Shafayat, Eunsu Kim, Juhyun Oh, Alice Oh
-  oral_spotlight: false
-  title: 'Multi-FAct: Assessing Factuality of Multilingual LLMs using FActScore'
-  url: https://openreview.net/forum?id=lkrH6ovzsj
-- authors: Bang An, Sicheng Zhu, Ruiyi Zhang, Michael-Andrei Panaitescu-Liess, Yuancheng
-    Xu, Furong Huang
-  oral_spotlight: false
-  title: Automatic Pseudo-Harmful Prompt Generation for Evaluating False Refusals
-    in Large Language Models
-  url: https://openreview.net/forum?id=ljFgX6A8NL
-- authors: Botao Yu, Frazier N. Baker, Ziqi Chen, Xia Ning, Huan Sun
-  oral_spotlight: false
-  title: 'LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale,
-    Comprehensive, High-Quality Instruction Tuning Dataset'
-  url: https://openreview.net/forum?id=lY6XTF9tPv
-- authors: Yilun Hua, Yoav Artzi
-  oral_spotlight: false
-  title: 'Talk Less, Interact Better: Evaluating In-context Conversational Adaptation
-    in Multimodal LLMs'
-  url: https://openreview.net/forum?id=lVOw78nYXS
-- authors: Hongshen Xu, Zichen Zhu, Situo Zhang, Da Ma, Shuai Fan, Lu Chen, Kai Yu
-  oral_spotlight: false
-  title: 'Rejection Improves Reliability: Training LLMs to Refuse Unknown Questions
-    Using RL from Knowledge Feedback'
-  url: https://openreview.net/forum?id=lJMioZBoR8
-- authors: Laida Kushnareva, Tatiana Gaintseva, Dmitry Abulkhanov, Kristian Kuznetsov,
-    German Magai, Eduard Tulchinskii, Serguei Barannikov, Sergey Nikolenko, Irina
-    Piontkovskaya
-  oral_spotlight: true
-  title: AI-generated text boundary detection with RoFT
-  url: https://openreview.net/forum?id=kzzwTrt04Z
-  outstanding_award: true
-- authors: Weilin Zhao, Yuxiang Huang, Xu Han, Zhiyuan Liu, Zhengyan Zhang, Kuai Li,
-    Chen Chen, TAO YANG, Maosong Sun
-  oral_spotlight: false
-  title: 'CA-LoRA: Adapting Existing LoRA for Compressed LLMs to Enable Efficient
-    Multi-Tasking on Personal Devices'
-  url: https://openreview.net/forum?id=kpf7UbnSAm
-- authors: Jiacheng Liu, Andrew Cohen, Ramakanth Pasunuru, Yejin Choi, Hannaneh Hajishirzi,
-    Asli Celikyilmaz
-  oral_spotlight: false
-  title: Don't throw away your value model! Generating more preferable text with Value-Guided
-    Monte-Carlo Tree Search decoding
-  url: https://openreview.net/forum?id=kh9Zt2Ldmn
-- authors: Tianhua Tao, Junbo Li, Bowen Tan, Hongyi Wang, William Marshall, Bhargav
-    M Kanakiya, Joel Hestness, Natalia Vassilieva, Zhiqiang Shen, Eric Xing, Zhengzhong
-    Liu
-  oral_spotlight: false
-  title: 'Crystal: Illuminating LLM Abilities on Language and Code'
-  url: https://openreview.net/forum?id=kWnlCVcp6o
-- authors: Aida Mostafazadeh Davani, Sagar Gubbi Venkatesh, Sunipa Dev, Shachi Dave,
-    Vinodkumar Prabhakaran
-  oral_spotlight: true
-  title: 'GeniL: A Multilingual Dataset on Generalizing Language'
-  url: https://openreview.net/forum?id=kLH4ccaL21
-- authors: Cheng-Ping Hsieh, Simeng Sun, Samuel Kriman, Shantanu Acharya, Dima Rekesh,
-    Fei Jia, Boris Ginsburg
-  oral_spotlight: false
-  title: "RULER: What\u2019s the Real Context Size of Your Long-Context Language Models?"
-  url: https://openreview.net/forum?id=kIoBbc76Sy
-- authors: Shengyi Huang, Michael Noukhovitch, Arian Hosseini, Kashif Rasul, Weixun
-    Wang, Lewis Tunstall
-  oral_spotlight: false
-  title: 'The N+ Implementation Details of RLHF with PPO: A Case Study on TL;DR Summarization'
-  url: https://openreview.net/forum?id=kHO2ZTa8e3
-- authors: Quan Shi, Michael Tang, Karthik R Narasimhan, Shunyu Yao
-  oral_spotlight: false
-  title: Can Language Models Solve Olympiad Programming?
-  url: https://openreview.net/forum?id=kGa4fMtP9l
-- authors: Rafael Rafailov, Joey Hejna, Ryan Park, Chelsea Finn
-  oral_spotlight: false
-  title: 'From $r$ to $Q^*$: Your Language Model is Secretly a Q-Function'
-  url: https://openreview.net/forum?id=kEVcNxtqXk
-- authors: Moy Yuan, Eric Chamoun, Rami Aly, Chenxi Whitehouse, Andreas Vlachos
-  oral_spotlight: false
-  title: 'PRobELM: Plausibility Ranking Evaluation for Language Models'
-  url: https://openreview.net/forum?id=k8KS9Ps71d
-- authors: Neel Jain, Khalid Saifullah, Yuxin Wen, John Kirchenbauer, Manli Shu, Aniruddha
-    Saha, Micah Goldblum, Jonas Geiping, Tom Goldstein
-  oral_spotlight: false
-  title: Bring Your Own Data! Self-Sensitivity Evaluation for Large Language Models
-  url: https://openreview.net/forum?id=k2xZYPZo34
-- authors: Yuchen Zeng, Wonjun Kang, Yicong Chen, Hyung Il Koo, Kangwook Lee
-  oral_spotlight: false
-  title: Can MLLMs Perform Text-to-Image In-Context Learning?
-  url: https://openreview.net/forum?id=jt0R50d5nk
-- authors: Yu Li, Han Jiang, Chuanyang Gong, Zhihua Wei
-  oral_spotlight: false
-  title: 'DeStein: Navigating Detoxification of Language Models via Universal Steering
-    Pairs and Head-wise Activation Fusion'
-  url: https://openreview.net/forum?id=jq2kNXigPP
-- authors: Hung-Ting Chen, Fangyuan Xu, Shane Arora, Eunsol Choi
-  oral_spotlight: false
-  title: Understanding Retrieval Augmentation for Long-Form Question Answering
-  url: https://openreview.net/forum?id=j3AAkO5xgr
-- authors: Zhen Qin, Junru Wu, Jiaming Shen, Tianqi Liu, Xuanhui Wang
-  oral_spotlight: false
-  title: 'LAMPO: Large Language Models as Preference Machines for Few-shot Ordinal
-    Classification'
-  url: https://openreview.net/forum?id=ig6NI9oPhD
-- authors: Yadong Zhang, Shaoguang Mao, Tao Ge, Xun Wang, Yan Xia, Wenshan Wu, Ting
-    Song, Man Lan, Furu Wei
-  oral_spotlight: false
-  title: 'LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language
+  authors: Lawrence Liu, Inesh Chakrabarti, Yixiao Li, Mengdi Wang, Tuo Zhao, Lin
+    F. Yang
+  url: https://openreview.net/forum?id=EfTuzTijDo
+- title: 'The Zero Body Problem: Probing LLM Use of Sensory Language'
+  authors: Rebecca M. M. Hicke, Sil Hamilton, David Mimno
+  url: https://openreview.net/forum?id=vv1ZyQF8LD
+- title: 'Beyond Blanket Masking: Examining Granularity for Privacy Protection in
+    Images Captured by Blind and Low Vision Users'
+  authors: Jeffri Murrugarra-Llerena, Haoran Niu, K. Suzanne Barber, Hal Daumé III,
+    Yang Trista Cao, Paola Cascante-Bonilla
+  url: https://openreview.net/forum?id=hLjoekkPiJ
+- title: Scaling Analysis of Interleaved Speech-Text Language Models
+  authors: Gallil Maimon, Michael Hassid, Amit Roth, Yossi Adi
+  url: https://openreview.net/forum?id=IXwgE8hyJs
+- title: 'CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images
+    and Contextualized Captions'
+  authors: Yuchen Huang, Zhiyuan Fan, Zhitao He, Sandeep Polisetty, Wenyan Li, Yi
+    R. Fung
+  url: https://openreview.net/forum?id=cWVpXWARbt
+- title: 'ReLeak: RL-based Red-teaming for LLM Privacy Leakage'
+  authors: Yuzhou Nie, Zhun Wang, Ye Yu, Xian Wu, Xuandong Zhao, Nathaniel D. Bastian,
+    Wenbo Guo, Dawn Song
+  url: https://openreview.net/forum?id=WIfns41MAb
+- title: 'Zero-shot Benchmarking: A Framework for Flexible and Scalable Automatic
+    Evaluation of Language Models'
+  authors: José Pombal, Nuno M Guerreiro, Ricardo Rei, Andre Martins
+  url: https://openreview.net/forum?id=WARZwyDf17
+- title: One-shot Optimized Steering Vectors Mediate Safety-relevant Behaviors in
+    LLMs
+  authors: Jacob Dunefsky, Arman Cohan
+  url: https://openreview.net/forum?id=teW4nIZ1gy
+- title: LLM Unlearning Without an Expert Curated Dataset
+  authors: Xiaoyuan Zhu, Muru Zhang, Ollie Liu, Robin Jia, Willie Neiswanger
+  url: https://openreview.net/forum?id=m4F3kQCfGX
+- title: 'ADAPT: Actively Discovering and Adapting to Preferences for any Task'
+  authors: Maithili Patel, Xavier Puig, Ruta Desai, Roozbeh Mottaghi, Sonia Chernova,
+    Joanne Truong, Akshara Rai
+  url: https://openreview.net/forum?id=Z8vtD1egtI
+- title: Sharpe Ratio-Guided Active Learning for Preference Optimization in RLHF
+  authors: Syrine Belakaria, Joshua Kazdan, Charles Marx, Chris Cundy, Willie Neiswanger,
+    Sanmi Koyejo, Barbara Engelhardt, Stefano Ermon
+  url: https://openreview.net/forum?id=a6xzTqMUFQ
+- title: 'MeMAD: Structured Memory of Debates for Enhanced Multi-Agent Reasoning'
+  authors: Shuai Ling, Lizi Liao, Dongmei Jiang, Weili Guan
+  url: https://openreview.net/forum?id=zLbmsdyTiN
+- title: Resource-efficient Inference with Foundation Model Programs
+  authors: Lunyiu Nie, Zhimin Ding, Kevin Yu, Marco Cheung, Chris Jermaine, Swarat
+    Chaudhuri
+  url: https://openreview.net/forum?id=C5mb473GMY
+- title: Have Large Language Models Learned to Reason? A Characterization via 3-SAT
+  authors: RISHI HAZRA, Gabriele Venturato, Pedro Zuidberg Dos Martires, Luc De Raedt
+  url: https://openreview.net/forum?id=MPTlWIVSMU
+- title: Meta-Learning for Speeding Up Large Model Inference in Decentralized Environments
+  authors: Yipeng Du, Zihao Wang, Ahmad Farhan, Claudio Angione, Harry Yang, Fielding
+    Johnston, James P. Buban, Yue Zhao, Yuzhe Yang
+  url: https://openreview.net/forum?id=eLWn2XVMHA
+- title: Efficient Construction of Model Family through Progressive Training Using
+    Model Expansion
+  authors: Kazuki Yano, Sho Takase, Sosuke Kobayashi, Shun Kiyono, Jun Suzuki
+  url: https://openreview.net/forum?id=fuBrcTH8NM
+- title: Probing then Editing Response Personality of Large Language Models
+  authors: Tianjie Ju, Zhenyu Shao, Bowen Wang, Yujia Chen, Zhuosheng Zhang, Hao Fei,
+    Mong-Li Lee, Wynne Hsu, Sufeng Duan, Gongshen Liu
+  url: https://openreview.net/forum?id=z9SbcYYP0M
+- title: Out-of-Distribution Detection using Synthetic Data Generation
+  authors: Momin Abbas, Muneeza Azmat, Raya Horesh, Mikhail Yurochkin
+  url: https://openreview.net/forum?id=TiRiDMkTmG
+- title: Defending LLM Watermarking Against Spoofing Attacks with Contrastive Representation
+    Learning
+  authors: Li An, Yujian Liu, Yepeng Liu, Yang Zhang, Yuheng Bu, Shiyu Chang
+  url: https://openreview.net/forum?id=n5hmtkdl7k
+- title: Benchmarking Retrieval-Augmented Generation for Chemistry
+  authors: Xianrui Zhong, Bowen Jin, Siru Ouyang, Yanzhen Shen, Qiao Jin, Yin Fang,
+    Zhiyong Lu, Jiawei Han
+  url: https://openreview.net/forum?id=qG4dL0bart
+- title: Scaling Laws of Synthetic Data for Language Model
+  authors: Zeyu Qin, Qingxiu Dong, Xingxing Zhang, Li Dong, Xiaolong Huang, Ziyi Yang,
+    MAHMOUD KHADEMI, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen,
+    Minhao Cheng, Furu Wei
+  url: https://openreview.net/forum?id=UmUXPXHtdl
+- title: Can Large Language Models Integrate Spatial Data? Empirical Insights into
+    Reasoning Strengths and Computational Weaknesses
+  authors: Bin Han, Robert Wolfe, Anat Caspi, Bill Howe
+  url: https://openreview.net/forum?id=QNaHC8njYt
+- title: 'Steering the CensorShip: Uncovering Representation Vectors for LLM "Thought''''
+    Control'
+  authors: Hannah Cyberey, David Evans
+  url: https://openreview.net/forum?id=dVqZBagXF3
+- title: Law of Vision Representation in MLLMs
+  authors: Shijia Yang, Bohan Zhai, Quanzeng You, Jianbo Yuan, Hongxia Yang, Chenfeng
+    Xu
+  url: https://openreview.net/forum?id=4d69EwfKAr
+- title: Can a Crow Hatch a Falcon? Lineage Matters in Predicting Large Language Model
+    Performance
+  authors: Takuya Tamura, Taro Yano, Masafumi Enomoto, Masafumi Oyamada
+  url: https://openreview.net/forum?id=ULYqB2JORB
+- title: Effective Length Extrapolation via Dimension-Wise Positional Embeddings Manipulation
+  authors: Yi Lu, Wanxu Zhao, Xin Zhou, Chenxin An, Chenglong Wang, Shuo Li, Yuming
+    Yang, Jun Zhao, Tao Ji, Tao Gui, Qi Zhang, Xuanjing Huang
+  url: https://openreview.net/forum?id=Tahpc3iAnO
+- title: 'Weak-for-Strong:  Training Weak Meta-Agent to Harness Strong Executors'
+  authors: Fan Nie, Lan Feng, Haotian Ye, Weixin Liang, Pan Lu, Huaxiu Yao, Alexandre
+    Alahi, James Zou
+  url: https://openreview.net/forum?id=DmhcCRIfvq
+- title: 'CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs
+    with Controllable Puzzle Generation'
+  authors: Jixuan Leng, Chengsong Huang, Langlin Huang, Bill Yuchen Lin, William W.
+    Cohen, Haohan Wang, Jiaxin Huang
+  url: https://openreview.net/forum?id=bJCQMKwPVq
+- title: 'SlimMoE: Structured Compression of Large MoE Models via Expert Slimming
+    and Distillation'
+  authors: Zichong Li, Chen Liang, Zixuan Zhang, Ilgee Hong, Young Jin Kim, Weizhu
+    Chen, Tuo Zhao
+  url: https://openreview.net/forum?id=oaCUsn391F
+- title: Efficient Process Reward Model Training via Active Learning
+  authors: Keyu Duan, Zichen Liu, Xin Mao, Tianyu Pang, Changyu Chen, Qiguang Chen,
+    Michael Qizhe Shieh, Longxu Dou
+  url: https://openreview.net/forum?id=CJ2FmPmoDE
+- title: Learning to Reason for Long-Form Story Generation
+  authors: Alexander Gurung, Mirella Lapata
+  url: https://openreview.net/forum?id=dr3eg5ehR2
+- title: Privately Learning from Graphs with Applications in Fine-tuning Large Language
+    Models
+  authors: Haoteng Yin, Rongzhe Wei, Eli Chien, Pan Li
+  url: https://openreview.net/forum?id=3xErKrVAdG
+- title: 'X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents'
+  authors: Salman Rahman, Liwei Jiang, James Shiffer, Genglin Liu, Sheriff Issaka,
+    Md Rizwan Parvez, Hamid Palangi, Kai-Wei Chang, Yejin Choi, Saadia Gabriel
+  url: https://openreview.net/forum?id=gKfj7Jb1kj
+- title: Knowledge Graph Retrieval-Augmented Generation via GNN-Guided Prompting
+  authors: Haochen Liu, Song Wang, Jundong Li
+  url: https://openreview.net/forum?id=R1NWMExESj
+- title: Layer-wise Importance Analysis of Feed-Forward Networks in Transformer-based
+    Language Models
+  authors: Wataru Ikeda, Kazuki Yano, Ryosuke Takahashi, Jaesung Lee, Keigo Shibata,
+    Jun Suzuki
+  url: https://openreview.net/forum?id=oP3b5YBFoP
+- title: 'RankAlign: A Ranking View of the Generator-Validator Gap in Large Language
     Models'
-  url: https://openreview.net/forum?id=iMqJsQ4evS
-- authors: Zhuoyan Xu, Zhenmei Shi, Yingyu Liang
-  oral_spotlight: false
-  title: Do Large Language Models Have Compositional Ability? An Investigation into
-    Limitations and Scalability
-  url: https://openreview.net/forum?id=iI1CzEhEMU
-- authors: Quanyu Long, Yin Wu, Wenya Wang, Sinno Jialin Pan
-  oral_spotlight: false
-  title: Does In-Context Learning Really Learn? Rethinking How Large Language Models
-    Respond and Solve Tasks via In-Context Learning
-  url: https://openreview.net/forum?id=i2oJjC0ESQ
-- authors: Tianyu Cao, Natraj Raman, Danial Dervovic, Chenhao Tan
-  oral_spotlight: false
-  title: 'Characterizing Multimodal Long-form Summarization: A Case Study on Financial
-    Reports'
-  url: https://openreview.net/forum?id=hDoN0CAy5e
-- authors: Manav Singhal, Tushar Aggarwal, Abhijeet Awasthi, Nagarajan Natarajan,
-    Aditya Kanade
-  oral_spotlight: false
-  title: 'NoFunEval: Funny How Code LMs Falter on Requirements Beyond Functional Correctness'
-  url: https://openreview.net/forum?id=h5umhm6mzj
-- authors: Himanshu Gupta, Kevin Scaria, Ujjwala Anantheswaran, Shreyas Verma, Mihir
-    Parmar, Saurabh Arjun Sawant, Chitta Baral, Swaroop Mishra
-  oral_spotlight: false
-  title: 'TarGEN: Targeted Data Generation with Large Language Models'
-  url: https://openreview.net/forum?id=gpgMRWgv9Q
-- authors: Michael A. Lepori, Thomas Serre, Ellie Pavlick
-  oral_spotlight: false
-  title: Uncovering Intermediate Variables in Transformers using Circuit Probing
-  url: https://openreview.net/forum?id=gUNeyiLNxr
-- authors: Junjie Fang, Likai Tang, Hongzhe Bi, Yujia Qin, Si Sun, Zhenyu Li, Haolun
-    Li, Yongjian Li, Xin Cong, Yankai Lin, Yukun Yan, Xiaodong Shi, Sen Song, Zhiyuan
+  authors: Juan Diego Rodriguez, Wenxuan Ding, Katrin Erk, Greg Durrett
+  url: https://openreview.net/forum?id=rJOkPauru9
+- title: 'LILAC: Evaluating Personalized and Contextualized Alignment of LLMs from
+    Interactions'
+  authors: Tae Soo Kim, Yoonjoo Lee, Yoonah Park, Jiho Kim, Young-Ho Kim, Juho Kim
+  url: https://openreview.net/forum?id=JMxRn7orEk
+- title: 'EvidenceBench: A Benchmark for Extracting Evidence from Biomedical Papers'
+  authors: Jianyou Wang, Weili Cao, Kaicheng Wang, Xiaoyue Wang, Ashish Dalvi, Gino
+    Prasad, Qishan Liang, Hsuan-lin Her, Mingwang, Qin Yang, Gene W. Yeo, David E
+    Neal, Maxim Khan, Christopher D. Rosin, Ramamohan Paturi, Leon Bergen
+  url: https://openreview.net/forum?id=lEQnUI5lEA
+- title: 'Plato: Plan to Efficient Decode for Large Language Model Inference'
+  authors: Shuowei Jin, Xueshen Liu, Yongji Wu, Haizhong Zheng, Qingzhao Zhang, Atul
+    Prakash, Matthew Lentz, Danyang Zhuo, Feng Qian, Zhuoqing Mao
+  url: https://openreview.net/forum?id=oGO0fNVWrN
+- title: Overflow Prevention Enhances Long-Context Recurrent LLMs
+  authors: Assaf Ben-Kish, Itamar Zimerman, Muhammad Jehanzeb Mirza, Lior Wolf, James
+    R. Glass, Leonid Karlinsky, Raja Giryes
+  url: https://openreview.net/forum?id=h99hJlU99U
+- title: Single-Pass Document Scanning for Question Answering
+  authors: Weili Cao, Jianyou Wang, Youze Zheng, Longtian Bao, Qirui Zheng, Taylor
+    Berg-Kirkpatrick, Ramamohan Paturi, Leon Bergen
+  url: https://openreview.net/forum?id=7Vj78acKIp
+- title: 'Probing Syntax in Large Language Models: Successes and Remaining Challenges'
+  authors: Pablo J. Diego Simon, Emmanuel Chemla, Jean-Remi King, Yair Lakretz
+  url: https://openreview.net/forum?id=nrZysNmJ0n
+- title: Fast Controlled Generation from Language Models with Adaptive Weighted Rejection
+    Sampling
+  authors: Ben Lipkin, Benjamin LeBrun, Jacob Hoover Vigly, João Loula, David R. MacIver,
+    Li Du, Jason Eisner, Ryan Cotterell, Vikash Mansinghka, Timothy J. O'Donnell,
+    Alexander K. Lew, Tim Vieira
+  url: https://openreview.net/forum?id=3BmPSFAdq3
+- title: Unifying Autoregressive and Diffusion-Based Sequence Generation
+  authors: Nima Fathi, Torsten Scholak, Pierre-Andre Noel
+  url: https://openreview.net/forum?id=rgq9BFXSFl
+- title: 'Always Tell Me The Odds: Fine-grained Conditional Probability Estimation'
+  authors: Liaoyaqi Wang, Zhengping Jiang, Anqi Liu, Benjamin Van Durme
+  url: https://openreview.net/forum?id=xhDcG8qtw9
+- title: Base Models Beat Aligned Models at Randomness and Creativity
+  authors: Peter West, Christopher Potts
+  url: https://openreview.net/forum?id=vqN8uom4A1
+- title: Both Direct and Indirect Evidence Contribute to Dative Alternation Preferences
+    in Language Models
+  authors: Qing Yao, Kanishka Misra, Leonie Weissweiler, Kyle Mahowald
+  url: https://openreview.net/forum?id=h5SRsDax8v
+- title: Overcoming Vocabulary Constraints with Pixel-level Fallback
+  authors: Jonas F. Lotz, Hendra Setiawan, Stephan Peitz, Yova Kementchedjhieva
+  url: https://openreview.net/forum?id=lEaHNs2qEv
+- title: 'Cats Confuse Reasoning LLM: Query Agnostic Adversarial Triggers for Reasoning
+    Models'
+  authors: Meghana Arakkal Rajeev, Rajkumar Ramamurthy, Prapti Trivedi, Vikas Yadav,
+    Oluwanifemi Bamgbose, Sathwik Tejaswi Madhusudhan, James Zou, Nazneen Rajani
+  url: https://openreview.net/forum?id=VrEPiN5WhM
+- title: 'In-Context Occam’s Razor: How Transformers Prefer Simpler Hypotheses on
+    the Fly'
+  authors: Puneesh Deora, Bhavya Vasudeva, Tina Behnia, Christos Thrampoulidis
+  url: https://openreview.net/forum?id=ZSMnX3LBva
+- title: 'LoRe: Personalizing LLMs via Low-Rank Reward Modeling'
+  authors: Avinandan Bose, Zhihan Xiong, Yuejie Chi, Simon Shaolei Du, Lin Xiao, Maryam
+    Fazel
+  url: https://openreview.net/forum?id=bYu4DOqRY8
+- title: 'LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation'
+  authors: Xi Ye, Fangcong Yin, Yinghui He, Joie Zhang, Howard Yen, Tianyu Gao, Greg
+    Durrett, Danqi Chen
+  url: https://openreview.net/forum?id=ruWC5LIMSo
+- title: Self-Steering Language Models
+  authors: Gabriel Grand, Joshua B. Tenenbaum, Vikash Mansinghka, Alexander K. Lew,
+    Jacob Andreas
+  url: https://openreview.net/forum?id=XvCBtm5PgF
+- title: 'OpinioRAG: Towards Generating User-Centric Opinion Highlights from Large-scale
+    Online Reviews'
+  authors: Mir Tafseer Nayeem, Davood Rafiei
+  url: https://openreview.net/forum?id=R94bCTckhV
+- title: 'LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in
+    Large Language Models'
+  authors: Minqian Liu, Zhiyang Xu, Xinyi Zhang, Heajun An, Sarvech Qadir, Qi Zhang,
+    Pamela J. Wisniewski, Jin-Hee Cho, Sang Won Lee, Ruoxi Jia, Lifu Huang
+  url: https://openreview.net/forum?id=TMB9SKqit9
+- title: Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive
+    Environment Generalization
+  authors: Zhitao He, Zijun Liu, Peng Li, Yi R. Fung, Ming Yan, Ji Zhang, Fei Huang,
+    Yang Liu
+  url: https://openreview.net/forum?id=SoEmgM1ioC
+- title: Multi-Agent Systems Execute Arbitrary Malicious Code
+  authors: Harold Triedman, Rishi Dev Jha, Vitaly Shmatikov
+  url: https://openreview.net/forum?id=DAozI4etUp
+- title: Enhancing LLM Reliability via Explicit Knowledge Boundary Modeling
+  authors: Hang Zheng, Hongshen Xu, Yuncong Liu, Shuai Fan, Lu Chen, Pascale Fung,
+    Kai Yu
+  url: https://openreview.net/forum?id=WLgfeRhuA0
+- title: 'ReasonIR: Training Retrievers for Reasoning Tasks'
+  authors: Rulin Shao, Rui Qiao, Varsha Kishore, Niklas Muennighoff, Xi Victoria Lin,
+    Daniela Rus, Bryan Kian Hsiang Low, Sewon Min, Wen-tau Yih, Pang Wei Koh, Luke
+    Zettlemoyer
+  url: https://openreview.net/forum?id=kkBCNLMbGj
+- title: 'StagFormer: Time Staggering Decoder only Transformers'
+  authors: Dylan J Cutler, Arun Kandoor, Nishanth Dikkala, Nikunj Saunshi, Xin Wang,
+    Rina Panigrahy
+  url: https://openreview.net/forum?id=gOKTe1KI8K
+- title: Establishing Task Scaling Laws via Compute-Efficient Model Ladders
+  authors: Akshita Bhagia, Jiacheng Liu, Alexander Wettig, David Heineman, Oyvind
+    Tafjord, Ananya Harsh Jha, Luca Soldaini, Noah A. Smith, Dirk Groeneveld, Pang
+    Wei Koh, Jesse Dodge, Hannaneh Hajishirzi
+  url: https://openreview.net/forum?id=FeAM2RVO8l
+- title: 'LAVA: Preference Modeling with Latent Value Attributes'
+  authors: Shuyue Stella Li, Melanie Sclar, Hunter Lang, Ansong Ni, Jacqueline He,
+    Puxin Xu, Andrew Cohen, Chan Young Park, Yulia Tsvetkov, Asli Celikyilmaz
+  url: https://openreview.net/forum?id=p4ujQsKmPV
+- title: 'LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning'
+  authors: Gabriel Jacob Perin, Runjin Chen, Xuxi Chen, Nina S. T. Hirata, Zhangyang
+    Wang, Junyuan Hong
+  url: https://openreview.net/forum?id=ASS5YD4hL4
+- title: Steering Large Language Model Activations in Sparse Spaces
+  authors: Reza Bayat, Ali Rahimi-Kalahroudi, Mohammad Pezeshki, Sarath Chandar, Pascal
+    Vincent
+  url: https://openreview.net/forum?id=VGw1viYliK
+- title: Understanding and Improving Noisy Embedding Techniques in Instruction Finetuning
+  authors: Abhay Yadav
+  url: https://openreview.net/forum?id=AHhDpMMXtf
+- title: Bootstrapping Visual Assistant Modeling with Situated Interaction Simulation
+  authors: Yichi Zhang, Run Peng, Yinpei Dai, Lingyun Wu, Xuweiyi Chen, Qiaozi Gao,
+    Joyce Chai
+  url: https://openreview.net/forum?id=S4nTXotasR
+- title: 'EllieSQL: Cost-Efficient Text-to-SQL with Complexity-Aware Routing'
+  authors: Yizhang Zhu, Runzhi JIANG, Boyan Li, Nan Tang, Yuyu Luo
+  url: https://openreview.net/forum?id=8OqGNXKwo8
+- title: 'DoomArena: A framework for Testing AI Agents Against Evolving Security Threats'
+  authors: Léo Boisvert, Abhay Puri, Gabriel Huang, Mihir Bansal, Chandra Kiran Reddy
+    Evuru, Avinandan Bose, Maryam Fazel, Quentin Cappart, Alexandre Lacoste, Alexandre
+    Drouin, Krishnamurthy Dj Dvijotham
+  url: https://openreview.net/forum?id=GanmYQ0RpE
+- title: The Dual-Route Model of Induction
+  authors: Sheridan Feucht, Eric Todd, Byron C Wallace, David Bau
+  url: https://openreview.net/forum?id=bNTrKqqnG9
+- title: 'Planted in Pretraining, Swayed by Finetuning: A Case Study on the Origins
+    of Cognitive Biases in LLMs'
+  authors: Itay Itzhak, Yonatan Belinkov, Gabriel Stanovsky
+  url: https://openreview.net/forum?id=KQhUEoPmJy
+- title: Not All Data Are Unlearned Equally
+  authors: Aravind Krishnan, Siva Reddy, Marius Mosbach
+  url: https://openreview.net/forum?id=Kd97lfFfTu
+- title: 'AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight
+    Vocabulary Adaptation'
+  authors: Itay Nakash, Nitay Calderon, Eyal Ben-David, Elad Hoffer, Roi Reichart
+  url: https://openreview.net/forum?id=TyXf9dwpZP
+- title: 'ODSum: Benchmarks for Multi-Document Retrieval-Augmented Generation'
+  authors: Rohan Phanse, Ej Zhou, Kejian Shi, WENCAI ZHANG, Yixin Liu, Yilun Zhao,
+    Arman Cohan
+  url: https://openreview.net/forum?id=KtGsJm8bOC
+- title: 'Cooperation''s Price: Do Multi-Agent LLMs Adopt Sanctions to Promote the
+    Greater Good?'
+  authors: David Guzman Piedrahita, Yongjin Yang, Mrinmaya Sachan, Giorgia Ramponi,
+    Bernhard Schölkopf, Zhijing Jin
+  url: https://openreview.net/forum?id=kH6LOHGjEl
+- title: Improving Table Understanding with LLMs and Entity-Oriented Search
+  authors: Thi-Nhung Nguyen, Hoang Ngo, Dinh Phung, Thuy-Trang Vu, Dat Quoc Nguyen
+  url: https://openreview.net/forum?id=vlyl9xZVAL
+- title: 'CodeXEmbed: A Generalist Embedding Model Family for Multilingual and Multi-task
+    Code Retrieval'
+  authors: Ye Liu, Rui Meng, Shafiq Joty, silvio savarese, Caiming Xiong, Yingbo Zhou,
+    Semih Yavuz
+  url: https://openreview.net/forum?id=z3lG70Azbg
+- title: LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current
+    Benchmarks
+  authors: Soumyadeep Pal, Changsheng Wang, James Diffenderfer, Bhavya Kailkhura,
+    Sijia Liu
+  url: https://openreview.net/forum?id=NMIqKUdDkw
+- title: 'From Next-Token to Mathematics: The Learning Dynamics of Mathematical Reasoning
+    in Language Models'
+  authors: Shubhra Mishra, Gabriel Poesia, Noah Goodman
+  url: https://openreview.net/forum?id=bJ9aARjtBu
+- title: 'Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement
+    Learning'
+  authors: Bowen Jin, Hansi Zeng, Zhenrui Yue, Jinsung Yoon, Sercan O Arik, Dong Wang,
+    Hamed Zamani, Jiawei Han
+  url: https://openreview.net/forum?id=Rwhi91ideu
+- title: How does Watermarking Affect Visual Language Models in Document Understanding?
+  authors: Chunxue Xu, Yiwei Wang, Bryan Hooi, Yujun Cai, Songze Li
+  url: https://openreview.net/forum?id=lvQwn8eiRf
+- title: 'Stop-Think-AutoRegress: Language Modeling with Latent Diffusion Planning'
+  authors: Justin Lovelace, Christian K Belardi, Sofian Zalouk, Adhitya Polavaram,
+    Srivatsa R Kundurthy, Kilian Q Weinberger
+  url: https://openreview.net/forum?id=c05qIG1Z2B
+- title: In-context Ranking Preference Optimization
+  authors: Junda Wu, Rohan Surana, Zhouhang Xie, Yiran Jenny Shen, Yu Xia, Tong Yu,
+    Ryan A. Rossi, Prithviraj Ammanabrolu, Julian McAuley
+  url: https://openreview.net/forum?id=L2NPhLAKEd
+- title: 'Control the Temperature: Selective Sampling for Diverse and High-Quality
+    LLM Outputs'
+  authors: Sergey Troshin, Wafaa Mohammed, Yan Meng, Christof Monz, Antske Fokkens,
+    Vlad Niculae
+  url: https://openreview.net/forum?id=IyOC5GCzv4
+- title: 'Efficient Self-Improvement in Multimodal Large Language Models: A Model-Level
+    Judge-Free Approach'
+  authors: Shijian Deng, Wentian Zhao, Yu-Jhe Li, Kun Wan, Daniel Miranda, Ajinkya
+    Kale, Yapeng Tian
+  url: https://openreview.net/forum?id=NRrXHppaBg
+- title: Multi-Agent Retrieval-Augmented Framework for Evidence-Based Counterspeech
+    Against Health Misinformation
+  authors: Anirban Saha Anik, Xiaoying Song, Elliott Wang, Bryan Wang, Bengisu Yarimbas,
+    Lingzi Hong
+  url: https://openreview.net/forum?id=P61AgRyU7E
+- title: 'SuperBPE: Space Travel for Language Models'
+  authors: Alisa Liu, Jonathan Hayase, Valentin Hofmann, Sewoong Oh, Noah A. Smith,
+    Yejin Choi
+  url: https://openreview.net/forum?id=lcDRvffeNP
+- title: 'One ruler to measure them all: Benchmarking multilingual long-context language
+    models'
+  authors: Yekyung Kim, Jenna Russell, Marzena Karpinska, Mohit Iyyer
+  url: https://openreview.net/forum?id=3vxxB3Ar9r
+- title: 'Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers'
+  authors: Shalev Lifshitz, Sheila A. McIlraith, Yilun Du
+  url: https://openreview.net/forum?id=LriQ3NY9uL
+- title: 'AnonModel: Pareto-Optimal, Fully Open Language Modeling'
+  authors: Evan Pete Walsh, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Shane Arora,
+    Akshita Bhagia, Yuling Gu, Shengyi Huang, Matt Jordan, Nathan Lambert, Dustin
+    Schwenk, Oyvind Tafjord, Taira Anderson, David Atkinson, Faeze Brahman, Christopher
+    Clark, Pradeep Dasigi, Nouha Dziri, Allyson Ettinger, Michal Guerquin, David Heineman,
+    Hamish Ivison, Pang Wei Koh, Jiacheng Liu, Saumya Malik, William Merrill, Lester
+    James Validad Miranda, Jacob Morrison, Tyler Murray, Crystal Nam, Jake Poznanski,
+    Valentina Pyatkin, Aman Rangapur, Michael Schmitz, Sam Skjonsberg, David Wadden,
+    Christopher Wilhelm, Michael Wilson, Luke Zettlemoyer, Ali Farhadi, Noah A. Smith,
+    Hannaneh Hajishirzi
+  url: https://openreview.net/forum?id=2ezugTT9kU
+- title: Why Foundation Models Struggle with Cross-Modal Context
+  authors: Chen Henry Wu, Neil Kale, Aditi Raghunathan
+  url: https://openreview.net/forum?id=JsaXxGOXfU
+- title: Bayesian scaling laws for in-context learning
+  authors: Aryaman Arora, Dan Jurafsky, Christopher Potts, Noah Goodman
+  url: https://openreview.net/forum?id=U2ihVSREUb
+- title: Improving LLMs‘ Generalized Reasoning Abilities by Graph Problems
+  authors: Qifan Zhang, Nuo Chen, Zehua Li, Miao Peng, Jing Tang, Jia Li
+  url: https://openreview.net/forum?id=6vMRcaYbU7
+- title: Language Models Fail to Introspect About Their Knowledge of Language
+  authors: Siyuan Song, Jennifer Hu, Kyle Mahowald
+  url: https://openreview.net/forum?id=AivRDOFi5H
+- title: 'Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining'
+  authors: Rosie Zhao, Alexandru Meterez, Sham M. Kakade, Cengiz Pehlevan, Samy Jelassi,
+    Eran Malach
+  url: https://openreview.net/forum?id=dp4KWuSDzj
+- title: 'M-Prometheus: A Suite of Open Multilingual LLM Judges'
+  authors: José Pombal, Dongkeun Yoon, Patrick Fernandes, Ian Wu, Seungone Kim, Ricardo
+    Rei, Graham Neubig, Andre Martins
+  url: https://openreview.net/forum?id=Atyk8lnIQQ
+- title: 'Implicit In-Context Learning: Evidence from Artificial Language Experiments'
+  authors: Xiaomeng Ma, Qihui Xu
+  url: https://openreview.net/forum?id=jST2VzWUFb
+- title: 'The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning'
+  authors: Raj Sanjay Shah, Jing Huang, Keerthiram Murugesan, Nathalie Baracaldo,
+    Diyi Yang
+  url: https://openreview.net/forum?id=exW2SFJK4H
+- title: Do LLMs Understand Your Translations? Evaluating Paragraph-level MT with
+    Question Answering
+  authors: Patrick Fernandes, Sweta Agrawal, Emmanouil Zaranis, Andre Martins, Graham
+    Neubig
+  url: https://openreview.net/forum?id=Zfa9jCYGCz
+- title: 'Rethinking Safety in LLM Fine-tuning: An Optimization Perspective'
+  authors: Minseon Kim, Jin Myung Kwak, Lama Alssum, Bernard Ghanem, Philip Torr,
+    David Krueger, Fazl Barez, Adel Bibi
+  url: https://openreview.net/forum?id=ZnOoEA2nDn
+- title: 'BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning'
+  authors: Ahmed Masry, Abhay Puri, Masoud Hashemi, Juan A. Rodriguez, Megh Thakkar,
+    Khyati Mahajan, Vikas Yadav, Sathwik Tejaswi Madhusudhan, Alexandre Piché, Dzmitry
+    Bahdanau, Christopher Pal, David Vazquez, Enamul Hoque, Perouz Taslakian, Sai
+    Rajeswar, Spandana Gella
+  url: https://openreview.net/forum?id=19fydz1QnW
+- title: 'GenerationPrograms:  Fine-grained Attribution with Executable Programs'
+  authors: David Wan, Eran Hirsch, Elias Stengel-Eskin, Ido Dagan, Mohit Bansal
+  url: https://openreview.net/forum?id=zTKYKiWzIm
+- title: Rerouting LLM Routers
+  authors: Avital Shafran, Roei Schuster, Tom Ristenpart, Vitaly Shmatikov
+  url: https://openreview.net/forum?id=U6C7odo5SX
+- title: 'C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for
+    Test-Time Expert Re-Mixing'
+  authors: Zhongyang Li, Ziyue Li, Tianyi Zhou
+  url: https://openreview.net/forum?id=lqC5J7pBP9
+- title: 'SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language
+    Models'
+  authors: Zhenwei Tang, Difan Jiao, Blair Yang, Ashton Anderson
+  url: https://openreview.net/forum?id=lI4LgGv4sX
+- title: A Critical Look At Tokenwise Reward-Guided Text Generation
+  authors: Ahmad Rashid, Ruotian Wu, Julia Grosse, Agustinus Kristiadi, Pascal Poupart
+  url: https://openreview.net/forum?id=Vnw9c1YLhV
+- title: 'Collab-RAG: Boosting Retrieval-Augmented Generation for Complex Question
+    Answering via White-Box and Black-Box LLM Collaboration'
+  authors: Ran Xu, Wenqi Shi, Yuchen Zhuang, Yue Yu, Joyce C. Ho, Haoyu Wang, Carl
+    Yang
+  url: https://openreview.net/forum?id=CODs4jSGhN
+- title: 'Hidden Verifiers: Revealing Reasoning Models’ Ability to Check Themselves'
+  authors: Anqi Zhang, Yulin Chen, Jane Pan, Chen Zhao, Aurojit Panda, Jinyang Li,
+    He He
+  url: https://openreview.net/forum?id=O6I0Av7683
+- title: 'SAEs Can Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision
+    Unlearning in LLMs'
+  authors: Aashiq Muhamed, Jacopo Bonato, Mona T. Diab, Virginia Smith
+  url: https://openreview.net/forum?id=kaPAalWAp3
+- title: A Controlled Study on Long Context Extension and Generalization in LLMs
+  authors: Yi Lu, Jing Nathan Yan, Songlin Yang, Justin T Chiu, Siyu Ren, Fei Yuan,
+    Wenting Zhao, Zhiyong Wu, Alexander M Rush
+  url: https://openreview.net/forum?id=BLonuGXDFu
+- title: 'Rethinking Multilingual Continual Pretraining: Data Mixing for Adapting
+    LLMs Across Languages and Resources'
+  authors: Zihao Li, Shaoxiong Ji, Hengyu Luo, Jörg Tiedemann
+  url: https://openreview.net/forum?id=mpTIzK4Zca
+- title: 'Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards
+    for Reasoning-Enhanced Text-to-SQL'
+  authors: Mohammadreza Pourreza, Shayan Talaei, Ruoxi Sun, Xingchen Wan, Hailong
+    Li, Azalia Mirhoseini, Amin Saberi, Sercan O Arik
+  url: https://openreview.net/forum?id=HbwkIDWQgN
+- title: 'EuroBERT: Scaling Multilingual Encoders for European Languages'
+  authors: Nicolas Boizard, Hippolyte Gisserot-Boukhlef, Duarte Miguel Alves, Andre
+    Martins, Ayoub Hammal, Caio Corro, CELINE HUDELOT, Emmanuel Malherbe, Etienne
+    Malaboeuf, Fanny Jourdan, Gabriel Hautreux, João Alves, Kevin El Haddad, Manuel
+    Faysse, Maxime Peyrard, Nuno M Guerreiro, Patrick Fernandes, Ricardo Rei, Pierre
+    Colombo
+  url: https://openreview.net/forum?id=jdOC24msVq
+- title: 'Agent-Gym: Procedural Environment Generation and Hybrid Verifiers for Scaling
+    Open-Weights SWE Agents'
+  authors: Naman Jain, Jaskirat Singh, Manish Shetty, Tianjun Zhang, Liang Zheng,
+    Koushik Sen, Ion Stoica
+  url: https://openreview.net/forum?id=7evvwwdo3z
+- title: Do Biased Models Have Biased Thoughts?
+  authors: Swati Rajwal, Shivank Garg, Reem Abdel-Salam, Abdelrahman Zayed
+  url: https://openreview.net/forum?id=vDr0RV3590
+- title: Scaling Web Agent Training through Automatic Data Generation and Fine-grained
+    Evaluation
+  authors: Lajanugen Logeswaran, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock,
+    Honglak Lee
+  url: https://openreview.net/forum?id=63JtmQL7dv
+- title: 'MLGym: A New Framework and Benchmark for Advancing AI Research Agents'
+  authors: Deepak Nathani, Lovish Madaan, Nicholas Roberts, Nikolay Bashlykov, Ajay
+    Menon, Vincent Moens, Mikhail Plekhanov, Amar Budhiraja, Despoina Magka, Vladislav
+    Vorotilov, Gaurav Chaurasia, Dieuwke Hupkes, Ricardo Silveira Cabral, Tatiana
+    Shavrina, Jakob Nicolaus Foerster, Yoram Bachrach, William Yang Wang, Roberta
+    Raileanu
+  url: https://openreview.net/forum?id=ryTr83DxRq
+- title: 'Understanding the Uncertainty of LLM Explanations: A Perspective Based on
+    Reasoning Topology'
+  authors: Longchao Da, Xiaoou Liu, Jiaxin Dai, Lu Cheng, Yaqing Wang, Hua Wei
+  url: https://openreview.net/forum?id=p4wZfBFgyI
+- title: 'AIR: A Systematic Analysis of Annotations, Instructions, and Response Pairs
+    in Preference Dataset'
+  authors: Bingxiang He, Wenbin Zhang, Jiaxi Song, Cheng Qian, Zixuan Fu, Bowen Sun,
+    Ning Ding, Haiwen Hong, Longtao Huang, Hui Xue, Ganqu Cui, Wanxiang Che, Zhiyuan
     Liu, Maosong Sun
-  oral_spotlight: false
-  title: 'UniMem: Towards a Unified View of Long-Context Large Language Models'
-  url: https://openreview.net/forum?id=gQAEGSGVnN
-- authors: Lucas Torroba Hennigen, Zejiang Shen, Aniruddha Nrusimha, Bernhard Gapp,
-    David Sontag, Yoon Kim
-  oral_spotlight: false
-  title: Towards Verifiable Text Generation with Symbolic References
-  url: https://openreview.net/forum?id=fib9qidCpY
-- authors: Junpeng Liu, Yifan Song, Bill Yuchen Lin, Wai Lam, Graham Neubig, Yuanzhi
-    Li, Xiang Yue
-  oral_spotlight: false
-  title: 'VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding
-    and Grounding?'
-  url: https://openreview.net/forum?id=egVSgtJJAx
-- authors: Junying Chen, Xidong Wang, Ke Ji, Anningzhe Gao, Feng Jiang, Shunian Chen,
-    Hongbo Zhang, Song Dingjie, Wenya Xie, Chuyi Kong, Jianquan Li, Xiang Wan, Haizhou
-    Li, Benyou Wang
-  oral_spotlight: false
-  title: HuatuoGPT-II, One-stage Training for Medical Adaption of LLMs
-  url: https://openreview.net/forum?id=eJ3cHNu7ss
-- authors: John Kirchenbauer, Garrett Honke, Gowthami Somepalli, Jonas Geiping, Katherine
-    Lee, Daphne Ippolito, Tom Goldstein, David Andre
-  oral_spotlight: false
-  title: 'LMD3: Language Model Data Density Dependence'
-  url: https://openreview.net/forum?id=eGCw1UVOhk
-- authors: Kian Ahrabian, Zhivar Sourati, Kexuan Sun, Jiarui Zhang, Yifan Jiang, Fred
-    Morstatter, Jay Pujara
-  oral_spotlight: false
-  title: The Curious Case of Nonverbal Abstract Reasoning with Multi-Modal Large Language
-    Models
-  url: https://openreview.net/forum?id=eDWcNqiQWW
-- authors: Alisa Liu, Xiaochuang Han, Yizhong Wang, Yulia Tsvetkov, Yejin Choi, Noah
-    A. Smith
-  oral_spotlight: true
-  title: Tuning Language Models by Proxy
-  url: https://openreview.net/forum?id=dribhnhm1i
-- authors: Ryo Kamoi, Sarkar Snigdha Sarathi Das, Renze Lou, Jihyun Janice Ahn, Yilun
-    Zhao, Xiaoxin Lu, Nan Zhang, Yusen Zhang, Haoran Ranran Zhang, Sujeeth Reddy Vummanthala,
-    Salika Dave, Shaobo Qin, Arman Cohan, Wenpeng Yin, Rui Zhang
-  oral_spotlight: false
-  title: Evaluating LLMs at Detecting Errors in LLM Responses
-  url: https://openreview.net/forum?id=dnwRScljXr
-- authors: Haoyu He, Markus Flicke, Jan Buchmann, Iryna Gurevych, Andreas Geiger
-  oral_spotlight: false
-  title: 'HDT: Hierarchical Document Transformer'
-  url: https://openreview.net/forum?id=dkpeWQRmlc
-- authors: Yan Wang, Dongyang Ma, Deng Cai
-  oral_spotlight: false
-  title: 'With Greater Text Comes Greater Necessity: Inference-Time Training Helps
-    Long Text Generation'
-  url: https://openreview.net/forum?id=dj9x6JuiD5
-- authors: Zhenru Lin, Yiqun Yao, Yang Yuan
-  oral_spotlight: false
-  title: 'CatCode: A Comprehensive Evaluation Framework for LLMs On the Mixture of
-    Code and Text'
-  url: https://openreview.net/forum?id=didvEO1can
-- authors: Yuxuan Yao, Han Wu, Zhijiang Guo, Zhou Biyan, Jiahui Gao, Sichun Luo, Hanxu
-    Hou, Xiaojin Fu, Linqi Song
-  oral_spotlight: false
-  title: Learning From Correctness Without Prompting Makes LLM Efficient Reasoner
-  url: https://openreview.net/forum?id=dcbNzhVVQj
-- authors: Marco Bronzini, Carlo Nicolini, Bruno Lepri, Jacopo Staiano, Andrea Passerini
-  oral_spotlight: false
-  title: 'Unveiling LLMs: The Evolution of Latent Representations in a Dynamic Knowledge
-    Graph'
-  url: https://openreview.net/forum?id=dWYRjT501w
-- authors: Zihan Yao, Yu He, Tianyu Qi, Ming Li
-  oral_spotlight: false
-  title: Scalable Model Editing via Customized Expert Networks
-  url: https://openreview.net/forum?id=dJfBejh478
-- authors: Abhika Mishra, Akari Asai, Vidhisha Balachandran, Yizhong Wang, Graham
-    Neubig, Yulia Tsvetkov, Hannaneh Hajishirzi
-  oral_spotlight: false
-  title: Fine-grained Hallucination Detection and Editing for Language Models
-  url: https://openreview.net/forum?id=dJMTn3QOWO
-- authors: Jinfeng Xiao, Linyi Ding, James Barry, Mohab Elkaref, Geeth De Mel, Jiawei
-    Han
-  oral_spotlight: false
-  title: 'ORAG: Ontology-Guided Retrieval-Augmented Generation for Theme-Specific
-    Entity Typing'
-  url: https://openreview.net/forum?id=cKBmZ2PZ6c
-- authors: Yufei Huang, Shengding Hu, Xu Han, Zhiyuan Liu, Maosong Sun
-  oral_spotlight: false
-  title: 'Unified View of Grokking, Double Descent and Emergent Abilities: A Comprehensive
-    Study on Algorithm Task'
-  url: https://openreview.net/forum?id=cG1EbmWiSs
-- authors: Mahjabin Nahar, Haeseung Seo, Eun-Ju Lee, Aiping Xiong, Dongwon Lee
-  oral_spotlight: false
-  title: 'Fakes of Varying Shades: How Warning Affects Human Perception and Engagement
-    Regarding LLM Hallucinations'
-  url: https://openreview.net/forum?id=c30qeMg8dv
-- authors: Nicolas Wagner, Dongyang Fan, Martin Jaggi
-  oral_spotlight: false
-  title: Personalized Collaborative Fine-Tuning for On-Device Large Language Models
-  url: https://openreview.net/forum?id=bwo3GVsgOv
-- authors: Michael Saxon, Ari Holtzman, Peter West, William Yang Wang, Naomi Saphra
-  oral_spotlight: false
-  title: 'Benchmarks as Microscopes: A Call for Model Metrology'
-  url: https://openreview.net/forum?id=bttKwCZDkm
-- authors: Jaehyun Nam, Woomin Song, Seong Hyeon Park, Jihoon Tack, Sukmin Yun, Jaehyung
-    Kim, Kyu Hwan Oh, Jinwoo Shin
-  oral_spotlight: false
-  title: Tabular Transfer Learning via Prompting LLMs
-  url: https://openreview.net/forum?id=bo4pauxnIR
-- authors: Aquia Richburg, Marine Carpuat
-  oral_spotlight: false
-  title: How Multilingual are Large Language Models Fine-tuned for Translation?
-  url: https://openreview.net/forum?id=bnscREWUuc
-- authors: Yuchen Xiao, Yanchao Sun, Mengda Xu, Udari Madhushani Sehwag, Jared Vann,
-    Deepeka Garg, Sumitra Ganesh
-  oral_spotlight: false
-  title: 'O3D: Offline Data-driven Discovery and Distillation for Sequential Decision-Making
-    with Large Language Models'
-  url: https://openreview.net/forum?id=bkY8zEDdH9
-- authors: Shibo Hao, Yi Gu, Haotian Luo, Tianyang Liu, Xiyan Shao, Xinyuan Wang,
-    Shuhua Xie, Haodi Ma, Adithya Samavedhi, Qiyue Gao, Zhen Wang, Zhiting Hu
-  oral_spotlight: false
-  title: 'LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning
-    with Large Language Models'
-  url: https://openreview.net/forum?id=b0y6fbSUG0
-- authors: Michael Duan, Anshuman Suri, Niloofar Mireshghallah, Sewon Min, Weijia
-    Shi, Luke Zettlemoyer, Yulia Tsvetkov, Yejin Choi, David Evans, Hannaneh Hajishirzi
-  oral_spotlight: false
-  title: Do Membership Inference Attacks Work on Large Language Models?
-  url: https://openreview.net/forum?id=av0D19pSkU
-- authors: James A. Michaelov, Catherine Arnett, Ben Bergen
-  oral_spotlight: false
-  title: Revenge of the Fallen? Recurrent Models Match Transformers at Predicting
-    Human Language Comprehension Metrics
-  url: https://openreview.net/forum?id=amhPBLFYWv
-- authors: Samuel Marks, Max Tegmark
-  oral_spotlight: true
-  title: 'The Geometry of Truth: Emergent Linear Structure in Large Language Model
-    Representations of True/False Datasets'
-  url: https://openreview.net/forum?id=aajyHYjjsk
-- authors: Yusen Wu, Li Jiang, Junwu Xiong, Jingqing Ruan, Yichuan Ding, Qingpei Guo,
-    zujie wen, JUN ZHOU, Xiaotie Deng
-  oral_spotlight: false
-  title: 'Hummer: Towards Limited Competitive Preference Dataset'
-  url: https://openreview.net/forum?id=aKwQPRjdGa
-- authors: "Lewis Tunstall, Edward Emanuel Beeching, Nathan Lambert, Nazneen Rajani,\
-    \ Kashif Rasul, Younes Belkada, Shengyi Huang, Leandro Von Werra, Cl\xE9mentine\
-    \ Fourrier, Nathan Habib, Nathan Sarrazin, Omar Sanseviero, Alexander M Rush,\
-    \ Thomas Wolf"
-  oral_spotlight: false
-  title: 'Zephyr: Direct Distillation of LM Alignment'
-  url: https://openreview.net/forum?id=aKkAwZB6JV
-- authors: Fabio James Fehr, James Henderson
-  oral_spotlight: false
-  title: Nonparametric Variational Regularisation of Pretrained Transformers
-  url: https://openreview.net/forum?id=Zu8OWNUC0u
-- authors: Jiri Hron, Laura A Culp, Gamaleldin Fathy Elsayed, Rosanne Liu, Jasper
-    Snoek, Simon Kornblith, Alex Rizkowsky, Isabelle Simpson, Jascha Sohl-Dickstein,
-    Noah Fiedel, Aaron T Parisi, Alexander A Alemi, Azade Nova, Ben Adlam, Bernd Bohnet,
-    Gaurav Mishra, Hanie Sedghi, Izzeddin Gur, Jaehoon Lee, John D Co-Reyes, Kathleen
-    Kenealy, Kelvin Xu, Kevin Swersky, Igor Mordatch, Lechao Xiao, Maxwell Bileschi,
-    Peter J Liu, Roman Novak, Sharad Vikram, Tris Warkentin, Jeffrey Pennington
-  oral_spotlight: false
-  title: 'Training Language Models on the Knowledge Graph: Insights on Hallucinations
-    and Their Detectability'
-  url: https://openreview.net/forum?id=Zt1dwG8xrK
-- authors: "Martin Weiss, Nasim Rahaman, Manuel Wuthrich, Yoshua Bengio, Li Erran\
-    \ Li, Bernhard Sch\xF6lkopf, Christopher Pal"
-  oral_spotlight: false
-  title: Redesigning Information Markets in the Era of Language Models
-  url: https://openreview.net/forum?id=Zq9Dfj4nBo
-- authors: "Tal Shnitzer, Anthony Ou, M\xEDrian Silva, Kate Soule, Yuekai Sun, Justin\
-    \ Solomon, Neil Thompson, Mikhail Yurochkin"
-  oral_spotlight: false
-  title: Large Language Model Routing with Benchmark Datasets
-  url: https://openreview.net/forum?id=Zb0ajZ7vAt
-- authors: Andre Ye, Jared Moore, Rose Novick, Amy X Zhang
-  oral_spotlight: false
-  title: 'Language Models as Critical Thinking Tools: A Case Study of Philosophers'
-  url: https://openreview.net/forum?id=ZZzXpyv65G
-- authors: Avanika Narayan, Mayee F Chen, Kush Bhatia, Christopher Re
-  oral_spotlight: false
-  title: 'Cookbook: A framework for improving LLM generative abilities via programmatic
-    data generating templates'
-  url: https://openreview.net/forum?id=ZDdLamBX4P
-- authors: Michael Feffer, Ronald Xu, Yuekai Sun, Mikhail Yurochkin
-  oral_spotlight: false
-  title: Prompt Exploration with Prompt Regression
-  url: https://openreview.net/forum?id=YwrNePfb3E
-- authors: Yekyung Kim, Yapei Chang, Marzena Karpinska, Aparna Garimella, Varun Manjunatha,
-    Kyle Lo, Tanya Goyal, Mohit Iyyer
-  oral_spotlight: false
-  title: 'FABLES: Evaluating faithfulness and content selection in book-length summarization'
-  url: https://openreview.net/forum?id=YfHxQSoaWU
-- authors: Weixin Liang, Yaohui Zhang, Zhengxuan Wu, Haley Lepp, Wenlong Ji, Xuandong
-    Zhao, Hancheng Cao, Sheng Liu, Siyu He, Zhi Huang, Diyi Yang, Christopher Potts,
-    Christopher D Manning, James Y. Zou
-  oral_spotlight: false
-  title: Mapping the Increasing Use of LLMs in Scientific Papers
-  url: https://openreview.net/forum?id=YX7QnhxESU
-- authors: Shawn Tan, Yikang Shen, Rameswar Panda, Aaron Courville
-  oral_spotlight: false
-  title: Scattered Mixture-of-Experts Implementation
-  url: https://openreview.net/forum?id=YDZ7GeFLxq
-- authors: Zhiruo Wang, Zhoujun Cheng, Hao Zhu, Daniel Fried, Graham Neubig
-  oral_spotlight: false
-  title: What Are Tools Anyway? A Survey from the Language Model Perspective
-  url: https://openreview.net/forum?id=Xh1B90iBSR
-- authors: Zijun Liu, Yanzhe Zhang, Peng Li, Yang Liu, Diyi Yang
-  oral_spotlight: false
-  title: A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration
-  url: https://openreview.net/forum?id=XII0Wp1XA9
-- authors: Heidi Chenyu Zhang, Shabnam Behzad, Kawin Ethayarajh, Dan Jurafsky
-  oral_spotlight: false
-  title: 'Data Checklist: On Unit-Testing Datasets with Usable Information'
-  url: https://openreview.net/forum?id=XGJBEeziEb
-- authors: "Vera Neplenbroek, Arianna Bisazza, Raquel Fern\xE1ndez"
-  oral_spotlight: false
-  title: 'MBBQ: A Dataset for Cross-Lingual Comparison of Stereotypes in Generative
-    LLMs'
-  url: https://openreview.net/forum?id=X9yV4lFHt4
-- authors: Junxiong Wang, Tushaar Gangavarapu, Jing Nathan Yan, Alexander M Rush
-  oral_spotlight: false
-  title: 'MambaByte: Token-free Selective State Space Model'
-  url: https://openreview.net/forum?id=X1xNsuKssb
-- authors: Shauli Ravfogel, Valentina Pyatkin, Amir David Nissan Cohen, Avshalom Manevich,
-    Yoav Goldberg
-  oral_spotlight: false
-  title: Description-Based Text Similarity
-  url: https://openreview.net/forum?id=W8Rv1jVycX
-- authors: Xu Guo, Zilin Du, Boyang Li, Chunyan Miao
-  oral_spotlight: false
-  title: Generating Synthetic Datasets for Few-shot Prompt Tuning
-  url: https://openreview.net/forum?id=Vd0KvChLXr
-- authors: Urja Khurana, Eric Nalisnick, Antske Fokkens, Swabha Swayamdipta
-  oral_spotlight: false
-  title: 'Crowd-Calibrator: Can Annotator Disagreement Inform Calibration in Subjective
-    Tasks?'
-  url: https://openreview.net/forum?id=VWWzO3ewMS
-- authors: Xueying Bai, Yifan Sun, Niranjan Balasubramanian
-  oral_spotlight: false
-  title: 'Does RoBERTa Perform Better than BERT in Continual Learning: An Attention
-    Sink Perspective'
-  url: https://openreview.net/forum?id=VHhwhmtx3b
-- authors: Amitayush Thakur, George Tsoukalas, Yeming Wen, Jimmy Xin, Swarat Chaudhuri
-  oral_spotlight: false
-  title: An In-Context Learning Agent for Formal Theorem-Proving
-  url: https://openreview.net/forum?id=V7HRrxXUhN
-- authors: Johannes Hagemann, Samuel Weinbach, Konstantin Dobler, Maximilian Schall,
-    Gerard de Melo
-  oral_spotlight: false
-  title: Efficient Parallelization Layouts for Large-Scale Distributed Model Training
-  url: https://openreview.net/forum?id=UyNIH6CWHH
-- authors: Eric Zhang, Leshem Choshen, Jacob Andreas
-  oral_spotlight: false
-  title: Unforgettable Generalization in Language Models
-  url: https://openreview.net/forum?id=Ukf4301hXm
-- authors: Song Dingjie, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou
-    Wang
-  oral_spotlight: false
-  title: 'MileBench: Benchmarking MLLMs in Long Context'
-  url: https://openreview.net/forum?id=Uhwze2LEwq
-- authors: Zeyi Liao, Huan Sun
-  oral_spotlight: false
-  title: 'AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial
-    Suffixes for Jailbreaking Both Open and Closed LLMs'
-  url: https://openreview.net/forum?id=UfqzXg95I5
-- authors: An Yan, Zhengyuan Yang, Junda Wu, Wanrong Zhu, Jianwei Yang, Linjie Li,
-    Kevin Lin, Jianfeng Wang, Julian McAuley, Jianfeng Gao, Lijuan Wang
-  oral_spotlight: false
-  title: 'List Items One by One: A New Data Source and Learning Paradigm for Multimodal
-    LLMs'
-  url: https://openreview.net/forum?id=UfWwBaLuXV
-- authors: Muhammad Khalifa, David Wadden, Emma Strubell, Honglak Lee, Lu Wang, Iz
-    Beltagy, Hao Peng
-  oral_spotlight: false
-  title: Source-Aware Training Enables Knowledge Attribution in Language Models
-  url: https://openreview.net/forum?id=UPyWLwciYz
-- authors: Jiageng Mao, Junjie Ye, Yuxi Qian, Marco Pavone, Yue Wang
-  oral_spotlight: false
-  title: A Language Agent for Autonomous Driving
-  url: https://openreview.net/forum?id=UPE6WYE8vg
-- authors: Jennifer Hu, Michael Frank
-  oral_spotlight: true
-  title: Auxiliary task demands mask the capabilities of smaller language models
-  url: https://openreview.net/forum?id=U5BUzSn4tD
-  outstanding_award: true
-- authors: Chengsong Huang, Qian Liu, Bill Yuchen Lin, Tianyu Pang, Chao Du, Min Lin
-  oral_spotlight: false
-  title: 'LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition'
-  url: https://openreview.net/forum?id=TrloAXEJ2B
-- authors: David Rein, Betty Li Hou, Asa Cooper Stickland, Jackson Petty, Richard
-    Yuanzhe Pang, Julien Dirani, Julian Michael, Samuel R. Bowman
-  oral_spotlight: true
-  title: 'GPQA: A Graduate-Level Google-Proof Q&A Benchmark'
-  url: https://openreview.net/forum?id=Ti67584b98
-- authors: Michael Hanna, Sandro Pezzelle, Yonatan Belinkov
-  oral_spotlight: false
-  title: 'Have Faith in Faithfulness: Going Beyond Circuit Overlap When Finding Model
-    Mechanisms'
-  url: https://openreview.net/forum?id=TZ0CCGDcuT
-- authors: Gregory Yauney, David Mimno
-  oral_spotlight: false
-  title: Stronger Random Baselines for In-Context Learning
-  url: https://openreview.net/forum?id=TRxQMpLUfD
-- authors: Kazuki Fujii, Taishi Nakamura, Mengsay Loem, Hiroki Iida, Masanari Ohi,
-    Kakeru Hattori, Hirai Shota, Sakae Mizuki, Rio Yokota, Naoaki Okazaki
-  oral_spotlight: false
-  title: 'Continual Pre-Training for Cross-Lingual LLM Adaptation: Enhancing Japanese
-    Language Capabilities'
-  url: https://openreview.net/forum?id=TQdd1VhWbe
-- authors: Yongmin Kim, Takeshi Kojima, Yusuke Iwasawa, Yutaka Matsuo
-  oral_spotlight: false
-  title: Decoupling Noise and Toxic Parameters for Language Model Detoxification by
-    Task Vector Merging
-  url: https://openreview.net/forum?id=TBNYjdOazs
-- authors: "Guillem Ram\xEDrez, Alexandra Birch, Ivan Titov"
-  oral_spotlight: false
-  title: Optimising Calls to Large Language Models with Uncertainty-Based Two-Tier
-    Selection
-  url: https://openreview.net/forum?id=T9cOYH0wGF
-- authors: Lin Ou, Jinpeng Xia, Yuewei Zhang, Chuzhan Hao, Hao Henry Wang
-  oral_spotlight: false
-  title: Adaptive Quantization Error Reconstruction for LLMs with Mixed Precision
-  url: https://openreview.net/forum?id=T5pGDydMkS
-- authors: Yinghao Aaron Li, Xilin Jiang, Jordan Darefsky, Ge Zhu, Nima Mesgarani
-  oral_spotlight: false
-  title: 'StyleTalker: Finetuning Audio Language Model and Style-Based Text-to-Speech
-    Model for Fast Spoken Dialogue Generation'
-  url: https://openreview.net/forum?id=Szp33itD10
-- authors: Ali Naseh, Katherine Thai, Mohit Iyyer, Amir Houmansadr
-  oral_spotlight: true
-  title: Iteratively Prompting Multimodal LLMs to Reproduce Natural and AI-Generated
-    Images
-  url: https://openreview.net/forum?id=SwUsFTtM9h
-- authors: Yuzhen Huang, Jinghan Zhang, Zifei Shan, Junxian He
-  oral_spotlight: false
-  title: Compression Represents Intelligence Linearly
-  url: https://openreview.net/forum?id=SHMj84U5SH
-- authors: Lucas Lehnert, Sainbayar Sukhbaatar, DiJia Su, Qinqing Zheng, Paul McVay,
-    Michael Rabbat, Yuandong Tian
-  oral_spotlight: false
-  title: 'Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping'
-  url: https://openreview.net/forum?id=SGoVIC0u0f
-- authors: Siye Wu, Jian Xie, Jiangjie Chen, Tinghui Zhu, Kai Zhang, Yanghua Xiao
-  oral_spotlight: false
-  title: How Easily do Irrelevant Inputs Skew the Responses of Large Language Models?
-  url: https://openreview.net/forum?id=S7NVVfuRv8
-- authors: Louis Kwok, Michal Bravansky, Lewis Griffin
-  oral_spotlight: false
-  title: Evaluating Cultural Adaptability of a Large Language Model via Simulation
-    of Synthetic Personas
-  url: https://openreview.net/forum?id=S4ZOkV1AHl
-- authors: Tinghui Zhu, Kai Zhang, Jian Xie, Yu Su
-  oral_spotlight: false
-  title: 'Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought
-    Reasoning'
-  url: https://openreview.net/forum?id=S1XnUsqwr7
-- authors: Jillian Ross, Yoon Kim, Andrew Lo
-  oral_spotlight: false
-  title: LLM economicus? Mapping the Behavioral Biases of LLMs via Utility Theory
-  url: https://openreview.net/forum?id=Rx3wC8sCTJ
-- authors: "Vipul Gupta, Pranav Narayanan Venkit, Hugo Lauren\xE7on, Shomir Wilson,\
-    \ Rebecca J. Passonneau"
-  oral_spotlight: false
-  title: 'CALM : A Multi-task Benchmark for Comprehensive Assessment of Language Model
-    Bias'
-  url: https://openreview.net/forum?id=RLFca3arx7
-- authors: Xeron Du, Zhouliang Yu, Songyang Gao, Ding Pan, Cheng Yuyang, Ziyang Ma,
-    Ruibin Yuan, Xingwei Qu, Jiaheng Liu, Tianyu Zheng, Xinchen Luo, Guorui Zhou,
-    Wenhu Chen, Ge Zhang
-  oral_spotlight: false
-  title: 'Chinese Tiny LLM: Pretraining a Chinese-Centered Large Language Model'
-  url: https://openreview.net/forum?id=RCdoMrg4I0
-- authors: Manya Wadhwa, Jifan Chen, Junyi Jessy Li, Greg Durrett
-  oral_spotlight: false
-  title: Using Natural Language Explanations to Rescale Human Judgments
-  url: https://openreview.net/forum?id=Qmq4zqdnWh
-- authors: Zhengzhong Liu, Aurick Qiao, Willie Neiswanger, Hongyi Wang, Bowen Tan,
-    Tianhua Tao, Junbo Li, Yuqi Wang, Suqi Sun, Omkar Pangarkar, Richard Fan, Yi Gu,
-    Victor Miller, Yonghao Zhuang, Guowei He, Haonan Li, Fajri Koto, Liping Tang,
-    Nikhil Ranjan, Zhiqiang Shen, Roberto Iriondo, Cun Mu, Zhiting Hu, Mark Schulze,
-    Preslav Nakov, Timothy Baldwin, Eric Xing
-  oral_spotlight: false
-  title: 'LLM360: Towards Fully Transparent Open-Source LLMs'
-  url: https://openreview.net/forum?id=QdWhj0QZFw
-- authors: Shuxian Fan, Adam Visokay, Kentaro Hoffman, Stephen Salerno, Li Liu, Jeffrey
-    T. Leek, Tyler McCormick
-  oral_spotlight: false
-  title: 'From Narratives to Numbers: Valid Inference Using Language Model Predictions
-    from Verbal Autopsies'
-  url: https://openreview.net/forum?id=QbCHlIqbDJ
-- authors: Michael Hassid, Tal Remez, Jonas Gehring, Roy Schwartz, Yossi Adi
-  oral_spotlight: false
-  title: The Larger the Better? Improved LLM Code-Generation via Budget Reallocation
-  url: https://openreview.net/forum?id=QJvfpWSpWm
-- authors: Cheng Qian, Xinran Zhao, Tongshuang Wu
-  oral_spotlight: false
-  title: '"Merge Conflicts!''" Exploring the Impacts of External Knowledge Distractors
-    to Parametric Knowledge Graphs'
-  url: https://openreview.net/forum?id=Pvn1dKreZW
-- authors: Adam Karvonen
-  oral_spotlight: false
-  title: Emergent World Models and Latent Variable Estimation in Chess-Playing Language
-    Models
-  url: https://openreview.net/forum?id=PPTrmvEnpW
-- authors: Yue Wu, Yewen Fan, So Yeon Min, Shrimai Prabhumoye, Stephen Marcus McAleer,
-    Russ Salakhutdinov, Yonatan Bisk, Yuanzhi Li, Tom Mitchell
-  oral_spotlight: false
-  title: 'AgentKit: Structured LLM Reasoning with Dynamic Graphs'
-  url: https://openreview.net/forum?id=PKfAq8N4fK
-- authors: Lin Zheng, Jianbo Yuan, Lei Yu, Lingpeng Kong
-  oral_spotlight: false
-  title: A Reparameterized Discrete Diffusion Model for Text Generation
-  url: https://openreview.net/forum?id=PEQFHRUFca
-- authors: Ruibo Liu, Jerry Wei, Fangyu Liu, Chenglei Si, Yanzhe Zhang, Jinmeng Rao,
-    Steven Zheng, Daiyi Peng, Diyi Yang, Denny Zhou, Andrew M. Dai
-  oral_spotlight: false
-  title: Best Practices and Lessons Learned on Synthetic Data
-  url: https://openreview.net/forum?id=OJaWBhh61C
-- authors: Jacob Pfau, William Merrill, Samuel R. Bowman
-  oral_spotlight: false
-  title: "Let\u2019s Think Dot by Dot: Hidden computation in transformer language\
-    \ models"
-  url: https://openreview.net/forum?id=NikbrdtYvG
-- authors: Keyuan Cheng, Gang Lin, Haoyang Fei, Yuxuan Zhai, Lu Yu, Muhammad Asif
-    Ali, Lijie Hu, Di Wang
-  oral_spotlight: false
-  title: Multi-hop Question Answering under Temporal Knowledge Editing
-  url: https://openreview.net/forum?id=Nd950RAcCW
-- authors: Abhay Zala, Han Lin, Jaemin Cho, Mohit Bansal
-  oral_spotlight: false
-  title: 'DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning'
-  url: https://openreview.net/forum?id=NV8yRJRET1
-- authors: Jiayi Pan, Yichi Zhang, Nicholas Tomlin, Yifei Zhou, Sergey Levine, Alane
-    Suhr
-  oral_spotlight: false
-  title: Autonomous Evaluation and Refinement of Digital Agents
-  url: https://openreview.net/forum?id=NPAQ6FKSmK
-- authors: Naoaki Okazaki, Kakeru Hattori, Hirai Shota, Hiroki Iida, Masanari Ohi,
-    Kazuki Fujii, Taishi Nakamura, Mengsay Loem, Rio Yokota, Sakae Mizuki
-  oral_spotlight: false
-  title: Building a Large Japanese Web Corpus for Large Language Models
-  url: https://openreview.net/forum?id=N5EYQSwW26
-- authors: "Nathan Godey, \xC9ric Villemonte de la Clergerie, Beno\xEEt Sagot"
-  oral_spotlight: false
-  title: Why do small language models underperform? Studying Language Model Saturation
-    via the Softmax Bottleneck
-  url: https://openreview.net/forum?id=MoitXWlXcS
-- authors: Nghia T. Le, Alan Ritter
-  oral_spotlight: false
-  title: Are Language Models Robust Coreference Resolvers?
-  url: https://openreview.net/forum?id=MmBQSNHKUl
-- authors: Mandar Sharma, Nikhil Muralidhar, Shengzhe Xu, Raquib Bin Yousuf, Naren
-    Ramakrishnan
-  oral_spotlight: false
-  title: Information Guided Regularization for Fine-tuning Language Models
-  url: https://openreview.net/forum?id=MkppMETE49
-- authors: Ruiqi Zhang, Licong Lin, Yu Bai, Song Mei
-  oral_spotlight: false
-  title: 'Negative Preference Optimization: From Catastrophic Collapse to Effective
-    Unlearning'
-  url: https://openreview.net/forum?id=MXLBXjQkmb
-- authors: Karim Elmaaroufi, Devan Shanker, Ana Cismaru, Marcell Vazquez-Chanlatte,
-    Alberto Sangiovanni-Vincentelli, Matei Zaharia, Sanjit A. Seshia
-  oral_spotlight: false
-  title: 'ScenicNL: Generating Probabilistic Scenario Programs from Natural Language'
-  url: https://openreview.net/forum?id=MNLAbfZwh2
-- authors: MohammadReza Ebrahimi, Sunny Panchal, Roland Memisevic
-  oral_spotlight: false
-  title: 'Your Context Is Not an Array: Unveiling Random Access Limitations in Transformers'
-  url: https://openreview.net/forum?id=MLD1cwfjUb
-- authors: Xingyu Fu, Muyu He, Yujie Lu, William Yang Wang, Dan Roth
-  oral_spotlight: false
-  title: 'Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand
-    Commonsense?'
-  url: https://openreview.net/forum?id=MI52iXSSNy
-- authors: Robert Vacareanu, Vlad Andrei Negru, Vasile Suciu, Mihai Surdeanu
-  oral_spotlight: false
-  title: 'From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor
-    When Given In-Context Examples'
-  url: https://openreview.net/forum?id=LzpaUxcNFK
-- authors: Philipp Mondorf, Barbara Plank
-  oral_spotlight: false
-  title: 'Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models
-    - A Survey'
-  url: https://openreview.net/forum?id=Lmjgl2n11u
-- authors: "Jordi Armengol-Estap\xE9, Rodrigo C. O. Rocha, Jackson Woodruff, Pasquale\
-    \ Minervini, Michael O'Boyle"
-  oral_spotlight: false
-  title: 'Forklift: An Extensible Neural Lifter'
-  url: https://openreview.net/forum?id=LWfDcI6txJ
-- authors: Zexuan Zhong, Mengzhou Xia, Danqi Chen, Mike Lewis
-  oral_spotlight: false
-  title: 'Lory: Fully Differentiable Mixture-of-Experts for Autoregressive Language
-    Model Pre-training'
-  url: https://openreview.net/forum?id=LKEJPySnlt
-- authors: Candace Ross, Melissa Hall, Adriana Romero-Soriano, Adina Williams
-  oral_spotlight: false
-  title: What makes a good metric? Evaluating automatic metrics for text-to-image
-    consistency
-  url: https://openreview.net/forum?id=LFfktMPAci
-- authors: Haiteng Zhao, Chang Ma, Guoyin Wang, Jing Su, Lingpeng Kong, Jingjing Xu,
-    Zhi-Hong Deng, Hongxia Yang
-  oral_spotlight: false
-  title: Empowering Large Language Model Agents through Action Learning
-  url: https://openreview.net/forum?id=KqK5XcgEhR
-- authors: Binghui Peng, Srini Narayanan, Christos Papadimitriou
-  oral_spotlight: false
-  title: On Limitations of the Transformer Architecture
-  url: https://openreview.net/forum?id=KidynPuLNW
-- authors: Deqing Fu, Ruohao Guo, Ghazal Khalighinejad, Ollie Liu, Bhuwan Dhingra,
-    Dani Yogatama, Robin Jia, Willie Neiswanger
-  oral_spotlight: false
-  title: 'IsoBench: Benchmarking Multimodal Foundation Models on Isomorphic Representations'
-  url: https://openreview.net/forum?id=KZd1EErRJ1
-- authors: Zhoujie Ding, Ken Liu, Pura Peetathawatchai, Berivan Isik, Sanmi Koyejo
-  oral_spotlight: false
-  title: On Fairness of Low-Rank Adaptation of Large Models
-  url: https://openreview.net/forum?id=K1M3gLW0MX
-- authors: Lynn Chua, Badih Ghazi, Yangsibo Huang, Pritish Kamath, Ravi Kumar, Daogao
-    Liu, Pasin Manurangsi, Amer Sinha, Chiyuan Zhang
-  oral_spotlight: false
-  title: Mind the Privacy Unit! User-Level Differential Privacy for Language Model
-    Fine-Tuning
-  url: https://openreview.net/forum?id=Jd0bCD12DS
-- authors: Jaehun Jung, Ximing Lu, Liwei Jiang, Faeze Brahman, Peter West, Pang Wei
-    Koh, Yejin Choi
-  oral_spotlight: false
-  title: Information-Theoretic Distillation for Reference-less Summarization
-  url: https://openreview.net/forum?id=JXcXnJJSuL
-- authors: Parishad BehnamGhader, Vaibhav Adlakha, Marius Mosbach, Dzmitry Bahdanau,
-    Nicolas Chapados, Siva Reddy
-  oral_spotlight: false
-  title: 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'
-  url: https://openreview.net/forum?id=IW1PR7vEBf
-- authors: Evelyn Yee, Alice Li, Chenyu Tang, Yeonho Jung, Ramamohan Paturi, Leon
-    Bergen
-  oral_spotlight: false
-  title: Faithful and Unfaithful Error Recovery in Chain of Thought
-  url: https://openreview.net/forum?id=IPZ28ZqD4I
-- authors: Sicheng Zhu, Ruiyi Zhang, Bang An, Gang Wu, Joe Barrow, Zichao Wang, Furong
-    Huang, Ani Nenkova, Tong Sun
-  oral_spotlight: false
-  title: 'AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language
-    Models'
-  url: https://openreview.net/forum?id=INivcBeIDK
-- authors: Jiawei Liu, Songrun Xie, Junhao Wang, Yuxiang Wei, Yifeng Ding, LINGMING
-    ZHANG
-  oral_spotlight: false
-  title: Evaluating Language Models for Efficient Code Generation
-  url: https://openreview.net/forum?id=IBCBMeAhmC
-- authors: Sunny Sanyal, Atula Tejaswi, Jean Kaddour, Abhishek Kumar, Sujay Sanghavi
-  oral_spotlight: false
-  title: Early Weight Averaging meets High Learning Rates for LLM Pre-training
-  url: https://openreview.net/forum?id=IA8CWtNkUr
-- authors: Hanxu Hu, Hongyuan Lu, Huajian Zhang, Yun-Ze Song, Wai Lam, Yue Zhang
-  oral_spotlight: false
-  title: Chain-of-Symbol Prompting For Spatial Reasoning in Large Language Models
-  url: https://openreview.net/forum?id=Hvq9RtSoHG
-- authors: Luxi He, Mengzhou Xia, Peter Henderson
-  oral_spotlight: false
-  title: What is in Your Safe Data? Identifying Benign Data that Breaks Safety
-  url: https://openreview.net/forum?id=Hi8jKh4HE9
-- authors: Hanshi Sun, Zhuoming Chen, Xinyu Yang, Yuandong Tian, Beidi Chen
-  oral_spotlight: false
-  title: 'TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical
-    Speculative Decoding'
-  url: https://openreview.net/forum?id=HVK6nl3i97
-- authors: Sebastian Bordt, Harsha Nori, Vanessa Cristiny Rodrigues Vasconcelos, Besmira
-    Nushi, Rich Caruana
-  oral_spotlight: false
-  title: 'Elephants Never Forget: Memorization and Learning of Tabular Data in Large
-    Language Models'
-  url: https://openreview.net/forum?id=HLoWN6m4fS
-- authors: Olga Golovneva, Zeyuan Allen-Zhu, Jason E Weston, Sainbayar Sukhbaatar
-  oral_spotlight: false
-  title: Reverse Training to Nurse the Reversal Curse
-  url: https://openreview.net/forum?id=HDkNbfLQgu
-- authors: Haitao Jiang, Lin Ge, Yuhe Gao, Jianian Wang, Rui Song
-  oral_spotlight: false
-  title: 'LLM4Causal: Democratized Causal Tools for Everyone via Large Language Model'
-  url: https://openreview.net/forum?id=H1Edd5d2JP
-- authors: Banghua Zhu, Evan Frick, Tianhao Wu, Hanlin Zhu, Karthik Ganesan, Wei-Lin
-    Chiang, Jian Zhang, Jiantao Jiao
-  oral_spotlight: true
-  title: 'Starling-7B: Improving Helpfulness and Harmlessness with RLAIF'
-  url: https://openreview.net/forum?id=GqDntYTTbk
-- authors: Jie Huang, Wei Ping, Peng Xu, Mohammad Shoeybi, Kevin Chen-Chuan Chang,
-    Bryan Catanzaro
-  oral_spotlight: false
-  title: 'RAVEN: In-Context Learning with Retrieval-Augmented Encoder-Decoder Language
-    Models'
-  url: https://openreview.net/forum?id=GMalvQu0XL
-- authors: Weidi Luo, Siyuan Ma, Xiaogeng Liu, Xiaoyu Guo, Chaowei Xiao
-  oral_spotlight: false
-  title: 'JailBreakV: A Benchmark for Assessing the Robustness of MultiModal Large
-    Language Models against Jailbreak Attacks'
-  url: https://openreview.net/forum?id=GC4mXVfquq
-- authors: Prasann Singhal, Tanya Goyal, Jiacheng Xu, Greg Durrett
-  oral_spotlight: true
-  title: 'A Long Way to Go: Investigating Length Correlations in RLHF'
-  url: https://openreview.net/forum?id=G8LaO1P0xv
-- authors: Andy Yang, David Chiang
-  oral_spotlight: false
-  title: 'Counting Like Transformers: Compiling Temporal Counting Logic Into Softmax
-    Transformers'
-  url: https://openreview.net/forum?id=FmhPg4UJ9K
-- authors: Ryan Teehan, Brenden M. Lake, Mengye Ren
-  oral_spotlight: false
-  title: 'CoLLEGe: Concept Embedding Generation for Large Language Models'
-  url: https://openreview.net/forum?id=Fkr1yVUb9G
-- authors: Jiahui Gao, Renjie Pi, Tianyang Han, Han Wu, Lanqing HONG, Lingpeng Kong,
-    Xin Jiang, Zhenguo Li
-  oral_spotlight: false
-  title: 'CoCA: Regaining Safety-awareness of Multimodal Large Language Models with
-    Constitutional Calibration'
-  url: https://openreview.net/forum?id=FgHpT6u7pk
-- authors: Zachary Ankner, Rishab Parthasarathy, Aniruddha Nrusimha, Christopher Rinard,
-    Jonathan Ragan-Kelley, William Brandon
-  oral_spotlight: false
-  title: 'Hydra: Sequentially-Dependent Draft Heads for Medusa Decoding'
-  url: https://openreview.net/forum?id=FbhjirzvJG
-- authors: Shu Yang, Muhammad Asif Ali, Lu Yu, Lijie Hu, Di Wang
-  oral_spotlight: false
-  title: Model Autophagy Analysis to Explicate Self-consumption within Human-AI Interactions
-  url: https://openreview.net/forum?id=FX4fUThO9H
-- authors: Abhay Zala, Jaemin Cho, Han Lin, Jaehong Yoon, Mohit Bansal
-  oral_spotlight: false
-  title: 'EnvGen: Generating and Adapting Environments via LLMs for Training Embodied
+  url: https://openreview.net/forum?id=Sz3ZU6oeVJ
+- title: 'LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation'
+  authors: Juzheng Zhang, Jiacheng You, Ashwinee Panda, Tom Goldstein
+  url: https://openreview.net/forum?id=b8cW86QcOD
+- title: (Im)possibility of Automated Hallucination Detection in Large Language Models
+  authors: Amin Karbasi, Omar Montasser, John Sous, Grigoris Velegkas
+  url: https://openreview.net/forum?id=e5jWdZIX0Q
+- title: Retrieval-Augmented Generation with Conflicting Evidence
+  authors: Han Wang, Archiki Prasad, Elias Stengel-Eskin, Mohit Bansal
+  url: https://openreview.net/forum?id=z1MHB2m3V9
+- title: 'How Post-Training Reshapes LLMs: A Mechanistic View on Knowledge, Truthfulness,
+    Refusal, and Confidence'
+  authors: Hongzhe Du, Weikai Li, Min Cai, Karim Saraipour, Zimin Zhang, Himabindu
+    Lakkaraju, Yizhou Sun, Shichang Zhang
+  url: https://openreview.net/forum?id=w5DSwn9wTC
+- title: 'Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving'
+  authors: Yong Lin, Shange Tang, Bohan Lyu, Jiayun Wu, Hongzhou Lin, Kaiyu Yang,
+    Jia LI, Mengzhou Xia, Danqi Chen, Sanjeev Arora, Chi Jin
+  url: https://openreview.net/forum?id=x2y9i2HDjD
+- title: 'You Cannot Feed Two Birds with One Score: the Accuracy-Naturalness Tradeoff
+    in Translation'
+  authors: Gergely Flamich, David Vilar, Jan-Thorsten Peter, Markus Freitag
+  url: https://openreview.net/forum?id=d9EkgbZZH9
+- title: 'FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework
+    for Multi-Task and Multi-Domain Scenarios'
+  authors: Ethan Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting
+    Zhou, Junxian He, Graham Neubig, Pengfei Liu
+  url: https://openreview.net/forum?id=hJkQL9VtWT
+- title: 'Stuffed Mamba: Oversized States Lead to the Inability to Forget'
+  authors: Yingfa Chen, Xinrong Zhang, Shengding Hu, Xu Han, Zhiyuan Liu, Maosong
+    Sun
+  url: https://openreview.net/forum?id=CdRauNXD1w
+- title: 'Reverse-engineering NLI: A study of the meta-inferential properties of Natural
+    Language Inference'
+  authors: Rasmus Blanck, Bill Noble, Stergios Chatzikyriakidis
+  url: https://openreview.net/forum?id=NAcvSI2CRM
+- title: Model-Agnostic Policy Explanations with Large Language Models
+  authors: Zhang Xi-Jia, Yue Guo, Shufei Chen, Simon Stepputtis, Matthew Craig Gombolay,
+    Katia P. Sycara, Joseph Campbell
+  url: https://openreview.net/forum?id=VzXpFjKgJg
+- title: 'ThoughtTerminator: Benchmarking, Calibrating, and Mitigating Overthinking
+    in Reasoning Models'
+  authors: Sophia Xiao Pu, Michael Saxon, Wenyue Hua, William Yang Wang
+  url: https://openreview.net/forum?id=oHR862dpMC
+- title: 'BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with
+    Chunk-Level Activation Sparsity'
+  authors: Chenyang Song, Weilin Zhao, Xu Han, Chaojun Xiao, Yingfa Chen, Yuxuan Li,
+    Zhiyuan Liu, Maosong Sun
+  url: https://openreview.net/forum?id=uLl7tSUOir
+- title: Self-Evolving Critique Abilities in Large Language Models
+  authors: Zhengyang Tang, Ziniu Li, Zhenyang Xiao, Tian Ding, Ruoyu Sun, Benyou Wang,
+    Dayiheng Liu, Fei Huang, Tianyu Liu, Bowen Yu, Junyang Lin
+  url: https://openreview.net/forum?id=TA6azZKWJq
+- title: Hardware-Efficient Attention for Fast Decoding
+  authors: Ted Zadouri, Hubert Strauss, Tri Dao
+  url: https://openreview.net/forum?id=HAjgxcHpzc
+- title: 'LongCodeBench: Evaluating Coding LLMs at 1M Context Windows'
+  authors: Stefano Rando, Luca Romani, Alessio Sampieri, Luca Franco, John Yang, Yuta
+    Kyuragi, Fabio Galasso, Tatsunori Hashimoto
+  url: https://openreview.net/forum?id=GFPoM8Ylp8
+- title: LLMs Are In-Context Bandit Reinforcement Learners
+  authors: Giovanni Monea, Antoine Bosselut, Kianté Brantley, Yoav Artzi
+  url: https://openreview.net/forum?id=c0RsezY2D1
+- title: 'Critique Fine-Tuning: Learning to Critique is More Effective than Learning
+    to Imitate'
+  authors: Yubo Wang, Xiang Yue, Wenhu Chen
+  url: https://openreview.net/forum?id=vTAz44GgOA
+- title: '$100K or 100 Days: Trade-offs when Pre-Training with Academic Resources'
+  authors: Apoorv Khandelwal, Tian Yun, Nihal V. Nayak, Jack Merullo, Stephen Bach,
+    Chen Sun, Ellie Pavlick
+  url: https://openreview.net/forum?id=EFxC34XbDh
+- title: Learning Adaptive Parallel Search in Language
+  authors: Jiayi Pan, Xiuyu Li, Long Lian, Charlie Victor Snell, Yifei Zhou, Adam
+    Yala, Trevor Darrell, Kurt Keutzer, Alane Suhr
+  url: https://openreview.net/forum?id=YgwQ7sXPXU
+- title: Analyzing Multilingualism in Large Language Models with Sparse Autoencoders
+  authors: Ikhyun Cho, Julia Hockenmaier
+  url: https://openreview.net/forum?id=NmGSvZoU3K
+- title: 'When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative
+    Verification for LLM Reasoning'
+  authors: Nishad Singhi, Hritik Bansal, Arian Hosseini, Aditya Grover, Kai-Wei Chang,
+    Marcus Rohrbach, Anna Rohrbach
+  url: https://openreview.net/forum?id=R7qRUFHGTx
+- title: Exposing and Patching the Flaws of Large Language Models in Social Character
+    Simulation
+  authors: Yue Huang, Zhengqing Yuan, Yujun Zhou, Kehan Guo, Xiangqi Wang, Haomin
+    Zhuang, Weixiang Sun, Lichao Sun, Jindong Wang, Yanfang Ye, Xiangliang Zhang
+  url: https://openreview.net/forum?id=B5E3ijlLML
+- title: 'REFA: Reference Free Alignment for Multi-preference Optimization'
+  authors: Taneesh Gupta, Rahul Madhavan, Xuchao Zhang, Chetan Bansal, Saravan Rajmohan
+  url: https://openreview.net/forum?id=zP6DJaBBcR
+- title: Impact of LLM Alignment on Impression Formation in Social Interactions
+  authors: Ala N. Tak, Anahita Bolourani, Daniel B. Shank, Jonathan Gratch
+  url: https://openreview.net/forum?id=R135tO3SJJ
+- title: 'FineMedLM-o1: Enhancing Medical Knowledge Reasoning Ability of LLM from
+    Supervised Fine-Tuning to Test-Time Training'
+  authors: hongzhou yu, Tianhao Cheng, Yingwen Wang, Wen He, Qing Wang, Ying Cheng,
+    Yuejie Zhang, Rui Feng, Xiaobo Zhang
+  url: https://openreview.net/forum?id=7ZwuGZCopw
+- title: 'Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs
+    on Academic Resources'
+  authors: Weizhi Wang, Yu Tian, Linjie Yang, Heng Wang, Xifeng Yan
+  url: https://openreview.net/forum?id=nVQmW1af6j
+- title: 'Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework
+    for Strategic Reasoning'
+  authors: Daechul Ahn, San Kim, Jonghyun Choi
+  url: https://openreview.net/forum?id=VYdbeSoXWD
+- title: 'BiXSE: Improving Dense Retrieval via Probabilistic Graded Relevance Distillation'
+  authors: Christos Tsirigotis, Vaibhav Adlakha, Joao Monteiro, Aaron Courville, Perouz
+    Taslakian
+  url: https://openreview.net/forum?id=9nQsDdquOY
+- title: 'DualEdit: Dual Editing for Knowledge Updating in Vision-Language Models'
+  authors: Zhiyi Shi, Binjie Wang, Chongjie Si, Yichen Wu, Junsik Kim, Hanspeter Pfister
+  url: https://openreview.net/forum?id=X5vFauyVWr
+- title: Teach Old SAEs New Domain Tricks with Boosting
+  authors: Nikita Koriagin, Yaroslav Aksenov, Daniil Laptev, Gleb Gerasimov, Nikita
+    Balagansky, Daniil Gavrilov
+  url: https://openreview.net/forum?id=d4XXFVAlV7
+- title: 'CITER: Collaborative Inference for Efficient Large Language Model Decoding
+    with Token-Level Routing'
+  authors: Wenhao Zheng, Yixiao Chen, Weitong Zhang, Souvik Kundu, Yun Li, Zhengzhong
+    Liu, Eric Xing, Hongyi Wang, Huaxiu Yao
+  url: https://openreview.net/forum?id=nqX9UYW9Af
+- title: Language Agents Mirror Human Causal Reasoning Biases. How Can We Help Them
+    Think Like Scientists?
+  authors: Anthony GX-Chen, Dongyan Lin, Mandana Samiei, Doina Precup, Blake Aaron
+    Richards, Rob Fergus, Kenneth Marino
+  url: https://openreview.net/forum?id=LKINTp7Gdo
+- title: 'Local Mixtures of Experts: Essentially Free Test-Time Training via Model
+    Merging'
+  authors: Ryo Bertolissi, Jonas Hübotter, Ido Hakimi, Andreas Krause
+  url: https://openreview.net/forum?id=X2RXpFA6Vh
+- title: 'SpectR: Dynamically Composing LM Experts with Spectral Routing'
+  authors: William Fleshman, Benjamin Van Durme
+  url: https://openreview.net/forum?id=tK8GHR62EX
+- title: Pairwise or Pointwise? Evaluating Feedback Protocols for Bias in LLM-Based
+    Evaluation
+  authors: Tuhina Tripathi, Manya Wadhwa, Greg Durrett, Scott Niekum
+  url: https://openreview.net/forum?id=uyX5Vnow3U
+- title: 'More is Less: The Pitfalls of Multi-Model Synthetic Preference Data in DPO
+    Safety Alignment'
+  authors: Yifan Wang, Runjin Chen, Bolian Li, David Cho, Yihe Deng, Ruqi Zhang, Tianlong
+    Chen, Zhangyang Wang, Ananth Grama, Junyuan Hong
+  url: https://openreview.net/forum?id=wXOUYzNv5k
+- title: 'HIPPO-VIDEO : Simulating Watch Histories with Large Language Models for
+    History-Driven Video Highlighting'
+  authors: Jeongeun Lee, Youngjae Yu, Dongha Lee
+  url: https://openreview.net/forum?id=Q6TCkggzQ2
+- title: 'E$^2$-RAG: Towards Editable Efficient RAG by Editing Compressed KV Caches'
+  authors: Tongxu Luo, Wenyu Du, HanWen Hao, Min Zhang, Hao Yang, Benyou Wang
+  url: https://openreview.net/forum?id=ZZ4tcxJvux
+- title: The role of language and concepts in LM–brain alignment
+  authors: Maria Ryskina, Greta Tuckute, Alexander Fung, Ashley Malkin, Evelina Fedorenko
+  url: https://openreview.net/forum?id=2JohTFaGbW
+- title: Guided Reasoning in LLM-Driven Penetration Testing Using Structured Attack
+    Trees
+  authors: Katsuaki Nakano, Reza Fayyazi, Shanchieh Yang, Michael Zuzak
+  url: https://openreview.net/forum?id=x4sdXZ7Jdu
+- title: 'SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction
+    from Research Papers'
+  authors: Yanzheng Xiang, Hanqi Yan, Shuyin Ouyang, Lin Gui, Yulan He
+  url: https://openreview.net/forum?id=8LoPjpvWde
+- title: 'ParaPO: Aligning Language Models to Reduce Verbatim Reproduction of Pre-training
+    Data'
+  authors: Tong Chen, Faeze Brahman, Jiacheng Liu, Niloofar Mireshghallah, Weijia
+    Shi, Pang Wei Koh, Luke Zettlemoyer, Hannaneh Hajishirzi
+  url: https://openreview.net/forum?id=Uic3ojVhXh
+- title: Reinforcement Learning Enhanced Full-Duplex Spoken Dialogue Language Models
+    for Conversational Interactions
+  authors: Chen Chen, Ke Hu, Chao-Han Huck Yang, Ankita Pasad, Edresson Casanova,
+    Weiqing Wang, Szu-Wei Fu, Jason Li, Zhehuai Chen, Jagadeesh Balam, Boris Ginsburg
+  url: https://openreview.net/forum?id=QbLbXz8Idp
+- title: '$\mu$KE: Matryoshka Unstructured Knowledge Editing of Large Language Models'
+  authors: Zian Su, Ziyang Huang, Kaiyuan Zhang, Xiangyu Zhang
+  url: https://openreview.net/forum?id=MiR3ObcF3C
+- title: 'PersonaEval: Are LLM Evaluators Human Enough to Judge Role-Play?'
+  authors: Lingfeng Zhou, Jialing Zhang, Jin Gao, Mohan Jiang, Dequan Wang
+  url: https://openreview.net/forum?id=drdrFhKYjP
+- title: 'The Delta Learning Hypothesis: Preference Tuning on Weak Data can Yield
+    Strong Gains'
+  authors: Scott Geng, Hamish Ivison, Chun-Liang Li, Maarten Sap, Jerry Li, Ranjay
+    Krishna, Pang Wei Koh
+  url: https://openreview.net/forum?id=9rwtezthwo
+- title: 'Tulu 3: Pushing Frontiers in Open Language Model Post-Training'
+  authors: Nathan Lambert, Jacob Morrison, Valentina Pyatkin, Shengyi Huang, Hamish
+    Ivison, Faeze Brahman, Lester James Validad Miranda, Alisa Liu, Nouha Dziri, Xinxi
+    Lyu, Yuling Gu, Saumya Malik, Victoria Graf, Jena D. Hwang, Jiangjiang Yang, Ronan
+    Le Bras, Oyvind Tafjord, Christopher Wilhelm, Luca Soldaini, Noah A. Smith, Yizhong
+    Wang, Pradeep Dasigi, Hannaneh Hajishirzi
+  url: https://openreview.net/forum?id=i1uGbfHHpH
+- title: 'D3: A Large Dataset for Training Code Language Models to Act Diff-by-Diff'
+  authors: Ulyana Piterbarg, Kanishk Gandhi, Lerrel Pinto, Noah Goodman, Rob Fergus
+  url: https://openreview.net/forum?id=sy71y74U80
+- title: Can  Scaling Test-Time Compute Improve World Foundation Model?
+  authors: Wenyan Cong, Hanqing Zhu, Peihao Wang, Bangya Liu, Dejia Xu, Kevin Wang,
+    David Z. Pan, Yan Wang, Zhiwen Fan, Zhangyang Wang
+  url: https://openreview.net/forum?id=jSmpq7IRYe
+- title: 'Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners
+    With Verifiers'
+  authors: Kusha Sareen, Morgane M Moss, Alessandro Sordoni, Arian Hosseini, Rishabh
+    Agarwal
+  url: https://openreview.net/forum?id=kVOrGZM5N7
+- title: 'Higher-Order Binding of Language Model Virtual Personas: a Study on Approximating
+    Political Partisan Misperceptions'
+  authors: Minwoo Kang, Suhong Moon, Seung Hyeong Lee, Ayush Raj, Joseph Suh, David
+    M. Chan
+  url: https://openreview.net/forum?id=zHdSCtNmM4
+- title: Scalable Zeroth-Order Fine-Tuning for Extremely Large Language Models with
+    Limited GPU Memory
+  authors: Liangyu Wang, Jie Ren, Hang Xu, Junxiao Wang, Huanyi Xie, David E. Keyes,
+    Di Wang
+  url: https://openreview.net/forum?id=s0p9xpORgP
+- title: 'HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Interactive AI
     Agents'
-  url: https://openreview.net/forum?id=F9tqgOPXH5
-- authors: Mingjie Sun, Xinlei Chen, J Zico Kolter, Zhuang Liu
-  oral_spotlight: false
-  title: Massive Activations in Large Language Models
-  url: https://openreview.net/forum?id=F7aAhfitX6
-- authors: Jiaxian Guo, Bo Yang, Paul Yoo, Bill Yuchen Lin, Yusuke Iwasawa, Yutaka
-    Matsuo
-  oral_spotlight: false
-  title: 'Suspicion Agent: Playing Imperfect Information Games with Theory of Mind
-    Aware GPT-4'
-  url: https://openreview.net/forum?id=F2yGbwXJAi
-- authors: Simon Yu, Jie He, Pasquale Minervini, Jeff Z. Pan
-  oral_spotlight: false
-  title: Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning
-    for Large Language Models
-  url: https://openreview.net/forum?id=Ecgev5ZZpq
-- authors: Alex Zhuang, Ge Zhang, Tianyu Zheng, Xeron Du, Junjie Wang, Weiming Ren,
-    Wenhao Huang, Jie Fu, Xiang Yue, Wenhu Chen
-  oral_spotlight: false
-  title: 'StructLM: Towards Building Generalist Models for Structured Knowledge Grounding'
-  url: https://openreview.net/forum?id=EKBPn7no4y
-- authors: Prasann Singhal, Nathan Lambert, Scott Niekum, Tanya Goyal, Greg Durrett
-  oral_spotlight: false
-  title: 'D2PO: Discriminator-Guided DPO with Response Evaluation Models'
-  url: https://openreview.net/forum?id=EIjJ6ykPnh
-- authors: "Duarte Miguel Alves, Jos\xE9 Pombal, Nuno M Guerreiro, Pedro Henrique\
-    \ Martins, Jo\xE3o Alves, Amin Farajian, Ben Peters, Ricardo Rei, Patrick Fernandes,\
-    \ Sweta Agrawal, Pierre Colombo, Jos\xE9 G. C. de Souza, Andre Martins"
-  oral_spotlight: true
-  title: 'Tower: An Open Multilingual Large Language Model for Translation-Related
-    Tasks'
-  url: https://openreview.net/forum?id=EHPns3hVkj
-- authors: Haotian Zhang, Haoxuan You, Philipp Dufter, Bowen Zhang, Chen Chen, Hong-You
-    Chen, Tsu-Jui Fu, William Yang Wang, Shih-Fu Chang, Zhe Gan, Yinfei Yang
-  oral_spotlight: false
-  title: 'Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language
-    Models'
-  url: https://openreview.net/forum?id=EEPBOB2Xww
-- authors: Chenyang Zhao, Xueying Jia, Vijay Viswanathan, Graham Neubig, Tongshuang
-    Wu
-  oral_spotlight: false
-  title: 'Self-Guide: Better Task-Specific Instruction Following via Self-Synthetic
-    Finetuning'
-  url: https://openreview.net/forum?id=Dt6qXZsgaU
-- authors: Huaisheng Zhu, Teng Xiao, Vasant G Honavar
-  oral_spotlight: false
-  title: '3M-Diffusion: Latent Multi-Modal Diffusion for Language-Guided Molecular
-    Structure Generation'
-  url: https://openreview.net/forum?id=DomBynQsqt
-- authors: Huihan Li, Liwei Jiang, Nouha Dziri, Xiang Ren, Yejin Choi
-  oral_spotlight: false
-  title: 'CULTURE-GEN: Revealing Global Cultural Perception in Language Models through
-    Natural Language Prompting'
-  url: https://openreview.net/forum?id=DbsLm2KAqP
-- authors: Haoran Li, Junqi Liu, Zexian Wang, Shiyuan Luo, Xiaowei Jia, Huaxiu Yao
-  oral_spotlight: false
-  title: 'LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models'
-  url: https://openreview.net/forum?id=DRffhKBVlE
-- authors: Liangyi Huang, Xusheng Xiao
-  oral_spotlight: false
-  title: 'CTIKG: LLM-Powered Knowledge Graph Construction from Cyber Threat Intelligence'
-  url: https://openreview.net/forum?id=DOMP5AgwQz
-- authors: Jiahao Zhao, Minzheng Wang, Nan Xu, YinLuo, Wenji Mao
-  oral_spotlight: false
-  title: Enhancing Adversarial Robustness of LLMs with Analytic Hierarchy Process
-  url: https://openreview.net/forum?id=DMUGTMWrKZ
-- authors: Federico Cassano, Luisa Li, Akul Sethi, Noah Shinn, Abby Brennan-Jones,
-    Jacob Ginesin, Edward Berman, George Chakhnashvili, Anton Lozhkov, Carolyn Jane
-    Anderson, Arjun Guha
-  oral_spotlight: false
-  title: Can It Edit? Evaluating the Ability of Large Language Models to Follow Code
-    Editing Instructions
-  url: https://openreview.net/forum?id=D06yk3DBas
-- authors: Yann Dubois, Percy Liang, Tatsunori Hashimoto
-  oral_spotlight: false
-  title: 'Length-Controlled AlpacaEval: A Simple Debiasing of Automatic Evaluators'
-  url: https://openreview.net/forum?id=CybBmzWBX0
-- authors: "Chinmaya Andukuri, Jan-Philipp Fr\xE4nken, Tobias Gerstenberg, Noah Goodman"
-  oral_spotlight: false
-  title: 'STaR-GATE: Teaching Language Models to Ask Clarifying Questions'
-  url: https://openreview.net/forum?id=CrzAj0kZjR
-- authors: Abdelrahman Zayed, Goncalo Mordido, Samira Shabanian, Sarath Chandar
-  oral_spotlight: false
-  title: Should We Attend More or Less? Modulating Attention for Fairness
-  url: https://openreview.net/forum?id=CI7D2kiih1
-- authors: Ching-Yun Ko, Pin-Yu Chen, Payel Das, Yung-Sung Chuang, Luca Daniel
-  oral_spotlight: false
-  title: On Robustness-Accuracy Characterization of Language Models using Synthetic
-    Datasets
-  url: https://openreview.net/forum?id=C0j44uRPcl
-- authors: Mohammad Saqib Hasan, Sayontan Ghosh, Dhruv Verma, Geoff Kuenning, Erez
-    Zadok, Scott Smolka, Niranjan Balasubramanian
-  oral_spotlight: false
-  title: 'Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval
-    Augmented Parsing with Expert Knowledge'
-  url: https://openreview.net/forum?id=BgvgMxY8s5
-- authors: Wilson Wu, John Xavier Morris, Lionel Levine
-  oral_spotlight: false
-  title: Do Language Models Plan Ahead for Future Tokens?
-  url: https://openreview.net/forum?id=BaOAvPUyBO
-- authors: Terry Koo, Frederick Liu, Luheng He
-  oral_spotlight: false
-  title: Automata-based constraints for language model decoding
-  url: https://openreview.net/forum?id=BDBdblmyzY
-- authors: Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, Beibin Li, Erkang Zhu,
-    Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Hassan Awadallah, Ryen
-    W White, Doug Burger, Chi Wang
-  oral_spotlight: false
-  title: 'AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversations'
-  url: https://openreview.net/forum?id=BAakY1hNKS
-- authors: Pratyush Maini, Zhili Feng, Avi Schwarzschild, Zachary Chase Lipton, J
-    Zico Kolter
-  oral_spotlight: false
-  title: 'TOFU: A Task of Fictitious Unlearning for LLMs'
-  url: https://openreview.net/forum?id=B41hNBoWLo
-- authors: Carl Edwards, Aakanksha Naik, Tushar Khot, Martin D. Burke, Heng Ji, Tom
-    Hope
-  oral_spotlight: false
-  title: 'SynerGPT: In-Context Learning for Personalized Drug Synergy Prediction and
-    Drug Design'
-  url: https://openreview.net/forum?id=Aaz6R4Tlwv
-- authors: Evan Hernandez, Belinda Z. Li, Jacob Andreas
-  oral_spotlight: false
-  title: Inspecting and Editing Knowledge Representations in Language Models
-  url: https://openreview.net/forum?id=ADtL6fgNRv
-- authors: "Yinhong Liu, Han Zhou, Zhijiang Guo, Ehsan Shareghi, Ivan Vuli\u0107,\
-    \ Anna Korhonen, Nigel Collier"
-  oral_spotlight: false
-  title: 'Aligning with Human Judgement: The Role of Pairwise Preference in Large
-    Language Model Evaluators'
-  url: https://openreview.net/forum?id=9gdZI7c6yr
-- authors: Jingzhe Shi, Jialuo Li, Qinwei Ma, Zaiwen Yang, Huan Ma, Lei Li
-  oral_spotlight: false
-  title: 'CHOPS: CHat with custOmer Profile Systems for Customer Service with LLMs'
-  url: https://openreview.net/forum?id=9Wmdk94oKF
-- authors: Yiming Zhang, Avi Schwarzschild, Nicholas Carlini, J Zico Kolter, Daphne
-    Ippolito
-  oral_spotlight: false
-  title: Forcing Diffuse Distributions out of Language Models
-  url: https://openreview.net/forum?id=9JY1QLVFPZ
-- authors: Aounon Kumar, Chirag Agarwal, Suraj Srinivas, Aaron Jiaxun Li, Soheil Feizi,
-    Himabindu Lakkaraju
-  oral_spotlight: false
-  title: Certifying LLM Safety against Adversarial Prompting
-  url: https://openreview.net/forum?id=9Ik05cycLq
-- authors: Charles Jin
-  oral_spotlight: false
-  title: 'Latent Causal Probing: A Formal Perspective on Probing with Causal Models
-    of Data'
-  url: https://openreview.net/forum?id=98ekcwQqb7
-- authors: Zhi Rui Tam, Ya Ting Pai, Yen-Wei Lee, Hong-Han Shuai, Jun-Da Chen, Wei
-    Min Chu, Sega Cheng
-  oral_spotlight: false
-  title: 'TMMLU+: An Improved Traditional Chinese Evaluation Suite for Foundation
-    Models'
-  url: https://openreview.net/forum?id=95TayIeqJ4
-- authors: Lilly Kumari, Shengjie Wang, Tianyi Zhou, Nikhil Sarda, Anthony Rowe, Jeff
-    Bilmes
-  oral_spotlight: false
-  title: 'BumbleBee: Dynamic KV-Cache Streaming Submodular Summarization for Infinite-Context
-    Transformers'
-  url: https://openreview.net/forum?id=8w0RApM5yG
-- authors: Shi Luohe, Hongyi Zhang, Yao Yao, Zuchao Li, hai zhao
-  oral_spotlight: false
-  title: "Keep the Cost Down: A Review on Methods to Optimize LLM\u2019s KV-Cache\
-    \ Consumption"
-  url: https://openreview.net/forum?id=8tKjqqMM5z
-- authors: Siddharth Mishra-Sharma, YIDING SONG, Jesse Thaler
-  oral_spotlight: false
-  title: 'PAPERCLIP: Associating Astronomical Observations and Natural Language with
-    Multi-Modal Models'
-  url: https://openreview.net/forum?id=8TdcXwfNRB
-- authors: Haz Sameen Shahgir, Khondker Salman Sayeed, Abhik Bhattacharjee, Wasi Uddin
-    Ahmad, Yue Dong, Rifat Shahriyar
-  oral_spotlight: false
-  title: 'IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language
-    Models'
-  url: https://openreview.net/forum?id=7ysaJGs7zY
-- authors: "Patrick Haller, Jannis Vamvas, Lena Ann J\xE4ger"
-  oral_spotlight: false
-  title: Yes, no, maybe? Revisiting language models' response stability under paraphrasing
-    for the assessment of political leaning
-  url: https://openreview.net/forum?id=7xUtka9ck9
-- authors: Po-Heng Chen, Sijia Cheng, Wei-Lin Chen, Yen-Ting Lin, Yun-Nung Chen
-  oral_spotlight: false
-  title: Measuring Taiwanese Mandarin Language Understanding
-  url: https://openreview.net/forum?id=7jSMMvXLri
-- authors: Tianhao Wu, Banghua Zhu, Ruoyu Zhang, Zhaojin Wen, Kannan Ramchandran,
-    Jiantao Jiao
-  oral_spotlight: false
-  title: 'Pairwise Proximal Policy Optimization: Language Model Alignment with Comparative
-    RL'
-  url: https://openreview.net/forum?id=7iaAlIlV2H
-- authors: Xinran Zhao, Tong Chen, Sihao Chen, Hongming Zhang, Tongshuang Wu
-  oral_spotlight: false
-  title: 'Beyond Relevance: Evaluate and Improve Retrievers on Perspective Awareness'
-  url: https://openreview.net/forum?id=7VPKtz8CHN
-- authors: "Xiaoran Fan, Tao Ji, \u6C5F\u5E38\u7693, Shuo Li, Senjie Jin, Sirui Song,\
-    \ Junke Wang, Boyang Hong, Lu Chen, Guodong Zheng, Ming Zhang, Caishuang Huang,\
-    \ Rui Zheng, Zhiheng Xi, Yuhao Zhou, Shihan Dou, Junjie Ye, Hang Yan, Tao Gui,\
-    \ Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang"
-  oral_spotlight: false
-  title: Poly-Visual-Expert Vision-Language Models
-  url: https://openreview.net/forum?id=7QaEO9WYMa
-- authors: Qiushi Sun, Zhangyue Yin, Xiang Li, Zhiyong Wu, Xipeng Qiu, Lingpeng Kong
-  oral_spotlight: false
-  title: 'Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration'
-  url: https://openreview.net/forum?id=7BCmIWVT0V
-- authors: Peng Ding, Jiading Fang, Peng Li, Kangrui Wang, Xiaochen Zhou, Mo Yu, Jing
-    Li, Hongyuan Mei, Matthew Walter
-  oral_spotlight: false
-  title: 'MANGO: A Benchmark for Evaluating Mapping and Navigation Abilities of Large
+  authors: Xuhui Zhou, Hyunwoo Kim, Faeze Brahman, Liwei Jiang, Hao Zhu, Ximing Lu,
+    Frank F. Xu, Bill Yuchen Lin, Yejin Choi, Niloofar Mireshghallah, Ronan Le Bras,
+    Maarten Sap
+  url: https://openreview.net/forum?id=KI1WQ6rLiy
+- title: 'CONCAP: Seeing Beyond English with Concepts Retrieval-Augmented Captioning'
+  authors: George Ibrahim, Rita Ramos, Yova Kementchedjhieva
+  url: https://openreview.net/forum?id=yfnaK1pZxu
+- title: Discovering Knowledge Deficiencies of Language Models on Massive Knowledge
+    Base
+  authors: Linxin Song, Xuwei Ding, Jieyu Zhang, Taiwei Shi, Ryotaro Shimizu, Rahul
+    Gupta, Yang Liu, Jian Kang, Jieyu Zhao
+  url: https://openreview.net/forum?id=eqNItk1sWo
+- title: A Meta-Evaluation of Measuring LLM Misgendering
+  authors: Arjun Subramonian, Vagrant Gautam, Preethi Seshadri, Dietrich Klakow, Kai-Wei
+    Chang, Yizhou Sun
+  url: https://openreview.net/forum?id=vgmiRvpCLA
+- title: Ensemble Debiasing Across Class and Sample Levels for Fairer Prompting Accuracy
+  authors: Ruixi Lin, Ziqiao Wang, Yang You
+  url: https://openreview.net/forum?id=63c7hTrUCh
+- title: Boosting LLM Reasoning via Spontaneous Self-Correction
+  authors: Xutong Zhao, Tengyu Xu, Xuewei Wang, Zhengxing Chen, Di Jin, Liang Tan,
+    Yen-Ting Lin, Zishun Yu, Zhuokai Zhao, Yun He, Sinong Wang, Han Fang, Sarath Chandar,
+    Chen Zhu
+  url: https://openreview.net/forum?id=9DCQAGBoII
+- title: 'DFRot: Achieving Outlier-Free and Massive Activation-Free for Rotated LLMs
+    with Refined Rotation'
+  authors: Jingyang Xiang, Sai Qian Zhang
+  url: https://openreview.net/forum?id=WzGypILLDb
+- title: 'G1yphD3c0de: Towards Safer Language Models on Visually Perturbed Texts'
+  authors: Yejinchoi, Yejin Yeo, Yejin Son, Seungju Han, Youngjae Yu
+  url: https://openreview.net/forum?id=OGwE7LwtcR
+- title: 'Gating is Weighting: Understanding Gated Linear Attention through In-context
+    Learning'
+  authors: Yingcong Li, Davoud Ataee Tarzanagh, Ankit Singh Rawat, Maryam Fazel, Samet
+    Oymak
+  url: https://openreview.net/forum?id=9AFIz0YzD7
+- title: The Blessing and Curse of Dimensionality in Safety Alignment
+  authors: Rachel S.Y. Teo, Laziz Abdullaev, Tan Minh Nguyen
+  url: https://openreview.net/forum?id=TiTk6VDz2H
+- title: 'Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning'
+  authors: Aleksander Ficek, Somshubra Majumdar, Vahid Noroozi, Boris Ginsburg
+  url: https://openreview.net/forum?id=YLze3CETYP
+- title: 'To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning'
+  authors: Tian Qin, David Alvarez-Melis, Samy Jelassi, Eran Malach
+  url: https://openreview.net/forum?id=XNQHMYsUHf
+- title: 'AIOS: LLM Agent Operating System'
+  authors: Kai Mei, Xi Zhu, Wujiang Xu, Mingyu Jin, Wenyue Hua, Zelong Li, Shuyuan
+    Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang
+  url: https://openreview.net/forum?id=L4HHkCDz2x
+- title: An Illusion of Progress? Assessing the Current State of Web Agents
+  authors: Tianci Xue, Weijian Qi, Tianneng Shi, Chan Hee Song, Boyu Gou, Dawn Song,
+    Huan Sun, Yu Su
+  url: https://openreview.net/forum?id=6jZi4HSs6o
+- title: 'Learning by Teaching: Engaging Students as Instructors of Large Language
+    Models in Computer Science Education'
+  authors: Xinming Yang, Haasil Pujara, Jun Li
+  url: https://openreview.net/forum?id=RUAoV3j6tM
+- title: 'FalseReject: A Resource for Improving Contextual Safety and Mitigating Over-Refusals
+    in LLMs via Structured Reasoning'
+  authors: Zhehao Zhang, Weijie Xu, Fanyou Wu, Chandan K. Reddy
+  url: https://openreview.net/forum?id=1w9Hay7tvm
+- title: 'ReFeed: Multi-dimensional Summarization Refinement with Reflective Reasoning
+    on Feedback'
+  authors: Taewon Yun, Jihwan Oh, Hyangsuk Min, Yuho Lee, Jihwan Bang, Jason Cai,
+    Hwanjun Song
+  url: https://openreview.net/forum?id=6BGDGKZN7q
+- title: Understanding Layer Significance in LLM Alignment
+  authors: Guangyuan SHI, ZEXIN LU, Xiaoyu DONG, Wenlong Zhang, Xuanyu Zhang, Yujie
+    Feng, Xiao-Ming Wu
+  url: https://openreview.net/forum?id=JloZnCwhmk
+- title: Rising Rewards Elite Efficient Process Supervision in LLM Agent Learning
+  authors: Zilong Wang, Jingfeng Yang, Sreyashi Nag, Samarth Varshney, Xianfeng Tang,
+    Haoming Jiang, Jingbo Shang, Sheikh Muhammad Sarwar
+  url: https://openreview.net/forum?id=PhaE8TSM5j
+- title: 'Imagine All The Relevance: Scenario-Profiled Indexing with Knowledge Expansion
+    for Dense Retrieval'
+  authors: Sangam Lee, Ryang Heo, SeongKu Kang, Dongha Lee
+  url: https://openreview.net/forum?id=ZYVAtUUNbH
+- title: 'URANIA: Differentially Private Insights into AI Use'
+  authors: Daogao Liu, Edith Cohen, Badih Ghazi, Peter Kairouz, Pritish Kamath, Alexander
+    Knop, Ravi Kumar, Pasin Manurangsi, Adam Sealfon, Da Yu, Chiyuan Zhang
+  url: https://openreview.net/forum?id=dujG4nGClA
+- title: 'Do Large Language Models Have a Planning Theory of Mind? Evidence from MindGames:
+    a Multi-Step Persuasion Task'
+  authors: Jared Moore, Ned Cooper, Rasmus Overmark, Beba Cibralic, Cameron Robert
+    Jones, Nick Haber
+  url: https://openreview.net/forum?id=vNJbDhgrM4
+- title: 'Robo-Instruct: Simulator-Augmented Instruction Alignment For Finetuning
+    Code LLMs'
+  authors: Zichao Hu, Junyi Jessy Li, Arjun Guha, Joydeep Biswas
+  url: https://openreview.net/forum?id=WnZjdQOWiY
+- title: 'Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives
+    Targeting Mental Health Groups'
+  authors: Rijul Magu, Arka Dutta, Sean Kim, Ashiqur R. KhudaBukhsh, Munmun De Choudhury
+  url: https://openreview.net/forum?id=am6p8VFm9l
+- title: Hyperparameter Loss Surfaces Are Simple Near their Optima
+  authors: Nicholas Lourie, He He, Kyunghyun Cho
+  url: https://openreview.net/forum?id=IAoSG4Q2xC
+- title: Overconfidence and overreliance risks in multilingual language models
+  authors: Neil Rathi, Dan Jurafsky, Kaitlyn Zhou
+  url: https://openreview.net/forum?id=QsQatTzATT
+- title: 'MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression'
+  authors: Tianyu Fu, Haofeng Huang, Xuefei Ning, Genghan Zhang, Boju Chen, Tianqi
+    Wu, Hongyi Wang, Zixiao Huang, Shiyao Li, Shengen Yan, Guohao Dai, Huazhong Yang,
+    Yu Wang
+  url: https://openreview.net/forum?id=n3rZJrWPLE
+- title: VaPR - Vision-language Preference alignment for Reasoning
+  authors: Rohan Wadhawan, Fabrice Y Harel-Canada, Zi-Yi Dou, Suhaila Shakiah, Robinson
+    Piramuthu, Nanyun Peng
+  url: https://openreview.net/forum?id=uBAubFwymy
+- title: 'Agent S2: A Compositional Generalist-Specialist Framework for Computer Use
+    Agents'
+  authors: Saaket Agashe, Kyle Wong, Vincent Tu, Jiachen Yang, Ang Li, Xin Eric Wang
+  url: https://openreview.net/forum?id=zg5is4GJ3R
+- title: 'Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical
+    Thinking Skill?'
+  authors: Chenrui Fan, Ming Li, Lichao Sun, Tianyi Zhou
+  url: https://openreview.net/forum?id=ufozo2Wc9e
+- title: 'SmolVLM: Redefining small and efficient multimodal models'
+  authors: Andrés Marafioti, Orr Zohar, Miquel Farré, Merve noyan, Elie Bakouch, Pedro
+    Manuel Cuenca Jiménez, Cyril Zakka, Loubna Ben allal, Anton Lozhkov, Nouamane
+    Tazi, Vaibhav Srivastav, Joshua Lochner, Hugo Larcher, Mathieu Morlon, Lewis Tunstall,
+    Leandro Von Werra, Thomas Wolf
+  url: https://openreview.net/forum?id=qMUbhGUFUb
+- title: 'FormaRL: Enhancing Autoformalization with no Labeled Data'
+  authors: Yanxing Huang, Xinling Jin, Sijie Liang, Fuwen Luo, Peng Li, Yang Liu
+  url: https://openreview.net/forum?id=Z2El1U94bq
+- title: 'FiSCo: Fine-grained Similarity Computation for Detecting Biased Responses'
+  authors: Weijie Xu, Yiwen Wang, Chi Xue, Xiangkun Hu, Xi Fang, Guimin Dong, Chandan
+    K. Reddy
+  url: https://openreview.net/forum?id=wKVtjs0w4a
+- title: Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits
+    of Highly Effective STaRs
+  authors: Kanishk Gandhi, Ayush K Chakravarthy, Anikait Singh, Nathan Lile, Noah
+    Goodman
+  url: https://openreview.net/forum?id=QGJ9ttXLTy
+- title: 'Boundless Byte Pair Encoding: Breaking the Pre-tokenization Barrier'
+  authors: Craig W Schmidt, Varshini Reddy, Chris Tanner, Yuval Pinter
+  url: https://openreview.net/forum?id=oPAjXGV8qQ
+- title: The Surprising Effectiveness of Membership Inference with Simple N-Gram Coverage
+  authors: Skyler Hallinan, Jaehun Jung, Melanie Sclar, Ximing Lu, Abhilasha Ravichander,
+    Sahana Ramnath, Yejin Choi, Sai Praneeth Karimireddy, Niloofar Mireshghallah,
+    Xiang Ren
+  url: https://openreview.net/forum?id=CNWlNF8VOm
+- title: 'ProsodyLM: Uncovering the Emerging Prosody Processing Capabilities in Speech
     Language Models'
-  url: https://openreview.net/forum?id=6vEfyp0o68
-- authors: Yuxuan Wang, Alan Yuille, Zhuowan Li, Zilong Zheng
-  oral_spotlight: false
-  title: 'ExoViP: Step-by-step Verification and Exploration with Exoskeleton Modules
-    for Compositional Visual Reasoning'
-  url: https://openreview.net/forum?id=6U1FEKP7Ar
-- authors: "Kenneth Li, Tianle Liu, Naomi Bashkansky, David Bau, Fernanda Vi\xE9gas,\
-    \ Hanspeter Pfister, Martin Wattenberg"
-  oral_spotlight: true
-  title: Measuring and Controlling Instruction (In)Stability in Language Model Dialogs
-  url: https://openreview.net/forum?id=60a1SAtH4e
-- authors: Jacob Eisenstein, Chirag Nagpal, Alekh Agarwal, Ahmad Beirami, Alexander
-    D'Amour, Krishnamurthy Dj Dvijotham, Adam Fisch, Katherine A Heller, Stephen R
-    Pfohl, Deepak Ramachandran, Peter Shaw, Jonathan Berant
-  oral_spotlight: false
-  title: Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate
-    Reward Hacking
-  url: https://openreview.net/forum?id=5u1GpUkKtG
-- authors: Paloma Sodhi, S.R.K Branavan, Yoav Artzi, Ryan McDonald
-  oral_spotlight: false
-  title: 'SteP: Stacked LLM Policies for Web Actions'
-  url: https://openreview.net/forum?id=5fg0VtRxgi
-- authors: Malte Ostendorff, Pedro Ortiz Suarez, Lucas Fonseca Lage, Georg Rehm
-  oral_spotlight: false
-  title: 'LLM-Datasets: An Open Framework for Pretraining Datasets of Large Language
+  authors: Kaizhi Qian, Xulin Fan, Junrui Ni, Slava Shechtman, Mark A. Hasegawa-Johnson,
+    Chuang Gan, Yang Zhang
+  url: https://openreview.net/forum?id=uBg8PClMUu
+- title: Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models
+  authors: Ruikang Liu, Yuxuan Sun, Manyi Zhang, Haoli Bai, Xianzhi Yu, Tiezheng YU,
+    Chun Yuan, Lu Hou
+  url: https://openreview.net/forum?id=BM192Ps5Nv
+- title: Breaking the Data Barrier -- Building GUI Agents Through Task Generalization
+  authors: Junlei Zhang, Zichen Ding, Chang Ma, Zijie Chen, Qiushi Sun, Zhenzhong
+    Lan, Junxian He
+  url: https://openreview.net/forum?id=QDtORaZt8K
+- title: 'LIMO: Less is More for Reasoning'
+  authors: Yixin Ye, Zhen Huang, Yang Xiao, Ethan Chern, Shijie Xia, Pengfei Liu
+  url: https://openreview.net/forum?id=T2TZ0RY4Zk
+- title: 'Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation
+    Evaluation'
+  authors: Julia Kreutzer, Eleftheria Briakou, Sweta Agrawal, Marzieh Fadaee, Tom
+    Kocmi
+  url: https://openreview.net/forum?id=yxzVanFoij
+- title: 'Open-Multilingual-Embed: Multilingual Retrieval Without Compromise'
+  authors: Puxuan Yu, Luke Merrick, Gaurav Nuti, Daniel F Campos
+  url: https://openreview.net/forum?id=H6so82c2Sw
+- title: Vision-Language Models Are Not Pragmatically Competent in Referring Expression
+    Generation
+  authors: Ziqiao Ma, Jing Ding, Xuejun Zhang, Dezhi Luo, Jiahe Ding, Sihan Xu, Yuchen
+    Huang, Run Peng, Joyce Chai
+  url: https://openreview.net/forum?id=oj3ETSitjb
+- title: 'VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception
+    of Geometric Information'
+  authors: Ryo Kamoi, Yusen Zhang, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang,
+    Rui Zhang
+  url: https://openreview.net/forum?id=PYHwlyu2fa
+- title: 'QAPyramid: Fine-grained Evaluation of Content Selection for Text Summarization'
+  authors: Shiyue Zhang, David Wan, Arie Cattan, Ayal Klein, Ido Dagan, Mohit Bansal
+  url: https://openreview.net/forum?id=dZRzInscvA
+- title: Language Model Personalization via Reward Factorization
+  authors: Idan Shenfeld, Felix Faltings, Pulkit Agrawal, Aldo Pacchiano
+  url: https://openreview.net/forum?id=E7Tu5yjqXw
+- title: 'Noiser: Bounded Input Perturbations for Attributing Large Language Models'
+  authors: Mohammad Reza Ghasemi Madani, Aryo Pradipta Gema, Yu Zhao, Gabriele Sarti,
+    Pasquale Minervini, Andrea Passerini
+  url: https://openreview.net/forum?id=17yFbHmblo
+- title: 'MALT: Improving Reasoning with Multi-Agent LLM Training'
+  authors: Sumeet Ramesh Motwani, Chandler Smith, Rocktim Jyoti Das, Rafael Rafailov,
+    Philip Torr, Ivan Laptev, Fabio Pizzati, Ronald Clark, Christian Schroeder de
+    Witt
+  url: https://openreview.net/forum?id=jXP9bgFack
+- title: Training Large Language Models to Reason in a Continuous Latent Space
+  authors: Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, Xian Li, Zhiting Hu, Jason E
+    Weston, Yuandong Tian
+  url: https://openreview.net/forum?id=Itxz7S4Ip3
+- title: 'RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox
+    Testing'
+  authors: Yiqing Xie, Alex Xie, Divyanshu Sheth, Pengfei Liu, Daniel Fried, Carolyn
+    Rose
+  url: https://openreview.net/forum?id=2txrMBpw3q
+- title: 'Breakpoint: Stress-testing systems-level reasoning in LLM agents'
+  authors: Kaivalya Hariharan, Uzay Girit, Zifan Wang, Jacob Andreas
+  url: https://openreview.net/forum?id=GQNojroNCH
+- title: 'LongPerceptualThoughts: Distilling System-2 Reasoning  for System-1 Perception'
+  authors: Yuan-Hong Liao, Sven Elflein, Liu He, Laura Leal-Taixé, Yejin Choi, Sanja
+    Fidler, David Acuna
+  url: https://openreview.net/forum?id=SrKdi4MsUW
+- title: 'DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language
+    Models via Reinforcement Learning'
+  authors: Pengcheng Jiang, Jiacheng Lin, Lang Cao, Runchu Tian, SeongKu Kang, Zifeng
+    Wang, Jimeng Sun, Jiawei Han
+  url: https://openreview.net/forum?id=u9JXu4L17I
+- title: 'A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths
+    to Reproducibility'
+  authors: Andreas Hochlehnert, Hardik Bhatnagar, Vishaal Udandarao, Samuel Albanie,
+    Ameya Prabhu, Matthias Bethge
+  url: https://openreview.net/forum?id=90UrTTxp5O
+- title: 'Brains vs. Bytes: Evaluating LLM Proficiency in Olympiad Mathematics'
+  authors: Hamed Mahdavi, Alireza Hashemi, Majid Daliri, Pegah Mohammadipour, Alireza
+    Farhadi, Samira Malek, Yekta Yazdanifard, Amir Khasahmadi, Vasant G Honavar
+  url: https://openreview.net/forum?id=uXR2KsA4L9
+- title: Approximating Language Model Training Data from Weights
+  authors: John Xavier Morris, Junjie Oscar Yin, Woojeong Kim, Vitaly Shmatikov, Alexander
+    M Rush
+  url: https://openreview.net/forum?id=cQechnXCQt
+- title: RWKV-7 "Goose" with Expressive Dynamic State Evolution
+  authors: Bo Peng, Ruichong Zhang, Daniel Goldstein, Eric Alcaide, Xingjian Du, Haowen
+    Hou, Jiaju Lin, Jiaxing Liu, Janna Lu, William Merrill, Guangyu Song, Kaifeng
+    Tan, Saiteja Utpala, Nathan Wilce, Johan S. Wind, Tianyi Wu, Daniel Wuttke, Christian
+    Zhou-Zheng
+  url: https://openreview.net/forum?id=ayB1PACN5j
+- title: Impact-driven Context Filtering For Cross-file Code Completion
+  authors: Yanzhou Li, Shangqing Liu, Kangjie Chen, Tianwei Zhang, Yang Liu
+  url: https://openreview.net/forum?id=0Y2zXLFBji
+- title: 'OpenCodeReasoning: Advancing Data Distillation for Competitive Coding'
+  authors: Wasi Uddin Ahmad, Sean Narenthiran, Somshubra Majumdar, Aleksander Ficek,
+    Siddhartha Jain, Jocelyn Huang, Vahid Noroozi, Boris Ginsburg
+  url: https://openreview.net/forum?id=aykM7KUVJZ
+- title: 'Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning'
+  authors: Anja Surina, Amin Mansouri, Lars C.P.M. Quaedvlieg, Amal Seddas, Maryna
+    Viazovska, Emmanuel Abbe, Caglar Gulcehre
+  url: https://openreview.net/forum?id=dNW3RGW0gi
+- title: A Taxonomy of Transcendence
+  authors: Natalie Abreu, Edwin Zhang, Eran Malach, Naomi Saphra
+  url: https://openreview.net/forum?id=tfTn8616Gf
+- title: Estimating Optimal Context Length for Hybrid Retrieval-augmented Multi-document
+    Summarization
+  authors: Adithya Pratapa, Teruko Mitamura
+  url: https://openreview.net/forum?id=uh0Sf8yN7n
+- title: 'Insights from the Inverse: Reconstructing LLM Training Goals Through Inverse
+    Reinforcement Learning'
+  authors: Jared Joselowitz, Ritam Majumdar, Arjun Jagota, Matthieu Bou, Nyal Patel,
+    Satyapriya Krishna, Sonali Parbhoo
+  url: https://openreview.net/forum?id=Bs5Jb285qv
+- title: 'Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding'
+  authors: Fabian David Schmidt, Ivan Vulić, Goran Glavaš, David Ifeoluwa Adelani
+  url: https://openreview.net/forum?id=Tqj3fYqhwS
+- title: 'From Queries to Criteria: Understanding How Astronomers Evaluate LLMs'
+  authors: Alina Hyk, Kiera McCormick, Mian Zhong, Ioana Ciucă, Sanjib Sharma, John
+    F Wu, J. E. G. Peek, Kartheik G. Iyer, Ziang Xiao, Anjalie Field
+  url: https://openreview.net/forum?id=ROtDZDUgvw
+- title: 'IterKey: Iterative Keyword Generation with LLMs for Enhanced Retrieval Augmented
+    Generation'
+  authors: Kazuki Hayashi, Hidetaka Kamigaito, Shinya Kouda, Taro Watanabe
+  url: https://openreview.net/forum?id=y56BuSo8Uj
+- title: Customize Multi-modal RAI Guardrails with Precedent-based predictions
+  authors: Cheng-Fu Yang, Thanh Tran, Christos Christodoulopoulos, Weitong Ruan, Rahul
+    Gupta, Kai-Wei Chang
+  url: https://openreview.net/forum?id=HL5X5uX0RD
+- title: 'Overfill: Two-Stage Models for Efficient Language Model Decoding'
+  authors: Woojeong Kim, Junxiong Wang, Jing Nathan Yan, Mohamed S. Abdelfattah, Alexander
+    M Rush
+  url: https://openreview.net/forum?id=e112iu5ssg
+- title: 'Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation'
+  authors: Songjun Tu, Jiahao Lin, Xiangyu Tian, Qichao Zhang, Linjing Li, Yuqian
+    Fu, Nan Xu, Wei He, Xiangyuan Lan, Dongmei Jiang, Dongbin Zhao
+  url: https://openreview.net/forum?id=OgWh4J7bkT
+- title: 'CLIPPER: Compression enables long-context synthetic data generation'
+  authors: Chau Minh Pham, Yapei Chang, Mohit Iyyer
+  url: https://openreview.net/forum?id=akHq1QcqeZ
+- title: 'Style over Substance: Distilled Language Models Reason Via Stylistic Replication'
+  authors: Philip Lippmann, Jie Yang
+  url: https://openreview.net/forum?id=5wAfbEs34A
+- title: Data-Centric Human Preference with Rationales for Direct Preference Alignment
+  authors: Hoang Anh Just, Ming Jin, Anit Kumar Sahu, Huy Phan, Ruoxi Jia
+  url: https://openreview.net/forum?id=LH2ZKviJoI
+- title: 'The Negation Bias in Large Language Models: Investigating bias reflected
+    in linguistic markers'
+  authors: Yishan Wang, Pia Sommerauer, Jelke Bloem
+  url: https://openreview.net/forum?id=BuXZtHTefA
+- title: Can LLMs Handle WebShell Detection? Overcoming Detection Challenges with
+    Behavioral Function-Aware Framework
+  authors: Feijiang Han, Jiaming Zhang, Chuyi Deng, Jianheng Tang, Yunhuai Liu
+  url: https://openreview.net/forum?id=QzJRtz8HNx
+- title: 'Short-PHD: Detecting Short LLM-generated Text with Topological Data Analysis
+    After Off-topic Content Insertion'
+  authors: Dongjun Wei, Minjia Mao, Michael Chau, Xiao Fang
+  url: https://openreview.net/forum?id=IC2WwhUfQg
+- title: 'KVSink: Understanding and Enhancing the Preservation of Attention Sinks
+    in KV Cache Quantization for LLMs'
+  authors: Zunhai Su, Kehong Yuan
+  url: https://openreview.net/forum?id=gIqb6zWZoO
+- title: 'AdaptMI: Adaptive Skill-based In-context Math Instructions for Small Language
     Models'
-  url: https://openreview.net/forum?id=5RdIMlGLXL
-- authors: Costas Mavromatis, Petros Karypis, George Karypis
-  oral_spotlight: false
-  title: 'Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization'
-  url: https://openreview.net/forum?id=5Nsl0nlStc
-- authors: Jihyeon Lee, Dain Kim, Doohae Jung, Boseop Kim, Kyoung-Woon On
-  oral_spotlight: false
-  title: Exploiting the Potential of Seq2Seq Models as Robust Few-Shot Learners
-  url: https://openreview.net/forum?id=5Evv4tIjUI
-- authors: Matthias Gerstgrasser, Rylan Schaeffer, Apratim Dey, Rafael Rafailov, Tomasz
-    Korbak, Henry Sleight, Rajashree Agrawal, John Hughes, Dhruv Bhandarkar Pai, Andrey
-    Gromov, Dan Roberts, Diyi Yang, David L. Donoho, Sanmi Koyejo
-  oral_spotlight: false
-  title: Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating
-    Real and Synthetic Data
-  url: https://openreview.net/forum?id=5B2K4LRgmz
-- authors: Harry Dong, Beidi Chen, Yuejie Chi
-  oral_spotlight: false
-  title: Prompt-prompted Adaptive Structured Pruning for Efficient LLM Generation
-  url: https://openreview.net/forum?id=4aqq9xTtih
-- authors: Olly Styles, Sam Miller, Patricio Cerda-Mardini, Tanaya Guha, Victor Sanchez,
-    Bertie Vidgen
-  oral_spotlight: false
-  title: 'WorkBench: a Benchmark Dataset for Agents in a Realistic Workplace Setting'
-  url: https://openreview.net/forum?id=4HNAwZFDcH
-- authors: Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai
-  oral_spotlight: true
-  title: 'Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation'
-  url: https://openreview.net/forum?id=46Zgqo4QIU
-- authors: KuanChao Chu, Yi-Pei Chen, Hideki Nakayama
-  oral_spotlight: false
-  title: 'Cohesive Conversations: Enhancing Authenticity in Multi-Agent Simulated
-    Dialogues'
-  url: https://openreview.net/forum?id=3ypWPhMGhV
-- authors: Yiran Wu, Tianwei Yue, Shaokun Zhang, Chi Wang, Qingyun Wu
-  oral_spotlight: false
-  title: 'StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows'
-  url: https://openreview.net/forum?id=3nTbuygoop
-- authors: Shengding Hu, Yuge Tu, Xu Han, Ganqu Cui, Chaoqun He, Weilin Zhao, Xiang
-    Long, Zhi Zheng, Yewei Fang, Yuxiang Huang, Xinrong Zhang, Zhen Leng Thai, Chongyi
-    Wang, Yuan Yao, Chenyang Zhao, Jie Zhou, Jie Cai, Zhongwu Zhai, Ning Ding, Chao
-    Jia, Guoyang Zeng, dahai li, Zhiyuan Liu, Maosong Sun
-  oral_spotlight: true
-  title: 'MiniCPM: Unveiling the Potential of Small Language Models with Scalable
-    Training Strategies'
-  url: https://openreview.net/forum?id=3X2L2TFr0f
-- authors: Zhaochen Su, Jun Zhang, Tong Zhu, Xiaoye Qu, Juntao Li, Min zhang, Yu Cheng
-  oral_spotlight: false
-  title: 'Timo: Towards Better Temporal Reasoning for Language Models'
-  url: https://openreview.net/forum?id=3TzGD95Jw1
-- authors: Hong Wang, Xuan Luo, Weizhi Wang, Melody Yu, Xifeng Yan
-  oral_spotlight: false
-  title: Bot or Human? Detecting ChatGPT Imposters with A Single Question
-  url: https://openreview.net/forum?id=3HTVP34WWE
-- authors: Pengda Wang, Zilin Xiao, Hanjie Chen, Frederick L. Oswald
-  oral_spotlight: true
-  title: Will the Real Linda Please Stand up...to Large Language Models? Examining
-    the Representativeness Heuristic in LLMs
-  url: https://openreview.net/forum?id=3GhOWfSLrD
-- authors: Jianing Zhou, Ziheng Zeng, Hongyu Gong, Suma Bhat
-  oral_spotlight: false
-  title: Enhancing Language Models with Idiomatic Reasoning
-  url: https://openreview.net/forum?id=2wtj0up8rv
-- authors: Ana Brassard, Benjamin Heinzerling, Keito Kudo, Keisuke Sakaguchi, Kentaro
-    Inui
-  oral_spotlight: false
-  title: 'ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation'
-  url: https://openreview.net/forum?id=2oHnsM9M9D
-- authors: Mingyu Jin, Haochen Xue, Zhenting Wang, Boming Kang, Ruosong Ye, Kaixiong
-    Zhou, Mengnan Du, Yongfeng Zhang
-  oral_spotlight: false
-  title: 'ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction
-    Prediction'
-  url: https://openreview.net/forum?id=2nTzomzjjb
-- authors: Kanishk Gandhi, Denise H J Lee, Gabriel Grand, Muxin Liu, Winson Cheng,
-    Archit Sharma, Noah Goodman
-  oral_spotlight: true
-  title: 'Stream of Search (SoS): Learning to Search in Language'
-  url: https://openreview.net/forum?id=2cop2jmQVL
-- authors: Declan Grabb, Max Lamparth, Nina Vasan
-  oral_spotlight: false
-  title: 'Risks from Language Models for Automated Mental Healthcare: Ethics and Structure
-    for Implementation'
-  url: https://openreview.net/forum?id=1pgfvZj0Rx
-- authors: Shanshan Wu, Zheng Xu, Yanxiang Zhang, Yuanbo Zhang, Daniel Ramage
-  oral_spotlight: false
-  title: Prompt Public Large Language Models to Synthesize Data for Private On-device
-    Applications
-  url: https://openreview.net/forum?id=1eg6UnpYu7
-- authors: Te-Lin Wu, Rajiv Jain, Yufan Zhou, Puneet Mathur, Vlad I Morariu
-  oral_spotlight: false
-  title: 'Agent-DocEdit: Language-Instructed LLM Agent for Content-Rich Document Editing'
-  url: https://openreview.net/forum?id=1ba209BACA
-- authors: Hanbo Xie, Hua-Dong Xiong, Robert Wilson
-  oral_spotlight: false
-  title: 'From Strategic Narratives to Code-Like Cognitive Models: An LLM-Based Approach
-    in A Sorting Task'
-  url: https://openreview.net/forum?id=1Tny4KgGO2
-- authors: Yulong Chen, Yang Liu, Jianhao Yan, Xuefeng Bai, Ming Zhong, Yinghao Yang,
-    Ziyi Yang, Chenguang Zhu, Yue Zhang
-  oral_spotlight: false
-  title: 'See What LLMs Cannot Answer: A Self-Challenge Framework for Uncovering LLM
-    Weaknesses'
-  url: https://openreview.net/forum?id=18iNTRPx8c
-- authors: "Griffin Thomas Adams, Jason Zucker, No\xE9mie Elhadad"
-  oral_spotlight: false
-  title: 'SPEER: Sentence-Level Planning of Long Clinical Summaries via Embedded Entity
-    Retrieval'
-  url: https://openreview.net/forum?id=0oiG1KigYN
-- authors: Yiming Zhang, Nicholas Carlini, Daphne Ippolito
-  oral_spotlight: false
-  title: Effective Prompt Extraction from Language Models
-  url: https://openreview.net/forum?id=0o95CVdNuz
-- authors: Zonghan Yang, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Yang Liu
-  oral_spotlight: false
-  title: 'ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive
-    Self-Training'
-  url: https://openreview.net/forum?id=0VLBwQGWpA
-- authors: Yujia Hu, Zhiqiang Hu, Chun Wei Seah, Roy Ka-Wei Lee
-  oral_spotlight: false
-  title: 'InstructAV: Instruction Fine-tuning Large Language Models for Authorship
-    Verification'
-  url: https://openreview.net/forum?id=0UK8c2kg7c
+  authors: Yinghui He, Abhishek Panigrahi, Yong Lin, Sanjeev Arora
+  url: https://openreview.net/forum?id=k72RxnoS5g
+- title: 'UNVEILING: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?'
+  authors: Mukund Choudhary, KV Aditya Srivatsa, Gaurja Aeron, Antara Raaghavi Bhattacharya,
+    Dang Khoa Dang Dinh, Ikhlasul Akmal Hanif, Daria Kotova, Ekaterina Kochmar, Monojit
+    Choudhury
+  url: https://openreview.net/forum?id=fcRcl1EXc4
+- title: 'RARe: Retrieval Augmented Retrieval with In-Context Examples'
+  authors: Atula Tejaswi, Yoonsang Lee, sujay sanghavi, Eunsol Choi
+  url: https://openreview.net/forum?id=9FES5yT9v3
+- title: 'Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language
+    Models'
+  authors: Zhaochen Wang, Bryan Hooi, Yiwei Wang, Ming-Hsuan Yang, Zi Huang, Yujun
+    Cai
+  url: https://openreview.net/forum?id=naEyNVTLsh
+- title: 'IMPersona: Evaluating Individual Level LLM Impersonation'
+  authors: Quan Shi, Carlos E Jimenez, Stephen Dong, Brian Seo, Caden Yao, Adam Kelch,
+    Karthik R Narasimhan
+  url: https://openreview.net/forum?id=7qhBXq0NLN
+- title: 'LLMs as Research Tools: A Large Scale Survey of Researchers’ Usage and Perceptions'
+  authors: Zhehui Liao, Maria Antoniak, Inyoung Cheong, Evie Yu-Yen Cheng, Ai-Heng
+    Lee, Kyle Lo, Joseph Chee Chang, Amy X Zhang
+  url: https://openreview.net/forum?id=p0BwJk3R1p
+- title: Evaluating Large Language Models as Expert Annotators
+  authors: Yu-Min Tseng, Wei-Lin Chen, Chung-Chi Chen, Hsin-Hsi Chen
+  url: https://openreview.net/forum?id=DktAODDdbt
+- title: Agents Are All You Need for LLM Unlearning
+  authors: Debdeep Sanyal, Murari Mandal
+  url: https://openreview.net/forum?id=X39dK0SX9W
+- title: 'Beyond the Reported Cutoff: Where Large Language Models Fall Short on Financial
+    Knowledge'
+  authors: Agam Shah, Liqin Ye, Sebastian Jaskowski, Wei Xu, Sudheer Chava
+  url: https://openreview.net/forum?id=lEpPFmGH3L
+- title: 'BEARCUBS: A benchmark for computer-using web agents'
+  authors: Yixiao Song, Katherine Thai, Chau Minh Pham, Yapei Chang, Mazin Nadaf,
+    Mohit Iyyer
+  url: https://openreview.net/forum?id=0JzWiigkUy
+- title: Hypothesis-Driven Theory-of-Mind Reasoning for Large Language Models
+  authors: Hyunwoo Kim, Melanie Sclar, Tan Zhi-Xuan, Lance Ying, Sydney Levine, Yang
+    Liu, Joshua B. Tenenbaum, Yejin Choi
+  url: https://openreview.net/forum?id=yGQqTuSJPK
+- title: 'PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling'
+  authors: Zefan Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Yucheng Li, Tianyu Liu,
+    Keming Lu, Wayne Xiong, Yue Dong, Junjie Hu, Wen Xiao
+  url: https://openreview.net/forum?id=ayi7qezU87
+- title: 'When Splitting Makes Stronger: A Theoretical and Empirical Analysis of Divide-and-Conquer
+    Prompting in LLMs'
+  authors: Yizhou Zhang, Lun Du, Defu Cao, Qiang Fu, Yan Liu
+  url: https://openreview.net/forum?id=rAR7iPI8Kh
+- title: Fluid Language Model Benchmarking
+  authors: Valentin Hofmann, David Heineman, Ian Magnusson, Kyle Lo, Jesse Dodge,
+    Maarten Sap, Pang Wei Koh, Chun Wang, Hannaneh Hajishirzi, Noah A. Smith
+  url: https://openreview.net/forum?id=mxcCg9YRqj
+- title: 'Rank1: Test-Time Compute for Reranking in Information Retrieval'
+  authors: Orion Weller, Kathryn Ricci, Eugene Yang, Andrew Yates, Dawn Lawrie, Benjamin
+    Van Durme
+  url: https://openreview.net/forum?id=Pg0PAvbhGv
+- title: Crosslingual Capabilities and Knowledge Barriers in Multilingual Large Language
+    Models
+  authors: Lynn Chua, Badih Ghazi, Yangsibo Huang, Pritish Kamath, Ravi Kumar, Pasin
+    Manurangsi, Amer Sinha, Chulin Xie, Chiyuan Zhang
+  url: https://openreview.net/forum?id=AwRFhS5grK
+- title: Teaching Models to Understand (but not Generate) High-risk Data
+  authors: Ryan Yixiang Wang, Matthew Finlayson, Luca Soldaini, Swabha Swayamdipta,
+    Robin Jia
+  url: https://openreview.net/forum?id=n6mTO5JS4j
