@@ -347,6 +347,13 @@ def hotels():
     return render_template("hotels.html", **data)
 
 
+@app.route("/programs.html")
+def hotels():
+    data = _data()
+    data["programs"] = open("programs.md").read()
+    return render_template("programs.html", **data)
+
+
 # FRONT END SERVING
 
 
