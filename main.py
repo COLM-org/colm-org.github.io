@@ -348,7 +348,7 @@ def hotels():
 
 
 @app.route("/programs.html")
-def hotels():
+def programs():
     data = _data()
     data["programs"] = open("programs.md").read()
     return render_template("programs.html", **data)
