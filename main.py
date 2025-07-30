@@ -354,6 +354,12 @@ def programs():
     return render_template("programs.html", **data)
 
 
+@app.route("/amenities.html")
+def amenities():
+    data = _data()
+    data["amenities"] = open("amenities.md").read()
+    return render_template("amenities.html", **data)
+
 # FRONT END SERVING
 
 
