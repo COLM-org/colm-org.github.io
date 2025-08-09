@@ -16,7 +16,7 @@ Monday, October 6 (Conference Day 0)
 <tr><td><div class="text-secondary">10:00am - 11:00am</div></td><td>Oral Talks</td></tr>
 <tr><td><div class="text-secondary">11:00am - 12:00pm</div></td><td>Snacks Served</td></tr>
 <tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Poster Session</td></tr>
-<tr><td><div class="text-secondary">1:00pm - 2:30pm</div></td><td>Lunch & Socials (WIML Luncheon, Sponsor Expo Talks, Office Hours)</td></tr>
+<tr><td><div class="text-secondary">1:00pm - 2:30pm</div></td><td>Lunch & Socials (WiML Luncheon, Sponsor EXPO Talks, Office Hours)</td></tr>
 <!-- <tr><td colspan=2 style="font-style:italic">Session 2 (Sponsored by <a href="#">TBD</a>)</td></tr> -->
 <tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a href="/Keynotes.html">Keynote: Shirley Ho</a></td></tr>
 <tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks</td></tr>
@@ -34,8 +34,8 @@ Monday, October 6 (Conference Day 0)
 <tr><td><div class="text-secondary">10:00am - 11:00am</div></td><td>Oral Talks</td></tr>
 <tr><td><div class="text-secondary">11:00am - 12:00pm</div></td><td>Snacks Served</td></tr>
 <tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Poster Session</td></tr>
-<tr><td><div class="text-secondary">1:00pm - 2:30pm</div></td><td>Lunch & Socials (Sponsor Expo Talks, Office Hours)</td></tr>
-<tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a href="/Keynotes.html">Keynote: Democracy Panel</a></td></tr>
+<tr><td><div class="text-secondary">1:00pm - 2:30pm</div></td><td>Lunch & Socials (Sponsor EXPO Talks, Office Hours)</td></tr>
+<tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td><a href="/Keynotes.html">Keynote: Democracy Panel</a></td></tr>
 <tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks</td></tr>
 <tr><td><div class="text-secondary">4:30pm - 5:30pm</div></td><td>Snacks Served</td></tr>
 <tr><td><div class="text-secondary">4:30pm - 6:30pm</div></td><td>Poster Session</td></tr>
@@ -51,7 +51,7 @@ Monday, October 6 (Conference Day 0)
 <tr><td><div class="text-secondary">10:00am - 11:00am</div></td><td>Oral Talks</td></tr>
 <tr><td><div class="text-secondary">11:00am - 12:00pm</div></td><td>Snacks Served</td></tr>
 <tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Poster Session</td></tr>
-<tr><td><div class="text-secondary">1:00pm - 2:30pm</div></td><td>Lunch & Socials (Sponsor Expo Talks, Office Hours)</td></tr>
+<tr><td><div class="text-secondary">1:00pm - 2:30pm</div></td><td>Lunch & Socials (Sponsor EXPO Talks, Office Hours)</td></tr>
 <tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a href="/Keynotes.html">Keynote: Sasha's Panel</a></td></tr>
 <tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks</td></tr>
 <tr><td><div class="text-secondary">4:30pm - 4:40pm</div></td><td>Closing Remarks</td></tr>
