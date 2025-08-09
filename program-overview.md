@@ -1,9 +1,8 @@
 Monday, October 6 (Conference Day 0)
 
 <table>
-<tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Registration Desk Setup</td></tr>
+<tr><td><div class="text-secondary">11:00am - 2:00pm</div></td><td>Registration Desk Setup</td></tr>
 <tr><td><div class="text-secondary">2:00pm - 7:00pm</div></td><td>Early Check-in</td></tr>
-<tr><td><div class="text-secondary">6:30pm - 8:00pm</div></td><td>Opening Reception</td></tr>
 </table>
 
 <br/>
