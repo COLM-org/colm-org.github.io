@@ -59,8 +59,7 @@ Thursday, October 9 (Conference Day 3)
 <!-- <tr><td colspan=2 style="font-style:italic">Session 6 (Sponsored by <a href="#">TBD</a>)</td></tr> -->
 <tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a href="/Keynotes.html">Keynote: Sasha's Panel</a></td></tr>
 <tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks</td></tr>
-<tr><td><div class="text-secondary">4:30pm - 5:30pm</div></td><td>Closing Remarks</td></tr>
-<tr><td><div class="text-secondary">4:30pm - 6:30pm</div></td><td>Poster Session</td></tr>
+<tr><td><div class="text-secondary">4:30pm - 5:30pm</div></td><td>Closing Remarks</td></tr> -->
 <tr><td><div class="text-secondary">5:30pm - 8:00pm</div></td><td>Evening Socials</td></tr>
 </table>
 
