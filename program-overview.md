@@ -30,7 +30,7 @@ Monday, October 6 (Conference Day 0)
 <tr><td><div class="text-secondary">10:00am - 11:00am</div></td><td>Oral Talks</td></tr>
 <tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Poster Session</td></tr>
 <tr><td><div class="text-secondary">1:00pm - 2:30pm</div></td><td>Lunch</td></tr>
-<tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td><a >Keynote: Democracy Panel</a></td></tr>
+<tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a >Keynote: Democracy Panel</a></td></tr>
 <tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks</td></tr>
 <tr><td><div class="text-secondary">4:30pm - 6:30pm</div></td><td>Poster Session</td></tr>
 </table>
