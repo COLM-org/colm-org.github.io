@@ -1,4 +1,4 @@
-Monday, October 6 (Conference Day 0)
+Monday, October 6
 
 <table>
 <tr><td><div class="text-secondary">11:00am - 2:00pm</div></td><td>Registration Desk Setup</td></tr>
@@ -30,7 +30,7 @@ Monday, October 6 (Conference Day 0)
 <tr><td><div class="text-secondary">10:00am - 11:00am</div></td><td>Oral Talks</td></tr>
 <tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Poster Session</td></tr>
 <tr><td><div class="text-secondary">1:00pm - 2:30pm</div></td><td>Lunch</td></tr>
-<tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a >Keynote: Democracy Panel</a></td></tr>
+<tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a >Democracy Panel</a></td></tr>
 <tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks</td></tr>
 <tr><td><div class="text-secondary">4:30pm - 6:30pm</div></td><td>Poster Session</td></tr>
 </table>
@@ -43,13 +43,13 @@ Monday, October 6 (Conference Day 0)
 <tr><td><div class="text-secondary">10:00am - 11:00am</div></td><td>Oral Talks</td></tr>
 <tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Poster Session</td></tr>
 <tr><td><div class="text-secondary">1:00pm - 2:30pm</div></td><td>Lunch</td></tr>
-<tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a >Keynote: Sasha's Panel</a></td></tr>
+<tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a >Panel led by Sasha Rush (title TBD)</a></td></tr>
 <tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks</td></tr>
 <tr><td><div class="text-secondary">4:30pm - 4:40pm</div></td><td>Closing Remarks</td></tr>
 </table>
 
 <br/>
-<h4>Friday, October 10 (Conference Day 4)</h4>
+<h4>Friday, October 10</h4>
 
 <table>
 <tr><td><div class="text-secondary">9:00am - 6:30pm</div></td><td><a href="/workshops.html">Workshops</a></td></tr>
