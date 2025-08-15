@@ -40,7 +40,7 @@ sponsors:
     - name: Turing
       img_url:
       url: https://www.turing.com/
-      img_src: static/images/sponsors/turing.svg
+      img_src: static/images/sponsors/turing-logo.svg
       size: 200px
       description: Turing is a technology company pioneering artificial general intelligence (AGI) space. Our mission is to accelerate AGI advancement and deployment by leveraging human intelligence and AI to improve each other. We focus on AI-powered sourcing, vetting, matching, and operations of top talent to build products, removing the human intelligence bottleneck in AGI adoption and deployment. Our comprehensive platform supports enterprises needing custom engineering, LLM training, or AI/AGI deployment.
 
@@ -63,7 +63,7 @@ sponsors:
     - name: ByteDance
       img_url:
       url: https://www.bytedance.com/en
-      img_src: static/images/sponsors/bytedance.svg
+      img_src: static/images/sponsors/bytedance-logo.svg
       size: 200px
       description: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, CapCut, Lark, and Pico, as well as platforms specific to the China market, including Toutiao, Douyin, Fanqie Novel and Xigua Video, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
     - name: Databricks
