@@ -87,7 +87,7 @@ sponsors:
     - name: Cubist Systematic
       img_url:
       url: https://point72.com/cubist/
-      img_src: static/images/sponsors/cubist.svg
+      img_src: static/images/sponsors/cubist.png
       size: 200px
       description: Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources.
 
