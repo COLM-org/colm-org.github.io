@@ -92,7 +92,7 @@ sponsors:
       description: Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources.
 
 - tier: Silver
-  size: 1
+  size: 2
   height: 150
   vals:
     - name: UK AI Security Institute
@@ -101,3 +101,9 @@ sponsors:
       img_src: static/images/sponsors/uk-ai-security.svg
       size: 200px
       description: 
+    - name: Collinear AI
+      img_url:
+      url: https://www.collinear.ai/
+      img_src: static/images/sponsors/collinear-ai.svg
+      size: 200px
+      description: Collinear is an early-stage, VC-backed startup helping enterprise customers build safe, reliable, and high-performing AI systems. Our AI judge framework uses smaller, specialized reward models to evaluate LLM outputs for accuracy, safety, and alignment, turning real-world failure modes into high-quality post-training data. We combine rigorous post-training and alignment research with hands-on engineering to deliver automated evaluation, adversarial red teaming, and targeted model improvement, enabling enterprises to deploy AI they can trust.
