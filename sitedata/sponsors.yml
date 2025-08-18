@@ -1,139 +1,109 @@
 sponsors:
-- tier: Platinum
-  size: 4
+- tier: Host
+  size: 1
+  height: 300
+  vals:
+    - name: ServiceNow
+      img_url:
+      url: https://www.servicenow.com/
+      img_src: static/images/sponsors/servicenow.svg
+      size: 350px
+      description: ServiceNow cloud-based platform and solutions deliver digital workflows to unlock productivity for employees and enterprises. The AI Research Group conducts fundamental and applied research to futureproof AI-powered experiences for users of the Now Platform®. We make workflows smarter, AI workloads more efficient, and are committed to making socially responsible contributions to the AI community.
+
+- tier: Diamond
+  size: 3
   height: 250
   vals:
-    - name: Google DeepMind
+    - name: D. E. Shaw Group
       img_url:
-      url: https://deepmind.google/
-      img_src: static/images/googledeepmind.svg
+      url: https://www.deshaw.com/
+      img_src: static/images/sponsors/deshaw.svg
+      size: 300px
+      description: A global investment and technology development firm
     - name: Amazon
       img_url:
       url: https://www.amazon.science/
       img_src: static/images/sponsors/amazon.svg
+      size: 300px
+      description: At Amazon, we believe that scientific innovation is essential to being the most customer-centric company in the world. Our scientists' ability to have an impact at scale allows us to attract some of the brightest minds in artificial intelligence and related fields.
+    - name: Citadel
+      img_url:
+      url: https://www.citadelsecurities.com/
+      img_src: static/images/sponsors/citadel-securities.svg
+      size: 300px
+      description: About Citadel and Citadel Securities Citadel is a multi-strategy alternative investment manager. For more than three decades, we've captured undiscovered market opportunities by empowering extraordinary people to pursue their best and boldest ideas. Each day at Citadel, we reimagine and refine our strategies, models and technology in pursuit of superior long-term performance. Citadel Securities is the next-generation capital markets firm. We create efficient ways for buyers and sellers to come together; we innovative ways to price and absorb risk; and we develop new technologies to transform markets. Integrating deep financial, mathematical and engineering expertise, Citadel Securities delivers critical liquidity to central banks, financial institutions, government agencies, corporations, insurers and sovereign wealth funds.
+
+- tier: Platinum
+  size: 1
+  height: 150
+  vals:
     - name: Turing
       img_url:
       url: https://www.turing.com/
-      img_src: static/images/sponsors/Turing.svg
-    - name: University of Washington
-      img_url:
-      url: https://www.cs.washington.edu/
-      img_src: static/images/sponsors/UW.svg
+      img_src: static/images/sponsors/turing-logo.svg
       size: 200px
-    - name: University of Pennsylvania
-      img_url:
-      url: https://www.seas.upenn.edu/
-      img_src: static/images/sponsors/upenn.svg
-      size: 200px
-    - name: AI2
-      img_url:
-      url: https://allenai.org/
-      img_src: static/images/sponsors/ai2.svg
-      size: 150px
+      description: Turing is a technology company pioneering artificial general intelligence (AGI) space. Our mission is to accelerate AGI advancement and deployment by leveraging human intelligence and AI to improve each other. We focus on AI-powered sourcing, vetting, matching, and operations of top talent to build products, removing the human intelligence bottleneck in AGI adoption and deployment. Our comprehensive platform supports enterprises needing custom engineering, LLM training, or AI/AGI deployment.
+
 - tier: Gold
-  size: 3
+  size: 4
   height: 150
   vals:
-    - name: Cisco
+    - name: Toloka AI
       img_url:
-      url: https://www.cisco.com/site/us/en/solutions/artificial-intelligence/index.html
-      img_src: static/images/sponsors/cisco.svg
+      url: https://toloka.ai/
+      img_src: static/images/sponsors/toloka.svg
       size: 200px
-    - name: Bloomberg
-      img_url:
-      url: https://www.bloomberg.com/company/
-      img_src: static/images/sponsors/bloomberg.svg
-      size: 250px
-    - name: Megagon Labs
+      description: Our mission is to empower businesses with high quality data to develop safe, responsible and trustworthy AI products
+    - name: Megagon
       img_url:
       url: https://megagon.ai/
       img_src: static/images/sponsors/Megagon.svg
-      size: 250px
-    - name: Emergence
+      size: 200px
+      description: 
+    - name: ByteDance
       img_url:
-      url: https://www.emergence.ai/
-      img_src: static/images/sponsors/emergence.svg
-      size: 300px
+      url: https://www.bytedance.com/en
+      img_src: static/images/sponsors/bytedance-logo.svg
+      size: 200px
+      description: Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, CapCut, Lark, and Pico, as well as platforms specific to the China market, including Toutiao, Douyin, Fanqie Novel and Xigua Video, ByteDance has made it easier and more fun for people to connect with, consume, and create content.
+    - name: Databricks
+      img_url:
+      url: https://www.databricks.com/
+      img_src: static/images/sponsors/databricks.svg
+      size: 200px
+      description: 
     - name: Kensho
       img_url:
       url: https://kensho.com/
-      img_src: static/images/sponsors/Kensho-logo_black.svg
-      size: 250px
-    - name: DE Shaw
+      img_src: static/images/sponsors/kensho.svg
+      size: 200px
+      description: 
+    - name: Jane Street
       img_url:
-      url: https://www.deshaw.com/
-      img_src: static/images/sponsors/DESCO.svg
-      size: 250px
-    - name: MBZUAI
+      url: https://www.janestreet.com/join-jane-street/machine-learning/
+      img_src: static/images/sponsors/janestreet.svg
+      size: 200px
+      description: Jane Street is a quantitative trading firm that trades on more than 200 venues in 45 countries. Our machine learning team works on the neural network models driving our trading strategies, and builds the infrastructure that make training and inference possible. We're looking for smart and curious individuals from industry and academia to shape the future of ML at Jane Street.
+    - name: Cubist Systematic
       img_url:
-      url: https://mbzuai.ac.ae/
-      img_src: static/images/sponsors/mbzuai2.svg
-      size: 250px
-      style: "padding: 0.1cm; background-color: #333333"
-    - name: ByteDance
-      img_url:
-      url: https://www.bytedance.com/en/
-      img_src: static/images/sponsors/ByteDance.svg
-      size: 250px
-      style:
-    - name: Futurewei
-      img_url:
-      url: https://www.futurewei.com/
-      img_src: static/images/sponsors/Futurewei.svg
-      size: 250px
-      style:
-    - name: Exa
-      img_url:
-      img_src: static/images/sponsors/exa.svg
-      url: https://exa.ai/
-      size: 250px
-      style: "padding: 0.2cm; background-color: #1f40ed"
+      url: https://point72.com/cubist/
+      img_src: static/images/sponsors/cubist.png
+      size: 200px
+      description: Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources.
 
 - tier: Silver
-  size: 3
+  size: 2
   height: 150
   vals:
-    - name: Samaya AI
+    - name: UK AI Security Institute
       img_url:
-      img_src: static/images/sponsors/samaya.svg
-      url: https://samaya.ai/
-      size: 250px
-    - name: Cerebras
+      url: 
+      img_src: static/images/sponsors/uk-ai-security.svg
+      size: 200px
+      description: 
+    - name: Collinear AI
       img_url:
-      img_src: static/images/sponsors/cerebras.svg
-      url: https://www.cerebras.net/
-      size: 250px
-- tier: Bronze
-  size: 3
-  height: 150
-  vals:
-    - name: General Catalyst
-      url: https://www.generalcatalyst.com/
-      img_src: static/images/sponsors/gc.svg
-      size: 100%
-    - name: Tola Capital
-      size:
-      url: https://tolacapital.com/
-      img_src: static/images/sponsors/tola.svg
-    - name: Cohere
-      size:
-      url: https://cohere.com/
-      img_src: static/images/sponsors/cohere.svg
-    - name: Amplify
-      size:
-      url: https://www.amplifypartners.com/
-      img_src: static/images/sponsors/amplify.svg
-      size: 80%
-    - name: Citadel
-      size:
-      url: https://www.citadel.com/
-      img_src: static/images/sponsors/Citadel.svg
-      size: 80%
-    - name: Qualcomm
-      size:
-      url: https://www.qualcomm.com/
-      img_src: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qualcomm-Logo.svg/512px-Qualcomm-Logo.svg.png
-      size: 80%
-    - name: Gretel
-      url: https://www.gretel.ai/
-      img_src: https://cdn.prod.website-files.com/5ea8b9202fac2ea6211667a4/66ec636bf895360354026d7b_gretel_logo.svg
+      url: https://www.collinear.ai/
+      img_src: static/images/sponsors/collinear-ai.svg
+      size: 200px
+      description: Collinear is an early-stage, VC-backed startup helping enterprise customers build safe, reliable, and high-performing AI systems. Our AI judge framework uses smaller, specialized reward models to evaluate LLM outputs for accuracy, safety, and alignment, turning real-world failure modes into high-quality post-training data. We combine rigorous post-training and alignment research with hands-on engineering to deliver automated evaluation, adversarial red teaming, and targeted model improvement, enabling enterprises to deploy AI they can trust.
