@@ -110,7 +110,7 @@ sponsors:
 
 - tier: Bronze
   size: 1
-  height: 120
+  height: 200
   vals:
     - name: Microsoft
       img_url:
