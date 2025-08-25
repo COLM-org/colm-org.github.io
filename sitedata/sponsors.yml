@@ -107,3 +107,14 @@ sponsors:
       img_src: static/images/sponsors/collinear-ai.svg
       size: 200px
       description: Collinear is an early-stage, VC-backed startup helping enterprise customers build safe, reliable, and high-performing AI systems. Our AI judge framework uses smaller, specialized reward models to evaluate LLM outputs for accuracy, safety, and alignment, turning real-world failure modes into high-quality post-training data. We combine rigorous post-training and alignment research with hands-on engineering to deliver automated evaluation, adversarial red teaming, and targeted model improvement, enabling enterprises to deploy AI they can trust.
+
+- tier: Bronze
+  size: 1
+  height: 120
+  vals:
+    - name: Microsoft
+      img_url:
+      url: https://www.microsoft.com/
+      img_src: static/images/sponsors/microsoft-research.svg
+      size: 200px
+      description: Microsoft is a global technology company known for its software, services, devices, and solutions that help people and businesses realize their full potential.
