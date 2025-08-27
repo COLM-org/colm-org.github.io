@@ -1,51 +1,24 @@
-- name: Multilinguality and LLMs
-  description: "A vast majority of research on large language models focus on a handful of major languages such as English, Chinese, and German. Recent LLMs are capable of understanding and generating many more languages, but their performance drops dramatically for medium- and low-resource languages. We discuss why it is important to improve multilingual LLMs, how to measure progress, and what the major research challenges are."
-  mod: Alice Oh
-  mod_inst: KAIST
-  mod_url: https://aliceoh9.github.io/
-  mod_photo: static/images/alice.jpg
-  mod_bio: "Alice Oh is a Professor in the School of Computing at KAIST. She received her MS in 2000 from Carnegie Mellon University and PhD in 2008 from MIT. Her major research area is at the intersection of natural language processing (NLP) and computational social science. She collaborates with social scientists to study topics such as political science, education, and history, developing NLP models for various textual data including legislative bills, historical documents, news articles, social media posts, and personal conversations."
+
+- name: Open LLMs in the Reasoning Era Panel
+  description: "A panel discussion exploring the current state and future directions of open large language models, particularly focusing on their reasoning capabilities and the implications for the broader AI research community. Moderated by Alexander Rush."
+  mod: 
+  mod_inst: 
+  mod_url: 
+  mod_photo: 
+  mod_bio: 
   participants:
-    - name: Sunipa Dev 
-      institute: Google Research
-      url: https://sunipa.github.io/
-      photo: /static/images/speakers/sunipa-dev.jpg
-      bio: "Sunipa Dev is a Senior Research Scientist at Google Research, working at the intersection of language, society, and technology. Previously, she was an NSF Computing Innovation Fellow at UCLA, before which she completed her PhD from the University of Utah. Her research strives to ground evaluations of generative AI, especially language technologies in real world experiences of people, and foster inclusion of diverse, cross-cultural, and marginalized perspectives into AI pipelines. Her work has been awarded with an Outstanding Paper award ACL 2023, the NSF CI Fellows Award and DAAD AINet Award 2021, and she has been named one of 100 Brilliant Women in AI Ethics in 2022. She is also an advisor for the Widening NLP at *CL conferences which argues the importance of diversity and inclusion in NLP for better technologies of the future."
-    - name: Hwaran Lee
-      institute: NAVER
-      url: https://hwaranlee.github.io/
-      photo: /static/images/speakers/hwaran-lee.jpg
-      bio: "Hwaran Lee is a lead research scientist at NAVER AI Lab, working on natural language processing and machine learning. Her research is committed to understanding humanity and society to further develop human-like and trustworthy Artificial Intelligence. Recent primary interests has been building trustworthy and safe Large Language Models (LLMs), with a focus on: (1) construction of safety datasets, benchmarks, and evaluation metrics; (2) controllable language generation; (3) LLM security, including adversarial attack and red-teaming; (4) safety alignment and learning methods. Hwaran obtained a Ph.D. in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST) in 2018, and B.S. in Mathematical Science at KAIST." 
-    - name: Sampo Pyysalo
-      institute: University of Turku
-      url: https://www.utu.fi/en/people/sampo-pyysalo
-      photo: /static/images/speakers/sampo_pyysalo.jpg
-      bio: "Sampo Pyysalo is a researcher in the TurkuNLP group (https://turkunlp.org/) and Research Fellow at the Department of Computing, University of Turku. His work focuses on machine learning for natural language processing, with particular application domains including scientific text mining, Finnish language technology, and large language models. After defending his PhD thesis in computer science at the University of Turku, he held researcher positions at the University of Tokyo, University of Manchester and University of Cambridge before returning to the University of Turku in 2019."
-- name: Ethics and Society Panel
-  description: "This panel addresses ethical and societal perspectives on language models. The panelists, who bring extensive expertise and experience in the area, will highlight specific issues of interest and concern. Their remarks will form the springboard for wide-ranging discussion among them and with the audience on topics of accountability, governance, safety, privacy, and more." 
-  mod: Helen Nissenbaum
-  mod_inst: Cornell University
-  mod_url: https://nissenbaum.tech.cornell.edu/
-  mod_photo: /static/images/speakers/helen-nissenbaum.jpg
-  mod_bio: "Helen Nissenbaum is the Andrew H. and Ann R. Tisch Professor of Information Science and the founding director of the Digital Life Initiative at Cornell Tech. Her research spans issues of bias, trust, security, autonomy, and accountability in digital systems, and, most notably, privacy as contextual integrity. Professor Nissenbaum's publications include the books Obfuscation: A User's Guide for Privacy and Protest, with Finn Brunton (MIT Press, 2015), Values at Play in Digital Games, with Mary Flanagan (MIT Press, 2014), and Privacy in Context: Technology, Policy, and the Integrity of Social Life (Stanford, 2010). These, along with numerous research articles, have been translated into seven languages, including Polish, Chinese, and Portuguese. She received the 2014 Barwise Prize from the American Philosophical Association and the IACAP Covey Award for computing, ethics, and philosophy. Professor Nissenbaum has also contributed to privacy-enhancing free software -- TrackMeNot (designed to prevent the profiling of web search histories) and  AdNauseam (designed to counter profiling based on ad clicks). She holds a Ph.D. in philosophy from Stanford University and a B.A. (Hons) in Philosophy and Mathematics from the University of the Witwatersrand, South Africa."
-  participants:
-    - name: Emily Black
-      institute: New York University
-      url: https://emblack.github.io/
-      photo: /static/images/speakers/emily-black.jpg
-      bio: "Emily Black is an Assistant Professor of Computer Science and Engineering at New York University. Her research concerns fairness and accountability in AI systems. In other words, she creates methods to determine whether AI systems will cause harm to the public, studies the equity impacts of AI systems in high-stakes settings, such as the government, and connects her own and related research to the legal and policy worlds to help better regulate AI systems. Professor Black’s work is interdisciplinary as she aims to prevent harm from AI systems used in a variety of contexts: she works with lawyers, accountants, civil society advocates, and others to try to prevent algorithmic harm in practice."
-    - name: William Isaac
-      institute: Google DeepMind
-      url: https://wsisaac.com/ 
-      photo: /static/images/speakers/william-isaac.jpg
-      bio: "William Isaac is a Staff Research Scientist on DeepMind's Ethics and Society Team and Research Affiliate at Oxford University Centre's for the Governance of AI. His research focuses on fairness and governance of AI systems. Prior to DeepMind, he served as an Open Society Foundations Fellow and Research Advisor for the Human Rights Data Analysis Group. His research has been featured in publications such as Science, New York Times, and the Wall Street Journal."
-    - name: Paul Ohm
-      institute: Georgetown University
-      url: https://www.paulohm.com/
-      photo: /static/images/speakers/paul-ohm.jpg
-      bio: "Paul Ohm is a Professor of Law at the Georgetown University Law Center in Washington, D.C. In his research, service, and teaching, Professor Ohm builds bridges between computer science and law, utilizing his training and experience as a lawyer, policymaker, computer programmer, and network systems admininstrator. His research focuses on information privacy, computer crime law, surveillance, technology and the law, and artificial intelligence and the law. Professor Ohm has published landmark articles about the failure of anonymization, the Fourth Amendment and new technology, and broadband privacy. His work has defined fields of scholarly inquiry and influenced policymakers around the world."
-    - name: David Widder
-      institute: Cornell University
-      url: https://davidwidder.me/
-      photo: /static/images/speakers/david-widder.jpeg 
-      bio: David Gray Widder (he/him) studies how people creating “Artificial Intelligence” systems think about the downstream harms their systems make possible, and the wider cultural, political, and economic logics which shape these thoughts. He is a Postdoctoral Fellow at the Digital Life Initiative at Cornell Tech, and earned his PhD from the School of Computer Science at Carnegie Mellon University. He has previously conducted research at Intel Labs, Microsoft Research, and NASA’s Jet Propulsion Laboratory. His recent research has been published in FAccT, CHI, CSCW, and Big Data & Society. His scholarly and activist work has appeared in Motherboard, the New York Times, MIT Technology Review, Axios, the Associated Press, Wired, and Fortune. David was born in Tillamook, Oregon, and raised in Berlin and Singapore. He maintains a conceptual-realist artistic practice, advocates against police terror and pervasive surveillance, and enjoys distance running. 
+    - name: Azalia Mirhoseini
+      institute: Stanford University
+      url: 
+      photo: /static/images/speakers/azalia-mirhoseini.jpg
+      bio: ""
+    - name: Junyang Lin
+      institute: Qwen
+      url: 
+      photo: /static/images/speakers/junyang-lin.jpg
+      bio: ""
+    - name: Eric Wallace
+      institute: OpenAI
+      url: 
+      photo: /static/images/speakers/eric-wallace.jpg
+      bio: "" 
