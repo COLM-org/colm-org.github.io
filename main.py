@@ -360,6 +360,13 @@ def amenities():
     data["amenities"] = open("amenities.md").read()
     return render_template("amenities.html", **data)
 
+
+@app.route("/media.html")
+def media():
+    data = _data()
+    data["media"] = open("media.md").read()
+    return render_template("media.html", **data)
+
 # FRONT END SERVING
 
 
