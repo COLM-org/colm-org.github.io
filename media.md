@@ -1,7 +1,7 @@
 # Media Accreditation
 
 <div class="alert alert-info" role="alert">
-<strong>Media Application Deadline:</strong> October 3, 2025 - <a href="https://colm.eventhosts.cc/Profile/create" class="alert-link">Apply Here</a>
+<strong>Media Application Deadline:</strong> October 3, 2025 - <a href="https://forms.gle/Ws5iCcad78zVH9iE9" class="alert-link">Apply Here</a>
 </div>
 
 <div class="alert alert-secondary" role="alert">
