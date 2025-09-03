@@ -114,7 +114,7 @@ sponsors:
   vals:
     - name: Microsoft
       img_url:
-      url: https://www.microsoft.com/
+      url: https://www.microsoft.com/en-us/research/
       img_src: static/images/sponsors/microsoft-research.svg
       size: 200px
       description: Microsoft is a global technology company known for its software, services, devices, and solutions that help people and businesses realize their full potential.
