@@ -11,14 +11,14 @@
       institute: Stanford University
       url: 
       photo: /static/images/speakers/azalia-mirhoseini.jpg
-      bio: ""
+      bio: "http://azaliamirhoseini.com"
     - name: Junyang Lin
       institute: Qwen
       url: 
       photo: /static/images/speakers/junyang-lin.jpg
-      bio: ""
+      bio: "https://justinlin610.github.io/"
     - name: Eric Wallace
       institute: OpenAI
       url: 
       photo: /static/images/speakers/eric-wallace.jpg
-      bio: "" 
+      bio: "https://www.ericswallace.com" 
