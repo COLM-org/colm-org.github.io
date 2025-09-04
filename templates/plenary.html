@@ -4,3 +4,81 @@
 {{ plenary_content | markdown }}
 {{ components.organizergroup(plenary) }}
 {% endblock %}
+
+
+<h2>
+    Open LLMs in the Reasoning Era Panel
+</h2>
+
+<div class="speakers">
+
+    {% for session in special_sessions %}
+
+    <div class="row p-4">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <div class="row">
+              <div class="col-md-10 col-sm-6">
+                <div class="m-3 text-muted ">
+                  <h4>
+                    {{session.name}}
+                  </h4>
+                  {% if session.description %}
+                  <p>{{session.description}}</p>
+                  {% endif %}
+                </div>
+                {% if session.mod %}
+                <div class="m-4">
+                    <h5>
+                      Session Chair and Moderator
+                    </h5>
+                    <div class="row">
+                    <div class="col-md-2 col-sm-5">
+                        <img src="{{session.mod_photo}}" width="100%" class="embed-responsive-item img-thumbnail">
+                    </div>        
+                    <div class="col-md-10 col-sm-6">
+                        <div class="m-3 text-muted ">
+                          <h6>
+                            <a href="{{session.mod_url}}">{{session.mod}} ({{session.mod_inst}})</a>
+                          </h6>
+                          {% if session.mod_bio %}
+                          <p>{{session.mod_bio}}</p>
+                          {% endif %}
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                {% endif %}
+                <div class="m-4">
+                    <h5>
+                      Participants
+                    </h5>
+                    {% for participant in session.participants %}
+                    <div class="row">
+                        <div class="col-md-2 col-sm-5">
+                            <img src="{{participant.photo}}" width="100%" class="embed-responsive-item img-thumbnail">
+                        </div>        
+                        <div class="col-md-10 col-sm-6">
+                            <div class="m-3 text-muted ">
+                              <h6>
+                                <strong><a href="{{participant.url}}">{{participant.name}} ({{participant.institute}})</a></strong>
+                              </h6>
+                              {% if participant.bio %}
+                              <p>{{participant.bio}}</p>
+                              {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {% endfor %}
+
+</div> <!-- speakers -->
