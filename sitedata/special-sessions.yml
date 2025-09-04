@@ -9,16 +9,16 @@
   participants:
     - name: Azalia Mirhoseini
       institute: Stanford University
-      url: 
+      url: http://azaliamirhoseini.com
       photo: /static/images/speakers/azalia-mirhoseini.jpg
-      bio: "http://azaliamirhoseini.com"
+      bio: ""
     - name: Junyang Lin
       institute: Qwen
-      url: 
+      url: https://justinlin610.github.io/
       photo: /static/images/speakers/junyang-lin.jpg
-      bio: "https://justinlin610.github.io/"
+      bio: ""
     - name: Eric Wallace
       institute: OpenAI
-      url: 
+      url: https://www.ericswallace.com
       photo: /static/images/speakers/eric-wallace.jpg
-      bio: "https://www.ericswallace.com" 
+      bio: "" 
