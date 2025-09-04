@@ -32,12 +32,16 @@
                     {{ speaker.title }}
                   </span>
                 </div>
+                {% if speaker.abstract and speaker.abstract != "TBD" %}
                 <div class="m-3 ">
                   <p><small></small><strong>ABSTRACT: </strong>{{speaker.abstract}}</small></p>
                 </div>
+                {% endif %}
+                {% if speaker.bio and speaker.bio != "TBD" %}
                 <div class="m-3 ">
                   <p><small></small><strong>BIO: </strong>{{speaker.bio}}</small></p>
                 </div>
+                {% endif %}
               </div>
             </div>
           </div>
