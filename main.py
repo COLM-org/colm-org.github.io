@@ -336,6 +336,7 @@ def faq():
 def plenary():
     data = _data()
     data["plenary"] = site_data["plenary"]["plenary"]
+    data["Keynotes"] = site_data["speakers"]
     data["plenary_content"] = open("plenary.md").read()
     data["special_sessions"] = site_data["special-sessions"]
     return render_template("plenary.html", **data)
