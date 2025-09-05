@@ -349,6 +349,13 @@ def hotels():
     return render_template("hotels.html", **data)
 
 
+@app.route("/poster_print.html")
+def hotels():
+    data = _data()
+    data["poster"] = open("poster_print.md").read()
+    return render_template("poster_print.html", **data)
+
+
 @app.route("/programs.html")
 def programs():
     data = _data()
