@@ -305,11 +305,11 @@ def keynotes():
     return render_template("Keynotes.html", **data)
 
 
-@app.route("/SpecialSessions.html")
-def special_sessions():
-    data = _data()
-    data["special_sessions"] = site_data["special-sessions"]
-    return render_template("SpecialSessions.html", **data)
+# @app.route("/SpecialSessions.html")
+# def special_sessions():
+#     data = _data()
+#     data["special_sessions"] = site_data["special-sessions"]
+#     return render_template("SpecialSessions.html", **data)
 
 
 @app.route("/AcceptedPapers.html")
@@ -335,8 +335,10 @@ def faq():
 @app.route("/plenary.html")
 def plenary():
     data = _data()
-    data["plenary"] = site_data["plenary"]["plenary"]
+    # data["plenary"] = site_data["plenary"]["plenary"]
+    data["Keynotes"] = site_data["speakers"]
     data["plenary_content"] = open("plenary.md").read()
+    data["special_sessions"] = site_data["special-sessions"]
     return render_template("plenary.html", **data)
 
 
@@ -359,6 +361,13 @@ def amenities():
     data = _data()
     data["amenities"] = open("amenities.md").read()
     return render_template("amenities.html", **data)
+
+
+@app.route("/media.html")
+def media():
+    data = _data()
+    data["media"] = open("media.md").read()
+    return render_template("media.html", **data)
 
 # FRONT END SERVING
 

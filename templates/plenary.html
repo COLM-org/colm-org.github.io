@@ -2,5 +2,133 @@
 
 {% block content %}
 {{ plenary_content | markdown }}
-{{ components.organizergroup(plenary) }}
+<!-- {{ components.organizergroup(plenary) }} -->
+
+
+<h2 style="margin-top: 2rem;">
+    Keynote Speakers
+</h2>
+
+<div class="speakers">
+
+    {% for speaker in Keynotes %}
+
+    <div class="row p-4">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <div class="row">
+              <div class="col-md-2 col-sm-5">
+                <img src="{{speaker.image}}" width="100%" class="img-thumbnail lazy-load-img">
+              </div>
+              <div class="col-md-10 col-sm-6">
+                <div class="m-3 text-muted ">
+                  <h4>
+                    <a href="{{speaker.url}}">{{speaker.speaker}}</a> ({{speaker.institution}})
+                  </h4>
+                </div>
+                <div class="m-3 text-muted ">
+                  <span class="card-title h3">
+                    {{ speaker.title }}
+                  </span>
+                </div>
+                {% if speaker.abstract and speaker.abstract != "TBD" %}
+                <div class="m-3 ">
+                  <p><small></small><strong>ABSTRACT: </strong>{{speaker.abstract}}</small></p>
+                </div>
+                {% endif %}
+                {% if speaker.bio and speaker.bio != "TBD" %}
+                <div class="m-3 ">
+                  <p><small></small><strong>BIO: </strong>{{speaker.bio}}</small></p>
+                </div>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {% endfor %}
+
+</div> <!-- speakers -->
+
+
+<h2 id="reasoning-era-panel" style="margin-top: 2rem;">
+    Open LLMs in the Reasoning Era Panel
+</h2>
+
+<div class="speakers">
+
+    {% for session in special_sessions %}
+
+    <div class="row p-4">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <div class="row">
+              <div class="col-md-12 col-sm-6">
+                <div class="m-3 text-muted ">
+                  <h4>
+                    {{session.name}}
+                  </h4>
+                  {% if session.description %}
+                  <p>{{session.description}}</p>
+                  {% endif %}
+                </div>
+                {% if session.mod %}
+                <div class="m-4">
+                    <h5>
+                      Session Chair and Moderator
+                    </h5>
+                    <div class="row">
+                    <div class="col-md-2 col-sm-5">
+                        <img src="{{session.mod_photo}}" width="100%" class="embed-responsive-item img-thumbnail">
+                    </div>        
+                    <div class="col-md-10 col-sm-6">
+                        <div class="m-3 text-muted ">
+                          <h6>
+                            <a href="{{session.mod_url}}">{{session.mod}} ({{session.mod_inst}})</a>
+                          </h6>
+                          {% if session.mod_bio %}
+                          <p>{{session.mod_bio}}</p>
+                          {% endif %}
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                {% endif %}
+                <div class="m-4">
+                    <h5>
+                      Participants
+                    </h5>
+                    {% for participant in session.participants %}
+                    <div class="row">
+                        <div class="col-md-2 col-sm-5">
+                            <img src="{{participant.photo}}" width="100%" class="embed-responsive-item img-thumbnail">
+                        </div>        
+                        <div class="col-md-10 col-sm-6">
+                            <div class="m-3 text-muted ">
+                              <h4>
+                                <a href="{{participant.url}}">{{participant.name}} ({{participant.institute}})</a>
+                              </h4>
+                              {% if participant.bio %}
+                              <p>{{participant.bio}}</p>
+                              {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {% endfor %}
+
+</div> <!-- speakers -->
+
 {% endblock %}

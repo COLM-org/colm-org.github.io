@@ -1,0 +1,43 @@
+{% set active_page = "Media" %}
+{% extends "base.html" %}
+
+{% block head %}
+{{ super() }}
+
+<style>
+  .back { background-color: #38a9d1; }
+  .hero-image {
+    /* background-image: url("static/images/1500x500.png"); */
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    position: relative;
+  }
+  .hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+
+<!-- <div class="hero-image">
+  <div class="hero-text text-center">
+    <h1>Media Accreditation</h1>
+  </div>
+</div> -->
+
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-md-12">
+      {{ media | markdown }}
+    </div>
+  </div>
+</div>
+
+{% endblock %}

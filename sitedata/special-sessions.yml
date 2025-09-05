@@ -1,6 +1,6 @@
 
 - name: Open LLMs in the Reasoning Era Panel
-  description: "A panel discussion exploring the current state and future directions of open large language models, particularly focusing on their reasoning capabilities and the implications for the broader AI research community. Moderated by Alexander Rush."
+  description: "A panel discussion moderated by Alexander “Sasha” Rush exploring the current state and future directions of open large language models, particularly focusing on their reasoning capabilities and the implications for the broader AI research community."
   mod: 
   mod_inst: 
   mod_url: 
@@ -9,16 +9,16 @@
   participants:
     - name: Azalia Mirhoseini
       institute: Stanford University
-      url: 
+      url: http://azaliamirhoseini.com
       photo: /static/images/speakers/azalia-mirhoseini.jpg
       bio: ""
     - name: Junyang Lin
       institute: Qwen
-      url: 
+      url: https://justinlin610.github.io/
       photo: /static/images/speakers/junyang-lin.jpg
       bio: ""
     - name: Eric Wallace
       institute: OpenAI
-      url: 
+      url: https://www.ericswallace.com
       photo: /static/images/speakers/eric-wallace.jpg
       bio: "" 
