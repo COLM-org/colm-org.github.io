@@ -350,7 +350,7 @@ def hotels():
 
 
 @app.route("/poster_print.html")
-def hotels():
+def poster():
     data = _data()
     data["poster"] = open("poster_print.md").read()
     return render_template("poster_print.html", **data)
