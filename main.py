@@ -266,6 +266,7 @@ def coi_policy():
 def committees():
     data = _data()
     data["committee"] = site_data["committee"]["committee"]
+    data["award_committee"] = sorted(site_data["committee"]["award_committee"], key=lambda x: x["name"])
     data["AreaChairs"] = open("AreaChairs.md").read()
     return render_template("committees.html", **data)
 
