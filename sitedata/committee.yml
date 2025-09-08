@@ -86,6 +86,81 @@ committee:
     tw: srush_nlp
     ws: https://rush-nlp.com/
 
+award_committee:
+  # The four Program Chairs
+  - role: Award Committee Member
+    name: Aditi Raghunathan
+    aff: CMU
+    im: static/images/aditi.jpeg
+    tw:
+    ws: https://www.cs.cmu.edu/~aditirag/
+  - role: Award Committee Member
+    name: Eunsol Choi
+    aff: NYU
+    im: static/images/Eunsol.jpeg
+    tw: eunsolc
+    ws: https://eunsol.github.io/
+  - role: Award Committee Member
+    name: Ranjay Krishna
+    aff: UW
+    im: static/images/Ranjay.jpeg
+    tw:
+    ws: https://ranjaykrishna.com/
+  - role: Award Committee Member
+    name: Yoav Artzi
+    aff: Cornell Tech, ASAPP
+    im: static/images/Yoav.jpg
+    tw: yoavartzi
+    ws: https://yoavartzi.com/
+  - role: Award Committee Member
+    name: Tom Goldstein
+    aff: University of Maryland
+    im: static/images/award_committee/tom.jpg
+    tw: 
+    ws: https://www.cs.umd.edu/~tomg/
+  - role: Award Committee Member
+    name: Ellie Pavlick
+    aff: Brown University
+    im: static/images/award_committee/ellie.jpg
+    tw: 
+    ws: https://cs.brown.edu/people/epavlick/
+  - role: Award Committee Member
+    name: Diyi Yang
+    aff: Stanford University
+    im: static/images/award_committee/diyi.jpg
+    tw: 
+    ws: https://cs.stanford.edu/~diyiy/
+  - role: Award Committee Member
+    name: Asli Celikyilmaz
+    aff: Meta AI
+    im: static/images/award_committee/asli.jpg
+    tw: 
+    ws: http://asli.us/
+  - role: Award Committee Member
+    name: Tri Dao
+    aff: Princeton University
+    im: static/images/award_committee/tri.jpg
+    tw: 
+    ws: https://tridao.me/
+  - role: Award Committee Member
+    name: Saining Xie
+    aff: New York University
+    im: static/images/award_committee/saining.jpg
+    tw: 
+    ws: https://www.sainingxie.com/
+  - role: Award Committee Member
+    name: Sanjeev Arora
+    aff: Princeton University
+    im: static/images/award_committee/sanjeev.jpg
+    tw: 
+    ws: https://www.cs.princeton.edu/~arora/
+  - role: Award Committee Member
+    name: Prateek Jain
+    aff: Google Research
+    im: static/images/award_committee/prateek.jpg
+    tw: 
+    ws: https://www.prateekjain.org/
+
 board:
   - role: Board Member
     name: Yejin Choi
