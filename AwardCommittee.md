@@ -1,4 +1,7 @@
 <style>
+  table {
+    width: 100%;
+  }
   td, th {
     padding: 10px; /* Adjust the padding as needed */
   }
