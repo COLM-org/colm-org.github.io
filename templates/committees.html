@@ -25,7 +25,9 @@
 
 <!-- Award Committee -->
 {{ components.section("Award Committee") }}
-{{ components.organizergroup(award_committee)}}
+<div class="h5" style="line-height: 1.5;">
+    {{ AwardCommittee | markdown }}
+</div>
 
 <!-- Area Chairs -->
 {{ components.section("Area Chairs") }}
