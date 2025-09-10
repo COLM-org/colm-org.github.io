@@ -12,13 +12,13 @@ Monday, October 6
 <tr><td><div class="text-secondary">8:45am - 9:00am</div></td><td>Opening Remarks</td></tr>
 <!-- <tr><td colspan=2 style="font-style:italic">Session 1 (Sponsored by <a href="#">TBD</a>)</td></tr> -->
 <tr><td><div class="text-secondary">9:00am - 10:00am</div></td><td><a href="/plenary.html">Keynote: Luke Zettlemoyer</a></td></tr>
-<tr><td><div class="text-secondary">10:00am - 11:00am</div></td><td>Oral Talks</td></tr>
-<tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Poster Session</td></tr>
+<tr><td><div class="text-secondary">10:00am - 11:00am</div></td><td>Oral Talks 1</td></tr>
+<tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Poster Session 1</td></tr>
 <tr><td><div class="text-secondary">1:00pm - 2:30pm</div></td><td>Lunch</td></tr>
 <!-- <tr><td colspan=2 style="font-style:italic">Session 2 (Sponsored by <a href="#">TBD</a>)</td></tr> -->
 <tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a href="/plenary.html">Keynote: Shirley Ho</a></td></tr>
-<tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks</td></tr>
-<tr><td><div class="text-secondary">4:30pm - 6:30pm</div></td><td>Poster Session</td></tr>
+<tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks 2</td></tr>
+<tr><td><div class="text-secondary">4:30pm - 6:30pm</div></td><td>Poster Session 2</td></tr>
 <tr><td><div class="text-secondary">6:30pm - 8:00pm</div></td><td>Opening Reception</td></tr>
 </table>
 
@@ -27,12 +27,12 @@ Monday, October 6
 
 <table>
 <tr><td><div class="text-secondary">9:00am - 10:00am</div></td><td><a href="/plenary.html">Keynote: Tom Griffiths</a></td></tr>
-<tr><td><div class="text-secondary">10:00am - 11:00am</div></td><td>Oral Talks</td></tr>
-<tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Poster Session</td></tr>
+<tr><td><div class="text-secondary">10:00am - 11:00am</div></td><td>Oral Talks 3</td></tr>
+<tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Poster Session 3</td></tr>
 <tr><td><div class="text-secondary">1:00pm - 2:30pm</div></td><td>Lunch</td></tr>
 <tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a href="/plenary.html">Keynote: Gillian Hadfield</a></td></tr>
-<tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks</td></tr>
-<tr><td><div class="text-secondary">4:30pm - 6:30pm</div></td><td>Poster Session</td></tr>
+<tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks 4</td></tr>
+<tr><td><div class="text-secondary">4:30pm - 6:30pm</div></td><td>Poster Session 4</td></tr>
 </table>
 
 <br/>
@@ -40,11 +40,11 @@ Monday, October 6
 
 <table>
 <tr><td><div class="text-secondary">9:00am - 10:00am</div></td><td><a href="/plenary.html">Keynote: Nicholas Carlini</a></td></tr>
-<tr><td><div class="text-secondary">10:00am - 11:00am</div></td><td>Oral Talks</td></tr>
-<tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Poster Session</td></tr>
+<tr><td><div class="text-secondary">10:00am - 11:00am</div></td><td>Oral Talks 5</td></tr>
+<tr><td><div class="text-secondary">11:00am - 1:00pm</div></td><td>Poster Session 5</td></tr>
 <tr><td><div class="text-secondary">1:00pm - 2:30pm</div></td><td>Lunch</td></tr>
 <tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a href="/plenary.html#reasoning-era-panel">Open LLMs in the Reasoning Era Panel</a></td></tr>
-<tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks</td></tr>
+<tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks 6</td></tr>
 <tr><td><div class="text-secondary">4:30pm - 4:40pm</div></td><td>Closing Remarks</td></tr>
 </table>
 
