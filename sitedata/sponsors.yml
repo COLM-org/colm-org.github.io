@@ -34,7 +34,7 @@ sponsors:
       description: About Citadel and Citadel Securities Citadel is a multi-strategy alternative investment manager. For more than three decades, we've captured undiscovered market opportunities by empowering extraordinary people to pursue their best and boldest ideas. Each day at Citadel, we reimagine and refine our strategies, models and technology in pursuit of superior long-term performance. Citadel Securities is the next-generation capital markets firm. We create efficient ways for buyers and sellers to come together; we innovative ways to price and absorb risk; and we develop new technologies to transform markets. Integrating deep financial, mathematical and engineering expertise, Citadel Securities delivers critical liquidity to central banks, financial institutions, government agencies, corporations, insurers and sovereign wealth funds.
 
 - tier: Platinum
-  size: 1
+  size: 2
   height: 150
   vals:
     - name: Turing
@@ -43,9 +43,15 @@ sponsors:
       img_src: static/images/sponsors/turing-logo.svg
       size: 200px
       description: Turing is a technology company pioneering artificial general intelligence (AGI) space. Our mission is to accelerate AGI advancement and deployment by leveraging human intelligence and AI to improve each other. We focus on AI-powered sourcing, vetting, matching, and operations of top talent to build products, removing the human intelligence bottleneck in AGI adoption and deployment. Our comprehensive platform supports enterprises needing custom engineering, LLM training, or AI/AGI deployment.
+    - name: Google Research
+      img_url:
+      url: https://research.google/
+      img_src: static/images/sponsors/google-research.svg
+      size: 200px
+      description: Google Research is committed to advancing the state-of-the-art in computer science and making discoveries that enable better technologies that improve people's lives.
 
 - tier: Gold
-  size: 4
+  size: 5
   height: 150
   vals:
     - name: Toloka AI
@@ -90,6 +96,12 @@ sponsors:
       img_src: static/images/sponsors/cubist.png
       size: 200px
       description: Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources.
+    - name: Handshake AI
+      img_url:
+      url: https://www.handshake-ai.com/
+      img_src: static/images/sponsors/handshake-ai.svg
+      size: 200px
+      description: Handshake AI is building the next generation of AI-powered career platform to help students and recent graduates find meaningful career opportunities.
 
 - tier: Silver
   size: 2
@@ -109,7 +121,7 @@ sponsors:
       description: Collinear is an early-stage, VC-backed startup helping enterprise customers build safe, reliable, and high-performing AI systems. Our AI judge framework uses smaller, specialized reward models to evaluate LLM outputs for accuracy, safety, and alignment, turning real-world failure modes into high-quality post-training data. We combine rigorous post-training and alignment research with hands-on engineering to deliver automated evaluation, adversarial red teaming, and targeted model improvement, enabling enterprises to deploy AI they can trust.
 
 - tier: Bronze
-  size: 1
+  size: 2
   height: 150
   vals:
     - name: Microsoft
@@ -118,3 +130,20 @@ sponsors:
       img_src: static/images/sponsors/microsoft-research.svg
       size: 200px
       description: Microsoft is a global technology company known for its software, services, devices, and solutions that help people and businesses realize their full potential.
+    - name: Two Sigma
+      img_url:
+      url: https://www.twosigma.com/
+      img_src: static/images/sponsors/two-sigma.svg
+      size: 200px
+      description: Two Sigma is a systematic investment manager founded with the belief that innovative technology and rigorous scientific method can be applied to investment management to deliver superior returns.
+
+- tier: Publisher
+  size: 1
+  height: 150
+  vals:
+    - name: Translated
+      img_url:
+      url: https://translated.com/
+      img_src: static/images/sponsors/translated.svg
+      size: 200px
+      description: Translated is a leading provider of translation and localization services, combining human expertise with AI technology to deliver high-quality translations for businesses worldwide.
