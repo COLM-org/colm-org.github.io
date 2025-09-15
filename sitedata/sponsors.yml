@@ -109,8 +109,8 @@ sponsors:
   vals:
     - name: UK AI Security Institute
       img_url:
-      url: 
-      img_src: static/images/sponsors/uk-ai-security.svg
+      url: https://www.ukais.org/
+      img_src: static/images/sponsors/AISI_Master_Colour1.svg
       size: 200px
       description: 
     - name: Collinear AI

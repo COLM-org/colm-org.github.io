@@ -1,10 +1,12 @@
 FAQ:
   - Section: Presentation
     QA:
-      # - Question: What are the poster dimensions?
-      #   Answer: "The poster boards are 30x40inch (width x height), so your poster must be smaller than 30x40 to fit on the board."
+      - Question: What are the poster dimensions?
+        Answer: "The poster size is 36in (H) x 72in (W)."
       - Question: Are papers presented as posters or oral presentations?
         Answer: "All papers will be presented as posters. A small number of papers will be selected for oral presentations. We will notify the authors of papers selected for oral presentations around mid September."
+      - Question: I can’t make it, can I send you the poster to print and hang in the session? Or is there a way to present remotely?
+        Answer: "We are sorry, but COLM cannot place your poster for you in the poster session. This is not within the capacity of the conference. It is not good for the conference and dynamics onsite, and it does not result in a meaningful presentation of your work. Submission to COLM entails the responsibility of all the authors for presenting the paper at COLM, just like other conferences. Because COLM is an in-person conference only, this entails attendance and travel. If absolutely necessary, we recommend identifying a colleague who can travel or is already attending that is willing to present on your behalf (but COLM does not have the capacity to assist in this process)."
   - Section: Reviewing
     QA:
       - Question: What is the reciprocal reviewing requirement? 
