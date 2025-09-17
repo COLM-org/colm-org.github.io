@@ -98,10 +98,16 @@ sponsors:
       description: Cubist Systematic Strategies, an affiliate of Point72, deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources.
     - name: Handshake AI
       img_url:
-      url: https://www.handshake-ai.com/
+      url: https://joinhandshake.com/expert-ai
       img_src: static/images/sponsors/handshake-ai.svg
       size: 200px
       description: Handshake AI is building the next generation of AI-powered career platform to help students and recent graduates find meaningful career opportunities.
+    - name: Freestone Grove
+      img_url:
+      url: https://fgrovep.com/
+      img_src: static/images/sponsors/freestone-grove.svg
+      size: 200px
+      description: Freestone Grove is a technology company.
 
 - tier: Silver
   size: 2
