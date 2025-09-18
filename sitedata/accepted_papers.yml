@@ -2,163 +2,245 @@
     of Language Variation'
   authors: Amanda Myntti, Erik Henriksson, Veronika Laippala, Sampo Pyysalo
   url: https://openreview.net/forum?id=FqXXtSZWEZ
+  outstanding_award: false
+  spotlight: false
 - title: 'Extragradient Preference Optimization (EGPO): Beyond Last-Iterate Convergence
     for Nash Learning from Human Feedback'
   authors: Runlong Zhou, Maryam Fazel, Simon Shaolei Du
   url: https://openreview.net/forum?id=EP7mAqx2BO
+  outstanding_award: false
+  spotlight: false
 - title: 'Understanding R1-Zero-Like Training: A Critical Perspective'
   authors: Zichen Liu, Changyu Chen, Wenjun Li, Penghui Qi, Tianyu Pang, Chao Du,
     Wee Sun Lee, Min Lin
   url: https://openreview.net/forum?id=5PAF7PAY2Y
+  outstanding_award: false
+  spotlight: true
 - title: Why do LLMs attend to the first token?
   authors: Federico Barbero, Alvaro Arroyo, Xiangming Gu, Christos Perivolaropoulos,
     Petar Veličković, Razvan Pascanu, Michael M. Bronstein
   url: https://openreview.net/forum?id=tu4dFUsW5z
+  outstanding_award: false
+  spotlight: false
 - title: 'Inside-Out: Hidden Factual Knowledge in LLMs'
   authors: Zorik Gekhman, Eyal Ben-David, Hadas Orgad, Eran Ofek, Yonatan Belinkov,
     Idan Szpektor, Jonathan Herzig, Roi Reichart
   url: https://openreview.net/forum?id=f7GG1MbsSM
+  outstanding_award: false
+  spotlight: false
 - title: Elucidating the Design Space of Decay in Linear Attention
   authors: Zhen Qin, Xuyang Shen, Yiran Zhong
   url: https://openreview.net/forum?id=whXh2YxMbt
+  outstanding_award: false
+  spotlight: false
 - title: 'ScholarCopilot: Training Large Language Models for Academic Writing with
     Accurate Citations'
   authors: Yubo Wang, Xueguang Ma, Ping Nie, Huaye Zeng, Zhiheng Lyu, Yuxuan Zhang,
     Benjamin Schneider, Yi Lu, Xiang Yue, Wenhu Chen
   url: https://openreview.net/forum?id=r8nloXtluk
+  outstanding_award: false
+  spotlight: false
 - title: 'Finding Flawed Fictions: Evaluating Complex Reasoning in Language Models
     via Plot Hole Detection'
   authors: Kabir Ahuja, Melanie Sclar, Yulia Tsvetkov
   url: https://openreview.net/forum?id=ptmgWRCWmu
+  outstanding_award: false
+  spotlight: false
 - title: Do Language Models Agree with Human Perceptions of Suspense in Stories?
   authors: Glenn Matlin, Devin Zhang, Rodrigo Barroso Loza, Diana M. Popescu, Joni
     Isbell, Chandreyi Chakraborty, Mark Riedl
   url: https://openreview.net/forum?id=Qu0znWWckM
+  outstanding_award: false
+  spotlight: false
 - title: Learning Effective Language Representations for Sequential Recommendation
     via Joint Embedding Predictive Architecture
   authors: Nguyen Anh Minh, Dung D. Le
   url: https://openreview.net/forum?id=0Qbwjd0fxB
+  outstanding_award: false
+  spotlight: false
 - title: 'QUDsim: Quantifying Discourse Similarities in LLM-Generated Text'
   authors: Ramya Namuduri, Yating Wu, Anshun Asher Zheng, Manya Wadhwa, Greg Durrett,
     Junyi Jessy Li
   url: https://openreview.net/forum?id=zFz1BJu211
+  outstanding_award: false
+  spotlight: false
 - title: 'L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning'
   authors: Pranjal Aggarwal, Sean Welleck
   url: https://openreview.net/forum?id=4jdIxXBNve
+  outstanding_award: false
+  spotlight: false
 - title: True Multimodal In-Context Learning Needs Attention to the Visual Context
   authors: Shuo Chen, Jianzhe Liu, Zhen Han, Yan Xia, Daniel Cremers, Philip Torr,
     Volker Tresp, Jindong Gu
   url: https://openreview.net/forum?id=n4JdyBGu6T
+  outstanding_award: false
+  spotlight: false
 - title: 'MAC: A Live Benchmark for Multimodal Large Language Models in Scientific
     Understanding'
   authors: Mohan Jiang, Jin Gao, Jiahao Zhan, Dequan Wang
   url: https://openreview.net/forum?id=0aHOVhkuOB
+  outstanding_award: false
+  spotlight: false
 - title: Off-Policy Corrected Reward Modeling for Reinforcement Learning from Human
     Feedback
   authors: Johannes Ackermann, Takashi Ishida, Masashi Sugiyama
   url: https://openreview.net/forum?id=0zxugBcgF5
+  outstanding_award: false
+  spotlight: false
 - title: Positional Biases Shift as Inputs Approach Context Window Limits
   authors: Blerta Veseli, Julian Chibane, Mariya Toneva, Alexander Koller
   url: https://openreview.net/forum?id=vlUk8z8LaM
+  outstanding_award: false
+  spotlight: false
 - title: 'ALFA: Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning'
   authors: Shuyue Stella Li, Jimin Mun, Faeze Brahman, Pedram Hosseini, Bryceton G.
     Thomas, Jessica M. Sin, Bing Ren, Jonathan S. Ilgen, Yulia Tsvetkov, Maarten Sap
   url: https://openreview.net/forum?id=12u7diwku0
+  outstanding_award: false
+  spotlight: false
 - title: Building Instruction-Tuning Datasets from Human-Written Instructions with
     Open-Weight Large Language Models
   authors: Youmi Ma, Sakae Mizuki, Kazuki Fujii, Taishi Nakamura, Masanari Ohi, Hinari
     Shimada, Taihei Shiotani, Koshiro Saito, Koki Maeda, Kakeru Hattori, Takumi Okamoto,
     Shigeki Ishida, Rio Yokota, Hiroya Takamura, Naoaki Okazaki
   url: https://openreview.net/forum?id=6vTv9M9ZAA
+  outstanding_award: false
+  spotlight: false
 - title: 'SecurityLingua: Efficient Defense of LLM Jailbreak Attacks via Security-Aware
     Prompt Compression'
   authors: Yucheng Li, Surin Ahn, Huiqiang Jiang, Amir H. Abdi, Yuqing Yang, Lili
     Qiu
   url: https://openreview.net/forum?id=tybbSo6wba
+  outstanding_award: false
+  spotlight: false
 - title: 'Truth-value judgment in language models: ‘truth directions’ are context
     sensitive'
   authors: Stefan F. Schouten, Peter Bloem, Ilia Markov, Piek Vossen
   url: https://openreview.net/forum?id=2H85485yAb
+  outstanding_award: false
+  spotlight: false
 - title: When Does Metadata Conditioning (NOT) Work for Language Model Pre-Training?
     A Study with Context-Free Grammars
   authors: Rei Higuchi, Ryotaro Kawata, Naoki Nishikawa, Kazusato Oko, Shoichiro Yamaguchi,
     Sosuke Kobayashi, Seiya Tokui, Kohei Hayashi, Daisuke Okanohara, Taiji Suzuki
   url: https://openreview.net/forum?id=5UkUsRsWYx
+  outstanding_award: false
+  spotlight: false
 - title: 'Assessing Judging Bias in Large Reasoning Models: An Empirical Study'
   authors: Qian Wang, Zhanzhi Lou, Zhenheng Tang, Nuo Chen, Xuandong Zhao, Wenxuan
     Zhang, Dawn Song, Bingsheng He
   url: https://openreview.net/forum?id=SlRtFwBdzP
+  outstanding_award: false
+  spotlight: false
 - title: Modifying Large Language Model Post-Training for Diverse Creative Writing
   authors: John Joon Young Chung, Vishakh Padmakumar, Melissa Roemmele, Yuqian Sun,
     Max Kreminski
   url: https://openreview.net/forum?id=1Pmuw08LoM
+  outstanding_award: false
+  spotlight: false
 - title: 'Yourbench: Dynamic Evaluation Set Generation with LLMs'
   authors: Sumuk Shashidhar, Clémentine Fourrier, Alina Lozovskaya, Thomas Wolf, Gokhan
     Tur, Dilek Hakkani-Tür
   url: https://openreview.net/forum?id=bkWERVKzuP
+  outstanding_award: false
+  spotlight: false
 - title: Sample Efficient Preference Alignment in LLMs via Active Exploration
   authors: Viraj Mehta, Syrine Belakaria, Vikramjeet Das, Ojash Neopane, Yijia Dai,
     Ilija Bogunovic, Barbara Engelhardt, Stefano Ermon, Jeff Schneider, Willie Neiswanger
   url: https://openreview.net/forum?id=Vi5cIfIslX
+  outstanding_award: false
+  spotlight: false
 - title: 'DynaSaur: Large Language Agents Beyond Predefined Actions'
   authors: Dang Nguyen, Viet Dac Lai, Seunghyun Yoon, Ryan A. Rossi, Handong Zhao,
     Ruiyi Zhang, Puneet Mathur, Nedim Lipka, Yu Wang, Trung Bui, Franck Dernoncourt,
     Tianyi Zhou
   url: https://openreview.net/forum?id=lv0cJ2pWVd
+  outstanding_award: false
+  spotlight: false
 - title: 'CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation'
   authors: Anirudh Khatry, Robert Zhang, Jia Pan, Ziteng Wang, Jocelyn Qiaochu Chen,
     Greg Durrett, Isil Dillig
   url: https://openreview.net/forum?id=8xofWL61S9
+  outstanding_award: false
+  spotlight: true
 - title: 'SQuat: Subspace-orthogonal KV Cache Quantization'
   authors: Hao Wang, Ligong Han, Kai Xu, Akash Srivastava
   url: https://openreview.net/forum?id=gKdhzBiHay
+  outstanding_award: false
+  spotlight: false
 - title: 'X-EcoMLA: Upcycling Pre-Trained Attention into MLA for Efficient and Extreme
     KV Compression'
   authors: Guihong Li, Mehdi Rezagholizadeh, Mingyu Yang, Vikram Appia, Emad Barsoum
   url: https://openreview.net/forum?id=CPJ9EAeYfd
+  outstanding_award: false
+  spotlight: false
 - title: 'Hidden in plain sight: VLMs overlook their visual representations'
   authors: Stephanie Fu, tyler bonnen, Devin Guillory, Trevor Darrell
   url: https://openreview.net/forum?id=qQb1JLrwol
+  outstanding_award: false
+  spotlight: true
 - title: Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality
   authors: Sewoong Lee, Adam Davies, Marc E. Canby, Julia Hockenmaier
   url: https://openreview.net/forum?id=XhdNFeMclS
+  outstanding_award: false
+  spotlight: false
 - title: 'JailDAM: Jailbreak Detection with Adaptive Memory for Vision-Language Model'
   authors: Yi Nian, Shenzhe Zhu, Yuehan Qin, Li Li, Ziyi Wang, Chaowei Xiao, Yue Zhao
   url: https://openreview.net/forum?id=8Pxdzsqvx9
+  outstanding_award: false
+  spotlight: false
 - title: 'The World According to LLMs: How Geographic Origin Influences LLMs'' Entity
     Deduction Capabilities'
   authors: Harsh Nishant Lalai, Raj Sanjay Shah, Jiaxin Pei, Sashank Varma, Yi-Chia
     Wang, Ali Emami
   url: https://openreview.net/forum?id=hJtvCfDfs1
+  outstanding_award: false
+  spotlight: false
 - title: Synthetic Data Generation and Multi-Step Reinforcement Learning for Reasoning
     and Tool Use
   authors: Anna Goldie, Azalia Mirhoseini, Hao Zhou, Irene Cai, Christopher D Manning
   url: https://openreview.net/forum?id=oN9STRYQVa
+  outstanding_award: false
+  spotlight: false
 - title: On Mechanistic Circuits for Extractive Question-Answering
   authors: Samyadeep Basu, Vlad I Morariu, Ryan A. Rossi, Nanxuan Zhao, Zichao Wang,
     Soheil Feizi, Varun Manjunatha
   url: https://openreview.net/forum?id=VvSWiNIuPL
+  outstanding_award: false
+  spotlight: false
 - title: Multi-Token Attention
   authors: Olga Golovneva, Tianlu Wang, Jason E Weston, Sainbayar Sukhbaatar
   url: https://openreview.net/forum?id=Z3L35tQTEg
+  outstanding_award: false
+  spotlight: false
 - title: Interpreting the linear structure of vision-language model embedding spaces
   authors: Isabel Papadimitriou, Huangyuan Su, Thomas Fel, Sham M. Kakade, Stephanie
     Gil
   url: https://openreview.net/forum?id=qPsmGjpq1j
+  outstanding_award: false
+  spotlight: true
 - title: Towards Compute-Optimal Many-Shot In-Context Learning
   authors: Shahriar Golchin, Yanfei Chen, Rujun Han, Manan Gandhi, Tianli Yu, Swaroop
     Mishra, Mihai Surdeanu, Rishabh Agarwal, Chen-Yu Lee, Tomas Pfister
   url: https://openreview.net/forum?id=K7kwRv5mj1
+  outstanding_award: false
+  spotlight: false
 - title: Weight ensembling improves reasoning in language models
   authors: Xingyu Dang, Christina Baek, Kaiyue Wen, J Zico Kolter, Aditi Raghunathan
   url: https://openreview.net/forum?id=S2IKxulLT1
+  outstanding_award: false
+  spotlight: false
 - title: Texture or Semantics? Vision-Language Models Get Lost in Font Recognition
   authors: Zhecheng Li, Guoxian Song, Yujun Cai, Zhen Xiong, Junsong Yuan, Yiwei Wang
   url: https://openreview.net/forum?id=qiLJVU4I8P
+  outstanding_award: false
+  spotlight: false
 - title: 'Contextualize-then-Aggregate: Circuits for In-Context Learning in Gemma-2
     2B'
   authors: Aleksandra Bakalova, Yana Veitsman, Xinting Huang, Michael Hahn
   url: https://openreview.net/forum?id=rGNAyHReSg
+  outstanding_award: false
+  spotlight: false
 - title: 'Sherkala-Chat: Building a State-of-the-Art LLM for Kazakh in a Moderately
     Resourced Setting'
   authors: Fajri Koto, Rituraj Joshi, Nurdaulet Mukhituly, Yuxia Wang, Zhuohan Xie,
@@ -169,431 +251,653 @@
     Monojit Choudhury, Gurpreet Gosal, Gokulakrishnan Ramakrishnan, Biswajit Mishra,
     Sarath Chandran, Avraham Sheinin, Natalia Vassilieva, Neha Sengupta, Preslav Nakov
   url: https://openreview.net/forum?id=wRcTCcb0H5
+  outstanding_award: false
+  spotlight: false
 - title: 'ICQuant: Index Coding enables Low-bit LLM Quantization'
   authors: Xinlin Li, Osama Hanna, Christina Fragouli, Suhas Diggavi
   url: https://openreview.net/forum?id=m6nBgFSMTL
+  outstanding_award: false
+  spotlight: true
 - title: Can Language Models Falsify? Evaluating Algorithmic Reasoning with Counterexample
     Creation
   authors: Shiven Sinha, Shashwat Goel, Ponnurangam Kumaraguru, Jonas Geiping, Matthias
     Bethge, Ameya Prabhu
   url: https://openreview.net/forum?id=M7cl4Ldw61
+  outstanding_award: false
+  spotlight: false
 - title: 'TRELLIS: Learning to Compress Key-Value Memory in Attention Models'
   authors: Mahdi Karami, Ali Behrouz, Praneeth Kacham, Vahab Mirrokni
   url: https://openreview.net/forum?id=r61s1FNYlj
+  outstanding_award: false
+  spotlight: false
 - title: Language Model Uncertainty Quantification with Attention Chain
   authors: Yinghao Li, Rushi Qiang, Lama Moukheiber, Chao Zhang
   url: https://openreview.net/forum?id=QTrW2HWNXe
+  outstanding_award: false
+  spotlight: false
 - title: Pretrained Hybrids with MAD Skills
   authors: Nicholas Roberts, Samuel Guo, Zhiqi Gao, Satya Sai Srinath Namburi GNVV,
     Sonia Cromp, Chengjun Wu, Chengyu Duan, Frederic Sala
   url: https://openreview.net/forum?id=8xSbwT3763
+  outstanding_award: false
+  spotlight: false
 - title: 'Prompt-Reverse Inconsistency: LLM Self-Inconsistency Beyond Generative Randomness
     and Prompt Paraphrasing'
   authors: Jihyun Janice Ahn, Wenpeng Yin
   url: https://openreview.net/forum?id=yfRkNRFLzl
+  outstanding_award: false
+  spotlight: false
 - title: 'ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using
     Large Language Models'
   authors: Archchana Sindhujan, Shenbin Qian, Chan Chi Chun Matthew, Constantin Orasan,
     Diptesh Kanojia
   url: https://openreview.net/forum?id=qSFr5wJPGc
+  outstanding_award: false
+  spotlight: false
 - title: Phased Training for LLM-powered Text Retrieval Models Beyond Data Scaling
   authors: Xin Zhang, Yanzhao Zhang, Wen Xie, Dingkun Long, Mingxin Li, Pengjun Xie,
     Meishan Zhang, Wenjie Li, Min Zhang
   url: https://openreview.net/forum?id=NC6G1KCxlt
+  outstanding_award: false
+  spotlight: false
 - title: 'Jigsaw Puzzles: Splitting Harmful Questions to Jailbreak Large Language
     Models in Multi-turn Interactions'
   authors: Hao Yang, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari
   url: https://openreview.net/forum?id=zuNM3eoPVi
+  outstanding_award: false
+  spotlight: false
 - title: Multilingual and  Multi-Accent Jailbreaking of Audio LLMs
   authors: Jaechul Roh, Virat Shejwalkar, Amir Houmansadr
   url: https://openreview.net/forum?id=yGa8CYT8kS
+  outstanding_award: false
+  spotlight: false
 - title: 'CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive
     Program Synthesis'
   authors: Anjiang Wei, Tarun Suresh, Jiannan Cao, Naveen Kannan, Yuheng Wu, Kai Yan,
     Thiago S. F. X. Teixeira, Ke Wang, Alex Aiken
   url: https://openreview.net/forum?id=Q5pVZCrrKr
+  outstanding_award: false
+  spotlight: false
 - title: 'Speculative Thinking: Enhancing Small-Model Reasoning with Large Model Guidance
     at Inference Time'
   authors: Van Yang, Xiang Yue, Vipin Chaudhary, Xiaotian Han
   url: https://openreview.net/forum?id=4Ns18bSoHo
+  outstanding_award: false
+  spotlight: false
 - title: Rethinking Associative Memory Mechanism in Induction Head
   authors: Shuo Wang, Issei Sato
   url: https://openreview.net/forum?id=8N5H8DgfPw
+  outstanding_award: false
+  spotlight: false
 - title: 'Epistemic Alignment: A Mediating Framework for User-LLM Knowledge Delivery'
   authors: Nicholas Clark, Hua Shen, Bill Howe, Tanu Mitra
   url: https://openreview.net/forum?id=Orvjm9UqH2
+  outstanding_award: false
+  spotlight: false
 - title: 'REM: Evaluating LLM Embodied Spatial Reasoning through Multi-Frame Trajectories'
   authors: Jacob Thompson, Emiliano Garcia-Lopez, Yonatan Bisk
   url: https://openreview.net/forum?id=qbWpEufkqk
+  outstanding_award: false
+  spotlight: false
 - title: Post-training for Efficient Communication via Convention Formation
   authors: Yilun Hua, Evan Wang, Yoav Artzi
   url: https://openreview.net/forum?id=jRGGmbhX2s
+  outstanding_award: false
+  spotlight: false
 - title: 'Readability ≠ Learnability: Rethinking the Role of Simplicity in Training
     Small Language Models'
   authors: Ivan Lee, Taylor Berg-Kirkpatrick
   url: https://openreview.net/forum?id=AFMGbq39bQ
+  outstanding_award: false
+  spotlight: true
 - title: 'Verifying the Verifiers: Unveiling Pitfalls and Potentials in Fact Verifiers'
   authors: Wooseok Seo, Seungju Han, Jaehun Jung, Benjamin Newman, Seungwon Lim, Seungbeen
     Lee, Ximing Lu, Yejin Choi, Youngjae Yu
   url: https://openreview.net/forum?id=3NjnRo6apU
+  outstanding_award: false
+  spotlight: false
 - title: Adaptive Computation Pruning for the Forgetting Transformer
   authors: Zhixuan Lin, Johan Obando-Ceron, Xu Owen He, Aaron Courville
   url: https://openreview.net/forum?id=xNj14CY5S1
+  outstanding_award: false
+  spotlight: false
 - title: What is the Visual Cognition Gap between Humans and Multimodal LLMs?
   authors: Xu Cao, Yifan Shen, Bolin Lai, Wenqian Ye, Yunsheng Ma, Joerg Heintz, Jintai
     Chen, Meihuan Huang, Jianguo Cao, Aidong Zhang, James Matthew Rehg
   url: https://openreview.net/forum?id=78lTuD6wiO
+  outstanding_award: false
+  spotlight: false
 - title: 'Cutting the Root of Hallucination: Structural Trimming for Vulnerability
     Mitigation in Code LLMs'
   authors: Yage Zhang
   url: https://openreview.net/forum?id=dU4Y2sNfJ2
+  outstanding_award: false
+  spotlight: false
 - title: LM Agents May Fail to Act on Their Own Risk Knowledge
   authors: Yuzhi Tang, Tianxiao Li, Elizabeth Li, Chris J. Maddison, Honghua Dong,
     Yangjun Ruan
   url: https://openreview.net/forum?id=OeYdS51k8F
+  outstanding_award: false
+  spotlight: false
 - title: 'Self-Rewarding PPO: Aligning Large Language Models with Demonstrations Only'
   authors: Qingru Zhang, Liang Qiu, Ilgee Hong, Zhenghao Xu, Tianyi Liu, Shiyang Li,
     Rongzhi Zhang, Zheng Li, Lihong Li, Bing Yin, Chao Zhang, Jianshu Chen, Haoming
     Jiang, Tuo Zhao
   url: https://openreview.net/forum?id=cOlHP5E3qF
+  outstanding_award: false
+  spotlight: false
 - title: Multilingual Contextualization of Large Language Models for Document-Level
     Machine Translation
   authors: Miguel Moura Ramos, Patrick Fernandes, Sweta Agrawal, Andre Martins
   url: https://openreview.net/forum?id=Ah0U1r5Ldq
+  outstanding_award: false
+  spotlight: false
 - title: 'SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open
     Base Models in the Wild'
   authors: Weihao Zeng, Yuzhen Huang, Qian Liu, Wei Liu, Keqing He, Zejun MA, Junxian
     He
   url: https://openreview.net/forum?id=vSMCBUgrQj
+  outstanding_award: false
+  spotlight: false
 - title: 'EvalAgents: Discovering Implicit Evaluation Criteria from the Web'
   authors: Manya Wadhwa, Zayne Rea Sprague, Chaitanya Malaviya, Philippe Laban, Junyi
     Jessy Li, Greg Durrett
   url: https://openreview.net/forum?id=erGpkHCybv
+  outstanding_award: false
+  spotlight: false
 - title: 'SAT: Dynamic Spatial Aptitude Training for Multimodal Language Models'
   authors: Arijit Ray, Jiafei Duan, Ellis L Brown II, Reuben Tan, Dina Bashkirova,
     Rose Hendrix, Kiana Ehsani, Aniruddha Kembhavi, Bryan A. Plummer, Ranjay Krishna,
     Kuo-Hao Zeng, Kate Saenko
   url: https://openreview.net/forum?id=DW8U8ZWa1U
+  outstanding_award: false
+  spotlight: false
 - title: 'PredGen: Accelerated Inference of Large Language Models through Input-Time
     Speculation for Real-Time Speech Interaction'
   authors: Shufan Li, Aditya Grover
   url: https://openreview.net/forum?id=2Kl8Ztw6wk
+  outstanding_award: false
+  spotlight: false
 - title: Adversarial Training of Reward Models
   authors: Alexander Bukharin, Haifeng Qian, Shengyang Sun, Adithya Renduchintala,
     Soumye Singhal, Zhilin Wang, Oleksii Kuchaiev, Olivier Delalleau, Tuo Zhao
   url: https://openreview.net/forum?id=H6Ae8Po6fS
+  outstanding_award: false
+  spotlight: false
 - title: Limitations of refinement methods for weak to strong generalization
   authors: Seamus Somerstep, Yaacov Ritov, Mikhail Yurochkin, Subha Maity, Yuekai
     Sun
   url: https://openreview.net/forum?id=OKvSnV5Ar7
+  outstanding_award: false
+  spotlight: false
 - title: 'CRABS: A syntactic-semantic pincer strategy for bounding LLM interpretation
     of Python notebooks'
   authors: Meng Li, Timothy M. McPhillips, Dingmin Wang, Shin-Rong Tsai, Bertram Ludäscher
   url: https://openreview.net/forum?id=CB3CeOWo0J
+  outstanding_award: false
+  spotlight: false
 - title: 'Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in
     Measuring Personality Design in LLM-based Chatbots'
   authors: Huiqi Zou, Pengda Wang, Zihan Yan, Tianjun Sun, Ziang Xiao
   url: https://openreview.net/forum?id=xqIwK9mNkj
+  outstanding_award: false
+  spotlight: false
 - title: 'News is More than a Collection of Facts: Moral Frame Preserving News Summarization'
   authors: Enrico Liscio, Michela Lorandi, Pradeep K. Murukannaiah
   url: https://openreview.net/forum?id=uzauWUW9u3
+  outstanding_award: false
+  spotlight: false
 - title: 'VisualTrap: A Stealthy Backdoor Attack on GUI Agents via Visual Grounding
     Manipulation'
   authors: Ziang Ye, Yang Zhang, Wentao Shi, Xiaoyu You, Fuli Feng, Tat-Seng Chua
   url: https://openreview.net/forum?id=7HPuAkgdVm
+  outstanding_award: false
+  spotlight: false
 - title: Transformers are Efficient Compilers, Provably
   authors: Xiyu Zhai, Runlong Zhou, Liao Zhang, Simon Shaolei Du
   url: https://openreview.net/forum?id=CaWkEqUjxs
+  outstanding_award: false
+  spotlight: false
 - title: 'The Devil is in the EOS: Sequence Training for Detailed Image Captioning'
   authors: Abdelrahman Mohamed, Yova Kementchedjhieva
   url: https://openreview.net/forum?id=oSub7DiyjL
+  outstanding_award: false
+  spotlight: false
 - title: Evaluating LLMs on Chinese Idiom Translation
   authors: Cai Yang, Yao Dou, David Heineman, Xiaofeng Wu, Wei Xu
   url: https://openreview.net/forum?id=dkE5rveDuh
+  outstanding_award: false
+  spotlight: false
 - title: Towards User-level Private Reinforcement Learning with Human Feedback
   authors: Jiaming Zhang, Mingxi Lei, Meng Ding, Mengdi Li, Zihang Xiang, Difei Xu,
     Jinhui Xu, Di Wang
   url: https://openreview.net/forum?id=tfriX0r2Sg
+  outstanding_award: false
+  spotlight: false
 - title: 'How Multimodal LLMs Solve Image Tasks: A Lens on Visual Grounding, Task
     Reasoning, and Answer Decoding'
   authors: Zhuoran Yu, Yong Jae Lee
   url: https://openreview.net/forum?id=kjNJYWvfPA
+  outstanding_award: false
+  spotlight: false
 - title: 'CALLME: Call Graph Augmentation with Large Language Models for Javascript'
   authors: Michael Wang, Kexin Pei, Armando Solar-Lezama
   url: https://openreview.net/forum?id=xZi2rMUcAO
+  outstanding_award: false
+  spotlight: false
 - title: 'VideoSAVi: Self-Aligned Video Language Models without Human Supervision'
   authors: Yogesh Kulkarni, Pooyan Fazli
   url: https://openreview.net/forum?id=ybcZEWaM7U
+  outstanding_award: false
+  spotlight: false
 - title: 'AutoScale: Scale-Aware Data Mixing for Pre-Training LLMs'
   authors: Feiyang Kang, Yifan Sun, Bingbing Wen, Si Chen, Dawn Song, Rafid Mahmood,
     Ruoxi Jia
   url: https://openreview.net/forum?id=rujwIvjooA
+  outstanding_award: false
+  spotlight: false
 - title: Correctness-Guaranteed Code Generation via Constrained Decoding
   authors: Lingxiao Li, salar rahili, Yiwei Zhao
   url: https://openreview.net/forum?id=CYiXNIQegF
+  outstanding_award: false
+  spotlight: true
 - title: 'PolyGuard: A Multilingual Safety Moderation Tool for 17 Languages'
   authors: Priyanshu Kumar, Devansh Jain, Akhila Yerukola, Liwei Jiang, Himanshu Beniwal,
     Thomas Hartvigsen, Maarten Sap
   url: https://openreview.net/forum?id=wbAWKXNeQ4
+  outstanding_award: false
+  spotlight: false
 - title: 'Traceable and Explainable Multimodal Large Language Models: An Information-Theoretic
     View'
   authors: Zihan Huang, Junda Wu, Rohan Surana, Raghav Jain, Tong Yu, Raghavendra
     Addanki, David Arbour, Sungchul Kim, Julian McAuley
   url: https://openreview.net/forum?id=pQm66IPmeE
+  outstanding_award: false
+  spotlight: false
 - title: 'LawFlow: Collecting and Simulating Lawyers’ Thought Processes on Business
     Formation Case Studies'
   authors: Debarati Das, Khanh Chi Le, Ritik Sachin Parkar, Karin De Langis, Brendan
     Madson, Chad M. Berryman, Robin M Willis, Daniel H Moses, Brett McDonnell, Daniel
     Schwarcz, Dongyeop Kang
   url: https://openreview.net/forum?id=MsgdEkcLRz
+  outstanding_award: false
+  spotlight: false
 - title: Adaptive Layer-skipping in Pre-trained LLMs
   authors: Xuan Luo, Weizhi Wang, Xifeng Yan
   url: https://openreview.net/forum?id=Gu0XSax2YS
+  outstanding_award: false
+  spotlight: true
 - title: 'NoveltyBench: Evaluating Creativity and Diversity in Language Models'
   authors: Yiming Zhang, Harshita Diddee, Susan Holm, Hanchen Liu, Xinyue Liu, Vinay
     Samuel, Barry Wang, Daphne Ippolito
   url: https://openreview.net/forum?id=XZm1ekzERf
+  outstanding_award: false
+  spotlight: false
 - title: 'Rhapsody: A Dataset for Highlight Detection in Podcasts'
   authors: Younghan Park, Anuj Diwan, David Harwath, Eunsol Choi
   url: https://openreview.net/forum?id=oKdVFxngy1
+  outstanding_award: false
+  spotlight: false
 - title: 'Spike No More: Stabilizing the Pre-training of Large Language Models'
   authors: Sho Takase, Shun Kiyono, Sosuke Kobayashi, Jun Suzuki
   url: https://openreview.net/forum?id=52YBEzcI0l
+  outstanding_award: false
+  spotlight: false
 - title: LLM-based Multi-Agents System Attack via Continuous Optimization with Discrete
     Efficient Search
   authors: Weichen Yu, Kai Hu, Tianyu Pang, Chao Du, Min Lin, Matt Fredrikson
   url: https://openreview.net/forum?id=ED5diyzc1C
+  outstanding_award: false
+  spotlight: false
 - title: Investigating Intersectional Bias in Large Language Models using Confidence
     Disparities in Coreference Resolution
   authors: Falaah Arif Khan, Nivedha Sivakumar, Yinong Oliver Wang, Katherine Metcalf,
     Cezanne Camacho, Barry-John Theobald, Luca Zappella, Nicholas Apostoloff
   url: https://openreview.net/forum?id=zOw2it5Ni6
+  outstanding_award: false
+  spotlight: false
 - title: How do language models learn facts? Dynamics, curricula and hallucinations
   authors: Nicolas Zucchet, Jörg Bornschein, Stephanie C.Y. Chan, Andrew Kyle Lampinen,
     Razvan Pascanu, Soham De
   url: https://openreview.net/forum?id=vBcGnragkr
+  outstanding_award: false
+  spotlight: true
 - title: Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning
   authors: Chengqi Lyu, Songyang Gao, Yuzhe Gu, Wenwei Zhang, Jianfei Gao, Kuikun
     Liu, Ziyi Wang, Shuaibin Li, Qian Zhao, Haian Huang, Weihan Cao, Jiangning Liu,
     Hongwei Liu, Junnan Liu, Songyang Zhang, Dahua Lin, Kai Chen
   url: https://openreview.net/forum?id=hLg2rzBJR2
+  outstanding_award: false
+  spotlight: false
 - title: Training Plug-and-Play Knowledge Modules with Deep Context Distillation
   authors: Lucas Caccia, Alan Ansell, Edoardo Ponti, Ivan Vulić, Alessandro Sordoni
   url: https://openreview.net/forum?id=ghyyHZYORi
+  outstanding_award: false
+  spotlight: false
 - title: 'SUV: Scalable Large Language Model Copyright Compliance with Regularized
     Selective Unlearning'
   authors: Tianyang Xu, Xiaoze Liu, Feijie Wu, Xiaoqian Wang, Jing Gao
   url: https://openreview.net/forum?id=2YdSsi0bxK
+  outstanding_award: false
+  spotlight: false
 - title: 'M²IV: Towards Efficient and Fine-grained Multimodal In-Context Learning
     via Representation Engineering'
   authors: Yanshu Li, Yi Cao, Hongyang He, Qisen Cheng, Xiang Fu, Xi Xiao, Tianyang
     Wang, Ruixiang Tang
   url: https://openreview.net/forum?id=9ffYcEiNw9
+  outstanding_award: false
+  spotlight: false
 - title: Learning to Generate Unit Tests for Automated Debugging
   authors: Archiki Prasad, Elias Stengel-Eskin, Justin Chen, Zaid Khan, Mohit Bansal
   url: https://openreview.net/forum?id=yeVBHPLXxi
+  outstanding_award: false
+  spotlight: false
 - title: 'MixAssist: An Audio-Language Dataset for Co-Creative AI Assistance in Music
     Mixing'
   authors: Michael Paul Clemens, Ana Marasovic
   url: https://openreview.net/forum?id=5mICyyD4OF
+  outstanding_award: false
+  spotlight: true
 - title: 'SEAL: Steerable Reasoning Calibration of Large Language Models for Free'
   authors: Runjin Chen, Zhenyu Zhang, Junyuan Hong, Souvik Kundu, Zhangyang Wang
   url: https://openreview.net/forum?id=klPszYDIRT
+  outstanding_award: false
+  spotlight: false
 - title: CASCADE Your Datasets for Cross-Mode Knowledge Retrieval of Language Models
   authors: Runlong Zhou, Yi Zhang
   url: https://openreview.net/forum?id=EJGlOybbDB
+  outstanding_award: false
+  spotlight: false
 - title: Can A Society of Generative Agents Simulate Human Behavior and Inform Public
     Health Policy? A Case Study on Vaccine Hesitancy
   authors: Abe Bohan Hou, Hongru Du, Yichen Wang, Jingyu Zhang, Zixiao Wang, Paul
     Pu Liang, Daniel Khashabi, Lauren M Gardner, Tianxing He
   url: https://openreview.net/forum?id=zSbecER9il
+  outstanding_award: false
+  spotlight: false
 - title: Streaming DiLoCo with overlapping communication
   authors: Arthur Douillard, Yani Donchev, J Keith Rush, Satyen Kale, Zachary Charles,
     Gabriel Teston, Zachary Garrett, Jiajun Shen, Ross McIlroy, David Lacey, Alexandre
     Rame, Arthur Szlam, MarcAurelio Ranzato, Paul R Barham
   url: https://openreview.net/forum?id=yYk3zK0X6Q
+  outstanding_award: false
+  spotlight: false
 - title: AI-Slop to AI-Polish? Aligning Language Models through Edit-Based Writing
     Rewards and Test-time computation
   authors: Tuhin Chakrabarty, Philippe Laban, Chien-Sheng Wu
   url: https://openreview.net/forum?id=jeDYcjuZIV
+  outstanding_award: false
+  spotlight: false
 - title: Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts
   authors: Samin Yeasar Arnob, Zhan Su, Minseon Kim, Oleksiy Ostapenko, Riyasat Ohib,
     Esra'a Saleh, Doina Precup, Lucas Caccia, Alessandro Sordoni
   url: https://openreview.net/forum?id=te7UC87Zbw
+  outstanding_award: false
+  spotlight: false
 - title: 'Hell or High Water: Evaluating Agentic Recovery from External Failures'
   authors: Andrew Wang, Sophia Hager, Adi Asija, Daniel Khashabi, Nicholas Andrews
   url: https://openreview.net/forum?id=Zk224WPT42
+  outstanding_award: false
+  spotlight: false
 - title: On the Effectiveness and Generalization of Race Representations for Debiasing
     High-Stakes Decisions
   authors: Dang Nguyen, Chenhao Tan
   url: https://openreview.net/forum?id=DDtwtoAMjA
+  outstanding_award: false
+  spotlight: false
 - title: Supposedly Equivalent Facts That Aren’t? Entity Frequency in Pre-training
     Induces Asymmetry in LLMs
   authors: Yuan He, Bailan He, Zifeng Ding, Alisia Maria Lupidi, Yuqicheng Zhu, Shuo
     Chen, Caiqi Zhang, Jiaoyan Chen, Yunpu Ma, Volker Tresp, Ian Horrocks
   url: https://openreview.net/forum?id=sX4OoLKSW2
+  outstanding_award: false
+  spotlight: false
 - title: 'HyperINF: Unleashing the HyperPower of Schulz''s Method for Data Influence
     Estimation'
   authors: Xinyu Zhou, Simin Fan, Martin Jaggi
   url: https://openreview.net/forum?id=QByEdZMJdx
+  outstanding_award: false
+  spotlight: false
 - title: Shared Global and Local Geometry of Language Model Embeddings
   authors: Andrew Lee, Melanie Weber, Fernanda Viégas, Martin Wattenberg
   url: https://openreview.net/forum?id=aJDykpJAYF
+  outstanding_award: false
+  spotlight: true
 - title: 'EvalTree: Profiling Language Model Weaknesses via Hierarchical Capability
     Trees'
   authors: Zhiyuan Zeng, Yizhong Wang, Hannaneh Hajishirzi, Pang Wei Koh
   url: https://openreview.net/forum?id=aV2hQN9vkp
+  outstanding_award: false
+  spotlight: false
 - title: Cascade Reward Sampling for Efficient Decoding-Time Alignment
   authors: Bolian Li, Yifan Wang, Anamika Lochab, Ananth Grama, Ruqi Zhang
   url: https://openreview.net/forum?id=QBmxLlmRYG
+  outstanding_award: false
+  spotlight: false
 - title: 'Task-Circuit Quantization: Leveraging Knowledge Localization and Interpretability
     for Compression'
   authors: Hanqi Xiao, Yi-Lin Sung, Elias Stengel-Eskin, Mohit Bansal
   url: https://openreview.net/forum?id=a201nfn3xX
+  outstanding_award: false
+  spotlight: false
 - title: 'Recycling the Web: A Method to Enhance Pre-training Data Quality and Quantity
     for Language Models'
   authors: Thao Nguyen, Yang Li, Olga Golovneva, Luke Zettlemoyer, Sewoong Oh, Ludwig
     Schmidt, Xian Li
   url: https://openreview.net/forum?id=lkjhBdz3rn
+  outstanding_award: false
+  spotlight: false
 - title: Energy-Based Reward Models for Robust Language Model Alignment
   authors: Anamika Lochab, Ruqi Zhang
   url: https://openreview.net/forum?id=x6evCULIOQ
+  outstanding_award: false
+  spotlight: false
 - title: 'Values in the Wild: Discovering and Mapping Values in Real-World Language
     Model Interactions'
   authors: Saffron Huang, Esin DURMUS, Kunal Handa, Miles McCain, Alex Tamkin, Michael
     Stern, Jerry Hong, Deep Ganguli
   url: https://openreview.net/forum?id=zJHZJClG1Z
+  outstanding_award: false
+  spotlight: false
 - title: Backdoor Attacks on Dense Retrieval via Public and Unintentional Triggers
   authors: Quanyu Long, Yue Deng, Leilei Gan, Wenya Wang, Sinno Jialin Pan
   url: https://openreview.net/forum?id=RsnxggqW4l
+  outstanding_award: false
+  spotlight: false
 - title: 'MegaMath: Pushing the Limits of Open Math Corpora'
   authors: Fan Zhou, Zengzhi Wang, Nikhil Ranjan, Zhoujun Cheng, Liping Tang, Guowei
     He, Zhengzhong Liu, Eric P. Xing
   url: https://openreview.net/forum?id=SHB0sLrZrh
+  outstanding_award: false
+  spotlight: false
 - title: 'SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?'
   authors: Jianzhu Yao, Kevin Wang, Ryan Hsieh, Haisu Zhou, Tianqing Zou, Zerui Cheng,
     Zhangyang Wang, Pramod Viswanath
   url: https://openreview.net/forum?id=mgsS73kvOA
+  outstanding_award: false
+  spotlight: false
 - title: 'Plancraft: an evaluation dataset for planning with LLM agents'
   authors: Gautier Dagan, Frank Keller, Alex Lascarides
   url: https://openreview.net/forum?id=nSV8Depcpx
+  outstanding_award: false
+  spotlight: false
 - title: Exploring Large Language Model Agents for Piloting Social Experiments
   authors: Jinghua Piao, Yuwei Yan, Nian Li, Jun Zhang, Yong Li
   url: https://openreview.net/forum?id=I95XCwHdSE
+  outstanding_award: false
+  spotlight: false
 - title: 'EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline'
   authors: Peter Baile Chen, Tomer Wolfson, Mike Cafarella, Dan Roth
   url: https://openreview.net/forum?id=wyYL5Jov6e
+  outstanding_award: false
+  spotlight: false
 - title: Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs
   authors: Dongyang Fan, Vinko Sabolčec, Matin Ansaripour, Ayush Kumar Tarun, Martin
     Jaggi, Antoine Bosselut, Imanol Schlag
   url: https://openreview.net/forum?id=a6QsOjr3wo
+  outstanding_award: false
+  spotlight: true
 - title: 'Resona: Improving Context Copying in Linear Recurrence Models with Retrieval'
   authors: Xinyu Wang, Linrui Ma, Jerry Huang, Peng Lu, Prasanna Parthasarathi, Xiao-Wen
     Chang, Boxing Chen, Yufei Cui
   url: https://openreview.net/forum?id=4mxQmpnawk
+  outstanding_award: false
+  spotlight: false
 - title: A Survey on Personalized and Pluralistic Preference Alignment in Large Language
     Models
   authors: Zhouhang Xie, Junda Wu, Yiran Jenny Shen, Raghav Jain, Yu Xia, Xintong
     Li, Aaron Chang, Ryan A. Rossi, Tong Yu, Sachin Kumar, Bodhisattwa Prasad Majumder,
     Jingbo Shang, Prithviraj Ammanabrolu, Julian McAuley
   url: https://openreview.net/forum?id=lSWOMjonL7
+  outstanding_award: false
+  spotlight: false
 - title: 'Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven Approach
     to QA Benchmarks'
   authors: Linbo Cao, Jinman Zhao
   url: https://openreview.net/forum?id=Pdyh3USc2A
+  outstanding_award: false
+  spotlight: false
 - title: Inducing Programmatic Skills for Agentic Tasks
   authors: Zora Zhiruo Wang, Apurva Gandhi, Graham Neubig, Daniel Fried
   url: https://openreview.net/forum?id=lsAY6fWsog
+  outstanding_award: false
+  spotlight: false
 - title: 'SentenceKV: Efficient LLM Inference via Sentence-Level Semantic KV Caching'
   authors: Yuxuan Zhu, Ali Falahati, David H. Yang, Mohammad Mohammadi Amiri
   url: https://openreview.net/forum?id=HyPeYU9JR6
+  outstanding_award: false
+  spotlight: false
 - title: 'FineWeb2: One Pipeline to Scale Them All — Adapting Pre-Training Data Processing
     to Every Language'
   authors: Guilherme Penedo, Hynek Kydlíček, Vinko Sabolčec, Bettina Messmer, Negar
     Foroutan, Amir Hossein Kargaran, Colin Raffel, Martin Jaggi, Leandro Von Werra,
     Thomas Wolf
   url: https://openreview.net/forum?id=jnRBe6zatP
+  outstanding_award: false
+  spotlight: true
 - title: 'MuSeD: A Multimodal Spanish Dataset for Sexism Detection in Social Media
     Videos'
   authors: Laura De Grazia, Pol Pastells, Mauro Vázquez Chas, Desmond Elliott, Danae
     Sanchez Villegas, Mireia Farrús, Mariona Taulé Delor
   url: https://openreview.net/forum?id=eSAv7GKVFt
+  outstanding_award: false
+  spotlight: false
 - title: 'AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories'
   authors: Xing Han Lù, Amirhossein Kazemnejad, Nicholas Meade, Arkil Patel, Dongchan
     Shin, Alejandra Zambrano, Karolina Stanczak, Peter Shaw, Christopher Pal, Siva
     Reddy
   url: https://openreview.net/forum?id=fQcUZMPIvu
+  outstanding_award: false
+  spotlight: false
 - title: 'UTF-8 Plumbing: Byte-level Tokenizers Unavoidably Enable LLMs to Generate
     Ill-formed UTF-8'
   authors: Preston Firestone, Shubham Ugare, Gagandeep Singh, Sasa Misailovic
   url: https://openreview.net/forum?id=8ExXncFpf6
+  outstanding_award: false
+  spotlight: false
 - title: 'RADLADS: Rapid Attention Distillation to Linear Attention Decoders at Scale'
   authors: Daniel Goldstein, Eric Alcaide, Janna Lu, Eugene Cheah
   url: https://openreview.net/forum?id=38GehGepDd
+  outstanding_award: false
+  spotlight: false
 - title: 'Refusal Tokens: A Simple Way to Calibrate Refusals in Large Language Models'
   authors: Neel Jain, Aditya Shrivastava, Chenyang Zhu, Daben Liu, Alfy Samuel, Ashwinee
     Panda, Anoop Kumar, Micah Goldblum, Tom Goldstein
   url: https://openreview.net/forum?id=Pbs4i3FgbD
+  outstanding_award: false
+  spotlight: false
 - title: 'Don’t lie to your friends: Learning what you know from collaborative self-play'
   authors: Jacob Eisenstein, Reza Aghajani, Adam Fisch, Dheeru Dua, Fantine Eri Huot,
     Mirella Lapata, Vicky Zayats, Jonathan Berant
   url: https://openreview.net/forum?id=2vDJiGUfhV
+  outstanding_award: false
+  spotlight: true
 - title: 'Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and
     Personalized Responses at Scale'
   authors: Bowen Jiang, Zhuoqun Hao, Young Min Cho, Bryan Li, Yuan Yuan, Sihao Chen,
     Lyle Ungar, Camillo Jose Taylor, Dan Roth
   url: https://openreview.net/forum?id=6ox8XZGOqP
+  outstanding_award: false
+  spotlight: false
 - title: Improving Fisher Information Estimation and Efficiency for LoRA-based LLM
     Unlearning
   authors: Yejin Kim, Eunwon Kim, Buru Chang, Junsuk Choe
   url: https://openreview.net/forum?id=mTJW8Y1nd8
+  outstanding_award: false
+  spotlight: false
 - title: 'MS-SSM: A Multi-Scale State Space Model for Efficient Sequence Modeling'
   authors: Mahdi Karami, Ali Behrouz, Peilin Zhong, Razvan Pascanu, Vahab Mirrokni
   url: https://openreview.net/forum?id=cCYWeCzAv0
+  outstanding_award: false
+  spotlight: false
 - title: Layers at Similar Depths Generate Similar Activations Across LLM Architectures
   authors: Christopher Wolfram, Aaron Schein
   url: https://openreview.net/forum?id=8wKec6faAT
+  outstanding_award: false
+  spotlight: false
 - title: Context-Adaptive Multi-Prompt Embedding with Large Language Models for Vision-Language
     Alignment
   authors: Dahun Kim, Anelia Angelova
   url: https://openreview.net/forum?id=29jP6OsrIQ
+  outstanding_award: false
+  spotlight: false
 - title: Evaluating the Diversity and Quality of LLM Generated Content
   authors: Alexander Shypula, Shuo Li, Botong Zhang, Vishakh Padmakumar, Kayo Yin,
     Osbert Bastani
   url: https://openreview.net/forum?id=O7bF6nlSOD
+  outstanding_award: false
+  spotlight: false
 - title: 'CoLa: Learning to Interactively Collaborate with Large Language Models'
   authors: Abhishek Sharma, Dan Goldwasser
   url: https://openreview.net/forum?id=pm9ykfhknK
+  outstanding_award: false
+  spotlight: false
 - title: Detecting and Pruning Prominent but Detrimental Neurons in Large Language
     Models
   authors: Ameen Ali Ali, Shahar Katz, Lior Wolf, Ivan Titov
   url: https://openreview.net/forum?id=cRE1XrHf1h
+  outstanding_award: false
+  spotlight: false
 - title: Visual Representations inside the Language Model
   authors: Benlin Liu, Amita Kamath, Madeleine Grunde-McLaughlin, Winson Han, Ranjay
     Krishna
   url: https://openreview.net/forum?id=99e72TkWTi
+  outstanding_award: false
+  spotlight: false
 - title: 'LV-Eval: A Balanced Long-Context Benchmark with 5 Length Levels Up to 256K'
   authors: Tao Yuan, Xuefei Ning, Dong Zhou, Zhijie Yang, Shiyao Li, Minghui Zhuang,
     Zheyue Tan, Zhuyu Yao, Dahua Lin, Boxun Li, Guohao Dai, Shengen Yan, Yu Wang
   url: https://openreview.net/forum?id=r0AXK5Cnhr
+  outstanding_award: false
+  spotlight: false
 - title: 'SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths'
   authors: Kaixuan Huang, Xudong Guo, Mengdi Wang
   url: https://openreview.net/forum?id=Y131N9fUbU
+  outstanding_award: false
+  spotlight: false
 - title: 'Task Vectors in In-Context Learning: Emergence, Formation, and Benefits'
   authors: Liu Yang, Ziqian Lin, Kangwook Lee, Dimitris Papailiopoulos, Robert D Nowak
   url: https://openreview.net/forum?id=lODGn1Rp5t
+  outstanding_award: false
+  spotlight: false
 - title: 'SlowFast-LLaVA-1.5: A Family of Token-Efficient Video Large Language Models
     for Long-Form Video Understanding'
   authors: Mingze Xu, Mingfei Gao, Shiyu Li, Jiasen Lu, Zhe Gan, Zhengfeng Lai, Meng
     Cao, Kai Kang, Yinfei Yang, Afshin Dehghan
   url: https://openreview.net/forum?id=L7jS3peM3w
+  outstanding_award: false
+  spotlight: false
 - title: 'Hawkeye: Model Collaboration for Efficient Reasoning'
   authors: Jianshu She, Zhuohao Li, Zhemin Huang, Qi Li, Peiran Xu, Haonan Li, Qirong
     Ho
   url: https://openreview.net/forum?id=bdCWK4NkK7
+  outstanding_award: false
+  spotlight: false
 - title: 'MapIQ: Evaluating Multimodal Large Language Models for Map Question Answering'
   authors: Varun Srivastava, Fan Lei, Srija Mukhopadhyay, Vivek Gupta, Ross Maciejewski
   url: https://openreview.net/forum?id=VSwRuGtB5n
+  outstanding_award: false
+  spotlight: false
 - title: 'SmolLM2: When Smol Goes Big — Data-Centric Training of a Fully Open Small
     Language Model'
   authors: Loubna Ben allal, Anton Lozhkov, Elie Bakouch, Gabriel Martin Blazquez,
@@ -602,367 +906,549 @@
     Ben Burtenshaw, Clémentine Fourrier, Haojun Zhao, Hugo Larcher, Mathieu Morlon,
     Cyril Zakka, Colin Raffel, Leandro Von Werra, Thomas Wolf
   url: https://openreview.net/forum?id=3JiCl2A14H
+  outstanding_award: false
+  spotlight: true
 - title: 'Partial Perspectives: How LLMs Handle Logically Inconsistent Knowledge in
     Reasoning Tasks'
   authors: Zichao Li, Ines Arous, Jackie CK Cheung
   url: https://openreview.net/forum?id=9pzNFfgtyk
+  outstanding_award: false
+  spotlight: false
 - title: 'DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding'
   authors: Hossein Entezari Zarch, Lei Gao, Chaoyi Jiang, Murali Annavaram
   url: https://openreview.net/forum?id=cAFxSuXQvT
+  outstanding_award: false
+  spotlight: false
 - title: 'NoWag: A Unified Framework for Shape Preserving Com- pression of Large Language
     Models'
   authors: Lawrence Liu, Inesh Chakrabarti, Yixiao Li, Mengdi Wang, Tuo Zhao, Lin
     F. Yang
   url: https://openreview.net/forum?id=EfTuzTijDo
+  outstanding_award: false
+  spotlight: false
 - title: 'The Zero Body Problem: Probing LLM Use of Sensory Language'
   authors: Rebecca M. M. Hicke, Sil Hamilton, David Mimno
   url: https://openreview.net/forum?id=vv1ZyQF8LD
+  outstanding_award: false
+  spotlight: false
 - title: 'Beyond Blanket Masking: Examining Granularity for Privacy Protection in
     Images Captured by Blind and Low Vision Users'
   authors: Jeffri Murrugarra-Llerena, Haoran Niu, K. Suzanne Barber, Hal Daumé III,
     Yang Trista Cao, Paola Cascante-Bonilla
   url: https://openreview.net/forum?id=hLjoekkPiJ
+  outstanding_award: false
+  spotlight: false
 - title: Scaling Analysis of Interleaved Speech-Text Language Models
   authors: Gallil Maimon, Michael Hassid, Amit Roth, Yossi Adi
   url: https://openreview.net/forum?id=IXwgE8hyJs
+  outstanding_award: false
+  spotlight: false
 - title: 'CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images
     and Contextualized Captions'
   authors: Yuchen Huang, Zhiyuan Fan, Zhitao He, Sandeep Polisetty, Wenyan Li, Yi
     R. Fung
   url: https://openreview.net/forum?id=cWVpXWARbt
+  outstanding_award: false
+  spotlight: false
 - title: 'LeakAgent: RL-based Red-teaming Agent for LLM Privacy Leakage'
   authors: Yuzhou Nie, Zhun Wang, Ye Yu, Xian Wu, Xuandong Zhao, Nathaniel D. Bastian,
     Wenbo Guo, Dawn Song
   url: https://openreview.net/forum?id=WIfns41MAb
+  outstanding_award: false
+  spotlight: false
 - title: 'Zero-shot Benchmarking: A Framework for Flexible and Scalable Automatic
     Evaluation of Language Models'
   authors: José Pombal, Nuno M Guerreiro, Ricardo Rei, Andre Martins
   url: https://openreview.net/forum?id=WARZwyDf17
+  outstanding_award: false
+  spotlight: false
 - title: One-shot Optimized Steering Vectors Mediate Safety-relevant Behaviors in
     LLMs
   authors: Jacob Dunefsky, Arman Cohan
   url: https://openreview.net/forum?id=teW4nIZ1gy
+  outstanding_award: false
+  spotlight: false
 - title: LLM Unlearning Without an Expert Curated Dataset
   authors: Xiaoyuan Zhu, Muru Zhang, Ollie Liu, Robin Jia, Willie Neiswanger
   url: https://openreview.net/forum?id=m4F3kQCfGX
+  outstanding_award: false
+  spotlight: false
 - title: 'ADAPT: Actively Discovering and Adapting to Preferences for any Task'
   authors: Maithili Patel, Xavier Puig, Ruta Desai, Roozbeh Mottaghi, Sonia Chernova,
     Joanne Truong, Akshara Rai
   url: https://openreview.net/forum?id=Z8vtD1egtI
+  outstanding_award: false
+  spotlight: false
 - title: Sharpe Ratio-Guided Active Learning for Preference Optimization in RLHF
   authors: Syrine Belakaria, Joshua Kazdan, Charles Marx, Chris Cundy, Willie Neiswanger,
     Sanmi Koyejo, Barbara Engelhardt, Stefano Ermon
   url: https://openreview.net/forum?id=a6xzTqMUFQ
+  outstanding_award: false
+  spotlight: false
 - title: 'MeMAD: Structured Memory of Debates for Enhanced Multi-Agent Reasoning'
   authors: Shuai Ling, Lizi Liao, Dongmei Jiang, Weili Guan
   url: https://openreview.net/forum?id=zLbmsdyTiN
+  outstanding_award: false
+  spotlight: false
 - title: Resource-efficient Inference with Foundation Model Programs
   authors: Lunyiu Nie, Zhimin Ding, Kevin Yu, Marco Cheung, Chris Jermaine, Swarat
     Chaudhuri
   url: https://openreview.net/forum?id=C5mb473GMY
+  outstanding_award: false
+  spotlight: false
 - title: Have Large Language Models Learned to Reason? A Characterization via 3-SAT
   authors: RISHI HAZRA, Gabriele Venturato, Pedro Zuidberg Dos Martires, Luc De Raedt
   url: https://openreview.net/forum?id=MPTlWIVSMU
+  outstanding_award: false
+  spotlight: false
 - title: Meta-Learning for Speeding Up Large Model Inference in Decentralized Environments
   authors: Yipeng Du, Zihao Wang, Ahmad Farhan, Claudio Angione, Harry Yang, Fielding
     Johnston, James P. Buban, Yue Zhao, Yuzhe Yang
   url: https://openreview.net/forum?id=eLWn2XVMHA
+  outstanding_award: false
+  spotlight: false
 - title: Efficient Construction of Model Family through Progressive Training Using
     Model Expansion
   authors: Kazuki Yano, Sho Takase, Sosuke Kobayashi, Shun Kiyono, Jun Suzuki
   url: https://openreview.net/forum?id=fuBrcTH8NM
+  outstanding_award: false
+  spotlight: false
 - title: Probing then Editing Response Personality of Large Language Models
   authors: Tianjie Ju, Zhenyu Shao, Bowen Wang, Yujia Chen, Zhuosheng Zhang, Hao Fei,
     Mong-Li Lee, Wynne Hsu, Sufeng Duan, Gongshen Liu
   url: https://openreview.net/forum?id=z9SbcYYP0M
+  outstanding_award: false
+  spotlight: false
 - title: Out-of-Distribution Detection using Synthetic Data Generation
   authors: Momin Abbas, Muneeza Azmat, Raya Horesh, Mikhail Yurochkin
   url: https://openreview.net/forum?id=TiRiDMkTmG
+  outstanding_award: false
+  spotlight: false
 - title: Defending LLM Watermarking Against Spoofing Attacks with Contrastive Representation
     Learning
   authors: Li An, Yujian Liu, Yepeng Liu, Yang Zhang, Yuheng Bu, Shiyu Chang
   url: https://openreview.net/forum?id=n5hmtkdl7k
+  outstanding_award: false
+  spotlight: false
 - title: Benchmarking Retrieval-Augmented Generation for Chemistry
   authors: Xianrui Zhong, Bowen Jin, Siru Ouyang, Yanzhen Shen, Qiao Jin, Yin Fang,
     Zhiyong Lu, Jiawei Han
   url: https://openreview.net/forum?id=qG4dL0bart
+  outstanding_award: false
+  spotlight: false
 - title: Scaling Laws of Synthetic Data for Language Model
   authors: Zeyu Qin, Qingxiu Dong, Xingxing Zhang, Li Dong, Xiaolong Huang, Ziyi Yang,
     MAHMOUD KHADEMI, Dongdong Zhang, Hany Hassan Awadalla, Yi R. Fung, Weizhu Chen,
     Minhao Cheng, Furu Wei
   url: https://openreview.net/forum?id=UmUXPXHtdl
+  outstanding_award: false
+  spotlight: false
 - title: Can Large Language Models Integrate Spatial Data? Empirical Insights into
     Reasoning Strengths and Computational Weaknesses
   authors: Bin Han, Robert Wolfe, Anat Caspi, Bill Howe
   url: https://openreview.net/forum?id=QNaHC8njYt
+  outstanding_award: false
+  spotlight: false
 - title: 'Steering the CensorShip: Uncovering Representation Vectors for LLM "Thought''''
     Control'
   authors: Hannah Cyberey, David Evans
   url: https://openreview.net/forum?id=dVqZBagXF3
+  outstanding_award: false
+  spotlight: false
 - title: Law of Vision Representation in MLLMs
   authors: Shijia Yang, Bohan Zhai, Quanzeng You, Jianbo Yuan, Hongxia Yang, Chenfeng
     Xu
   url: https://openreview.net/forum?id=4d69EwfKAr
+  outstanding_award: false
+  spotlight: false
 - title: Can a Crow Hatch a Falcon? Lineage Matters in Predicting Large Language Model
     Performance
   authors: Takuya Tamura, Taro Yano, Masafumi Enomoto, Masafumi Oyamada
   url: https://openreview.net/forum?id=ULYqB2JORB
+  outstanding_award: false
+  spotlight: false
 - title: Effective Length Extrapolation via Dimension-Wise Positional Embeddings Manipulation
   authors: Yi Lu, Wanxu Zhao, Xin Zhou, Chenxin An, Chenglong Wang, Shuo Li, Yuming
     Yang, Jun Zhao, Tao Ji, Tao Gui, Qi Zhang, Xuanjing Huang
   url: https://openreview.net/forum?id=Tahpc3iAnO
+  outstanding_award: false
+  spotlight: false
 - title: 'Weak-for-Strong:  Training Weak Meta-Agent to Harness Strong Executors'
   authors: Fan Nie, Lan Feng, Haotian Ye, Weixin Liang, Pan Lu, Huaxiu Yao, Alexandre
     Alahi, James Zou
   url: https://openreview.net/forum?id=DmhcCRIfvq
+  outstanding_award: false
+  spotlight: false
 - title: 'CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs
     with Controllable Puzzle Generation'
   authors: Jixuan Leng, Chengsong Huang, Langlin Huang, Bill Yuchen Lin, William W.
     Cohen, Haohan Wang, Jiaxin Huang
   url: https://openreview.net/forum?id=bJCQMKwPVq
+  outstanding_award: false
+  spotlight: false
 - title: 'SlimMoE: Structured Compression of Large MoE Models via Expert Slimming
     and Distillation'
   authors: Zichong Li, Chen Liang, Zixuan Zhang, Ilgee Hong, Young Jin Kim, Weizhu
     Chen, Tuo Zhao
   url: https://openreview.net/forum?id=oaCUsn391F
+  outstanding_award: false
+  spotlight: false
 - title: Efficient Process Reward Model Training via Active Learning
   authors: Keyu Duan, Zichen Liu, Xin Mao, Tianyu Pang, Changyu Chen, Qiguang Chen,
     Michael Qizhe Shieh, Longxu Dou
   url: https://openreview.net/forum?id=CJ2FmPmoDE
+  outstanding_award: false
+  spotlight: false
 - title: Learning to Reason for Long-Form Story Generation
   authors: Alexander Gurung, Mirella Lapata
   url: https://openreview.net/forum?id=dr3eg5ehR2
+  outstanding_award: false
+  spotlight: false
 - title: Privately Learning from Graphs with Applications in Fine-tuning Large Language
     Models
   authors: Haoteng Yin, Rongzhe Wei, Eli Chien, Pan Li
   url: https://openreview.net/forum?id=3xErKrVAdG
+  outstanding_award: false
+  spotlight: false
 - title: 'X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents'
   authors: Salman Rahman, Liwei Jiang, James Shiffer, Genglin Liu, Sheriff Issaka,
     Md Rizwan Parvez, Hamid Palangi, Kai-Wei Chang, Yejin Choi, Saadia Gabriel
   url: https://openreview.net/forum?id=gKfj7Jb1kj
+  outstanding_award: false
+  spotlight: false
 - title: Knowledge Graph Retrieval-Augmented Generation via GNN-Guided Prompting
   authors: Haochen Liu, Song Wang, Jundong Li
   url: https://openreview.net/forum?id=R1NWMExESj
+  outstanding_award: false
+  spotlight: false
 - title: Layerwise Importance Analysis of Feed-Forward Networks in Transformer-based
     Language Models
   authors: Wataru Ikeda, Kazuki Yano, Ryosuke Takahashi, Jaesung Lee, Keigo Shibata,
     Jun Suzuki
   url: https://openreview.net/forum?id=oP3b5YBFoP
+  outstanding_award: false
+  spotlight: false
 - title: 'RankAlign: A Ranking View of the Generator-Validator Gap in Large Language
     Models'
   authors: Juan Diego Rodriguez, Wenxuan Ding, Katrin Erk, Greg Durrett
   url: https://openreview.net/forum?id=rJOkPauru9
+  outstanding_award: false
+  spotlight: false
 - title: 'CUPID: Evaluating Personalized and Contextualized Alignment of LLMs from
     Interactions'
   authors: Tae Soo Kim, Yoonjoo Lee, Yoonah Park, Jiho Kim, Young-Ho Kim, Juho Kim
   url: https://openreview.net/forum?id=JMxRn7orEk
+  outstanding_award: false
+  spotlight: false
 - title: 'EvidenceBench: A Benchmark for Extracting Evidence from Biomedical Papers'
   authors: Jianyou Wang, Weili Cao, Kaicheng Wang, Xiaoyue Wang, Ashish Dalvi, Gino
     Prasad, Qishan Liang, Hsuan-lin Her, Mingwang, Qin Yang, Gene W. Yeo, David E
     Neal, Maxim Khan, Christopher D. Rosin, Ramamohan Paturi, Leon Bergen
   url: https://openreview.net/forum?id=lEQnUI5lEA
+  outstanding_award: false
+  spotlight: false
 - title: 'Plato: Plan to Efficient Decode for Large Language Model Inference'
   authors: Shuowei Jin, Xueshen Liu, Yongji Wu, Haizhong Zheng, Qingzhao Zhang, Atul
     Prakash, Matthew Lentz, Danyang Zhuo, Feng Qian, Zhuoqing Mao
   url: https://openreview.net/forum?id=oGO0fNVWrN
+  outstanding_award: false
+  spotlight: false
 - title: Overflow Prevention Enhances Long-Context Recurrent LLMs
   authors: Assaf Ben-Kish, Itamar Zimerman, Muhammad Jehanzeb Mirza, Lior Wolf, James
     R. Glass, Leonid Karlinsky, Raja Giryes
   url: https://openreview.net/forum?id=h99hJlU99U
+  outstanding_award: false
+  spotlight: false
 - title: Single-Pass Document Scanning for Question Answering
   authors: Weili Cao, Jianyou Wang, Youze Zheng, Longtian Bao, Qirui Zheng, Taylor
     Berg-Kirkpatrick, Ramamohan Paturi, Leon Bergen
   url: https://openreview.net/forum?id=7Vj78acKIp
+  outstanding_award: false
+  spotlight: true
 - title: 'Probing Syntax in Large Language Models: Successes and Remaining Challenges'
   authors: Pablo J. Diego Simon, Emmanuel Chemla, Jean-Remi King, Yair Lakretz
   url: https://openreview.net/forum?id=nrZysNmJ0n
+  outstanding_award: false
+  spotlight: false
 - title: Fast Controlled Generation from Language Models with Adaptive Weighted Rejection
     Sampling
   authors: Ben Lipkin, Benjamin LeBrun, Jacob Hoover Vigly, João Loula, David R. MacIver,
     Li Du, Jason Eisner, Ryan Cotterell, Vikash Mansinghka, Timothy J. O'Donnell,
     Alexander K. Lew, Tim Vieira
   url: https://openreview.net/forum?id=3BmPSFAdq3
+  outstanding_award: false
+  spotlight: true
 - title: Unifying Autoregressive and Diffusion-Based Sequence Generation
   authors: Nima Fathi, Torsten Scholak, Pierre-Andre Noel
   url: https://openreview.net/forum?id=rgq9BFXSFl
+  outstanding_award: false
+  spotlight: false
 - title: 'Always Tell Me The Odds: Fine-grained Conditional Probability Estimation'
   authors: Liaoyaqi Wang, Zhengping Jiang, Anqi Liu, Benjamin Van Durme
   url: https://openreview.net/forum?id=xhDcG8qtw9
+  outstanding_award: false
+  spotlight: false
 - title: Base Models Beat Aligned Models at Randomness and Creativity
   authors: Peter West, Christopher Potts
   url: https://openreview.net/forum?id=vqN8uom4A1
+  outstanding_award: false
+  spotlight: false
 - title: Both Direct and Indirect Evidence Contribute to Dative Alternation Preferences
     in Language Models
   authors: Qing Yao, Kanishka Misra, Leonie Weissweiler, Kyle Mahowald
   url: https://openreview.net/forum?id=h5SRsDax8v
+  outstanding_award: false
+  spotlight: false
 - title: Overcoming Vocabulary Constraints with Pixel-level Fallback
   authors: Jonas F. Lotz, Hendra Setiawan, Stephan Peitz, Yova Kementchedjhieva
   url: https://openreview.net/forum?id=lEaHNs2qEv
+  outstanding_award: false
+  spotlight: false
 - title: 'Cats Confuse Reasoning LLM: Query Agnostic Adversarial Triggers for Reasoning
     Models'
   authors: Meghana Arakkal Rajeev, Rajkumar Ramamurthy, Prapti Trivedi, Vikas Yadav,
     Oluwanifemi Bamgbose, Sathwik Tejaswi Madhusudhan, James Zou, Nazneen Rajani
   url: https://openreview.net/forum?id=VrEPiN5WhM
+  outstanding_award: false
+  spotlight: false
 - title: 'In-Context Occam’s Razor: How Transformers Prefer Simpler Hypotheses on
     the Fly'
   authors: Puneesh Deora, Bhavya Vasudeva, Tina Behnia, Christos Thrampoulidis
   url: https://openreview.net/forum?id=ZSMnX3LBva
+  outstanding_award: false
+  spotlight: false
 - title: 'LoRe: Personalizing LLMs via Low-Rank Reward Modeling'
   authors: Avinandan Bose, Zhihan Xiong, Yuejie Chi, Simon Shaolei Du, Lin Xiao, Maryam
     Fazel
   url: https://openreview.net/forum?id=bYu4DOqRY8
+  outstanding_award: false
+  spotlight: false
 - title: 'LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation'
   authors: Xi Ye, Fangcong Yin, Yinghui He, Joie Zhang, Howard Yen, Tianyu Gao, Greg
     Durrett, Danqi Chen
   url: https://openreview.net/forum?id=ruWC5LIMSo
+  outstanding_award: false
+  spotlight: false
 - title: Self-Steering Language Models
   authors: Gabriel Grand, Joshua B. Tenenbaum, Vikash Mansinghka, Alexander K. Lew,
     Jacob Andreas
   url: https://openreview.net/forum?id=XvCBtm5PgF
+  outstanding_award: false
+  spotlight: false
 - title: 'OpinioRAG: Towards Generating User-Centric Opinion Highlights from Large-scale
     Online Reviews'
   authors: Mir Tafseer Nayeem, Davood Rafiei
   url: https://openreview.net/forum?id=R94bCTckhV
+  outstanding_award: false
+  spotlight: false
 - title: 'LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in
     Large Language Models'
   authors: Minqian Liu, Zhiyang Xu, Xinyi Zhang, Heajun An, Sarvech Qadir, Qi Zhang,
     Pamela J. Wisniewski, Jin-Hee Cho, Sang Won Lee, Ruoxi Jia, Lifu Huang
   url: https://openreview.net/forum?id=TMB9SKqit9
+  outstanding_award: false
+  spotlight: false
 - title: Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive
     Environment Generalization
   authors: Zhitao He, Zijun Liu, Peng Li, Yi R. Fung, Ming Yan, Ji Zhang, Fei Huang,
     Yang Liu
   url: https://openreview.net/forum?id=SoEmgM1ioC
+  outstanding_award: false
+  spotlight: false
 - title: Multi-Agent Systems Execute Arbitrary Malicious Code
   authors: Harold Triedman, Rishi Dev Jha, Vitaly Shmatikov
   url: https://openreview.net/forum?id=DAozI4etUp
+  outstanding_award: false
+  spotlight: false
 - title: Enhancing LLM Reliability via Explicit Knowledge Boundary Modeling
   authors: Hang Zheng, Hongshen Xu, Yuncong Liu, Shuai Fan, Lu Chen, Pascale Fung,
     Kai Yu
   url: https://openreview.net/forum?id=WLgfeRhuA0
+  outstanding_award: false
+  spotlight: false
 - title: 'ReasonIR: Training Retrievers for Reasoning Tasks'
   authors: Rulin Shao, Rui Qiao, Varsha Kishore, Niklas Muennighoff, Xi Victoria Lin,
     Daniela Rus, Bryan Kian Hsiang Low, Sewon Min, Wen-tau Yih, Pang Wei Koh, Luke
     Zettlemoyer
   url: https://openreview.net/forum?id=kkBCNLMbGj
+  outstanding_award: false
+  spotlight: false
 - title: 'StagFormer: Time Staggering Decoder only Transformers'
   authors: Dylan J Cutler, Arun Kandoor, Nishanth Dikkala, Nikunj Saunshi, Xin Wang,
     Rina Panigrahy
   url: https://openreview.net/forum?id=gOKTe1KI8K
+  outstanding_award: false
+  spotlight: false
 - title: Establishing Task Scaling Laws via Compute-Efficient Model Ladders
   authors: Akshita Bhagia, Jiacheng Liu, Alexander Wettig, David Heineman, Oyvind
     Tafjord, Ananya Harsh Jha, Luca Soldaini, Noah A. Smith, Dirk Groeneveld, Pang
     Wei Koh, Jesse Dodge, Hannaneh Hajishirzi
   url: https://openreview.net/forum?id=FeAM2RVO8l
+  outstanding_award: false
+  spotlight: false
 - title: 'PrefPalette: Personalized Preference Modeling with Latent Attributes'
   authors: Shuyue Stella Li, Melanie Sclar, Hunter Lang, Ansong Ni, Jacqueline He,
     Puxin Xu, Andrew Cohen, Chan Young Park, Yulia Tsvetkov, Asli Celikyilmaz
   url: https://openreview.net/forum?id=p4ujQsKmPV
+  outstanding_award: false
+  spotlight: true
 - title: 'LoX: Low-Rank Extrapolation Robustifies LLM Safety Against Fine-tuning'
   authors: Gabriel Jacob Perin, Runjin Chen, Xuxi Chen, Nina S. T. Hirata, Zhangyang
     Wang, Junyuan Hong
   url: https://openreview.net/forum?id=ASS5YD4hL4
+  outstanding_award: false
+  spotlight: false
 - title: Steering Large Language Model Activations in Sparse Spaces
   authors: Reza Bayat, Ali Rahimi-Kalahroudi, Mohammad Pezeshki, Sarath Chandar, Pascal
     Vincent
   url: https://openreview.net/forum?id=VGw1viYliK
+  outstanding_award: false
+  spotlight: false
 - title: Understanding and Improving Noisy Embedding Techniques in Instruction Finetuning
   authors: Abhay Yadav
   url: https://openreview.net/forum?id=AHhDpMMXtf
+  outstanding_award: false
+  spotlight: false
 - title: Bootstrapping Visual Assistant Modeling with Situated Interaction Simulation
   authors: Yichi Zhang, Run Peng, Yinpei Dai, Lingyun Wu, Xuweiyi Chen, Qiaozi Gao,
     Joyce Chai
   url: https://openreview.net/forum?id=S4nTXotasR
+  outstanding_award: false
+  spotlight: false
 - title: 'EllieSQL: Cost-Efficient Text-to-SQL with Complexity-Aware Routing'
   authors: Yizhang Zhu, Runzhi JIANG, Boyan Li, Nan Tang, Yuyu Luo
   url: https://openreview.net/forum?id=8OqGNXKwo8
+  outstanding_award: false
+  spotlight: false
 - title: 'DoomArena: A framework for Testing AI Agents Against Evolving Security Threats'
   authors: Léo Boisvert, Abhay Puri, Gabriel Huang, Mihir Bansal, Chandra Kiran Reddy
     Evuru, Avinandan Bose, Maryam Fazel, Quentin Cappart, Alexandre Lacoste, Alexandre
     Drouin, Krishnamurthy Dj Dvijotham
   url: https://openreview.net/forum?id=GanmYQ0RpE
+  outstanding_award: false
+  spotlight: false
 - title: The Dual-Route Model of Induction
   authors: Sheridan Feucht, Eric Todd, Byron C Wallace, David Bau
   url: https://openreview.net/forum?id=bNTrKqqnG9
+  outstanding_award: false
+  spotlight: false
 - title: 'Planted in Pretraining, Swayed by Finetuning: A Case Study on the Origins
     of Cognitive Biases in LLMs'
   authors: Itay Itzhak, Yonatan Belinkov, Gabriel Stanovsky
   url: https://openreview.net/forum?id=KQhUEoPmJy
+  outstanding_award: false
+  spotlight: true
 - title: Not All Data Are Unlearned Equally
   authors: Aravind Krishnan, Siva Reddy, Marius Mosbach
   url: https://openreview.net/forum?id=Kd97lfFfTu
+  outstanding_award: false
+  spotlight: false
 - title: 'AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight
     Vocabulary Adaptation'
   authors: Itay Nakash, Nitay Calderon, Eyal Ben-David, Elad Hoffer, Roi Reichart
   url: https://openreview.net/forum?id=TyXf9dwpZP
-- title: 'MSRS: Benchmarking Multi-Source Retrieval-Augmented Generation'
+  outstanding_award: false
+  spotlight: false
+- title: 'MSRS: Evaluating Multi-Source Retrieval-Augmented Generation'
   authors: Rohan Phanse, Ej Zhou, Kejian Shi, WENCAI ZHANG, Yixin Liu, Yilun Zhao,
     Arman Cohan
   url: https://openreview.net/forum?id=KtGsJm8bOC
+  outstanding_award: false
+  spotlight: false
 - title: 'Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in
     Public Goods Games'
   authors: David Guzman Piedrahita, Yongjin Yang, Mrinmaya Sachan, Giorgia Ramponi,
     Bernhard Schölkopf, Zhijing Jin
   url: https://openreview.net/forum?id=kH6LOHGjEl
+  outstanding_award: false
+  spotlight: false
 - title: Improving Table Understanding with LLMs and Entity-Oriented Search
   authors: Thi-Nhung Nguyen, Hoang Ngo, Dinh Phung, Thuy-Trang Vu, Dat Quoc Nguyen
   url: https://openreview.net/forum?id=vlyl9xZVAL
+  outstanding_award: false
+  spotlight: false
 - title: 'CodeXEmbed: A Generalist Embedding Model Family for Multilingual and Multi-task
     Code Retrieval'
   authors: Ye Liu, Rui Meng, Shafiq Joty, silvio savarese, Caiming Xiong, Yingbo Zhou,
     Semih Yavuz
   url: https://openreview.net/forum?id=z3lG70Azbg
+  outstanding_award: false
+  spotlight: false
 - title: LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current
     Benchmarks
   authors: Soumyadeep Pal, Changsheng Wang, James Diffenderfer, Bhavya Kailkhura,
     Sijia Liu
   url: https://openreview.net/forum?id=NMIqKUdDkw
+  outstanding_award: false
+  spotlight: false
 - title: 'From Next-Token to Mathematics: The Learning Dynamics of Mathematical Reasoning
     in Language Models'
   authors: Shubhra Mishra, Gabriel Poesia, Noah Goodman
   url: https://openreview.net/forum?id=bJ9aARjtBu
+  outstanding_award: false
+  spotlight: false
 - title: 'Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement
     Learning'
   authors: Bowen Jin, Hansi Zeng, Zhenrui Yue, Jinsung Yoon, Sercan O Arik, Dong Wang,
     Hamed Zamani, Jiawei Han
   url: https://openreview.net/forum?id=Rwhi91ideu
+  outstanding_award: false
+  spotlight: false
 - title: How does Watermarking Affect Visual Language Models in Document Understanding?
   authors: Chunxue Xu, Yiwei Wang, Bryan Hooi, Yujun Cai, Songze Li
   url: https://openreview.net/forum?id=lvQwn8eiRf
+  outstanding_award: false
+  spotlight: false
 - title: 'Stop-Think-AutoRegress: Language Modeling with Latent Diffusion Planning'
   authors: Justin Lovelace, Christian Belardi, Sofian Zalouk, Adhitya Polavaram, Srivatsa
     R Kundurthy, Kilian Q Weinberger
   url: https://openreview.net/forum?id=c05qIG1Z2B
+  outstanding_award: false
+  spotlight: false
 - title: In-context Ranking Preference Optimization
   authors: Junda Wu, Rohan Surana, Zhouhang Xie, Yiran Jenny Shen, Yu Xia, Tong Yu,
     Ryan A. Rossi, Prithviraj Ammanabrolu, Julian McAuley
   url: https://openreview.net/forum?id=L2NPhLAKEd
+  outstanding_award: false
+  spotlight: false
 - title: 'Control the Temperature: Selective Sampling for Diverse and High-Quality
     LLM Outputs'
   authors: Sergey Troshin, Wafaa Mohammed, Yan Meng, Christof Monz, Antske Fokkens,
     Vlad Niculae
   url: https://openreview.net/forum?id=IyOC5GCzv4
+  outstanding_award: false
+  spotlight: false
 - title: 'Efficient Self-Improvement in Multimodal Large Language Models: A Model-Level
     Judge-Free Approach'
   authors: Shijian Deng, Wentian Zhao, Yu-Jhe Li, Kun Wan, Daniel Miranda, Ajinkya
     Kale, Yapeng Tian
   url: https://openreview.net/forum?id=NRrXHppaBg
+  outstanding_award: false
+  spotlight: false
 - title: Multi-Agent Retrieval-Augmented Framework for Evidence-Based Counterspeech
     Against Health Misinformation
   authors: Anirban Saha Anik, Xiaoying Song, Elliott Wang, Bryan Wang, Bengisu Yarimbas,
     Lingzi Hong
   url: https://openreview.net/forum?id=P61AgRyU7E
+  outstanding_award: false
+  spotlight: false
 - title: 'SuperBPE: Space Travel for Language Models'
   authors: Alisa Liu, Jonathan Hayase, Valentin Hofmann, Sewoong Oh, Noah A. Smith,
     Yejin Choi
   url: https://openreview.net/forum?id=lcDRvffeNP
+  outstanding_award: false
+  spotlight: false
 - title: 'One ruler to measure them all: Benchmarking multilingual long-context language
     models'
   authors: Yekyung Kim, Jenna Russell, Marzena Karpinska, Mohit Iyyer
   url: https://openreview.net/forum?id=3vxxB3Ar9r
+  outstanding_award: false
+  spotlight: false
 - title: 'Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers'
   authors: Shalev Lifshitz, Sheila A. McIlraith, Yilun Du
   url: https://openreview.net/forum?id=LriQ3NY9uL
+  outstanding_award: false
+  spotlight: false
 - title: 2 OLMo 2 Furious (COLM’s Version)
   authors: Evan Pete Walsh, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Shane Arora,
     Akshita Bhagia, Yuling Gu, Shengyi Huang, Matt Jordan, Nathan Lambert, Dustin
@@ -974,91 +1460,137 @@
     Christopher Wilhelm, Michael Wilson, Luke Zettlemoyer, Ali Farhadi, Noah A. Smith,
     Hannaneh Hajishirzi
   url: https://openreview.net/forum?id=2ezugTT9kU
+  outstanding_award: false
+  spotlight: false
 - title: Mitigating Modal Imbalance in Multimodal Reasoning
   authors: Chen Henry Wu, Neil Kale, Aditi Raghunathan
   url: https://openreview.net/forum?id=JsaXxGOXfU
+  outstanding_award: false
+  spotlight: false
 - title: Bayesian scaling laws for in-context learning
   authors: Aryaman Arora, Dan Jurafsky, Christopher Potts, Noah Goodman
   url: https://openreview.net/forum?id=U2ihVSREUb
+  outstanding_award: false
+  spotlight: false
 - title: Improving LLMs‘ Generalized Reasoning Abilities by Graph Problems
   authors: Qifan Zhang, Nuo Chen, Zehua Li, Miao Peng, Jing Tang, Jia Li
   url: https://openreview.net/forum?id=6vMRcaYbU7
+  outstanding_award: false
+  spotlight: false
 - title: Language Models Fail to Introspect About Their Knowledge of Language
   authors: Siyuan Song, Jennifer Hu, Kyle Mahowald
   url: https://openreview.net/forum?id=AivRDOFi5H
+  outstanding_award: false
+  spotlight: false
 - title: 'Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining'
   authors: Rosie Zhao, Alexandru Meterez, Sham M. Kakade, Cengiz Pehlevan, Samy Jelassi,
     Eran Malach
   url: https://openreview.net/forum?id=dp4KWuSDzj
+  outstanding_award: false
+  spotlight: false
 - title: 'M-Prometheus: A Suite of Open Multilingual LLM Judges'
   authors: José Pombal, Dongkeun Yoon, Patrick Fernandes, Ian Wu, Seungone Kim, Ricardo
     Rei, Graham Neubig, Andre Martins
   url: https://openreview.net/forum?id=Atyk8lnIQQ
+  outstanding_award: false
+  spotlight: false
 - title: 'Implicit In-Context Learning: Evidence from Artificial Language Experiments'
   authors: Xiaomeng Ma, Qihui Xu
   url: https://openreview.net/forum?id=jST2VzWUFb
+  outstanding_award: false
+  spotlight: false
 - title: 'The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning'
   authors: Raj Sanjay Shah, Jing Huang, Keerthiram Murugesan, Nathalie Baracaldo,
     Diyi Yang
   url: https://openreview.net/forum?id=exW2SFJK4H
+  outstanding_award: false
+  spotlight: false
 - title: Do LLMs Understand Your Translations? Evaluating Paragraph-level MT with
     Question Answering
   authors: Patrick Fernandes, Sweta Agrawal, Emmanouil Zaranis, Andre Martins, Graham
     Neubig
   url: https://openreview.net/forum?id=Zfa9jCYGCz
+  outstanding_award: false
+  spotlight: false
 - title: 'Rethinking Safety in LLM Fine-tuning: An Optimization Perspective'
   authors: Minseon Kim, Jin Myung Kwak, Lama Alssum, Bernard Ghanem, Philip Torr,
     David Krueger, Fazl Barez, Adel Bibi
   url: https://openreview.net/forum?id=ZnOoEA2nDn
+  outstanding_award: false
+  spotlight: false
 - title: 'BigCharts-R1: Enhanced Chart Reasoning with Visual Reinforcement Finetuning'
   authors: Ahmed Masry, Abhay Puri, Masoud Hashemi, Juan A. Rodriguez, Megh Thakkar,
     Khyati Mahajan, Vikas Yadav, Sathwik Tejaswi Madhusudhan, Alexandre Piché, Dzmitry
     Bahdanau, Christopher Pal, David Vazquez, Enamul Hoque, Perouz Taslakian, Sai
     Rajeswar, Spandana Gella
   url: https://openreview.net/forum?id=19fydz1QnW
+  outstanding_award: false
+  spotlight: false
 - title: 'GenerationPrograms:  Fine-grained Attribution with Executable Programs'
   authors: David Wan, Eran Hirsch, Elias Stengel-Eskin, Ido Dagan, Mohit Bansal
   url: https://openreview.net/forum?id=zTKYKiWzIm
+  outstanding_award: false
+  spotlight: false
 - title: Rerouting LLM Routers
   authors: Avital Shafran, Roei Schuster, Tom Ristenpart, Vitaly Shmatikov
   url: https://openreview.net/forum?id=U6C7odo5SX
+  outstanding_award: false
+  spotlight: false
 - title: 'C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for
     Test-Time Expert Re-Mixing'
   authors: Zhongyang Li, Ziyue Li, Tianyi Zhou
   url: https://openreview.net/forum?id=lqC5J7pBP9
+  outstanding_award: false
+  spotlight: false
 - title: 'SEAM: Semantically Equivalent Across Modalities Benchmark for Vision-Language
     Models'
   authors: Zhenwei Tang, Difan Jiao, Blair Yang, Ashton Anderson
   url: https://openreview.net/forum?id=lI4LgGv4sX
+  outstanding_award: false
+  spotlight: false
 - title: A Critical Look At Tokenwise Reward-Guided Text Generation
   authors: Ahmad Rashid, Ruotian Wu, Julia Grosse, Agustinus Kristiadi, Pascal Poupart
   url: https://openreview.net/forum?id=Vnw9c1YLhV
+  outstanding_award: false
+  spotlight: false
 - title: 'Collab-RAG: Boosting Retrieval-Augmented Generation for Complex Question
     Answering via White-Box and Black-Box LLM Collaboration'
   authors: Ran Xu, Wenqi Shi, Yuchen Zhuang, Yue Yu, Joyce C. Ho, Haoyu Wang, Carl
     Yang
   url: https://openreview.net/forum?id=CODs4jSGhN
+  outstanding_award: false
+  spotlight: false
 - title: 'Reasoning Models Know When They’re Right: Probing Hidden States for Self-Verification'
   authors: Anqi Zhang, Yulin Chen, Jane Pan, Chen Zhao, Aurojit Panda, Jinyang Li,
     He He
   url: https://openreview.net/forum?id=O6I0Av7683
+  outstanding_award: false
+  spotlight: false
 - title: 'SAEs Can Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision
     Unlearning in LLMs'
   authors: Aashiq Muhamed, Jacopo Bonato, Mona T. Diab, Virginia Smith
   url: https://openreview.net/forum?id=kaPAalWAp3
+  outstanding_award: false
+  spotlight: false
 - title: A Controlled Study on Long Context Extension and Generalization in LLMs
   authors: Yi Lu, Jing Nathan Yan, Songlin Yang, Justin T Chiu, Siyu Ren, Fei Yuan,
     Wenting Zhao, Zhiyong Wu, Alexander M Rush
   url: https://openreview.net/forum?id=BLonuGXDFu
+  outstanding_award: false
+  spotlight: false
 - title: 'Rethinking Multilingual Continual Pretraining: Data Mixing for Adapting
     LLMs Across Languages and Resources'
   authors: Zihao Li, Shaoxiong Ji, Hengyu Luo, Jörg Tiedemann
   url: https://openreview.net/forum?id=mpTIzK4Zca
+  outstanding_award: false
+  spotlight: false
 - title: 'Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards
     for Reasoning-Enhanced Text-to-SQL'
   authors: Mohammadreza Pourreza, Shayan Talaei, Ruoxi Sun, Xingchen Wan, Hailong
     Li, Azalia Mirhoseini, Amin Saberi, Sercan O Arik
   url: https://openreview.net/forum?id=HbwkIDWQgN
+  outstanding_award: false
+  spotlight: false
 - title: 'EuroBERT: Scaling Multilingual Encoders for European Languages'
   authors: Nicolas Boizard, Hippolyte Gisserot-Boukhlef, Duarte Miguel Alves, Andre
     Martins, Ayoub Hammal, Caio Corro, CELINE HUDELOT, Emmanuel Malherbe, Etienne
@@ -1066,19 +1598,27 @@
     Faysse, Maxime Peyrard, Nuno M Guerreiro, Patrick Fernandes, Ricardo Rei, Pierre
     Colombo
   url: https://openreview.net/forum?id=jdOC24msVq
+  outstanding_award: false
+  spotlight: false
 - title: 'R2E-Gym: Procedural Environment Generation and Hybrid Verifiers for Scaling
     Open-Weights SWE Agents'
   authors: Naman Jain, Jaskirat Singh, Manish Shetty, Tianjun Zhang, Liang Zheng,
     Koushik Sen, Ion Stoica
   url: https://openreview.net/forum?id=7evvwwdo3z
+  outstanding_award: false
+  spotlight: false
 - title: Do Biased Models Have Biased Thoughts?
   authors: Swati Rajwal, Shivank Garg, Reem Abdel-Salam, Abdelrahman Zayed
   url: https://openreview.net/forum?id=vDr0RV3590
+  outstanding_award: false
+  spotlight: false
 - title: Scaling Web Agent Training through Automatic Data Generation and Fine-grained
     Evaluation
   authors: Lajanugen Logeswaran, Jaekyeom Kim, Sungryull Sohn, Creighton Glasscock,
     Honglak Lee
   url: https://openreview.net/forum?id=63JtmQL7dv
+  outstanding_award: false
+  spotlight: false
 - title: 'MLGym: A New Framework and Benchmark for Advancing AI Research Agents'
   authors: Deepak Nathani, Lovish Madaan, Nicholas Roberts, Nikolay Bashlykov, Ajay
     Menon, Vincent Moens, Mikhail Plekhanov, Amar Budhiraja, Despoina Magka, Vladislav
@@ -1086,198 +1626,296 @@
     Shavrina, Jakob Nicolaus Foerster, Yoram Bachrach, William Yang Wang, Roberta
     Raileanu
   url: https://openreview.net/forum?id=ryTr83DxRq
+  outstanding_award: false
+  spotlight: false
 - title: 'Understanding the Uncertainty of LLM Explanations: A Perspective Based on
     Reasoning Topology'
   authors: Longchao Da, Xiaoou Liu, Jiaxin Dai, Lu Cheng, Yaqing Wang, Hua Wei
   url: https://openreview.net/forum?id=p4wZfBFgyI
+  outstanding_award: false
+  spotlight: false
 - title: 'AIR: A Systematic Analysis of Annotations, Instructions, and Response Pairs
     in Preference Dataset'
   authors: Bingxiang He, Wenbin Zhang, Jiaxi Song, Cheng Qian, Zixuan Fu, Bowen Sun,
     Ning Ding, Haiwen Hong, Longtao Huang, Hui Xue, Ganqu Cui, Wanxiang Che, Zhiyuan
     Liu, Maosong Sun
   url: https://openreview.net/forum?id=Sz3ZU6oeVJ
+  outstanding_award: false
+  spotlight: false
 - title: 'LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation'
   authors: Juzheng Zhang, Jiacheng You, Ashwinee Panda, Tom Goldstein
   url: https://openreview.net/forum?id=b8cW86QcOD
+  outstanding_award: false
+  spotlight: false
 - title: (Im)possibility of Automated Hallucination Detection in Large Language Models
   authors: Amin Karbasi, Omar Montasser, John Sous, Grigoris Velegkas
   url: https://openreview.net/forum?id=e5jWdZIX0Q
+  outstanding_award: false
+  spotlight: false
 - title: Retrieval-Augmented Generation with Conflicting Evidence
   authors: Han Wang, Archiki Prasad, Elias Stengel-Eskin, Mohit Bansal
   url: https://openreview.net/forum?id=z1MHB2m3V9
+  outstanding_award: false
+  spotlight: false
 - title: 'How Post-Training Reshapes LLMs: A Mechanistic View on Knowledge, Truthfulness,
     Refusal, and Confidence'
   authors: Hongzhe Du, Weikai Li, Min Cai, Karim Saraipour, Zimin Zhang, Himabindu
     Lakkaraju, Yizhou Sun, Shichang Zhang
   url: https://openreview.net/forum?id=w5DSwn9wTC
+  outstanding_award: false
+  spotlight: false
 - title: 'Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving'
   authors: Yong Lin, Shange Tang, Bohan Lyu, Jiayun Wu, Hongzhou Lin, Kaiyu Yang,
     Jia LI, Mengzhou Xia, Danqi Chen, Sanjeev Arora, Chi Jin
   url: https://openreview.net/forum?id=x2y9i2HDjD
+  outstanding_award: false
+  spotlight: false
 - title: 'You Cannot Feed Two Birds with One Score: the Accuracy-Naturalness Tradeoff
     in Translation'
   authors: Gergely Flamich, David Vilar, Jan-Thorsten Peter, Markus Freitag
   url: https://openreview.net/forum?id=d9EkgbZZH9
+  outstanding_award: false
+  spotlight: false
 - title: 'FacTool: Factuality Detection in Generative AI -- A Tool Augmented Framework
     for Multi-Task and Multi-Domain Scenarios'
   authors: Ethan Chern, Steffi Chern, Shiqi Chen, Weizhe Yuan, Kehua Feng, Chunting
     Zhou, Junxian He, Graham Neubig, Pengfei Liu
   url: https://openreview.net/forum?id=hJkQL9VtWT
+  outstanding_award: false
+  spotlight: false
 - title: 'Stuffed Mamba: Oversized States Lead to the Inability to Forget'
   authors: Yingfa Chen, Xinrong Zhang, Shengding Hu, Xu Han, Zhiyuan Liu, Maosong
     Sun
   url: https://openreview.net/forum?id=CdRauNXD1w
+  outstanding_award: false
+  spotlight: false
 - title: 'Reverse-engineering NLI: A study of the meta-inferential properties of Natural
     Language Inference'
   authors: Rasmus Blanck, Bill Noble, Stergios Chatzikyriakidis
   url: https://openreview.net/forum?id=NAcvSI2CRM
+  outstanding_award: false
+  spotlight: false
 - title: Model-Agnostic Policy Explanations with Large Language Models
   authors: Zhang Xi-Jia, Yue Guo, Shufei Chen, Simon Stepputtis, Matthew Craig Gombolay,
     Katia P. Sycara, Joseph Campbell
   url: https://openreview.net/forum?id=VzXpFjKgJg
+  outstanding_award: false
+  spotlight: false
 - title: 'ThoughtTerminator: Benchmarking, Calibrating, and Mitigating Overthinking
     in Reasoning Models'
   authors: Sophia Xiao Pu, Michael Saxon, Wenyue Hua, William Yang Wang
   url: https://openreview.net/forum?id=oHR862dpMC
+  outstanding_award: false
+  spotlight: false
 - title: 'BlockFFN: Towards End-Side Acceleration-Friendly Mixture-of-Experts with
     Chunk-Level Activation Sparsity'
   authors: Chenyang Song, Weilin Zhao, Xu Han, Chaojun Xiao, Yingfa Chen, Yuxuan Li,
     Zhiyuan Liu, Maosong Sun
   url: https://openreview.net/forum?id=uLl7tSUOir
+  outstanding_award: false
+  spotlight: false
 - title: Self-Evolving Critique Abilities in Large Language Models
   authors: Zhengyang Tang, Ziniu Li, Zhenyang Xiao, Tian Ding, Ruoyu Sun, Benyou Wang,
     Dayiheng Liu, Fei Huang, Tianyu Liu, Bowen Yu, Junyang Lin
   url: https://openreview.net/forum?id=TA6azZKWJq
+  outstanding_award: false
+  spotlight: false
 - title: Hardware-Efficient Attention for Fast Decoding
   authors: Ted Zadouri, Hubert Strauss, Tri Dao
   url: https://openreview.net/forum?id=HAjgxcHpzc
+  outstanding_award: false
+  spotlight: false
 - title: 'LongCodeBench: Evaluating Coding LLMs at 1M Context Windows'
   authors: Stefano Rando, Luca Romani, Alessio Sampieri, Luca Franco, John Yang, Yuta
     Kyuragi, Fabio Galasso, Tatsunori Hashimoto
   url: https://openreview.net/forum?id=GFPoM8Ylp8
+  outstanding_award: false
+  spotlight: false
 - title: LLMs Are In-Context Bandit Reinforcement Learners
   authors: Giovanni Monea, Antoine Bosselut, Kianté Brantley, Yoav Artzi
   url: https://openreview.net/forum?id=c0RsezY2D1
+  outstanding_award: false
+  spotlight: false
 - title: 'Critique Fine-Tuning: Learning to Critique is More Effective than Learning
     to Imitate'
   authors: Yubo Wang, Xiang Yue, Wenhu Chen
   url: https://openreview.net/forum?id=vTAz44GgOA
+  outstanding_award: false
+  spotlight: false
 - title: '$100K or 100 Days: Trade-offs when Pre-Training with Academic Resources'
   authors: Apoorv Khandelwal, Tian Yun, Nihal V. Nayak, Jack Merullo, Stephen Bach,
     Chen Sun, Ellie Pavlick
   url: https://openreview.net/forum?id=EFxC34XbDh
+  outstanding_award: false
+  spotlight: false
 - title: Learning Adaptive Parallel Reasoning with Language Models
   authors: Jiayi Pan, Xiuyu Li, Long Lian, Charlie Victor Snell, Yifei Zhou, Adam
     Yala, Trevor Darrell, Kurt Keutzer, Alane Suhr
   url: https://openreview.net/forum?id=YgwQ7sXPXU
+  outstanding_award: false
+  spotlight: false
 - title: Analyzing Multilingualism in Large Language Models with Sparse Autoencoders
   authors: Ikhyun Cho, Julia Hockenmaier
   url: https://openreview.net/forum?id=NmGSvZoU3K
+  outstanding_award: false
+  spotlight: false
 - title: 'When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative
     Verification for LLM Reasoning'
   authors: Nishad Singhi, Hritik Bansal, Arian Hosseini, Aditya Grover, Kai-Wei Chang,
     Marcus Rohrbach, Anna Rohrbach
   url: https://openreview.net/forum?id=R7qRUFHGTx
+  outstanding_award: false
+  spotlight: false
 - title: Exposing and Patching the Flaws of Large Language Models in Social Character
     Simulation
   authors: Yue Huang, Zhengqing Yuan, Yujun Zhou, Kehan Guo, Xiangqi Wang, Haomin
     Zhuang, Weixiang Sun, Lichao Sun, Jindong Wang, Yanfang Ye, Xiangliang Zhang
   url: https://openreview.net/forum?id=B5E3ijlLML
+  outstanding_award: false
+  spotlight: false
 - title: 'REFA: Reference Free Alignment with Fine-Grained Length Control'
   authors: Taneesh Gupta, Rahul Madhavan, Xuchao Zhang, Chetan Bansal, Saravan Rajmohan
   url: https://openreview.net/forum?id=zP6DJaBBcR
+  outstanding_award: false
+  spotlight: false
 - title: Impact of LLM Alignment on Impression Formation in Social Interactions
   authors: Ala N. Tak, Anahita Bolourani, Daniel B. Shank, Jonathan Gratch
   url: https://openreview.net/forum?id=R135tO3SJJ
+  outstanding_award: false
+  spotlight: false
 - title: 'FineMedLM-o1: Enhancing Medical Knowledge Reasoning Ability of LLM from
     Supervised Fine-Tuning to Test-Time Training'
   authors: Hongzhou Yu, Tianhao Cheng, Yingwen Wang, Wen He, Qing Wang, Ying Cheng,
     Yuejie Zhang, Rui Feng, Xiaobo Zhang
   url: https://openreview.net/forum?id=7ZwuGZCopw
+  outstanding_award: false
+  spotlight: false
 - title: 'Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs
     on Academic Resources'
   authors: Weizhi Wang, Yu Tian, Linjie Yang, Heng Wang, Xifeng Yan
   url: https://openreview.net/forum?id=nVQmW1af6j
+  outstanding_award: false
+  spotlight: false
 - title: 'Society of Mind Meets Real-Time Strategy: A Hierarchical Multi-Agent Framework
     for Strategic Reasoning'
   authors: Daechul Ahn, San Kim, Jonghyun Choi
   url: https://openreview.net/forum?id=VYdbeSoXWD
+  outstanding_award: false
+  spotlight: false
 - title: 'BiXSE: Improving Dense Retrieval via Probabilistic Graded Relevance Distillation'
   authors: Christos Tsirigotis, Vaibhav Adlakha, Joao Monteiro, Aaron Courville, Perouz
     Taslakian
   url: https://openreview.net/forum?id=9nQsDdquOY
+  outstanding_award: false
+  spotlight: false
 - title: 'DualEdit: Dual Editing for Knowledge Updating in Vision-Language Models'
   authors: Zhiyi Shi, Binjie Wang, Chongjie Si, Yichen Wu, Junsik Kim, Hanspeter Pfister
   url: https://openreview.net/forum?id=X5vFauyVWr
+  outstanding_award: false
+  spotlight: false
 - title: Teach Old SAEs New Domain Tricks with Boosting
   authors: Nikita Koriagin, Yaroslav Aksenov, Daniil Laptev, Gleb Gerasimov, Nikita
     Balagansky, Daniil Gavrilov
   url: https://openreview.net/forum?id=d4XXFVAlV7
+  outstanding_award: false
+  spotlight: false
 - title: 'CITER: Collaborative Inference for Efficient Large Language Model Decoding
     with Token-Level Routing'
   authors: Wenhao Zheng, Yixiao Chen, Weitong Zhang, Souvik Kundu, Yun Li, Zhengzhong
     Liu, Eric P. Xing, Hongyi Wang, Huaxiu Yao
   url: https://openreview.net/forum?id=nqX9UYW9Af
+  outstanding_award: false
+  spotlight: false
 - title: Language Agents Mirror Human Causal Reasoning Biases. How Can We Help Them
     Think Like Scientists?
   authors: Anthony GX-Chen, Dongyan Lin, Mandana Samiei, Doina Precup, Blake Aaron
     Richards, Rob Fergus, Kenneth Marino
   url: https://openreview.net/forum?id=LKINTp7Gdo
+  outstanding_award: false
+  spotlight: false
 - title: 'Local Mixtures of Experts: Essentially Free Test-Time Training via Model
     Merging'
   authors: Ryo Bertolissi, Jonas Hübotter, Ido Hakimi, Andreas Krause
   url: https://openreview.net/forum?id=X2RXpFA6Vh
+  outstanding_award: false
+  spotlight: false
 - title: 'SpectR: Dynamically Composing LM Experts with Spectral Routing'
   authors: William Fleshman, Benjamin Van Durme
   url: https://openreview.net/forum?id=tK8GHR62EX
+  outstanding_award: false
+  spotlight: false
 - title: Pairwise or Pointwise? Evaluating Feedback Protocols for Bias in LLM-Based
     Evaluation
   authors: Tuhina Tripathi, Manya Wadhwa, Greg Durrett, Scott Niekum
   url: https://openreview.net/forum?id=uyX5Vnow3U
+  outstanding_award: false
+  spotlight: false
 - title: 'More is Less: The Pitfalls of Multi-Model Synthetic Preference Data in DPO
     Safety Alignment'
   authors: Yifan Wang, Runjin Chen, Bolian Li, David Cho, Yihe Deng, Ruqi Zhang, Tianlong
     Chen, Zhangyang Wang, Ananth Grama, Junyuan Hong
   url: https://openreview.net/forum?id=wXOUYzNv5k
+  outstanding_award: false
+  spotlight: false
 - title: 'HIPPO-VIDEO : Simulating Watch Histories with Large Language Models for
     History-Driven Video Highlighting'
   authors: Jeongeun Lee, Youngjae Yu, Dongha Lee
   url: https://openreview.net/forum?id=Q6TCkggzQ2
+  outstanding_award: false
+  spotlight: false
 - title: 'E$^2$-RAG: Towards Editable Efficient RAG by Editing Compressed KV Caches'
   authors: Tongxu Luo, Wenyu Du, HanWen Hao, Min Zhang, Hao Yang, Benyou Wang
   url: https://openreview.net/forum?id=ZZ4tcxJvux
+  outstanding_award: false
+  spotlight: false
 - title: Language models align with brain regions that represent concepts across modalities
   authors: Maria Ryskina, Greta Tuckute, Alexander Fung, Ashley Malkin, Evelina Fedorenko
   url: https://openreview.net/forum?id=2JohTFaGbW
+  outstanding_award: false
+  spotlight: true
 - title: Guided Reasoning in LLM-Driven Penetration Testing Using Structured Attack
     Trees
   authors: Katsuaki Nakano, Reza Fayyazi, Shanchieh Yang, Michael Zuzak
   url: https://openreview.net/forum?id=x4sdXZ7Jdu
+  outstanding_award: false
+  spotlight: false
 - title: 'SciReplicate-Bench: Benchmarking LLMs in Agent-driven Algorithmic Reproduction
     from Research Papers'
   authors: Yanzheng Xiang, Hanqi Yan, Shuyin Ouyang, Lin Gui, Yulan He
   url: https://openreview.net/forum?id=8LoPjpvWde
+  outstanding_award: false
+  spotlight: false
 - title: 'ParaPO: Aligning Language Models to Reduce Verbatim Reproduction of Pre-training
     Data'
   authors: Tong Chen, Faeze Brahman, Jiacheng Liu, Niloofar Mireshghallah, Weijia
     Shi, Pang Wei Koh, Luke Zettlemoyer, Hannaneh Hajishirzi
   url: https://openreview.net/forum?id=Uic3ojVhXh
+  outstanding_award: false
+  spotlight: false
 - title: Reinforcement Learning Enhanced Full-Duplex Spoken Dialogue Language Models
     for Conversational Interactions
   authors: Chen Chen, Ke Hu, Chao-Han Huck Yang, Ankita Pasad, Edresson Casanova,
     Weiqing Wang, Szu-Wei Fu, Jason Li, Zhehuai Chen, Jagadeesh Balam, Boris Ginsburg
   url: https://openreview.net/forum?id=QbLbXz8Idp
+  outstanding_award: false
+  spotlight: false
 - title: '$\mu$KE: Matryoshka Unstructured Knowledge Editing of Large Language Models'
   authors: Zian Su, Ziyang Huang, Kaiyuan Zhang, Xiangyu Zhang
   url: https://openreview.net/forum?id=MiR3ObcF3C
+  outstanding_award: false
+  spotlight: false
 - title: 'PersonaEval: Are LLM Evaluators Human Enough to Judge Role-Play?'
   authors: Lingfeng Zhou, Jialing Zhang, Jin Gao, Mohan Jiang, Dequan Wang
   url: https://openreview.net/forum?id=drdrFhKYjP
+  outstanding_award: false
+  spotlight: false
 - title: 'The Delta Learning Hypothesis: Preference Tuning on Weak Data can Yield
     Strong Gains'
   authors: Scott Geng, Hamish Ivison, Chun-Liang Li, Maarten Sap, Jerry Li, Ranjay
     Krishna, Pang Wei Koh
   url: https://openreview.net/forum?id=9rwtezthwo
+  outstanding_award: false
+  spotlight: false
 - title: 'Tulu 3: Pushing Frontiers in Open Language Model Post-Training'
   authors: Nathan Lambert, Jacob Morrison, Valentina Pyatkin, Shengyi Huang, Hamish
     Ivison, Faeze Brahman, Lester James Validad Miranda, Alisa Liu, Nouha Dziri, Xinxi
@@ -1285,400 +1923,598 @@
     Le Bras, Oyvind Tafjord, Christopher Wilhelm, Luca Soldaini, Noah A. Smith, Yizhong
     Wang, Pradeep Dasigi, Hannaneh Hajishirzi
   url: https://openreview.net/forum?id=i1uGbfHHpH
+  outstanding_award: false
+  spotlight: false
 - title: 'D3: A Dataset for Training Code LMs to Act Diff-by-Diff'
   authors: Ulyana Piterbarg, Kanishk Gandhi, Lerrel Pinto, Noah Goodman, Rob Fergus
   url: https://openreview.net/forum?id=sy71y74U80
+  outstanding_award: false
+  spotlight: false
 - title: Can Test-Time Scaling Improve World Foundation Model?
   authors: Wenyan Cong, Hanqing Zhu, Peihao Wang, Bangya Liu, Dejia Xu, Kevin Wang,
     David Z. Pan, Yan Wang, Zhiwen Fan, Zhangyang Wang
   url: https://openreview.net/forum?id=jSmpq7IRYe
+  outstanding_award: false
+  spotlight: false
 - title: 'Putting the Value Back in RL: Better Test-Time Scaling by Unifying LLM Reasoners
     With Verifiers'
   authors: Kusha Sareen, Morgane M Moss, Alessandro Sordoni, Arian Hosseini, Rishabh
     Agarwal
   url: https://openreview.net/forum?id=kVOrGZM5N7
+  outstanding_award: false
+  spotlight: false
 - title: 'Deep Binding of Language Model Virtual Personas: a Study on Approximating
     Political Partisan Misperceptions'
   authors: Minwoo Kang, Suhong Moon, Seung Hyeong Lee, Ayush Raj, Joseph Suh, David
     M. Chan
   url: https://openreview.net/forum?id=zHdSCtNmM4
+  outstanding_award: false
+  spotlight: false
 - title: Scalable Zeroth-Order Fine-Tuning for Extremely Large Language Models with
     Limited GPU Memory
   authors: Liangyu Wang, Jie Ren, Hang Xu, Junxiao Wang, Huanyi Xie, David E. Keyes,
     Di Wang
   url: https://openreview.net/forum?id=s0p9xpORgP
+  outstanding_award: false
+  spotlight: false
 - title: 'HAICOSYSTEM: An Ecosystem for Sandboxing Safety Risks in Interactive AI
     Agents'
   authors: Xuhui Zhou, Hyunwoo Kim, Faeze Brahman, Liwei Jiang, Hao Zhu, Ximing Lu,
     Frank F. Xu, Bill Yuchen Lin, Yejin Choi, Niloofar Mireshghallah, Ronan Le Bras,
     Maarten Sap
   url: https://openreview.net/forum?id=KI1WQ6rLiy
+  outstanding_award: false
+  spotlight: false
 - title: 'CONCAP: Seeing Beyond English with Concepts Retrieval-Augmented Captioning'
   authors: George Ibrahim, Rita Ramos, Yova Kementchedjhieva
   url: https://openreview.net/forum?id=yfnaK1pZxu
+  outstanding_award: false
+  spotlight: false
 - title: Discovering Knowledge Deficiencies of Language Models on Massive Knowledge
     Base
   authors: Linxin Song, Xuwei Ding, Jieyu Zhang, Taiwei Shi, Ryotaro Shimizu, Rahul
     Gupta, Yang Liu, Jian Kang, Jieyu Zhao
   url: https://openreview.net/forum?id=eqNItk1sWo
+  outstanding_award: false
+  spotlight: false
 - title: Agree to Disagree? A Meta-Evaluation of LLM Misgendering
   authors: Arjun Subramonian, Vagrant Gautam, Preethi Seshadri, Dietrich Klakow, Kai-Wei
     Chang, Yizhou Sun
   url: https://openreview.net/forum?id=vgmiRvpCLA
+  outstanding_award: false
+  spotlight: false
 - title: Ensemble Debiasing Across Class and Sample Levels for Fairer Prompting Accuracy
   authors: Ruixi Lin, Ziqiao Wang, Yang You
   url: https://openreview.net/forum?id=63c7hTrUCh
+  outstanding_award: false
+  spotlight: false
 - title: Boosting LLM Reasoning via Spontaneous Self-Correction
   authors: Xutong Zhao, Tengyu Xu, Xuewei Wang, Zhengxing Chen, Di Jin, Liang Tan,
     Yen-Ting Lin, Zishun Yu, Zhuokai Zhao, Yun He, Sinong Wang, Han Fang, Sarath Chandar,
     Chen Zhu
   url: https://openreview.net/forum?id=9DCQAGBoII
+  outstanding_award: false
+  spotlight: false
 - title: 'DFRot: Achieving Outlier-Free and Massive Activation-Free for Rotated LLMs
     with Refined Rotation'
   authors: Jingyang Xiang, Sai Qian Zhang
   url: https://openreview.net/forum?id=WzGypILLDb
+  outstanding_award: false
+  spotlight: false
 - title: 'G1yphD3c0de: Towards Safer Language Models on Visually Perturbed Texts'
   authors: Yejin Choi, Yejin Yeo, Yejin Son, Seungju Han, Youngjae Yu
   url: https://openreview.net/forum?id=OGwE7LwtcR
+  outstanding_award: false
+  spotlight: false
 - title: 'Gating is Weighting: Understanding Gated Linear Attention through In-context
     Learning'
   authors: Yingcong Li, Davoud Ataee Tarzanagh, Ankit Singh Rawat, Maryam Fazel, Samet
     Oymak
   url: https://openreview.net/forum?id=9AFIz0YzD7
+  outstanding_award: false
+  spotlight: false
 - title: The Blessing and Curse of Dimensionality in Safety Alignment
   authors: Rachel S.Y. Teo, Laziz Abdullaev, Tan Minh Nguyen
   url: https://openreview.net/forum?id=TiTk6VDz2H
+  outstanding_award: false
+  spotlight: false
 - title: 'Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning'
   authors: Aleksander Ficek, Somshubra Majumdar, Vahid Noroozi, Boris Ginsburg
   url: https://openreview.net/forum?id=YLze3CETYP
+  outstanding_award: false
+  spotlight: false
 - title: 'To Backtrack or Not to Backtrack: When Sequential Search Limits Model Reasoning'
   authors: Tian Qin, David Alvarez-Melis, Samy Jelassi, Eran Malach
   url: https://openreview.net/forum?id=XNQHMYsUHf
+  outstanding_award: false
+  spotlight: false
 - title: 'AIOS: LLM Agent Operating System'
   authors: Kai Mei, Xi Zhu, Wujiang Xu, Mingyu Jin, Wenyue Hua, Zelong Li, Shuyuan
     Xu, Ruosong Ye, Yingqiang Ge, Yongfeng Zhang
   url: https://openreview.net/forum?id=L4HHkCDz2x
+  outstanding_award: false
+  spotlight: false
 - title: An Illusion of Progress? Assessing the Current State of Web Agents
   authors: Tianci Xue, Weijian Qi, Tianneng Shi, Chan Hee Song, Boyu Gou, Dawn Song,
     Huan Sun, Yu Su
   url: https://openreview.net/forum?id=6jZi4HSs6o
+  outstanding_award: false
+  spotlight: false
 - title: 'Learning by Teaching: Engaging Students as Instructors of Large Language
     Models in Computer Science Education'
   authors: Xinming Yang, Haasil Pujara, Jun Li
   url: https://openreview.net/forum?id=RUAoV3j6tM
+  outstanding_award: false
+  spotlight: false
 - title: 'FalseReject: A Resource for Improving Contextual Safety and Mitigating Over-Refusals
     in LLMs via Structured Reasoning'
   authors: Zhehao Zhang, Weijie Xu, Fanyou Wu, Chandan K. Reddy
   url: https://openreview.net/forum?id=1w9Hay7tvm
+  outstanding_award: false
+  spotlight: false
 - title: 'ReFeed: Multi-dimensional Summarization Refinement with Reflective Reasoning
     on Feedback'
   authors: Taewon Yun, Jihwan Oh, Hyangsuk Min, Yuho Lee, Jihwan Bang, Jason Cai,
     Hwanjun Song
   url: https://openreview.net/forum?id=6BGDGKZN7q
+  outstanding_award: false
+  spotlight: false
 - title: Understanding Layer Significance in LLM Alignment
   authors: Guangyuan SHI, ZEXIN LU, Xiaoyu DONG, Wenlong Zhang, Xuanyu Zhang, Yujie
     Feng, Xiao-Ming Wu
   url: https://openreview.net/forum?id=JloZnCwhmk
+  outstanding_award: false
+  spotlight: false
 - title: 'RRO: LLM Agent Optimization Through Rising Reward Trajectories'
   authors: Zilong Wang, Jingfeng Yang, Sreyashi Nag, Samarth Varshney, Xianfeng Tang,
     Haoming Jiang, Jingbo Shang, Sheikh Muhammad Sarwar
   url: https://openreview.net/forum?id=PhaE8TSM5j
+  outstanding_award: false
+  spotlight: false
 - title: 'Imagine All The Relevance: Scenario-Profiled Indexing with Knowledge Expansion
     for Dense Retrieval'
   authors: Sangam Lee, Ryang Heo, SeongKu Kang, Dongha Lee
   url: https://openreview.net/forum?id=ZYVAtUUNbH
+  outstanding_award: false
+  spotlight: false
 - title: 'URANIA: Differentially Private Insights into AI Use'
   authors: Daogao Liu, Edith Cohen, Badih Ghazi, Peter Kairouz, Pritish Kamath, Alexander
     Knop, Ravi Kumar, Pasin Manurangsi, Adam Sealfon, Da Yu, Chiyuan Zhang
   url: https://openreview.net/forum?id=dujG4nGClA
+  outstanding_award: false
+  spotlight: false
 - title: 'Do Large Language Models Have a Planning Theory of Mind? Evidence from MindGames:
     a Multi-Step Persuasion Task'
   authors: Jared Moore, Ned Cooper, Rasmus Overmark, Beba Cibralic, Cameron Robert
     Jones, Nick Haber
   url: https://openreview.net/forum?id=vNJbDhgrM4
+  outstanding_award: false
+  spotlight: false
 - title: 'Robo-Instruct: Simulator-Augmented Instruction Alignment For Finetuning
     Code LLMs'
   authors: Zichao Hu, Junyi Jessy Li, Arjun Guha, Joydeep Biswas
   url: https://openreview.net/forum?id=WnZjdQOWiY
+  outstanding_award: false
+  spotlight: false
 - title: 'Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives
     Targeting Mental Health Groups'
   authors: Rijul Magu, Arka Dutta, Sean Kim, Ashiqur R. KhudaBukhsh, Munmun De Choudhury
   url: https://openreview.net/forum?id=am6p8VFm9l
+  outstanding_award: false
+  spotlight: false
 - title: Hyperparameter Loss Surfaces Are Simple Near their Optima
   authors: Nicholas Lourie, He He, Kyunghyun Cho
   url: https://openreview.net/forum?id=IAoSG4Q2xC
+  outstanding_award: false
+  spotlight: false
 - title: Humans overrely on overconfident language models, across languages
   authors: Neil Rathi, Dan Jurafsky, Kaitlyn Zhou
   url: https://openreview.net/forum?id=QsQatTzATT
+  outstanding_award: false
+  spotlight: false
 - title: 'Mixture of Attention Spans: Optimizing LLM Inference Efficiency with Heterogeneous
     Sliding-Window Lengths'
   authors: Tianyu Fu, Haofeng Huang, Xuefei Ning, Genghan Zhang, Boju Chen, Tianqi
     Wu, Hongyi Wang, Zixiao Huang, Shiyao Li, Shengen Yan, Guohao Dai, Huazhong Yang,
     Yu Wang
   url: https://openreview.net/forum?id=n3rZJrWPLE
+  outstanding_award: false
+  spotlight: false
 - title: VaPR - Vision-language Preference alignment for Reasoning
   authors: Rohan Wadhawan, Fabrice Y Harel-Canada, Zi-Yi Dou, Suhaila Shakiah, Robinson
     Piramuthu, Nanyun Peng
   url: https://openreview.net/forum?id=uBAubFwymy
+  outstanding_award: false
+  spotlight: false
 - title: 'Agent S2: A Compositional Generalist-Specialist Framework for Computer Use
     Agents'
   authors: Saaket Agashe, Kyle Wong, Vincent Tu, Jiachen Yang, Ang Li, Xin Eric Wang
   url: https://openreview.net/forum?id=zg5is4GJ3R
+  outstanding_award: false
+  spotlight: false
 - title: 'Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical
     Thinking Skill?'
   authors: Chenrui Fan, Ming Li, Lichao Sun, Tianyi Zhou
   url: https://openreview.net/forum?id=ufozo2Wc9e
+  outstanding_award: false
+  spotlight: false
 - title: 'SmolVLM: Redefining small and efficient multimodal models'
   authors: Andrés Marafioti, Orr Zohar, Miquel Farré, Merve noyan, Elie Bakouch, Pedro
     Manuel Cuenca Jiménez, Cyril Zakka, Loubna Ben allal, Anton Lozhkov, Nouamane
     Tazi, Vaibhav Srivastav, Joshua Lochner, Hugo Larcher, Mathieu Morlon, Lewis Tunstall,
     Leandro Von Werra, Thomas Wolf
   url: https://openreview.net/forum?id=qMUbhGUFUb
+  outstanding_award: false
+  spotlight: false
 - title: 'FormaRL: Enhancing Autoformalization with no Labeled Data'
   authors: Yanxing Huang, Xinling Jin, Sijie Liang, Fuwen Luo, Peng Li, Yang Liu
   url: https://openreview.net/forum?id=Z2El1U94bq
+  outstanding_award: false
+  spotlight: false
 - title: 'Quantifying Fairness in LLMs Beyond Tokens: A Semantic and Statistical Perspective'
   authors: Weijie Xu, Yiwen Wang, Chi Xue, Xiangkun Hu, Xi Fang, Guimin Dong, Chandan
     K. Reddy
   url: https://openreview.net/forum?id=wKVtjs0w4a
+  outstanding_award: false
+  spotlight: true
 - title: Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits
     of Highly Effective STaRs
   authors: Kanishk Gandhi, Ayush K Chakravarthy, Anikait Singh, Nathan Lile, Noah
     Goodman
   url: https://openreview.net/forum?id=QGJ9ttXLTy
+  outstanding_award: false
+  spotlight: true
 - title: 'Boundless Byte Pair Encoding: Breaking the Pre-tokenization Barrier'
   authors: Craig W Schmidt, Varshini Reddy, Chris Tanner, Yuval Pinter
   url: https://openreview.net/forum?id=oPAjXGV8qQ
+  outstanding_award: false
+  spotlight: false
 - title: The Surprising Effectiveness of Membership Inference with Simple N-Gram Coverage
   authors: Skyler Hallinan, Jaehun Jung, Melanie Sclar, Ximing Lu, Abhilasha Ravichander,
     Sahana Ramnath, Yejin Choi, Sai Praneeth Karimireddy, Niloofar Mireshghallah,
     Xiang Ren
   url: https://openreview.net/forum?id=CNWlNF8VOm
+  outstanding_award: false
+  spotlight: false
 - title: 'ProsodyLM: Uncovering the Emerging Prosody Processing Capabilities in Speech
     Language Models'
   authors: Kaizhi Qian, Xulin Fan, Junrui Ni, Slava Shechtman, Mark A. Hasegawa-Johnson,
     Chuang Gan, Yang Zhang
   url: https://openreview.net/forum?id=uBg8PClMUu
+  outstanding_award: false
+  spotlight: false
 - title: Quantization Hurts Reasoning? An Empirical Study on Quantized Reasoning Models
   authors: Ruikang Liu, Yuxuan Sun, Manyi Zhang, Haoli Bai, Xianzhi Yu, Tiezheng YU,
     Chun Yuan, Lu Hou
   url: https://openreview.net/forum?id=BM192Ps5Nv
+  outstanding_award: false
+  spotlight: false
 - title: Breaking the Data Barrier -- Building GUI Agents Through Task Generalization
   authors: Junlei Zhang, Zichen Ding, Chang Ma, Zijie Chen, Qiushi Sun, Zhenzhong
     Lan, Junxian He
   url: https://openreview.net/forum?id=QDtORaZt8K
+  outstanding_award: false
+  spotlight: false
 - title: 'LIMO: Less is More for Reasoning'
   authors: Yixin Ye, Zhen Huang, Yang Xiao, Ethan Chern, Shijie Xia, Pengfei Liu
   url: https://openreview.net/forum?id=T2TZ0RY4Zk
+  outstanding_award: false
+  spotlight: false
 - title: 'Déjà Vu: Multilingual LLM Evaluation through the Lens of Machine Translation
     Evaluation'
   authors: Julia Kreutzer, Eleftheria Briakou, Sweta Agrawal, Marzieh Fadaee, Tom
     Kocmi
   url: https://openreview.net/forum?id=yxzVanFoij
+  outstanding_award: false
+  spotlight: false
 - title: 'Arctic-Embed 2.0: Multilingual Retrieval Without Compromise'
   authors: Puxuan Yu, Luke Merrick, Gaurav Nuti, Daniel F Campos
   url: https://openreview.net/forum?id=H6so82c2Sw
+  outstanding_award: false
+  spotlight: false
 - title: Vision-Language Models Are Not Pragmatically Competent in Referring Expression
     Generation
   authors: Ziqiao Ma, Jing Ding, Xuejun Zhang, Dezhi Luo, Jiahe Ding, Sihan Xu, Yuchen
     Huang, Run Peng, Joyce Chai
   url: https://openreview.net/forum?id=oj3ETSitjb
+  outstanding_award: false
+  spotlight: false
 - title: 'VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception
     of Geometric Information'
   authors: Ryo Kamoi, Yusen Zhang, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang,
     Rui Zhang
   url: https://openreview.net/forum?id=PYHwlyu2fa
+  outstanding_award: false
+  spotlight: false
 - title: 'QAPyramid: Fine-grained Evaluation of Content Selection for Text Summarization'
   authors: Shiyue Zhang, David Wan, Arie Cattan, Ayal Klein, Ido Dagan, Mohit Bansal
   url: https://openreview.net/forum?id=dZRzInscvA
+  outstanding_award: false
+  spotlight: false
 - title: Language Model Personalization via Reward Factorization
   authors: Idan Shenfeld, Felix Faltings, Pulkit Agrawal, Aldo Pacchiano
   url: https://openreview.net/forum?id=E7Tu5yjqXw
+  outstanding_award: false
+  spotlight: false
 - title: 'Noiser: Bounded Input Perturbations for Attributing Large Language Models'
   authors: Mohammad Reza Ghasemi Madani, Aryo Pradipta Gema, Yu Zhao, Gabriele Sarti,
     Pasquale Minervini, Andrea Passerini
   url: https://openreview.net/forum?id=17yFbHmblo
+  outstanding_award: false
+  spotlight: false
 - title: 'MALT: Improving Reasoning with Multi-Agent LLM Training'
   authors: Sumeet Ramesh Motwani, Chandler Smith, Rocktim Jyoti Das, Rafael Rafailov,
     Philip Torr, Ivan Laptev, Fabio Pizzati, Ronald Clark, Christian Schroeder de
     Witt
   url: https://openreview.net/forum?id=jXP9bgFack
+  outstanding_award: false
+  spotlight: false
 - title: Training Large Language Models to Reason in a Continuous Latent Space
   authors: Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, Xian Li, Zhiting Hu, Jason E
     Weston, Yuandong Tian
   url: https://openreview.net/forum?id=Itxz7S4Ip3
+  outstanding_award: false
+  spotlight: false
 - title: 'RepoST: Scalable Repository-Level Coding Environment Construction with Sandbox
     Testing'
   authors: Yiqing Xie, Alex Xie, Divyanshu Sheth, Pengfei Liu, Daniel Fried, Carolyn
     Rose
   url: https://openreview.net/forum?id=2txrMBpw3q
+  outstanding_award: false
+  spotlight: false
 - title: 'Breakpoint: Stress-testing systems-level reasoning in LLM agents'
   authors: Kaivalya Hariharan, Uzay Girit, Zifan Wang, Jacob Andreas
   url: https://openreview.net/forum?id=GQNojroNCH
+  outstanding_award: false
+  spotlight: false
 - title: 'LongPerceptualThoughts: Distilling System-2 Reasoning  for System-1 Perception'
   authors: Yuan-Hong Liao, Sven Elflein, Liu He, Laura Leal-Taixé, Yejin Choi, Sanja
     Fidler, David Acuna
   url: https://openreview.net/forum?id=SrKdi4MsUW
+  outstanding_award: false
+  spotlight: false
 - title: 'DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language
     Models via Reinforcement Learning'
   authors: Pengcheng Jiang, Jiacheng Lin, Lang Cao, Runchu Tian, SeongKu Kang, Zifeng
     Wang, Jimeng Sun, Jiawei Han
   url: https://openreview.net/forum?id=u9JXu4L17I
+  outstanding_award: false
+  spotlight: false
 - title: 'A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths
     to Reproducibility'
   authors: Andreas Hochlehnert, Hardik Bhatnagar, Vishaal Udandarao, Samuel Albanie,
     Ameya Prabhu, Matthias Bethge
   url: https://openreview.net/forum?id=90UrTTxp5O
+  outstanding_award: false
+  spotlight: false
 - title: 'Brains vs. Bytes: Evaluating LLM Proficiency in Olympiad Mathematics'
   authors: Hamed Mahdavi, Alireza Hashemi, Majid Daliri, Pegah Mohammadipour, Alireza
-    Farhadi, Samira Malek, Yekta Yazdanifard, Amir Khasahmadi, Vasant G Honavar
+    Farhadi, Samira Malek, Yekta Yazdanifard, Amir Khasahmadi, Vasant G. Honavar
   url: https://openreview.net/forum?id=uXR2KsA4L9
+  outstanding_award: false
+  spotlight: false
 - title: Approximating Language Model Training Data from Weights
   authors: John Xavier Morris, Junjie Oscar Yin, Woojeong Kim, Vitaly Shmatikov, Alexander
     M Rush
   url: https://openreview.net/forum?id=cQechnXCQt
+  outstanding_award: false
+  spotlight: false
 - title: RWKV-7 "Goose" with Expressive Dynamic State Evolution
   authors: Bo Peng, Ruichong Zhang, Daniel Goldstein, Eric Alcaide, Xingjian Du, Haowen
     Hou, Jiaju Lin, Jiaxing Liu, Janna Lu, William Merrill, Guangyu Song, Kaifeng
     Tan, Saiteja Utpala, Nathan Wilce, Johan S. Wind, Tianyi Wu, Daniel Wuttke, Christian
     Zhou-Zheng
   url: https://openreview.net/forum?id=ayB1PACN5j
+  outstanding_award: false
+  spotlight: false
 - title: Impact-driven Context Filtering For Cross-file Code Completion
   authors: Yanzhou Li, Shangqing Liu, Kangjie Chen, Tianwei Zhang, Yang Liu
   url: https://openreview.net/forum?id=0Y2zXLFBji
+  outstanding_award: false
+  spotlight: false
 - title: 'OpenCodeReasoning: Advancing Data Distillation for Competitive Coding'
   authors: Wasi Uddin Ahmad, Sean Narenthiran, Somshubra Majumdar, Aleksander Ficek,
     Siddhartha Jain, Jocelyn Huang, Vahid Noroozi, Boris Ginsburg
   url: https://openreview.net/forum?id=aykM7KUVJZ
+  outstanding_award: false
+  spotlight: false
 - title: 'Algorithm Discovery With LLMs: Evolutionary Search Meets Reinforcement Learning'
   authors: Anja Surina, Amin Mansouri, Lars C.P.M. Quaedvlieg, Amal Seddas, Maryna
     Viazovska, Emmanuel Abbe, Caglar Gulcehre
   url: https://openreview.net/forum?id=dNW3RGW0gi
+  outstanding_award: false
+  spotlight: false
 - title: A Taxonomy of Transcendence
   authors: Natalie Abreu, Edwin Zhang, Eran Malach, Naomi Saphra
   url: https://openreview.net/forum?id=tfTn8616Gf
+  outstanding_award: false
+  spotlight: false
 - title: Estimating Optimal Context Length for Hybrid Retrieval-augmented Multi-document
     Summarization
   authors: Adithya Pratapa, Teruko Mitamura
   url: https://openreview.net/forum?id=uh0Sf8yN7n
+  outstanding_award: false
+  spotlight: false
 - title: 'Insights from the Inverse: Reconstructing LLM Training Goals Through Inverse
     Reinforcement Learning'
   authors: Jared Joselowitz, Ritam Majumdar, Arjun Jagota, Matthieu Bou, Nyal Patel,
     Satyapriya Krishna, Sonali Parbhoo
   url: https://openreview.net/forum?id=Bs5Jb285qv
+  outstanding_award: false
+  spotlight: false
 - title: 'Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding'
   authors: Fabian David Schmidt, Ivan Vulić, Goran Glavaš, David Ifeoluwa Adelani
   url: https://openreview.net/forum?id=Tqj3fYqhwS
+  outstanding_award: false
+  spotlight: false
 - title: 'From Queries to Criteria: Understanding How Astronomers Evaluate LLMs'
   authors: Alina Hyk, Kiera McCormick, Mian Zhong, Ioana Ciucă, Sanjib Sharma, John
     F Wu, J. E. G. Peek, Kartheik G. Iyer, Ziang Xiao, Anjalie Field
   url: https://openreview.net/forum?id=ROtDZDUgvw
+  outstanding_award: false
+  spotlight: false
 - title: 'IterKey: Iterative Keyword Generation with LLMs for Enhanced Retrieval Augmented
     Generation'
   authors: Kazuki Hayashi, Hidetaka Kamigaito, Shinya Kouda, Taro Watanabe
   url: https://openreview.net/forum?id=y56BuSo8Uj
+  outstanding_award: false
+  spotlight: false
 - title: Customize Multi-modal RAI Guardrails with Precedent-based predictions
   authors: Cheng-Fu Yang, Thanh Tran, Christos Christodoulopoulos, Weitong Ruan, Rahul
     Gupta, Kai-Wei Chang
   url: https://openreview.net/forum?id=HL5X5uX0RD
+  outstanding_award: false
+  spotlight: false
 - title: 'Overfill: Two-Stage Models for Efficient Language Model Decoding'
   authors: Woojeong Kim, Junxiong Wang, Jing Nathan Yan, Mohamed S. Abdelfattah, Alexander
     M Rush
   url: https://openreview.net/forum?id=e112iu5ssg
+  outstanding_award: false
+  spotlight: false
 - title: 'Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation'
   authors: Songjun Tu, Jiahao Lin, Xiangyu Tian, Qichao Zhang, Linjing Li, Yuqian
     Fu, Nan Xu, Wei He, Xiangyuan Lan, Dongmei Jiang, Dongbin Zhao
   url: https://openreview.net/forum?id=OgWh4J7bkT
+  outstanding_award: false
+  spotlight: false
 - title: 'CLIPPER: Compression enables long-context synthetic data generation'
   authors: Chau Minh Pham, Yapei Chang, Mohit Iyyer
   url: https://openreview.net/forum?id=akHq1QcqeZ
+  outstanding_award: false
+  spotlight: false
 - title: 'Style over Substance: Distilled Language Models Reason Via Stylistic Replication'
   authors: Philip Lippmann, Jie Yang
   url: https://openreview.net/forum?id=5wAfbEs34A
+  outstanding_award: false
+  spotlight: false
 - title: Data-Centric Human Preference with Rationales for Direct Preference Alignment
   authors: Hoang Anh Just, Ming Jin, Anit Kumar Sahu, Huy Phan, Ruoxi Jia
   url: https://openreview.net/forum?id=LH2ZKviJoI
+  outstanding_award: false
+  spotlight: false
 - title: 'The Negation Bias in Large Language Models: Investigating bias reflected
     in linguistic markers'
   authors: Yishan Wang, Pia Sommerauer, Jelke Bloem
   url: https://openreview.net/forum?id=BuXZtHTefA
+  outstanding_award: false
+  spotlight: false
 - title: Can LLMs Handle WebShell Detection? Overcoming Detection Challenges with
     Behavioral Function-Aware Framework
   authors: Feijiang Han, Jiaming Zhang, Chuyi Deng, Jianheng Tang, Yunhuai Liu
   url: https://openreview.net/forum?id=QzJRtz8HNx
+  outstanding_award: false
+  spotlight: false
 - title: 'Short-PHD: Detecting Short LLM-generated Text with Topological Data Analysis
     After Off-topic Content Insertion'
   authors: Dongjun Wei, Minjia Mao, Xiao Fang, Michael Chau
   url: https://openreview.net/forum?id=IC2WwhUfQg
+  outstanding_award: false
+  spotlight: false
 - title: 'KVSink: Understanding and Enhancing the Preservation of Attention Sinks
     in KV Cache Quantization for LLMs'
   authors: Zunhai Su, Kehong Yuan
   url: https://openreview.net/forum?id=gIqb6zWZoO
+  outstanding_award: false
+  spotlight: false
 - title: 'AdaptMI: Adaptive Skill-based In-context Math Instructions for Small Language
     Models'
   authors: Yinghui He, Abhishek Panigrahi, Yong Lin, Sanjeev Arora
   url: https://openreview.net/forum?id=k72RxnoS5g
+  outstanding_award: false
+  spotlight: false
 - title: 'UNVEILING: What Makes Linguistics Olympiad Puzzles Tricky for LLMs?'
   authors: Mukund Choudhary, KV Aditya Srivatsa, Gaurja Aeron, Antara Raaghavi Bhattacharya,
     Dang Khoa Dang Dinh, Ikhlasul Akmal Hanif, Daria Kotova, Ekaterina Kochmar, Monojit
     Choudhury
   url: https://openreview.net/forum?id=fcRcl1EXc4
+  outstanding_award: false
+  spotlight: false
 - title: 'RARe: Retrieval Augmented Retrieval with In-Context Examples'
   authors: Atula Tejaswi, Yoonsang Lee, sujay sanghavi, Eunsol Choi
   url: https://openreview.net/forum?id=9FES5yT9v3
+  outstanding_award: false
+  spotlight: false
 - title: 'Text Speaks Louder than Vision: ASCII Art Reveals Textual Biases in Vision-Language
     Models'
   authors: Zhaochen Wang, Bryan Hooi, Yiwei Wang, Ming-Hsuan Yang, Zi Huang, Yujun
     Cai
   url: https://openreview.net/forum?id=naEyNVTLsh
+  outstanding_award: false
+  spotlight: false
 - title: 'IMPersona: Evaluating Individual Level LLM Impersonation'
   authors: Quan Shi, Carlos E. Jimenez, Stephen Dong, Brian Seo, Caden Yao, Adam Kelch,
     Karthik R Narasimhan
   url: https://openreview.net/forum?id=7qhBXq0NLN
+  outstanding_award: false
+  spotlight: false
 - title: 'LLMs as Research Tools: A Large Scale Survey of Researchers’ Usage and Perceptions'
   authors: Zhehui Liao, Maria Antoniak, Inyoung Cheong, Evie Yu-Yen Cheng, Ai-Heng
     Lee, Kyle Lo, Joseph Chee Chang, Amy X Zhang
   url: https://openreview.net/forum?id=p0BwJk3R1p
+  outstanding_award: false
+  spotlight: false
 - title: Evaluating Large Language Models as Expert Annotators
   authors: Yu-Min Tseng, Wei-Lin Chen, Chung-Chi Chen, Hsin-Hsi Chen
   url: https://openreview.net/forum?id=DktAODDdbt
+  outstanding_award: false
+  spotlight: false
 - title: Agents Are All You Need for LLM Unlearning
   authors: Debdeep Sanyal, Murari Mandal
   url: https://openreview.net/forum?id=X39dK0SX9W
+  outstanding_award: false
+  spotlight: false
 - title: 'Beyond the Reported Cutoff: Where Large Language Models Fall Short on Financial
     Knowledge'
   authors: Agam Shah, Liqin Ye, Sebastian Jaskowski, Wei Xu, Sudheer Chava
   url: https://openreview.net/forum?id=lEpPFmGH3L
+  outstanding_award: false
+  spotlight: false
 - title: 'BEARCUBS: A benchmark for computer-using web agents'
   authors: Yixiao Song, Katherine Thai, Chau Minh Pham, Yapei Chang, Mazin Nadaf,
     Mohit Iyyer
   url: https://openreview.net/forum?id=0JzWiigkUy
+  outstanding_award: false
+  spotlight: false
 - title: Hypothesis-Driven Theory-of-Mind Reasoning for Large Language Models
   authors: Hyunwoo Kim, Melanie Sclar, Tan Zhi-Xuan, Lance Ying, Sydney Levine, Yang
     Liu, Joshua B. Tenenbaum, Yejin Choi
   url: https://openreview.net/forum?id=yGQqTuSJPK
+  outstanding_award: false
+  spotlight: false
 - title: 'PyramidKV: Dynamic KV Cache Compression based on Pyramidal Information Funneling'
   authors: Zefan Cai, Yichi Zhang, Bofei Gao, Yuliang Liu, Yucheng Li, Tianyu Liu,
     Keming Lu, Wayne Xiong, Yue Dong, Junjie Hu, Wen Xiao
   url: https://openreview.net/forum?id=ayi7qezU87
+  outstanding_award: false
+  spotlight: true
 - title: 'When Splitting Makes Stronger: A Theoretical and Empirical Analysis of Divide-and-Conquer
     Prompting in LLMs'
   authors: Yizhou Zhang, Defu Cao, Lun Du, Qiang Fu, Yan Liu
   url: https://openreview.net/forum?id=rAR7iPI8Kh
+  outstanding_award: false
+  spotlight: false
 - title: Fluid Language Model Benchmarking
   authors: Valentin Hofmann, David Heineman, Ian Magnusson, Kyle Lo, Jesse Dodge,
     Maarten Sap, Pang Wei Koh, Chun Wang, Hannaneh Hajishirzi, Noah A. Smith
   url: https://openreview.net/forum?id=mxcCg9YRqj
+  outstanding_award: false
+  spotlight: true
 - title: 'Rank1: Test-Time Compute for Reranking in Information Retrieval'
   authors: Orion Weller, Kathryn Ricci, Eugene Yang, Andrew Yates, Dawn Lawrie, Benjamin
     Van Durme
   url: https://openreview.net/forum?id=Pg0PAvbhGv
+  outstanding_award: false
+  spotlight: false
 - title: Crosslingual Capabilities and Knowledge Barriers in Multilingual Large Language
     Models
   authors: Lynn Chua, Badih Ghazi, Yangsibo Huang, Pritish Kamath, Ravi Kumar, Pasin
     Manurangsi, Amer Sinha, Chulin Xie, Chiyuan Zhang
   url: https://openreview.net/forum?id=AwRFhS5grK
+  outstanding_award: false
+  spotlight: false
 - title: Teaching Models to Understand (but not Generate) High-risk Data
   authors: Ryan Yixiang Wang, Matthew Finlayson, Luca Soldaini, Swabha Swayamdipta,
     Robin Jia
   url: https://openreview.net/forum?id=n6mTO5JS4j
+  outstanding_award: false
+  spotlight: false
