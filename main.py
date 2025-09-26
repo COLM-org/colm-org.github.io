@@ -227,6 +227,12 @@ def program_overview():
     return render_template("program-overview.html", **data)
 
 
+@app.route("/schedule.html")
+def schedule():
+    data = _data()
+    return render_template("schedule.html", **data)
+
+
 @app.route("/dates.html")
 def dates():
     data = _data()
