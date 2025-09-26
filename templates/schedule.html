@@ -1,89 +1,26 @@
-{% set active_page = "Schedule" %}
-{% set page_title = "Schedule" %}
+{% set active_page = "Program Overview" %}
+{% set page_title = "Program Overview" %}
 {% extends "base.html" %}
-{% block head %}
-{{ super() }}
-{% include 'schedule_head.html' %}
-{% endblock %}
 
-{% block tabs %}
-{{ components.tabs([("calendar", "Calendar", "active"),
-        ("day", "Example Day", "")]) }}
-{% endblock %}
 
 {% block content %}
-<div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
-  <!-- Calender tab -->
-  <div
-    class="tab-pane active"
-    id="tab-calendar"
-    role="tabpanel"
-    aria-labelledby="nav-profile-tab"
-  >
-    <div class="form-group col">
-      <label for="tzOptions">Timezone:</label>
-      <select id="tzOptions" class="selectpicker" data-live-search="true">
-      </select>
-    </div>
 
-    <!-- full cal for browser-->
-    <div id="calendar" class="d-none d-sm-block"></div>
-
-    <!-- small cal for smart phones-->
-    <div id="calendar_small" class="d-sm-none"></div>
-
-<!--    <script type="text/javascript">-->
-<!--      // console.log(make_cal(),"-&#45;&#45; make_cal()");-->
-<!--      make_cal().then((d) => console.log(d, "-&#45;&#45; d"));-->
-<!--    </script>-->
+<div>
+  <div title="Whova event and conference app" id="whova-agendawidget">
+      <p id="whova-loading">Loading...</p>
   </div>
-
-  <!-- Day Tab -->
-
-  <div
-    class="tab-pane fade"
-    id="tab-day"
-    role="tabpanel"
-    aria-labelledby="nav-profile-tab"
-  >
-    <div id="day">
-      <!-- Speakers -->
-      {{ components.section("Speakers") }}
-      <div class="speakers">
-        {{ components.speakergroup(day.speakers) }}
-      </div>
-      {{ components.section("Highlighted Papers") }}
-      <div class="papers">
-        {{ components.highlightgroup(day.highlighted, 1) }}
-      </div>
-    </div>
-
-
-  </div>
-
-  <script type="text/javascript">
-    window.onload = () => {
-      const tabPanes = $(".tab-pane");
-      // Create calendars:
-      make_cal(false).then(({ render }) => {
-        // render cal with all tabs visible
-        tabPanes.css("display", "block");
-        render();
-        tabPanes.css("display", "");
-
-        // re-render cal on resize
-        $(window).on(
-          "resize",
-          _.debounce(() => {
-            tabPanes.css("display", "block");
-            render();
-            tabPanes.css("display", "");
-          }, 500)
-        );
-      });
-      // ----
-      lazyLoader();
-    };
+  <script src="https://whova.com/static/frontend/xems/js/embed/embedagenda.js?eid=DXivXkryPhzvSHsyIFXOPfd8b4wKfd9qBMKe4XKB4dI%3D&host=https://whova.com" type="text/javascript"  id="embeded-agenda-script">
   </script>
+  <div id="whova-wrap" class="whova-wrap-class">
+      Powered By
+      <a class="brandlink" target="_blank" href="https://whova.com">
+          <b>Whova</b>
+      </a>
+      <br/>
+      <a class="whova-emslink brandanchorlink" target="_blank" href="https://whova.com/event-management-software/">
+          Event planning tools
+      </a>
+  </div>
 </div>
+
 {% endblock %}
