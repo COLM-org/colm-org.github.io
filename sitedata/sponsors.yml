@@ -63,7 +63,7 @@ sponsors:
     - name: Megagon
       img_url:
       url: https://megagon.ai/
-      img_src: static/images/sponsors/Megagon.svg
+      img_src: static/images/sponsors/Megagon-Labs.png
       size: 200px
       description: 
     - name: ByteDance
@@ -125,6 +125,12 @@ sponsors:
       img_src: static/images/sponsors/collinear-ai.svg
       size: 200px
       description: Collinear is an early-stage, VC-backed startup helping enterprise customers build safe, reliable, and high-performing AI systems. Our AI judge framework uses smaller, specialized reward models to evaluate LLM outputs for accuracy, safety, and alignment, turning real-world failure modes into high-quality post-training data. We combine rigorous post-training and alignment research with hands-on engineering to deliver automated evaluation, adversarial red teaming, and targeted model improvement, enabling enterprises to deploy AI they can trust.
+    - name: Tiptree Systems
+      img_url:
+      url: https://tiptreesystems.com/
+      img_src: static/images/sponsors/Tiptree.svg
+      size: 200px
+      description: 
 
 - tier: Bronze
   size: 2
