@@ -1,0 +1,26 @@
+{% set active_page = "Socials" %}
+{% set page_title = "Socials" %}
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<h2>
+    Socials
+</h2>
+
+<style>
+    td, th {
+       border: none!important;
+       padding-right: 10px;
+       padding-bottom: 5px;
+    }
+</style>
+    
+<br />
+
+
+<div class="h5" style="line-height: 1.5;">
+{{ socials | markdown }}
+</div>
+{% endblock %}
