@@ -19,7 +19,7 @@ Monday, October 6
 <tr><td><div class="text-secondary">2:30pm - 3:30pm</div></td><td><a href="/plenary.html">Keynote: Shirley Ho</a></td></tr>
 <tr><td><div class="text-secondary">3:30pm - 4:30pm</div></td><td>Oral Talks 2</td></tr>
 <tr><td><div class="text-secondary">4:30pm - 6:30pm</div></td><td>Poster Session 2</td></tr>
-<tr><td><div class="text-secondary">6:30pm - 8:00pm</div></td><td>Opening Reception</td></tr>
+<tr><td><div class="text-secondary">6:30pm - 8:00pm</div></td><td>Opening Reception (Hall 710)</td></tr>
 </table>
 
 <br/>
