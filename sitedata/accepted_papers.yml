@@ -100,7 +100,7 @@
   spotlight: false
 - title: Building Instruction-Tuning Datasets from Human-Written Instructions with
     Open-Weight Large Language Models
-  authors: Youmi Ma, Sakae Mizuki, Kazuki Fujii, Taishi Nakamura, Masanari Ohi, Hinari
+  authors: Youmi Ma, Sakae Mizuki, Kazuki Fujii, Taishi Nakamura, Masanari Oi, Hinari
     Shimada, Taihei Shiotani, Koshiro Saito, Koki Maeda, Kakeru Hattori, Takumi Okamoto,
     Shigeki Ishida, Rio Yokota, Hiroya Takamura, Naoaki Okazaki
   url: https://openreview.net/forum?id=6vTv9M9ZAA
@@ -177,7 +177,7 @@
 - title: 'Hidden in plain sight: VLMs overlook their visual representations'
   authors: Stephanie Fu, tyler bonnen, Devin Guillory, Trevor Darrell
   url: https://openreview.net/forum?id=qQb1JLrwol
-  outstanding_award: false
+  outstanding_award: true
   spotlight: true
 - title: Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality
   authors: Sewoong Lee, Adam Davies, Marc E. Canby, Julia Hockenmaier
@@ -661,7 +661,7 @@
 - title: Shared Global and Local Geometry of Language Model Embeddings
   authors: Andrew Lee, Melanie Weber, Fernanda Viégas, Martin Wattenberg
   url: https://openreview.net/forum?id=aJDykpJAYF
-  outstanding_award: false
+  outstanding_award: true
   spotlight: true
 - title: 'EvalTree: Profiling Language Model Weaknesses via Hierarchical Capability
     Trees'
@@ -810,7 +810,7 @@
   authors: Jacob Eisenstein, Reza Aghajani, Adam Fisch, Dheeru Dua, Fantine Eri Huot,
     Mirella Lapata, Vicky Zayats, Jonathan Berant
   url: https://openreview.net/forum?id=2vDJiGUfhV
-  outstanding_award: false
+  outstanding_award: true
   spotlight: true
 - title: 'Know Me, Respond to Me: Benchmarking LLMs for Dynamic User Profiling and
     Personalized Responses at Scale'
@@ -865,7 +865,7 @@
   outstanding_award: false
   spotlight: false
 - title: 'LV-Eval: A Balanced Long-Context Benchmark with 5 Length Levels Up to 256K'
-  authors: Tao Yuan, Xuefei Ning, Dong Zhou, Zhijie Yang, Shiyao Li, Minghui Zhuang,
+  authors: Tao Yuan, Xuefei Ning, Dong Zhou, Zhijie Yang, Shiyao Li, Yueqing Zhuang,
     Zheyue Tan, Zhuyu Yao, Dahua Lin, Boxun Li, Guohao Dai, Shengen Yan, Yu Wang
   url: https://openreview.net/forum?id=r0AXK5Cnhr
   outstanding_award: false
@@ -1176,7 +1176,7 @@
     Li Du, Jason Eisner, Ryan Cotterell, Vikash Mansinghka, Timothy J. O'Donnell,
     Alexander K. Lew, Tim Vieira
   url: https://openreview.net/forum?id=3BmPSFAdq3
-  outstanding_award: false
+  outstanding_award: true
   spotlight: true
 - title: Unifying Autoregressive and Diffusion-Based Sequence Generation
   authors: Nima Fathi, Torsten Scholak, Pierre-Andre Noel
