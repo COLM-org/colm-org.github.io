@@ -48,4 +48,4 @@ All accredited press are granted full access to the in-person events.
 
 ## Disclaimer
 
-The ICLR General Chair reserves the right to deny or withdraw accreditation for activities that violate the principles of the [Code of Conduct](/CoC.html) and/or ethics of journalism and/or COLM. At any time, the COLM General Chair may revoke accreditation if it is put to improper use, if it has been used to abuse the privileges so extended, or if personal conduct is not consistent with the best interest of the organization.
+The COLM General Chair reserves the right to deny or withdraw accreditation for activities that violate the principles of the [Code of Conduct](/CoC.html) and/or ethics of journalism and/or COLM. At any time, the COLM General Chair may revoke accreditation if it is put to improper use, if it has been used to abuse the privileges so extended, or if personal conduct is not consistent with the best interest of the organization.
