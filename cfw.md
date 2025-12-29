@@ -1,5 +1,5 @@
 
-We invite proposals for workshops to be held in tandem with the 2nd Conference on Language Modeling (COLM).
+We invite proposals for workshops to be held in tandem with the 3rd Conference on Language Modeling (COLM).
 
 ---
 
@@ -11,11 +11,11 @@ We invite proposals for workshops to be held in tandem with the 2nd Conference o
 
 All deadlines are 23:59 AoE (anywhere on earth)
 
-* Workshop proposal deadline: April 14, 2025  
-* Proposal decision notifications: May 8, 2025  
-* Suggested submission deadline for workshop contributions: June 23, 2025  
-* Mandatory accept/reject notification for workshop contributions: July 24, 2025  
-* Workshops day at COLM: October 10, 2025
+* Workshop proposal deadline: TBD  
+* Proposal decision notifications: TBD  
+* Suggested submission deadline for workshop contributions: TBD  
+* Mandatory accept/reject notification for workshop contributions: TBD  
+* Workshops day at COLM: October 9, 2026
 
 ---
 
@@ -30,7 +30,7 @@ Workshop proposals should highlight how they serve these purposes as appropriate
 
 ## Logistics
 
-All workshops will take place on October 10, 2025 (the last day of COLM 2025\) and will be 7-9 hours long. We anticipate being able to host 8-10 workshops. COLM is unable to provide funding for workshops, but will provide a limited number of complementary conference registrations to workshop organizers (which can be used either for the organizers themselves, workshop attendees, or invited speakers). Workshop organizers are welcome to solicit funding for travel or other purposes. We encourage workshop organizers to explore options for organizing their own live-streaming. COLM will be unable to provide streaming services. Workshop organizers cannot be invited speakers to their own workshop (though they can moderate discussion) and workshop co-chairs cannot be invited speakers at workshops or be an organizer for any workshop.
+All workshops will take place on October 9, 2026 (the last day of COLM 2026\) and will be 7-9 hours long. We anticipate being able to host 8-10 workshops. COLM is unable to provide funding for workshops, but will provide a limited number of complementary conference registrations to workshop organizers (which can be used either for the organizers themselves, workshop attendees, or invited speakers). Workshop organizers are welcome to solicit funding for travel or other purposes. We encourage workshop organizers to explore options for organizing their own live-streaming. COLM will be unable to provide streaming services. Workshop organizers cannot be invited speakers to their own workshop (though they can moderate discussion) and workshop co-chairs cannot be invited speakers at workshops or be an organizer for any workshop.
 
 ## Proposal format
 
@@ -57,4 +57,4 @@ The workshop co-chairs will review all workshop submissions, except in cases whe
 
 **Code of Conduct.** All COLM participants, including workshop organizers, attendees, and speakers, are required to adhere to the COLM code of conduct ([https://colmweb.org/CoC.html](https://colmweb.org/CoC.html)). More detailed guidance for authors, reviewers, and all other participants will be made available in due course, and participation will require acknowledging and adhering to the provided guidelines.
 
-**Code of Ethics.** All participants of COLM must abide by COLM’s code of ethics ([https://colmweb.org/CoE.html](https://colmweb.org/CoE.html)).
+**Code of Ethics.** All participants of COLM must abide by COLM's code of ethics ([https://colmweb.org/CoE.html](https://colmweb.org/CoE.html)).

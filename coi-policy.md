@@ -1,4 +1,4 @@
-This document defines what constitutes a conflict of interest for the COLM review process. This documented was updates for COLM 2025. Please read this document carefully.
+This document defines what constitutes a conflict of interest for the COLM review process. This document was updated for COLM 2026. Please read this document carefully.
 
 Anyone who plans to submit a paper as an author or a co-author, as well as reviewers and area chairs will need to create or update their OpenReview profile. You will be asked to declare two types of conflicts---domain conflicts and personal conflicts. Both types are declared by filling out appropriate sections of your OpenReview profile, as described below.
 

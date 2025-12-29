@@ -67,13 +67,12 @@
 <body>
 <!-- NAV -->
 {% block header %}
+{# Hidden for 2026 until ready: Attend, Program, Sponsors #}
 {% set navigation_bar = [
 ('index.html', 'Home', []),
 ('dates.html', 'Dates', []),
 ('faq.html', 'FAQ', []),
-('#', 'Attend', [('https://colm.eventhosts.cc', 'Registration'), ('programs.html', 'Volunteering and Financial Assistance'), ('amenities.html', 'On-Site Amenities'), ('hotels.html', 'Hotels'), ('poster_print.html', 'Poster Printing'), ('media.html', 'Media')]),
-('#', 'Program', [('schedule.html', 'Schedule'), ('plenary.html', 'Keynotes and Panel'), ('workshops.html', 'Workshops'), ('AcceptedPapers.html', 'Accepted Papers'), ('program-overview.html', 'Program Overview'), ('socials.html', 'Socials')]),
-('#', 'Calls', [('cfp.html', 'Call for Papers'), ('cfw.html', 'Call for Workshops')]),
+('#', 'Calls', [('cfp.html', 'Call for Papers')]),
 ('#', 'Guides', [('CoC.html', 'Code of Conduct'),
                  ('CoE.html', 'Code of Ethics'),
                  ('ReviewGuide.html', 'Review Guidelines'),
@@ -81,7 +80,6 @@
                  ('AuthorGuide.html', 'Author Guide'),
                  ('coi-policy.html', 'COI Policy'),]),
 ('#', 'Organization', [('committees.html', 'Organizing Committee'),('board.html', 'Board')]),
-('sponsors.html', 'Sponsors', []),
 ] -%}
 
 <nav
@@ -172,7 +170,7 @@
 <footer class="footer bg-light p-4">
     <div class="container">
         <p class="float-right"><a href="#">Back to Top</a></p>
-        <p class="text-center">© 2025 {{config.organization}}</p>
+        <p class="text-center">© 2026 {{config.organization}}</p>
     </div>
 </footer>
 

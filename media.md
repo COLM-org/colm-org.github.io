@@ -1,7 +1,7 @@
 # Media Accreditation
 
 <div class="alert alert-info" role="alert">
-<strong>Media Application Deadline:</strong> October 3, 2025 - <a href="https://forms.gle/Ws5iCcad78zVH9iE9" class="alert-link">Apply Here</a>
+<strong>Media Application Deadline:</strong> TBD
 </div>
 
 <div class="alert alert-secondary" role="alert">
@@ -17,8 +17,6 @@ Press accreditation is strictly reserved for members of the press. Applicants mu
 ## Accreditation Process
 
 To begin, you will need the following information. The names and information entered are for purposes of identification and verification only and will not be published for general access. This information will be retained in the system for reference unless a written request to remove it is received.
-
-**Create a profile:** [https://colm.eventhosts.cc/Profile/create](https://colm.eventhosts.cc/Profile/create)
 
 ### Required Information:
 

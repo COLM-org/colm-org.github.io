@@ -1,11 +1,8 @@
-# On-Site Amenities at COLM 2025
+# On-Site Amenities at COLM 2026
 
 <br>
 
-
-COLM 2025 will provide childcare facilities. Please [click here](https://form.jotform.com/KiddieCorp/colmkids) to register for Childcare!
-
-Furthermore, prayer rooms will be provided for people that wish to pray throughout the conference.
+COLM 2026 will provide various on-site amenities including childcare facilities and prayer rooms. Details will be announced soon.
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

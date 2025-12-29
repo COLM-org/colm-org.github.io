@@ -1,20 +1,11 @@
 
-- **Main conference:** October 7-9, 2025
-- **Workshops:** October 10, 2025
+- **Main conference:** October 6-8, 2026
+- **Workshops:** October 9, 2026
 
 ### Main Track Submission Timeline
 
-- **OpenReview submission site opens:** February 27, 2025
-- **Abstract deadline:** March 22, 2025
-- **Full paper submission deadline:** March 28, 2025
-- **Rebuttal period:** May 27 to June 10, 2025
-- **Decision notifications:** July 7, 2025
-- **Camera-ready deadline:** August 7, 2025
-- **Conference dates:** October 7-10, 2025
-
-### Workshop Submission Timeline
-
-- **Workshop proposal deadline:** April 14, 2025
-- **Proposal decision notifications:** May 8, 2025
-- **Suggested submission deadline for workshop contributions:** June 23, 2025
-- **Mandatory accept/reject notification for workshop contributions:** July 24, 2025
+- **Abstract deadline:** Thursday, March 26, 2026
+- **Full paper submission deadline:** Tuesday, March 31, 2026
+- **Rebuttal period:** May 22 to June 8, 2026
+- **Decision notifications:** July 8, 2026
+- **Conference dates:** October 6-9, 2026
