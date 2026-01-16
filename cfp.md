@@ -89,7 +89,7 @@ More information about this requirement and its rationale is available in our [F
 
 **Author Guidelines.** Authors are expected to follow the COLM Author Guide ([https://colmweb.org/AuthorGuide.html](https://colmweb.org/AuthorGuide.html)).
 
-**AC Guidelines.** ACs are expected to follow the COLM Author Guide ([https://colmweb.org/ac-guidelines.html](https://colmweb.org/ac-guidelines.html)).
+**AC Guidelines.** ACs are expected to follow the COLM AC Guidelines ([https://colmweb.org/ac-guidelines.html](https://colmweb.org/ac-guidelines.html)).
 
 **Code of Conduct.** All COLM participants, including authors, are required to adhere to the COLM code of conduct ([https://colmweb.org/CoC.html](https://colmweb.org/CoC.html)). More detailed guidance for authors, reviewers, and all other participants will be made available in due course, and participation will require acknowledging and adhering to the provided guidelines.
 
