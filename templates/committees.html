@@ -1,38 +1,49 @@
 {% set active_page = "Committee" %} {% extends "base.html" %}
 
-{% block content %} 
+{% block content %}
 
 
 {{ components.section("Organizers") }}
 {{ components.organizergroup(committee)}}
 
-{{ components.section("Student Assistants") }}
+<!-- {{ components.section("Student Assistants") }}
 
 <div class="h5" style="line-height: 1.5;">
-<!-- Student Assistants -->
-<h4>PC Assistants</h4>
+Student Assistants -->
+<!--<h4>PC Assistants</h4>
 <table>
-<tr><td>Anne Wu</td>  <td></td>  <td>Fangyuan Xu</td>  <td>Sachin Goyal</td>  <td>Jieyu Zhang</td>  <td>Cheng-Yu Hsieh</td></tr>
+    <tr>
+        <td>Anne Wu</td>
+        <td></td>
+        <td>Fangyuan Xu</td>
+        <td>Sachin Goyal</td>
+        <td>Jieyu Zhang</td>
+        <td>Cheng-Yu Hsieh</td>
+    </tr>
 </table>
 <br />
 
 <h4>Web Devs</h4>
 <table>
-<tr><td>Parishad BehnamGhader</td>  <td></td>  <td>Xing Han Lu</td></tr>
+    <tr>
+        <td>Parishad BehnamGhader</td>
+        <td></td>
+        <td>Xing Han Lu</td>
+    </tr>
 </table>
 <br />
-</div>
+</div> -->
 
 <!-- Award Committee -->
-{{ components.section("Award Committee") }}
+<!-- {{ components.section("Award Committee") }}
 <div class="h5" style="line-height: 1.5;">
     {{ AwardCommittee | markdown }}
-</div>
+</div> -->
 
 <!-- Area Chairs -->
-{{ components.section("Area Chairs") }}
+<!-- {{ components.section("Area Chairs") }}
 <div class="h5" style="line-height: 1.5;">
     {{ AreaChairs | markdown }}
-</div>
+</div> -->
 
 {% endblock %}

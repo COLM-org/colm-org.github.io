@@ -1,83 +1,61 @@
 committee:
   - role: General Chair
-    name: Dipanjan Das
-    aff: Google DeepMind
-    im: static/images/Dipanjan.jpeg
-    tw: dipanjand
-    ws: https://www.dipanjandas.com/
-  - role: Senior Program Chair
     name: Yoav Artzi
-    aff: Cornell Tech, ASAPP
-    im: static/images/Yoav.jpg
-    tw: yoavartzi
+    aff: Cornell University / Google DeepMind
     ws: https://yoavartzi.com/
+  - role: Senior Program Chair
+    name: Greg Durrett
+    aff: New York University
+    ws: https://gregdurrett.github.io/
   - role: Program Chair
-    name: Aditi Raghunathan
+    name: Aviral Kumar
     aff: CMU
-    im: static/images/aditi.jpeg
-    tw:
-    ws: https://www.cs.cmu.edu/~aditirag/
+    ws: https://aviralkumar2907.github.io/
   - role: Program Chair
-    name: Ranjay Krishna
+    name: Yulia Tsvetkov
     aff: UW
-    im: static/images/Ranjay.jpeg
-    tw:
-    ws: https://ranjaykrishna.com/
+    ws: https://homes.cs.washington.edu/~yuliats/
   - role: Program Chair
-    name: Eunsol Choi
-    aff: NYU
-    im: static/images/Eunsol.jpeg
-    tw: eunsolc
-    ws: https://eunsol.github.io/
+    name: Yoon Kim
+    aff: MIT
+    ws: https://people.csail.mit.edu/yoonkim/
   - role: Workshop Chair
-    name: Colin Raffel
-    aff: University of Toronto
-    im: static/images/Colin.jpg
-    tw:
-    ws: https://colinraffel.com/
+    name: Robert Hawkins
+    aff: Stanford University
+    ws: https://rdhawkins.com/
   - role: Workshop Chair
-    name: Adina Williams
-    aff: META FAIR
-    im: static/images/Adina.jpg
-    tw:
-    ws: https://ai.meta.com/people/1396973444287406/adina-williams/
+    name: Subhi Goel
+    aff: UPenn
+    ws: https://www.surbhigoel.com/
   
-  - role: DEI Chair
-    name: Julia Kreutzer
-    aff: Cohere for AI
-    im: static/images/julia_kreutzer.jpeg
-    tw: 
-    ws: https://juliakreutzer.github.io/
+  - role: Community and Accessibility Chair
+    name: Robin Jia
+    aff: USC
+    ws: https://robinjia.github.io/
 
-  - role: DEI Chair
-    name: Antoine Bosselut
-    aff: EPFL
-    im: static/images/antoine_bosselut.jpg
-    tw: 
-    ws: https://atcbosselut.github.io/
+  - role: Community and Accessibility Chair
+    name: Anjalie Fields
+    aff: JHU
+    ws: https://anjalief.github.io/
 
   - role: Ethics Chair
-    name: Mor Geva
-    aff: Tel Aviv University / Google Research
-    im: static/images/mor_geva.jpg
-    tw: 
-    ws: https://mega002.github.io/
+    name: Agenlina Wang
+    aff: Cornell University
+    ws: https://angelina-wang.github.io/
 
 
   - role: Ethics Chair
-    name: Raquel Fernández
-    aff: University of Amsterdam / ILLC
-    im: static/images/raquel_fernandez.png
-    tw: 
-    ws: https://staff.fnwi.uva.nl/r.fernandezrovira/
+    name: Vered Shwartz
+    aff: UBC
+    ws: https://www.cs.ubc.ca/~vshwartz/
 
 
-  - role: Local Chair
-    name: Siva Reddy
-    aff: McGill-MILA / ServiceNow
-    im: static/images/siva.jpg
-    tw: sivareddyg
-    ws: https://sivareddy.in/
+  # - role: Local Chair
+  #   name: Siva Reddy
+  #   aff: McGill-MILA / ServiceNow
+  #   im: static/images/siva.jpg
+  #   tw: sivareddyg
+  #   ws: https://sivareddy.in/
 
   - role: Organizational Chair
     name: Chris Brown
