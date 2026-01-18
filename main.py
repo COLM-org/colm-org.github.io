@@ -16,7 +16,7 @@ by_uid = {}
 
 def main(site_data_path):
     global site_data, extra_files
-    extra_files = ["README.md", "cfp.md", "program-overview.md", "socials.md"]
+    extra_files = ["README.md", "cfp.md", "cfw.md", "program-overview.md", "socials.md"]
     # Load all for your sitedata one time.
     for f in glob.glob(site_data_path + "/*"):
         extra_files.append(f)
