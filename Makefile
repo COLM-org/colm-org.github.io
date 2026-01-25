@@ -3,6 +3,7 @@ JS_FILES = $(shell find static/js -name "*.js")
 CSS_FILES = $(shell find static/css -name "*.css")
 .PHONY: format-python format-web format run freeze format-check
 TEMP_DEPLOY_BRANCH = "temp-gh-pages"
+PAST_YEAR_DIRS = $(wildcard past/*)
 
 all: format-check
 
@@ -22,6 +23,10 @@ run:
 freeze:
 	python main.py sitedata/ --build
 	cp -rf .well-known build
+	for dir in $(PAST_YEAR_DIRS); do \
+		year=$$(basename $$dir); \
+		cp -R "$$dir" "build/$$year"; \
+	done
 
 # check code format
 format-check:

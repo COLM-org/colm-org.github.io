@@ -1,0 +1,605 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script> <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+            href="static/css/Lato.css"
+            rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet"/>
+    <link
+            href="static/css/Cuprum.css"
+            rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+    <link rel="icon" href="/favicon.svg"/>
+    <style>
+      .archive-banner {
+        background: #0b7285;
+        color: #ffffff;
+        font-weight: 600;
+        letter-spacing: 0.04em;
+        padding: 8px 12px;
+        text-align: center;
+      }
+
+      .archive-banner a {
+        color: #ffffff;
+        margin-left: 12px;
+        text-decoration: underline;
+      }
+    </style>
+    <title>COLM 2025</title>
+    
+</head>
+
+<body>
+<div class="archive-banner">
+  COLM 2025 Archive
+  <a href="/">To Current Year</a>
+</div>
+<!-- NAV -->
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/logo.svg"
+                    height="auto"
+            width="180px"
+            />
+        </a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+              
+                <li class="nav-item dropdown  active">
+                    <a class="nav-link " href="index.html"
+                      
+                      >Home</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  active">
+                    <a class="nav-link " href="dates.html"
+                      
+                      >Dates</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  active">
+                    <a class="nav-link " href="faq.html"
+                      
+                      >FAQ</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown3">
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  active">
+                    <a class="nav-link dropdown-toggle" href="#"
+                      
+                      id="navbarDropdown4" role="button" data-toggle="dropdown"
+                      
+                      >Attend</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown4">
+                      
+                      <a class="dropdown-item" href="https://colm.eventhosts.cc">Registration</a>
+                      
+                      <a class="dropdown-item" href="programs.html">Volunteering and Financial Assistance</a>
+                      
+                      <a class="dropdown-item" href="amenities.html">On-Site Amenities</a>
+                      
+                      <a class="dropdown-item" href="hotels.html">Hotels</a>
+                      
+                      <a class="dropdown-item" href="poster_print.html">Poster Printing</a>
+                      
+                      <a class="dropdown-item" href="media.html">Media</a>
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  active">
+                    <a class="nav-link dropdown-toggle" href="#"
+                      
+                      id="navbarDropdown5" role="button" data-toggle="dropdown"
+                      
+                      >Program</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown5">
+                      
+                      <a class="dropdown-item" href="schedule.html">Schedule</a>
+                      
+                      <a class="dropdown-item" href="plenary.html">Keynotes and Panel</a>
+                      
+                      <a class="dropdown-item" href="workshops.html">Workshops</a>
+                      
+                      <a class="dropdown-item" href="AcceptedPapers.html">Accepted Papers</a>
+                      
+                      <a class="dropdown-item" href="program-overview.html">Program Overview</a>
+                      
+                      <a class="dropdown-item" href="socials.html">Socials</a>
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  active">
+                    <a class="nav-link dropdown-toggle" href="#"
+                      
+                      id="navbarDropdown6" role="button" data-toggle="dropdown"
+                      
+                      >Calls</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown6">
+                      
+                      <a class="dropdown-item" href="cfp.html">Call for Papers</a>
+                      
+                      <a class="dropdown-item" href="cfw.html">Call for Workshops</a>
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  active">
+                    <a class="nav-link dropdown-toggle" href="#"
+                      
+                      id="navbarDropdown7" role="button" data-toggle="dropdown"
+                      
+                      >Guides</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown7">
+                      
+                      <a class="dropdown-item" href="CoC.html">Code of Conduct</a>
+                      
+                      <a class="dropdown-item" href="CoE.html">Code of Ethics</a>
+                      
+                      <a class="dropdown-item" href="ReviewGuide.html">Review Guidelines</a>
+                      
+                      <a class="dropdown-item" href="ac-guidelines.html">AC Guidelines</a>
+                      
+                      <a class="dropdown-item" href="AuthorGuide.html">Author Guide</a>
+                      
+                      <a class="dropdown-item" href="coi-policy.html">COI Policy</a>
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  active">
+                    <a class="nav-link dropdown-toggle" href="#"
+                      
+                      id="navbarDropdown8" role="button" data-toggle="dropdown"
+                      
+                      >Organization</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown8">
+                      
+                      <a class="dropdown-item" href="committees.html">Organizing Committee</a>
+                      
+                      <a class="dropdown-item" href="board.html">Board</a>
+                      
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown  active">
+                    <a class="nav-link " href="sponsors.html"
+                      
+                      >Sponsors</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown9">
+                      
+                    </div>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+ 
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+         
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+<h1>Keynotes and Panel</h1>
+<p>COLM 2025 will include five keynotes and one panel. We are excited to have our keynotes and panel reflect the broad impact and intellectual spectrum of language modeling.</p>
+<!-- <div class="row">
+  
+</div> -->
+
+
+<h2 style="margin-top: 2rem;">
+    Keynote Speakers
+</h2>
+
+<div class="speakers">
+
+    
+
+    <div class="row p-4">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <div class="row">
+              <div class="col-md-2 col-sm-5">
+                <img src="/static/images/plenary/luke_zettlemoyer.png" width="100%" class="img-thumbnail lazy-load-img">
+              </div>
+              <div class="col-md-10 col-sm-6">
+                <div class="m-3 text-muted ">
+                  <h4>
+                    <a href="https://homes.cs.washington.edu/~lsz/">Luke Zettlemoyer</a> (University of Washington / Meta)
+                  </h4>
+                </div>
+                <div class="m-3 text-muted ">
+                  <span class="card-title h3">
+                    Mixed-modal Language Modeling
+                  </span>
+                </div>
+                
+                <div class="m-3 ">
+                  <p><small></small><strong>ABSTRACT: </strong>Multimodal architectures are typically designed for specific modalities (image-&gt;text, text-&gt;image, text only, etc). In this talk, I will present our recent work on a series of early fusion mixed-modal models with generalized architectures that can instead generate arbitrary mixed sequences of images and text. Such models have the ability to unlock fundamentally new multimodal chain-of-thought reasoning capabilities, as I will show through an early model for multimodal tool use, but determining the best mixed-model architecture remains an open challenge. I will discuss and contrast two models architectures, Chameleon and Transfusion, that make very different assumptions about how to model mixed-modal data, and argue for moving from a tokenize-everything approach to newer models that are hybrids of autoregressive transformers and diffusion. I will also cover recent efforts to better understand how to more stably train such models at scale without excessive modality competition, using a mixture of transformers technique. Together, these advances lay a possible foundation for universal models that can understand and generate data in any modality, and I will also sketch some of the steps that we still need to focus on to reach this goal.</small></p>
+                </div>
+                
+                
+                <div class="m-3 ">
+                  <p><small></small><strong>BIO: </strong>Luke Zettlemoyer is a Professor in the Paul G. Allen School of Computer Science &amp; Engineering at the University of Washington, and a Senior Research Director at Meta. His research focuses on empirical methods for natural language semantics, and involves designing machine learning algorithms, introducing new tasks and datasets, and, most recently, studying how to best develop self-supervision signals for pre-training. His honors include being elected ACL President, named an ACL Fellow, winning a PECASE award, an Allen Distinguished Investigator award, and multiple best paper awards. Luke was an undergrad at NC State University, received his PhD from MIT and was a postdoc at the University of Edinburgh.</small></p>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+    <div class="row p-4">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <div class="row">
+              <div class="col-md-2 col-sm-5">
+                <img src="/static/images/plenary/tom_griffiths.jpg" width="100%" class="img-thumbnail lazy-load-img">
+              </div>
+              <div class="col-md-10 col-sm-6">
+                <div class="m-3 text-muted ">
+                  <h4>
+                    <a href="https://cocosci.princeton.edu/tom/index.php">Tom Griffiths</a> (Princeton University)
+                  </h4>
+                </div>
+                <div class="m-3 text-muted ">
+                  <span class="card-title h3">
+                    Mapping the Jagged Edges of AI with Cognitive Science
+                  </span>
+                </div>
+                
+                <div class="m-3 ">
+                  <p><small></small><strong>ABSTRACT: </strong>Current artificial intelligence systems demonstrate surprising amount of heterogeneity in their abilities, displaying superhuman competence in some tasks but puzzling limitations in others. I will argue that the tools we need for understanding this heterogeneity can be found in cognitive science, where researchers have spent decades developing theoretical and empirical methods for making sense of the capabilities of intelligent systems. Work by cognitive scientists suggests two strategies for mapping the jagged edges of AI: identifying general properties of neural networks that might translate into limitations for current AI systems, and considering cases where human minds might provide a guide to problems that pose a challenge for AI. I will present examples of both strategies, discussing some surprising cases where large language models perform poorly in predictable ways and recent results using the limits of human cognition to predict cases where large language models and vision language models fail.</small></p>
+                </div>
+                
+                
+                <div class="m-3 ">
+                  <p><small></small><strong>BIO: </strong>Tom Griffiths is the Henry R. Luce Professor of Information Technology, Consciousness and Culture in the Departments of Psychology and Computer Science at Princeton University, where he is also the Director of the new AI Lab. His research explores connections between human and machine learning, using ideas from statistics and artificial intelligence to understand how people solve the challenging computational problems they encounter in everyday life. He has made contributions to the development of Bayesian models of cognition, probabilistic machine learning, nonparametric Bayesian statistics, and models of cultural evolution, and his recent work has demonstrated how methods from cognitive science can shed light on modern artificial intelligence systems. Tom completed his PhD in Psychology at Stanford University in 2005, and taught at Brown University and the University of California, Berkeley before moving to Princeton. He has received awards for his research from organizations ranging from the American Psychological Association to the National Academy of Sciences and is a co-author of the book Algorithms to Live By, introducing ideas from computer science and cognitive science to a general audience. His new book, The Laws of Thought, tells the story of people trying to use mathematics to understand the mind, and comes out in February 2026.</small></p>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+    <div class="row p-4">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <div class="row">
+              <div class="col-md-2 col-sm-5">
+                <img src="/static/images/plenary/nicholas_carlini.jpg" width="100%" class="img-thumbnail lazy-load-img">
+              </div>
+              <div class="col-md-10 col-sm-6">
+                <div class="m-3 text-muted ">
+                  <h4>
+                    <a href="https://nicholas.carlini.com/">Nicholas Carlini</a> (Anthropic)
+                  </h4>
+                </div>
+                <div class="m-3 text-muted ">
+                  <span class="card-title h3">
+                    Are the harms and risks of LLMs worth it?
+                  </span>
+                </div>
+                
+                <div class="m-3 ">
+                  <p><small></small><strong>ABSTRACT: </strong>Having largely succeed at creating highly effective language models over the past decades, this talk examines the risks we now face. I discuss both the immediate harms that we are already facing today (e.g., sycophancy), risks that seem inevitable to arrive in short order (e.g., LLM aided abuse), and &#39;existential risks&#39; some argue are likely to arrive soon after that (e.g., Doom?). I argue that each of these risks fall on a single continuum, and progress mitigating any one of these risks contributes positively towards mitigating the others. I propose several research directions that have been under-explored by the academic ML/LLM research community that could help mitigate these risks, and advocate for increased collaboration between all those who are concerned about risks of &#39;AI&#39; broadly construed.</small></p>
+                </div>
+                
+                
+                <div class="m-3 ">
+                  <p><small></small><strong>BIO: </strong>Nicholas Carlini is a research scientist at Anthropic working at the intersection of security and machine learning. His current work studies what harms an adversary could do with, or do to, language models. For his work, he has received best paper award from ICML, EuroCrypt, USENIX Security, and IEEE S&amp;P. He obtained his PhD from UC Berkeley in 2018 under David Wagner.</small></p>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+    <div class="row p-4">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <div class="row">
+              <div class="col-md-2 col-sm-5">
+                <img src="/static/images/plenary/Shirley_Ho.jpg" width="100%" class="img-thumbnail lazy-load-img">
+              </div>
+              <div class="col-md-10 col-sm-6">
+                <div class="m-3 text-muted ">
+                  <h4>
+                    <a href="https://www.shirleyho.space/">Shirley Ho</a> (Flatiron Institute)
+                  </h4>
+                </div>
+                <div class="m-3 text-muted ">
+                  <span class="card-title h3">
+                    Building a Polymathic Foundation Model for Science
+                  </span>
+                </div>
+                
+                <div class="m-3 ">
+                  <p><small></small><strong>ABSTRACT: </strong>Foundation models like ChatGPT, Claude &amp; Gemini have dramatically altered the modern work landscape for many industries reliant on language tasks, but no equivalent model exists yet for scientific applications. Incorporating foundation models into research workflows could enable unprecedented discoveries that connect traditionally distinct scientific subdisciplines. However, mainstream foundation models trained on human-generated datasets will be insufficient for analyzing most scientific phenomena — a foundation model for science will require special consideration for the requirements of scientific datasets, especially those with wide dynamic ranges. In this talk, I will introduce the Polymathic AI initiative: Our goal is to accelerate the development of versatile foundation models tailored for numerical datasets and scientific machine learning tasks. The challenge we are undertaking is to build artificial intelligence (AI) models that leverage information from heterogeneous datasets and across different scientific fields, which, contrary to domains like natural language processing, do not share a unifying representation (i.e., text). Such models can then be used as strong baselines or be further fine-tuned by scientists for specific applications. This approach has the potential to democratize AI in science by providing off-the-shelf models that have stronger priors (i.e., background knowledge) for shared general concepts such as causality, measurement, signal processing and even more specialized shared concepts like wave-like behavior, which otherwise would need to be learned from scratch. I will present our most recent results and projects, including large scientific datasets designed for large-scale training “MultiModal Universe” and “The Well.”</small></p>
+                </div>
+                
+                
+                <div class="m-3 ">
+                  <p><small></small><strong>BIO: </strong>Dr. Shirley Ho is a Group Leader and Senior Research Scientist at Simons Foundation and a research professor at Department of Physics and Center for Data Science at NYU. She is the PI for Polymathic AI research collaboration, where she leads a group of ML and domain scientists building next generation large AI models for science. She is a fellow of the International Astrostatistics Association and serves on multiple advisory boards and committees including National Academy of Sciences. Her previous appointments include Senior Scientist at Lawrence Berkeley National Laboratory, Cooper-Siegel Chair Professor (with tenure) at Carnegie Mellon University, Chamberlain and Seaborg Fellow at Lawrence Berkeley National Laboratory. She finished her Ph.D in Astrophysical Sciences at Princeton University under supervision of Professor David Spergel.</small></p>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+    <div class="row p-4">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <div class="row">
+              <div class="col-md-2 col-sm-5">
+                <img src="/static/images/plenary/Gillian_Hadfield.jpg" width="100%" class="img-thumbnail lazy-load-img">
+              </div>
+              <div class="col-md-10 col-sm-6">
+                <div class="m-3 text-muted ">
+                  <h4>
+                    <a href="https://gillianhadfield.org/">Gillian Hadfield</a> (Johns Hopkins University)
+                  </h4>
+                </div>
+                <div class="m-3 text-muted ">
+                  <span class="card-title h3">
+                    Alignment is social: lessons from human alignment for AI
+                  </span>
+                </div>
+                
+                <div class="m-3 ">
+                  <p><small></small><strong>ABSTRACT: </strong>Current approaches conceptualize the alignment challenge as one of eliciting individual human preferences and training models to choose outputs that that satisfy those preferences. To the extent these approaches consider the fact that the world is composed of many individuals, they do so only by seeking to reconcile or aggregate pluralistic, but still individual, preferences. But these approaches are not grounded in well-founded theory of how humans and human societies work. Humans are fundamentally social beings and the challenge of inducing self-interested humans to act in ways that are good for others is the fundamental alignment challenge of human societies. Alignment in human societies is not achieved by inducing the same or average innate preferences in individuals but by aligning individual behaviors with normative classifications (which behaviors are acceptable, which are not) reached through informal and formal social processes (which we can call institutions). In this talk I&#39;ll discuss three ideas for shifting our approaches for AI alignment based on the human model: building normatively competent AI agents; using reinforcement learning to train models to produce aligned justifications for their behaviors that perform well in a discursive social debate context; and developing true jury procedures for democratic human oversight of model behaviors.</small></p>
+                </div>
+                
+                
+                <div class="m-3 ">
+                  <p><small></small><strong>BIO: </strong>Gillian K. Hadfield is the Bloomberg Distinguished Professor of AI Alignment and Governance at the Whiting School of Engineering and the School of Government and Policy at Johns Hopkins University. She is a faculty member of the Vector Institute for Artificial Intelligence and is a Schmidt Sciences AI2050 Senior Fellow. Originally trained as an economist and legal scholar, Hadfield&#39;s research now focuses on innovative design for legal, regulatory, and technical systems for AI, computational models of human normative systems, and building AI systems that understand and respond to human values and norms.</small></p>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+</div> <!-- speakers -->
+
+
+<h2 id="reasoning-era-panel" style="margin-top: 2rem;">
+    Open LLMs in the Reasoning Era Panel
+</h2>
+
+<div class="speakers">
+
+    
+
+    <div class="row p-4">
+      <div class="col-md-12">
+        <div class="card">
+          <div class="card-header">
+            <div class="row">
+              <div class="col-md-12 col-sm-6">
+                <div class="m-3 text-muted ">
+                  <h4>
+                    Open LLMs in the Reasoning Era Panel
+                  </h4>
+                  
+                  <p>A panel discussion moderated by Alexander “Sasha” Rush exploring the current state and future directions of open large language models, particularly focusing on their reasoning capabilities and the implications for the broader AI research community.</p>
+                  
+                </div>
+                
+                <div class="m-4">
+                    <h5>
+                      Participants
+                    </h5>
+                    
+                    <div class="row">
+                        <div class="col-md-2 col-sm-5">
+                            <img src="/static/images/speakers/azalia-mirhoseini.jpg" width="100%" class="embed-responsive-item img-thumbnail">
+                        </div>        
+                        <div class="col-md-10 col-sm-6">
+                            <div class="m-3 text-muted ">
+                              <h4>
+                                <a href="http://azaliamirhoseini.com">Azalia Mirhoseini (Stanford University)</a>
+                              </h4>
+                              
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-2 col-sm-5">
+                            <img src="/static/images/speakers/junyang-lin.jpg" width="100%" class="embed-responsive-item img-thumbnail">
+                        </div>        
+                        <div class="col-md-10 col-sm-6">
+                            <div class="m-3 text-muted ">
+                              <h4>
+                                <a href="https://justinlin610.github.io/">Junyang Lin (Qwen)</a>
+                              </h4>
+                              
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-2 col-sm-5">
+                            <img src="/static/images/speakers/eric-wallace.jpg" width="100%" class="embed-responsive-item img-thumbnail">
+                        </div>        
+                        <div class="col-md-10 col-sm-6">
+                            <div class="m-3 text-muted ">
+                              <h4>
+                                <a href="https://www.ericswallace.com">Eric Wallace (OpenAI)</a>
+                              </h4>
+                              
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+</div> <!-- speakers -->
+
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2025 COLM Organization Committee</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>

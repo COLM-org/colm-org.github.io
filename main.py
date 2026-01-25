@@ -6,7 +6,7 @@ import json
 import os
 
 import yaml
-from flask import Flask, jsonify, redirect, render_template, send_from_directory
+from flask import Flask, abort, jsonify, redirect, render_template, send_from_directory
 from flask_frozen import Freezer
 from flaskext.markdown import Markdown
 
@@ -389,6 +389,14 @@ def media():
     data = _data()
     data["media"] = open("media.md").read()
     return render_template("media.html", **data)
+
+
+@app.route("/<year>/", defaults={"path": "index.html"})
+@app.route("/<year>/<path:path>")
+def past_year_archive(year, path):
+    if year not in {"2024", "2025"}:
+        abort(404)
+    return send_from_directory(os.path.join("past", year), path)
 
 # FRONT END SERVING
 
