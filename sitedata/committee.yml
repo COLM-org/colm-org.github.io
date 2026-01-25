@@ -2,51 +2,62 @@ committee:
   - role: General Chair
     name: Yoav Artzi
     aff: Cornell University / Google DeepMind
+    im: static/images/Yoav.jpg
     ws: https://yoavartzi.com/
   - role: Senior Program Chair
     name: Greg Durrett
     aff: New York University
+    im: static/images/greg_durrett.png
     ws: https://gregdurrett.github.io/
   - role: Program Chair
     name: Aviral Kumar
     aff: CMU
+    im: static/images/aviral_kumar.jpg
     ws: https://aviralkumar2907.github.io/
   - role: Program Chair
     name: Yulia Tsvetkov
     aff: UW
+    im: static/images/yulia_tsvetkov.jpg
     ws: https://homes.cs.washington.edu/~yuliats/
   - role: Program Chair
     name: Yoon Kim
     aff: MIT
+    im: static/images/yoon_kim.jpg
     ws: https://people.csail.mit.edu/yoonkim/
   - role: Workshop Chair
     name: Robert Hawkins
     aff: Stanford University
+    im: static/images/robert_hawkins.jpg
     ws: https://rdhawkins.com/
   - role: Workshop Chair
     name: Subhi Goel
     aff: UPenn
+    im: static/images/subhi_goel.jpg
     ws: https://www.surbhigoel.com/
   
   - role: Community and Accessibility Chair
     name: Robin Jia
     aff: USC
+    im: static/images/robin_jia.jpg
     ws: https://robinjia.github.io/
 
   - role: Community and Accessibility Chair
     name: Anjalie Fields
     aff: JHU
+    im: static/images/anjalie_fields.jpg
     ws: https://anjalief.github.io/
 
   - role: Ethics Chair
     name: Agenlina Wang
     aff: Cornell University
+    im: static/images/angelina_wang.jpg
     ws: https://angelina-wang.github.io/
 
 
   - role: Ethics Chair
     name: Vered Shwartz
     aff: UBC
+    im: static/images/vered_shwartz.jpg
     ws: https://www.cs.ubc.ca/~vshwartz/
 
 
@@ -60,7 +71,7 @@ committee:
   - role: Organizational Chair
     name: Chris Brown
     aff: AICONS
-    ws: 
+    ws: mailto:chris.brown@aicons.org
 
 award_committee:
   # The four Program Chairs
