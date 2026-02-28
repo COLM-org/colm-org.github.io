@@ -2,7 +2,7 @@ We invite submissions to the 3rd Conference on Language Modeling (COLM).
 
 ---
 
-Submission link: [https://openreview.net/group?id=colmweb.org/COLM/2026/Conference/Authors](https://openreview.net/group?id=colmweb.org/COLM/2026/Conference/Authors) (opens in February 2026\)
+Submission link: [https://openreview.net/group?id=colmweb.org/COLM/2026/Conference](https://openreview.net/group?id=colmweb.org/COLM/2026/Conference) (opens in February 2026\)
 
 Questions can be directed to: colm-pcs@googlegroups.com
 
