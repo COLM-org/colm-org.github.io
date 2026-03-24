@@ -1,22 +1,79 @@
 {% set active_page = "Home" %} {% extends "base.html" %} {% block top %}
 <style>
+    /* Image is 1280×382 — lock hero to that ratio so the photo isn’t vertically cropped
+       to a thin strip (which reads as “squeezed”). 100% + auto preserves natural proportions. */
     .back {
-        background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Golden_Gate_Bridge_2019.jpg/2560px-The_Golden_Gate_Bridge_2019.jpg") no-repeat center;
-        background-size: 1000px;
+        aspect-ratio: 1280 / 382;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-image: url("static/images/hero-golden-gate-skyline.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 100% auto;
+    }
+
+    /* Panorama is very short at narrow widths; give more height so scaled text fits inside the band */
+    @media (max-width: 576px) {
+        .back {
+            aspect-ratio: 4 / 3;
+            background-size: cover;
+        }
     }
 
     .back h1,
     .back h2 {
         font-family: "Lato", sans-serif;
         font-weight: 900;
+        max-width: 100%;
+    }
+
+    .back h1 {
+        margin-bottom: 0;
+        font-size: clamp(1rem, 3.2vw + 0.55rem, 2.5rem);
+        line-height: 1.1;
+    }
+
+    .back h2 {
+        margin-top: clamp(0.65rem, 5vw, 4rem);
+        margin-bottom: 0;
+        font-size: clamp(0.78rem, 1.65vw + 0.45rem, 1.3rem);
+        line-height: 1.35;
+    }
+
+    /* Keep copy inside the photo; scale padding with viewport */
+    .back .row.header > [class*="col-"] {
+        box-sizing: border-box;
+        max-width: 100%;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        padding: clamp(0.4rem, 3.5vw, 1.75rem) clamp(0.35rem, 2.5vw, 0.75rem) !important;
+    }
+
+    /* Home only: remove gap between hero and main column (global .content has 75px padding-top) */
+    .container.back+.container .content {
+        padding-top: 0.75rem;
+    }
+
+    .container.back+.container {
+        margin-top: 0;
+    }
+
+    /* First section divider: global section() uses my-3, which adds a large gap under the hero */
+    .container.back+.container .content>.border-top:first-of-type {
+        margin-top: 0;
+    }
+
+    .container.back+.container .content>.border-top:first-of-type+.row.p-4 {
+        padding-top: 0.75rem !important;
     }
 </style>
 
-<div class="container back" style="padding-bottom: 100px; padding-top: 150px">
-    <div class="row header">
-        <div style="-webkit-text-stroke: 1px black" class="p-1 text-center text-white col-md-12 col-sm-12">
+<div class="container back">
+    <div class="row header w-100 justify-content-center">
+        <div style="-webkit-text-stroke: 1px black" class="text-center text-white col-md-12 col-sm-12">
             <h1>{{config.tagline|safe}}</h1>
-            <h2 class="p-5" style="-webkit-text-stroke: 1px black">
+            <h2 class="mb-0" style="-webkit-text-stroke: 1px black">
                 Hilton Union Square<br />
                 San Francisco, USA <br />
                 October 6-9, 2026
@@ -30,14 +87,14 @@
 {% block content %}
 
 
-<div class="alert alert-info" role="alert">
+<!-- <div class="alert alert-info" role="alert">
     <h3>
         <center>COLM 2026 will take place in San Francisco, between October 6-9, 2026. Here is the <a
                 href="https://docs.google.com/document/d/1Z9iYHEJ0VPso3HjdUiQF-A_3UGbkvKg8L9jC1hHGHg8/edit?tab=t.0#heading=h.6uq4ly9xgnv">call
                 for papers</a>. The abstract deadline is March 26, 2026. The full paper deadline is March 31, 2026.
         </center>
     </h3>
-</div>
+</div> -->
 
 <!-- <div class="alert alert-info" role="alert">
     <h3>
@@ -55,7 +112,7 @@
     </h3>
 </div> -->
 
-{{ components.section("COLM") }}
+<!-- {{ components.section("COLM") }} -->
 
 <div class="h5" style="line-height: 1.5; padding-bottom: 50px">
     <p>The leap in general-purpose capabilities from language models is a landmark
@@ -84,7 +141,8 @@
 
 <div class="row justify-content-md-center">
     <div class="col-md-6 col-sm-12">
-        <img width="100%" src="https://lh3.googleusercontent.com/p/AF1QipNgKkq2HYV7hj0GFLRBn7wiLf2RjJJuavM-Rrvn=s1360-w1360-h1020-rw" />
+        <img width="100%"
+            src="https://lh3.googleusercontent.com/p/AF1QipNgKkq2HYV7hj0GFLRBn7wiLf2RjJJuavM-Rrvn=s1360-w1360-h1020-rw" />
     </div>
 </div>
 
