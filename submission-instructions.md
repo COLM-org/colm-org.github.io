@@ -10,13 +10,21 @@ All authors must have complete OpenReview profiles with up-to-date affiliation i
 
 After this deadline, you may make minor changes to the title/abstract, but not major changes. Making major changes is grounds for desk rejection. We begin the process of AC and reviewer assignment once abstracts are in, so a substantial change in the content (e.g., submitting a completely different paper) would result in the paper not being reviewed appropriately.
 
+### Follow the double-submission policy
+
+By the time of the full paper submission deadline (March 31), your paper must not be under review for other archival venues. This includes:
+
+- It must not be under review for ICML. That is, you must withdraw by March 31 in order to submit to COLM.
+- It must not be committed to ACL. We consider ACL commitment to be under review for that venue.
+- It cannot be submitted to other venues while it is under review for COLM.
+
 ### Follow the template
 
 Please note that COLM uses a distinct template from other venues. It's available at: [https://github.com/COLM-org/Template/releases/tag/2026](https://github.com/COLM-org/Template/releases/tag/2026)
 
 Be careful if you're resubmitting a paper! Make sure it continues to conform to the template, and ensure that any imported packages (especially geometry) do not alter the template parameters.
 
-### Disclose use of LLMs according to the policy
+### Disclose use of LLMs according to the CFP policy
 
 The CFP describes that:
 
