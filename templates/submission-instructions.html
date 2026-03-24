@@ -1,0 +1,14 @@
+{% set active_page = "Submission Instructions" %}
+{% set page_title = "Submission Instructions" %}
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<h2>
+    Submission Instructions
+</h2>
+<div class="h5" style="line-height: 1.5;">
+{{ submissionInstructions | markdown }}
+</div>
+{% endblock %}

@@ -298,6 +298,13 @@ def ac_guidelines():
     return render_template("ac-guidelines.html", **data)
 
 
+@app.route("/submission-instructions.html")
+def submission_instructions():
+    data = _data()
+    data["submissionInstructions"] = open("submission-instructions.md").read()
+    return render_template("submission-instructions.html", **data)
+
+
 @app.route("/AreaChairs.html")
 def areachairs():
     data = _data()

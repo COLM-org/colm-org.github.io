@@ -7,8 +7,7 @@ body a:hover {
   text-decoration: none;
 }
 
-.nav-bar {
-}
+.nav-bar {}
 
 /* h2,
 h3 {
@@ -55,6 +54,18 @@ body {
 
 .content {
   padding-top: 75px;
+}
+
+/* Markdown: plain <blockquote> from Flask-Markdown has no Bootstrap .blockquote class */
+.content blockquote {
+  margin: 0 0 1rem;
+  padding: 0.5rem 0 0.5rem 1rem;
+  border-left: 4px solid rgba(34, 148, 224, 0.45);
+  background-color: rgba(236, 241, 246, 0.5);
+}
+
+.content blockquote p:last-child {
+  margin-bottom: 0;
 }
 
 .pp-card {
