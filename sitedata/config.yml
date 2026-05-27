@@ -13,7 +13,7 @@ logo:
 page_title:
   prefix: "COLM 2026"
   separator: ": "
-background_image: static/images/montreal.jpg
+background_image: static/images/hero-golden-gate-skyline.jpg
 organization: COLM Organization Committee
 
 # Configuration for auth
