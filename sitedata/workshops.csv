@@ -1,17 +1,19 @@
 UID,title,url,cfp_url
-W1,1st Workshop on Multilingual Data Quality Signals (WMDQS),https://wmdqs.org,https://wmdqs.org/cfp/
-W2,COLM 2025 Workshop on AI Agents: Capabilities and Safety (AIA),https://sites.google.com/view/aia-workshop/,https://sites.google.com/view/aia-workshop/call-for-papers
-W3,First Workshop on Bridging NLP and Public Opinion Research (NLPOR),https://sites.google.com/view/nlpor2025,https://sites.google.com/view/nlpor2025/submission
-W4,First Workshop on Optimal Reliance and Accountability in Interactions with Generative Language Models (ORIGen),https://origen-workshop.github.io,https://origen-workshop.github.io/submissions/
-W5,INTERPLAY25: First Workshop on the Interplay of Model Be- havior and Model Internals,https://interplay-workshop.github.io/,https://interplay-workshop.github.io/call-for-papers.html
-W6,"LLM for Scientific Discovery: Reasoning, Assistance, and Collaboration (LM4SCI)",https://lm4sci.github.io/,https://lm4sci.github.io/docs/call-for-papers
-W7,Multilingual and Equitable Language Technologies (MELT),https://melt-workshop.github.io/,https://melt-workshop.github.io/cfp
-W8,NLP for Democracy (NLP4Democracy),https://sites.google.com/andrew.cmu.edu/nlp4democracy/,https://openreview.net/group?id=colmweb.org/COLM/2025/Workshop/NLP4Democracy
-W9,Pragmatic Reasoning in Language Models: Language Models as Language Users (PragLM),https://lm-as-language-user.github.io/colm2025/,https://lm-as-language-user.github.io/colm2025/#cfp
-W10,"RAM 2: Reasoning, Attention & Memory – 10 Years On",https://facebookresearch.github.io/RAM/workshop/COLM_2025/,https://facebookresearch.github.io/RAM/workshop/COLM_2025/#call-for-papers
-W11,SCALR: The 1st Workshop on Test-time Scaling and Reasoning Models,https://scalr-workshop.github.io/,https://scalr-workshop.github.io/#cfp
-W12,Social Sim'25,https://sites.google.com/view/social-sims-with-llms,https://sites.google.com/view/social-sims-with-llms
-W13,SoLaR: Socially Responsible Language Modelling Research,https://solar-colm.github.io/,https://solar-colm.github.io/call/
-W14,The First Workshop on the Application of LLM Explainability to Reasoning and Planning,https://xllm-reasoning-planning-workshop.github.io/,https://xllm-reasoning-planning-workshop.github.io/
-W15,Visions of Language Modeling,https://www.lmvisionscolm.com/,https://www.lmvisionscolm.com/
-W16,XTempLLMs: The 1st Workshop on Large Language Models for Cross-Temporal Research,https://xtempllms.github.io/2025/,https://xtempllms.github.io/2025/cfp.html
+W1,Workshop on Efficient Reasoning,https://wdlctc.github.io/efficient-reasoning-2026/#introduction,https://wdlctc.github.io/efficient-reasoning-2026/#call
+W2,Workshop on Agent Behavior,https://www.aiagentbehavior.com,https://www.aiagentbehavior.com/#submissions
+W3,"The 2nd Workshop on Lifelong Agent: Learning, Aligning, Evolving",https://lifelongagent.github.io/,https://lifelongagent.github.io/#submissions
+W4,Non-Autoregressive Language Models for Fast and Flexible Text Generation,https://pengzhangzhi.github.io/NonAR-LM/,https://pengzhangzhi.github.io/NonAR-LM/cfp
+W5,Actionable Interpretability,https://actionable-interpretability.github.io/,https://actionable-interpretability.github.io/cfp/
+W6,Workshop on Scientific Understanding of Foundation Models,https://science-ai-2026.github.io,https://science-ai-2026.github.io/#cfp
+W7,"Generative AI for the World: The First Workshop on Globalizing Tasks, Evaluations, and Systems",https://sites.google.com/view/genai4world/,https://sites.google.com/view/genai4world/call-for-papers
+W8,Second Tokenization Workshop,https://tokenization-workshop.github.io/,https://openreview.net/group?id=colmweb.org/COLM/2026/Workshop/TokShop
+W9,AdvML-Frontiers × CoTMA: From Model Security to Compositional Threats in Multi-Agent AI Systems,https://advml-frontier.github.io/,https://advml-frontier.github.io/
+W10,LLM/VLM Deployment Opportunities and Risks in Healthcare,https://daih2026.github.io/,https://openreview.net/group?id=colmweb.org/COLM/2026/Workshop/DAIH#tab-recent-activity
+W11,Social Sim'26: Fidelity in Applications,https://sites.google.com/view/social-sims-with-llms,https://sites.google.com/view/social-sims-with-llms/call-for-papers
+W12,"Workshop on Context Beyond the Window: Persistent Knowledge in Language Models",https://context-beyond-window.github.io/,https://context-beyond-window.github.io/#cfp
+W13,AI Measurement Science: Toward Rigorous AI Evaluation,https://aimslab.stanford.edu/workshop,https://aimslab.stanford.edu/workshop
+W14,2nd Workshop on Human-Centered Privacy and Security for Language Models,https://haips.com,https://haips.com/#cfp
+W15,Learning from Situated and Embodied Interaction,https://learning-situated-interaction.github.io/,https://learning-situated-interaction.github.io/#call-for-papers
+W16,Methods and Opportunities at Small Scale (MOSS),https://sites.google.com/view/moss-colm-2026/,https://sites.google.com/view/moss-colm-2026/call-for-papers?authuser=0
+W17,Workshop on Responsibly Enabling Data for Foundation Models,https://re-data-colm2026.github.io/,https://re-data-colm2026.github.io/#
+W18,LM4Sci 2.0: The Second Workshop on Language Models for Scientific Discovery,https://lm4sci.github.io/,https://lm4sci.github.io/docs/2026/call-for-papers
