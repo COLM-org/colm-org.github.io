@@ -67,7 +67,42 @@
     .container.back+.container .content>.border-top:first-of-type+.row.p-4 {
         padding-top: 0.75rem !important;
     }
+
+    .registration-banner {
+        display: block;
+        width: 100%;
+        background: #12344d;
+        color: #fff;
+        text-align: center;
+        text-decoration: none;
+        font-weight: 650;
+        letter-spacing: 0.01em;
+        padding: 0.85rem 1.25rem;
+        border-bottom: 3px solid #f6c244;
+        transition: background 160ms ease, color 160ms ease;
+    }
+
+    .registration-banner:hover,
+    .registration-banner:focus-visible {
+        background: #0e2a3e;
+        color: #fff;
+        text-decoration: none;
+        outline: none;
+    }
+
+    .registration-banner .coming-soon {
+        color: #f6c244;
+    }
 </style>
+
+<a
+  class="registration-banner"
+  href="https://colm.eventhosts.cc/"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  2026 Registration <span class="coming-soon">(Coming Soon)</span>
+</a>
 
 <div class="container back">
     <div class="row header w-100 justify-content-center">
