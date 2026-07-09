@@ -34,7 +34,7 @@ committee:
     aff: UPenn
     im: static/images/subhi_goel.jpg
     ws: https://www.surbhigoel.com/
-  
+
   - role: Community and Accessibility Chair
     name: Robin Jia
     aff: USC
@@ -53,13 +53,11 @@ committee:
     im: static/images/angelina_wang.jpg
     ws: https://angelina-wang.github.io/
 
-
   - role: Ethics Chair
     name: Vered Shwartz
     aff: UBC
     im: static/images/vered_shwartz.jpg
     ws: https://www.cs.ubc.ca/~vshwartz/
-
 
   # - role: Local Chair
   #   name: Siva Reddy
@@ -103,49 +101,49 @@ award_committee:
     name: Tom Goldstein
     aff: University of Maryland
     im: static/images/award_committee/tom.jpg
-    tw: 
+    tw:
     ws: https://www.cs.umd.edu/~tomg/
   - role: Award Committee Member
     name: Ellie Pavlick
     aff: Brown University
     im: static/images/award_committee/ellie.jpg
-    tw: 
+    tw:
     ws: https://cs.brown.edu/people/epavlick/
   - role: Award Committee Member
     name: Diyi Yang
     aff: Stanford University
     im: static/images/award_committee/diyi.jpg
-    tw: 
+    tw:
     ws: https://cs.stanford.edu/~diyiy/
   - role: Award Committee Member
     name: Asli Celikyilmaz
     aff: Meta AI
     im: static/images/award_committee/asli.jpg
-    tw: 
+    tw:
     ws: http://asli.us/
   - role: Award Committee Member
     name: Tri Dao
     aff: Princeton University
     im: static/images/award_committee/tri.jpg
-    tw: 
+    tw:
     ws: https://tridao.me/
   - role: Award Committee Member
     name: Saining Xie
     aff: New York University
     im: static/images/award_committee/saining.jpg
-    tw: 
+    tw:
     ws: https://www.sainingxie.com/
   - role: Award Committee Member
     name: Sanjeev Arora
     aff: Princeton University
     im: static/images/award_committee/sanjeev.jpg
-    tw: 
+    tw:
     ws: https://www.cs.princeton.edu/~arora/
   - role: Award Committee Member
     name: Prateek Jain
     aff: Google Research
     im: static/images/award_committee/prateek.jpg
-    tw: 
+    tw:
     ws: https://www.prateekjain.org/
 
 board:
@@ -157,19 +155,19 @@ board:
     ws: https://homes.cs.washington.edu/~yejin/
   - role: Board Member
     name: Denny Zhou
-    aff: Google DeepMind
+    aff: Meta
     im: static/images/Denny.jpg
     tw: denny_zhou
     ws: https://dennyzhou.github.io/
   - role: Board Member
     name: Danqi Chen
-    aff: Princeton
+    aff: Princeton, Thinking Machines Lab
     im: static/images/danqi.jpg
     tw: danqi_chen
     ws: https://www.cs.princeton.edu/~danqic/
   - role: Board Member
     name: Angela Fan
-    aff: Meta
+    aff: OpenAI
     im: static/images/angela.jpg
     tw:
     ws: https://ai.meta.com/people/angela-fan/
@@ -181,13 +179,13 @@ board:
     ws: https://aliceoh9.github.io/
   - role: Board Member
     name: Yoav Artzi
-    aff: Cornell Tech, ASAPP
+    aff: Cornell Tech, Google DeepMind
     im: static/images/Yoav.jpg
     tw: yoavartzi
     ws: https://yoavartzi.com/
   - role: Board Member
     name: Alexander Rush
-    aff: Cornell University / Anysphere
+    aff: Anysphere
     im: https://avatars0.githubusercontent.com/u/35882?s=400&u=8f382f638b31f13a4754656140256241121c5916&v=4
     tw: srush_nlp
     ws: https://rush-nlp.com/
