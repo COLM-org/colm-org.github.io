@@ -149,7 +149,7 @@ award_committee:
 board:
   - role: Board Member
     name: Yejin Choi
-    aff: University of Washington, NVIDIA
+    aff: Stanford, NVIDIA
     im: static/images/Yejin.jpg
     tw: YejinChoinka
     ws: https://homes.cs.washington.edu/~yejin/
