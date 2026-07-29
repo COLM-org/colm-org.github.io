@@ -1,0 +1,62 @@
+{% set page_title = "AI Submissions at COLM" %}
+{% extends "base.html" %}
+
+{% block head %}
+{{ super() }}
+<style>
+  .blog-post img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 2rem auto;
+  }
+  .blog-post {
+    line-height: 1.6;
+    font-size: 1.05rem;
+  }
+  .blog-post h2,
+  .blog-post h3 {
+    clear: both;
+  }
+  .blog-post figure.inline-figure {
+    float: right;
+    width: 230px;
+    max-width: 45%;
+    margin: 0.25rem 0 1rem 2rem;
+  }
+  .blog-post figure.inline-figure img {
+    width: 100%;
+    height: auto;
+    margin: 0;
+  }
+  .blog-post figure.inline-figure figcaption {
+    font-size: 0.85rem;
+    color: #666;
+    margin-top: 0.5rem;
+    text-align: center;
+  }
+  @media (max-width: 576px) {
+    .blog-post figure.inline-figure {
+      float: none;
+      width: 100%;
+      max-width: 100%;
+      margin: 1rem auto;
+    }
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-md-10 offset-md-1">
+      <h1>AI submissions at COLM: theoryslop, slopterpretability, and papers in the age of agents</h1>
+      <div class="blog-post">
+        {{ blog_ai_submissions_2026 | markdown }}
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}

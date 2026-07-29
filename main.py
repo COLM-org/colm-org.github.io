@@ -16,7 +16,14 @@ by_uid = {}
 
 def main(site_data_path):
     global site_data, extra_files
-    extra_files = ["README.md", "cfp.md", "cfw.md", "program-overview.md", "socials.md"]
+    extra_files = [
+        "README.md",
+        "cfp.md",
+        "cfw.md",
+        "program-overview.md",
+        "socials.md",
+        "blog-ai-submissions-2026.md",
+    ]
     # Load all for your sitedata one time.
     for f in glob.glob(site_data_path + "/*"):
         extra_files.append(f)
@@ -396,6 +403,13 @@ def media():
     data = _data()
     data["media"] = open("media.md").read()
     return render_template("media.html", **data)
+
+
+@app.route("/blog-ai-submissions-2026.html")
+def blog_ai_submissions_2026():
+    data = _data()
+    data["blog_ai_submissions_2026"] = open("blog-ai-submissions-2026.md").read()
+    return render_template("blog-ai-submissions-2026.html", **data)
 
 
 @app.route("/<year>/", defaults={"path": "index.html"})
