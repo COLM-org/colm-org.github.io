@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>COLM has moved</title>
+  <link rel="canonical" href="{{ url }}" />
+  <link rel="icon" href="/favicon.svg" />
+
+  <!-- Forward immediately. The script fires while the page is still parsing; the
+       meta refresh is the fallback for browsers with scripting disabled. -->
+  <script>
+    window.location.replace({{ url | tojson }});
+  </script>
+  <meta http-equiv="refresh" content="0; url={{ url }}" />
+
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      color: #212529;
+      background: #fff;
+    }
+
+    main {
+      max-width: 32rem;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+      margin: 0 0 1rem;
+    }
+
+    p {
+      margin: 0 0 0.75rem;
+      line-height: 1.5;
+    }
+
+    .archives {
+      margin-top: 1.5rem;
+      font-size: 0.9rem;
+      color: #6c757d;
+    }
+
+    a {
+      color: #0056b3;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <h1>COLM has moved</h1>
+    <p>This site is now at <a href="{{ url }}">{{ url }}</a>. Redirecting&hellip;</p>
+    <p class="archives">
+      Past conferences: <a href="/2024/">COLM 2024</a> &middot; <a href="/2025/">COLM 2025</a>
+    </p>
+  </main>
+</body>
+
+</html>

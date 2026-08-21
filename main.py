@@ -6,7 +6,15 @@ import json
 import os
 
 import yaml
-from flask import Flask, abort, jsonify, redirect, render_template, send_from_directory
+from flask import (
+    Flask,
+    abort,
+    jsonify,
+    redirect,
+    render_template,
+    request,
+    send_from_directory,
+)
 from flask_frozen import Freezer
 from flaskext.markdown import Markdown
 
@@ -50,6 +58,45 @@ app = Flask(__name__)
 app.config.from_object(__name__)
 freezer = Freezer(app)
 markdown = Markdown(app)
+
+
+# ------------- DEPRECATION ------------------->
+# COLM's website moved to colm.cc. While DEPRECATED is set, every page is built as
+# a stub that forwards to NEW_SITE_URL instead of rendering its content. Nothing
+# below is removed -- flip DEPRECATED to False to bring the whole site back.
+#
+# The 2024 and 2025 archives are exempt: `make freeze` copies them into the build
+# verbatim, and the new site links to them.
+NEW_SITE_URL = "https://colm.cc/"
+DEPRECATED = True
+
+# Past conference sites, served out of past/<year>/.
+ARCHIVE_YEARS = {"2024", "2025"}
+
+# Endpoints that keep serving their real response while DEPRECATED: the assets the
+# archives pull in by absolute path. The archives themselves are matched on path,
+# since a URL like /2024/index.html is a routing redirect and has no endpoint.
+LIVE_ENDPOINTS = {"static", "send_static", "favicon"}
+
+
+def is_archive_path(path):
+    return path.strip("/").split("/", 1)[0] in ARCHIVE_YEARS
+
+
+@app.before_request
+def forward_to_new_site():
+    if not DEPRECATED:
+        return None
+    if request.endpoint in LIVE_ENDPOINTS or is_archive_path(request.path):
+        return None
+    return render_template("moved.html", url=NEW_SITE_URL)
+
+
+@app.route("/404.html")
+def not_found():
+    # GitHub Pages serves this file for any path it cannot match, so links into
+    # pages the old site no longer builds get the same forward as the ones it does.
+    return render_template("moved.html", url=NEW_SITE_URL)
 
 
 # MAIN PAGES
@@ -415,7 +462,7 @@ def blog_ai_submissions_2026():
 @app.route("/<year>/", defaults={"path": "index.html"})
 @app.route("/<year>/<path:path>")
 def past_year_archive(year, path):
-    if year not in {"2024", "2025"}:
+    if year not in ARCHIVE_YEARS:
         abort(404)
     return send_from_directory(os.path.join("past", year), path)
 
@@ -446,6 +493,11 @@ def serve(path):
 
 @freezer.register_generator
 def generator():
+    if DEPRECATED:
+        # These JSON files are the data behind pages that now forward to
+        # colm.cc; don't publish them on their own.
+        return
+
     # for paper in site_data["papers"]:
     #     yield "poster", {"poster": str(paper["UID"])}
     # for speaker in site_data["speakers"]:
